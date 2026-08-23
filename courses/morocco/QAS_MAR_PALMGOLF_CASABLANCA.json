@@ -1,0 +1,728 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_PALMGOLF_CASABLANCA",
+    "code": "QAS_MAR_PALMGOLF_CASABLANCA",
+    "name": "PalmGolf Casablanca - Palmeraie Country Club",
+    "city": "Bouskoura",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_01",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_02",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_03",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_04",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_05",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_06",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_07",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_08",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_09",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_10",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_11",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_12",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_13",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_14",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_15",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_16",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_17",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PALMGOLF_CASABLANCA_18",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_PALMGOLF_CASABLANCA_BLACK",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 128.5,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 128.5,
+            "par": 71
+          }
+        ],
+        "totalYards": 7051,
+        "totalMeters": 6448,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+            "yards": 579,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+            "yards": 145,
+            "meters": 133
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PALMGOLF_CASABLANCA_WHITE",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 126.2,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 126.2,
+            "par": 71
+          }
+        ],
+        "totalYards": 6594,
+        "totalMeters": 6027,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+            "yards": 139,
+            "meters": 127
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PALMGOLF_CASABLANCA_YELLOW",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.6,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 119.6,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.6,
+            "slopeRating": 119.6,
+            "par": 71
+          }
+        ],
+        "totalYards": 6217,
+        "totalMeters": 5686,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+            "yards": 122,
+            "meters": 112
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PALMGOLF_CASABLANCA_BLUE",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.6,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 125.7,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 125.7,
+            "par": 71
+          }
+        ],
+        "totalYards": 5702,
+        "totalMeters": 5214,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+            "yards": 117,
+            "meters": 107
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PALMGOLF_CASABLANCA_RED",
+        "code": "QAS_MAR_PALMGOLF_CASABLANCA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 69.5,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 121.7,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.5,
+            "slopeRating": 121.7,
+            "par": 71
+          }
+        ],
+        "totalYards": 5251,
+        "totalMeters": 4801,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_01",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_03",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_05",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_08",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_11",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_12",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_13",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_14",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_15",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_CASABLANCA_18",
+            "yards": 101,
+            "meters": 92
+          }
+        ]
+      }
+    ]
+  }
+}
