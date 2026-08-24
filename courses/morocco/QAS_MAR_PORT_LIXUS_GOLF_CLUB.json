@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_PORT_LIXUS_GOLF_CLUB",
+    "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB",
+    "name": "Port Lixus Golf Club",
+    "city": "Larache",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Sources publiques : Visit Morocco / All Square / FlyAway",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_BLACK",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7531,
+        "totalMeters": 6885,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_WHITE",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7159,
+        "totalMeters": 6543,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_YELLOW",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6918,
+        "totalMeters": 6326,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_BLUE",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6079,
+        "totalMeters": 5562,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+            "yards": 353,
+            "meters": 323
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_PORT_LIXUS_GOLF_CLUB_RED",
+        "code": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5883,
+        "totalMeters": 5380,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_04",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_05",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_07",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_08",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_11",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_12",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_13",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_14",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_16",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_17",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_MAR_PORT_LIXUS_GOLF_CLUB_18",
+            "yards": 341,
+            "meters": 312
+          }
+        ]
+      }
+    ]
+  }
+}
