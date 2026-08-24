@@ -1,0 +1,704 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_AKENZA_GOLF",
+    "code": "QAS_MAR_AKENZA_GOLF",
+    "name": "Akenza Golf",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_01",
+        "code": "QAS_MAR_AKENZA_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_02",
+        "code": "QAS_MAR_AKENZA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_03",
+        "code": "QAS_MAR_AKENZA_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_04",
+        "code": "QAS_MAR_AKENZA_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_05",
+        "code": "QAS_MAR_AKENZA_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_06",
+        "code": "QAS_MAR_AKENZA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_07",
+        "code": "QAS_MAR_AKENZA_GOLF_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_08",
+        "code": "QAS_MAR_AKENZA_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_09",
+        "code": "QAS_MAR_AKENZA_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_10",
+        "code": "QAS_MAR_AKENZA_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_11",
+        "code": "QAS_MAR_AKENZA_GOLF_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_12",
+        "code": "QAS_MAR_AKENZA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_13",
+        "code": "QAS_MAR_AKENZA_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_14",
+        "code": "QAS_MAR_AKENZA_GOLF_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_15",
+        "code": "QAS_MAR_AKENZA_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_16",
+        "code": "QAS_MAR_AKENZA_GOLF_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_17",
+        "code": "QAS_MAR_AKENZA_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AKENZA_GOLF_18",
+        "code": "QAS_MAR_AKENZA_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_AKENZA_GOLF_BLACK",
+        "code": "QAS_MAR_AKENZA_GOLF_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.7,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 142.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 7147,
+        "totalMeters": 6536,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_01",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_02",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_03",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_04",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_06",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_07",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_09",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_10",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_11",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_13",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_14",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_15",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_16",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_17",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_18",
+            "yards": 566,
+            "meters": 518
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AKENZA_GOLF_WHITE",
+        "code": "QAS_MAR_AKENZA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.3,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 134.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6687,
+        "totalMeters": 6116,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_01",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_03",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_04",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_05",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_07",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_09",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_11",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_13",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_14",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_15",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_18",
+            "yards": 528,
+            "meters": 483
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AKENZA_GOLF_YELLOW",
+        "code": "QAS_MAR_AKENZA_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.4,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.4,
+            "slopeRating": 132.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6314,
+        "totalMeters": 5774,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_01",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_07",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_13",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_14",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_15",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_18",
+            "yards": 510,
+            "meters": 466
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AKENZA_GOLF_BLUE",
+        "code": "QAS_MAR_AKENZA_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.5,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 137.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5720,
+        "totalMeters": 5228,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_01",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_02",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_04",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_05",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_07",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_08",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_10",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_11",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_12",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_13",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_14",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_16",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_17",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AKENZA_GOLF_RED",
+        "code": "QAS_MAR_AKENZA_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 130.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 130.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5261,
+        "totalMeters": 4811,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_01",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_02",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_03",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_05",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_06",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_07",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_08",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_11",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_12",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_13",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_17",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_MAR_AKENZA_GOLF_18",
+            "yards": 424,
+            "meters": 388
+          }
+        ]
+      }
+    ]
+  }
+}
