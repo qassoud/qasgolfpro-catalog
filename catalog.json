@@ -1,7 +1,7 @@
 {
   "version": 1,
   "provider": "QasGolfPro",
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "courses": [
     {
       "code": "QAS_MAR_PALMGOLF_CASABLANCA",
@@ -10,6 +10,33 @@
       "city": "Bouskoura",
       "file": "courses/morocco/QAS_MAR_PALMGOLF_CASABLANCA.json",
       "dataVersion": 4,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AKENZA_GOLF",
+      "name": "Akenza Golf",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_AKENZA_GOLF.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_ESP_CAMIRAL_STADIUM",
+      "name": "Camiral Stadium Course",
+      "country": "ESP",
+      "city": "Caldes de Malavella",
+      "file": "courses/spain/QAS_ESP_CAMIRAL_STADIUM.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB",
+      "name": "Abu Dhabi City Golf Club",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB.json",
+      "dataVersion": 1,
       "verified": false
     }
   ]
