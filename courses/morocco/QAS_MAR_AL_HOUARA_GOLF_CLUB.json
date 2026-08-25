@@ -1,0 +1,698 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_AL_HOUARA_GOLF_CLUB",
+    "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB",
+    "name": "Al Houara Golf Club",
+    "city": "Tanger",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 1
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_AL_HOUARA_GOLF_CLUB_BLACK",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 76.5,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.5,
+            "slopeRating": 143.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 7563,
+        "totalMeters": 6915,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+            "yards": 616,
+            "meters": 563
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+            "yards": 477,
+            "meters": 436
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_HOUARA_GOLF_CLUB_WHITE",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.2,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.2,
+            "slopeRating": 133.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 7085,
+        "totalMeters": 6479,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_HOUARA_GOLF_CLUB_YELLOW",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.9,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 134.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6609,
+        "totalMeters": 6042,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_HOUARA_GOLF_CLUB_BLUE",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.6,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 129.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6115,
+        "totalMeters": 5591,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_HOUARA_GOLF_CLUB_RED",
+        "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.4,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 124.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5665,
+        "totalMeters": 5180,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_02",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_03",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_04",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_05",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_07",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_09",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_10",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_11",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_12",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_13",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_14",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_15",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_AL_HOUARA_GOLF_CLUB_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      }
+    ]
+  }
+}

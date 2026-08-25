@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_CASA_GREEN",
+    "code": "QAS_MAR_CASA_GREEN",
+    "name": "Casa Green Golf Club",
+    "city": "Casablanca",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_01",
+        "code": "QAS_MAR_CASA_GREEN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_02",
+        "code": "QAS_MAR_CASA_GREEN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_03",
+        "code": "QAS_MAR_CASA_GREEN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_04",
+        "code": "QAS_MAR_CASA_GREEN_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_05",
+        "code": "QAS_MAR_CASA_GREEN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_06",
+        "code": "QAS_MAR_CASA_GREEN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_07",
+        "code": "QAS_MAR_CASA_GREEN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_08",
+        "code": "QAS_MAR_CASA_GREEN_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_09",
+        "code": "QAS_MAR_CASA_GREEN_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_10",
+        "code": "QAS_MAR_CASA_GREEN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_11",
+        "code": "QAS_MAR_CASA_GREEN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_12",
+        "code": "QAS_MAR_CASA_GREEN_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_13",
+        "code": "QAS_MAR_CASA_GREEN_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_14",
+        "code": "QAS_MAR_CASA_GREEN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_15",
+        "code": "QAS_MAR_CASA_GREEN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_16",
+        "code": "QAS_MAR_CASA_GREEN_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_17",
+        "code": "QAS_MAR_CASA_GREEN_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CASA_GREEN_18",
+        "code": "QAS_MAR_CASA_GREEN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_CASA_GREEN_BLACK",
+        "code": "QAS_MAR_CASA_GREEN_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7146,
+        "totalMeters": 6533,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_02",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_04",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_08",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_09",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_12",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_14",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_16",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_17",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CASA_GREEN_WHITE",
+        "code": "QAS_MAR_CASA_GREEN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6632,
+        "totalMeters": 6065,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_02",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_04",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_06",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_07",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_08",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_09",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_11",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_12",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_13",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_16",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_17",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CASA_GREEN_YELLOW",
+        "code": "QAS_MAR_CASA_GREEN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6242,
+        "totalMeters": 5707,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_02",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_05",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_07",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_08",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_09",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_12",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_13",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_15",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_17",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CASA_GREEN_BLUE",
+        "code": "QAS_MAR_CASA_GREEN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5941,
+        "totalMeters": 5433,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_03",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_04",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_06",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_08",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_09",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_10",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_11",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_12",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_14",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_16",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_17",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CASA_GREEN_RED",
+        "code": "QAS_MAR_CASA_GREEN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5284,
+        "totalMeters": 4831,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_02",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_03",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_04",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_05",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_06",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_09",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_11",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_13",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_14",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_15",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_16",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_CASA_GREEN_18",
+            "yards": 334,
+            "meters": 305
+          }
+        ]
+      }
+    ]
+  }
+}

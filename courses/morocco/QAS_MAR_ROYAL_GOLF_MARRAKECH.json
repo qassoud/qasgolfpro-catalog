@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ROYAL_GOLF_MARRAKECH",
+    "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH",
+    "name": "Royal Golf Marrakech",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MARRAKECH_BLACK",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7217,
+        "totalMeters": 6600,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+            "yards": 428,
+            "meters": 391
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MARRAKECH_WHITE",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6811,
+        "totalMeters": 6230,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+            "yards": 404,
+            "meters": 369
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MARRAKECH_YELLOW",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6364,
+        "totalMeters": 5820,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MARRAKECH_BLUE",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5884,
+        "totalMeters": 5380,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MARRAKECH_RED",
+        "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5305,
+        "totalMeters": 4850,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_02",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_03",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_05",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_06",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_08",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_10",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_11",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_12",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_14",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_15",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_16",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_17",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MARRAKECH_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_GOLF_SAIDIA_TEELAL",
+    "code": "QAS_MAR_GOLF_SAIDIA_TEELAL",
+    "name": "Golf Saidia Teelal",
+    "city": "Saidia",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 7
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_SAIDIA_TEELAL_BLACK",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.6,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 127.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 113.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6715,
+        "totalMeters": 6139,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+            "yards": 466,
+            "meters": 426
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_SAIDIA_TEELAL_WHITE",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.7,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 121.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 113.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6234,
+        "totalMeters": 5698,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_SAIDIA_TEELAL_YELLOW",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.9,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.9,
+            "slopeRating": 115.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 126.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5747,
+        "totalMeters": 5254,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_SAIDIA_TEELAL_BLUE",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.5,
+        "slope": 110,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 110.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.6,
+            "slopeRating": 119.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5206,
+        "totalMeters": 4760,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_SAIDIA_TEELAL_RED",
+        "code": "QAS_MAR_GOLF_SAIDIA_TEELAL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 62.4,
+        "slope": 102,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.4,
+            "slopeRating": 102.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 66.2,
+            "slopeRating": 109.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 4530,
+        "totalMeters": 4144,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_01",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_02",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_04",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_05",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_06",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_08",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_12",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_13",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_14",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_16",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_SAIDIA_TEELAL_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      }
+    ]
+  }
+}

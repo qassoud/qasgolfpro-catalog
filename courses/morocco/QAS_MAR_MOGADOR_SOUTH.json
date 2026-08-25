@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_MOGADOR_SOUTH",
+    "code": "QAS_MAR_MOGADOR_SOUTH",
+    "name": "Golf de Mogador - Parcours Sud",
+    "city": "Essaouira",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_01",
+        "code": "QAS_MAR_MOGADOR_SOUTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_02",
+        "code": "QAS_MAR_MOGADOR_SOUTH_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_03",
+        "code": "QAS_MAR_MOGADOR_SOUTH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_04",
+        "code": "QAS_MAR_MOGADOR_SOUTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_05",
+        "code": "QAS_MAR_MOGADOR_SOUTH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_06",
+        "code": "QAS_MAR_MOGADOR_SOUTH_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_07",
+        "code": "QAS_MAR_MOGADOR_SOUTH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_08",
+        "code": "QAS_MAR_MOGADOR_SOUTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_09",
+        "code": "QAS_MAR_MOGADOR_SOUTH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_10",
+        "code": "QAS_MAR_MOGADOR_SOUTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_11",
+        "code": "QAS_MAR_MOGADOR_SOUTH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_12",
+        "code": "QAS_MAR_MOGADOR_SOUTH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_13",
+        "code": "QAS_MAR_MOGADOR_SOUTH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_14",
+        "code": "QAS_MAR_MOGADOR_SOUTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_15",
+        "code": "QAS_MAR_MOGADOR_SOUTH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_16",
+        "code": "QAS_MAR_MOGADOR_SOUTH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_17",
+        "code": "QAS_MAR_MOGADOR_SOUTH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MOGADOR_SOUTH_18",
+        "code": "QAS_MAR_MOGADOR_SOUTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_MOGADOR_SOUTH_BLACK",
+        "code": "QAS_MAR_MOGADOR_SOUTH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7284,
+        "totalMeters": 6660,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_01",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_02",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_05",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_06",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_07",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_08",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_10",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_11",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_12",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_13",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_15",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_16",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_17",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MOGADOR_SOUTH_WHITE",
+        "code": "QAS_MAR_MOGADOR_SOUTH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6879,
+        "totalMeters": 6290,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_02",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_03",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_04",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_05",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_07",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_08",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_09",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_10",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_12",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_13",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_14",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_15",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_16",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_17",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MOGADOR_SOUTH_YELLOW",
+        "code": "QAS_MAR_MOGADOR_SOUTH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6429,
+        "totalMeters": 5880,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_03",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_06",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_08",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_09",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_13",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_14",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_16",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MOGADOR_SOUTH_BLUE",
+        "code": "QAS_MAR_MOGADOR_SOUTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5940,
+        "totalMeters": 5430,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_02",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_03",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_05",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_08",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_09",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_13",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_15",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_16",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_17",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_18",
+            "yards": 352,
+            "meters": 322
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MOGADOR_SOUTH_RED",
+        "code": "QAS_MAR_MOGADOR_SOUTH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5359,
+        "totalMeters": 4900,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_01",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_05",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_06",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_08",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_09",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_10",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_14",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_17",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_MAR_MOGADOR_SOUTH_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      }
+    ]
+  }
+}

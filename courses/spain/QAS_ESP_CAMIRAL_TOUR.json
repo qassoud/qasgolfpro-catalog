@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_CAMIRAL_TOUR",
+    "code": "QAS_ESP_CAMIRAL_TOUR",
+    "name": "Camiral Tour Course",
+    "city": "Caldes de Malavella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_01",
+        "code": "QAS_ESP_CAMIRAL_TOUR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_02",
+        "code": "QAS_ESP_CAMIRAL_TOUR_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_03",
+        "code": "QAS_ESP_CAMIRAL_TOUR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_04",
+        "code": "QAS_ESP_CAMIRAL_TOUR_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_05",
+        "code": "QAS_ESP_CAMIRAL_TOUR_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_06",
+        "code": "QAS_ESP_CAMIRAL_TOUR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_07",
+        "code": "QAS_ESP_CAMIRAL_TOUR_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_08",
+        "code": "QAS_ESP_CAMIRAL_TOUR_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_09",
+        "code": "QAS_ESP_CAMIRAL_TOUR_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_10",
+        "code": "QAS_ESP_CAMIRAL_TOUR_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_11",
+        "code": "QAS_ESP_CAMIRAL_TOUR_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_12",
+        "code": "QAS_ESP_CAMIRAL_TOUR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_13",
+        "code": "QAS_ESP_CAMIRAL_TOUR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_14",
+        "code": "QAS_ESP_CAMIRAL_TOUR_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_15",
+        "code": "QAS_ESP_CAMIRAL_TOUR_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_16",
+        "code": "QAS_ESP_CAMIRAL_TOUR_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_17",
+        "code": "QAS_ESP_CAMIRAL_TOUR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_18",
+        "code": "QAS_ESP_CAMIRAL_TOUR_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_CAMIRAL_TOUR_TEE_58",
+        "code": "QAS_ESP_CAMIRAL_TOUR_TEE_58",
+        "type": "TEE_58",
+        "displayName": "58",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6412,
+        "totalMeters": 5863,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_03",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_05",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_06",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_07",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_08",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_09",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_10",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_14",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_16",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_17",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_18",
+            "yards": 519,
+            "meters": 475
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_CAMIRAL_TOUR_TEE_54",
+        "code": "QAS_ESP_CAMIRAL_TOUR_TEE_54",
+        "type": "TEE_54",
+        "displayName": "54",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5989,
+        "totalMeters": 5476,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_05",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_06",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_07",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_10",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_13",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_14",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_15",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_16",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_17",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_18",
+            "yards": 493,
+            "meters": 451
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_CAMIRAL_TOUR_TEE_50",
+        "code": "QAS_ESP_CAMIRAL_TOUR_TEE_50",
+        "type": "TEE_50",
+        "displayName": "50",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5557,
+        "totalMeters": 5080,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_03",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_04",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_05",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_06",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_07",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_08",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_09",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_11",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_14",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_15",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_16",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_17",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_18",
+            "yards": 445,
+            "meters": 407
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_CAMIRAL_TOUR_TEE_46",
+        "code": "QAS_ESP_CAMIRAL_TOUR_TEE_46",
+        "type": "TEE_46",
+        "displayName": "46",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5119,
+        "totalMeters": 4681,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_02",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_03",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_04",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_05",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_06",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_08",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_09",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_10",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_11",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_12",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_13",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_14",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_15",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_16",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_17",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_CAMIRAL_TOUR_18",
+            "yards": 412,
+            "meters": 377
+          }
+        ]
+      }
+    ]
+  }
+}

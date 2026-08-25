@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_MAZAGAN",
+    "code": "QAS_MAR_MAZAGAN",
+    "name": "Mazagan Golf Club",
+    "city": "El Jadida",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_01",
+        "code": "QAS_MAR_MAZAGAN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_02",
+        "code": "QAS_MAR_MAZAGAN_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_03",
+        "code": "QAS_MAR_MAZAGAN_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_04",
+        "code": "QAS_MAR_MAZAGAN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_05",
+        "code": "QAS_MAR_MAZAGAN_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_06",
+        "code": "QAS_MAR_MAZAGAN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_07",
+        "code": "QAS_MAR_MAZAGAN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_08",
+        "code": "QAS_MAR_MAZAGAN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_09",
+        "code": "QAS_MAR_MAZAGAN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_10",
+        "code": "QAS_MAR_MAZAGAN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_11",
+        "code": "QAS_MAR_MAZAGAN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_12",
+        "code": "QAS_MAR_MAZAGAN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_13",
+        "code": "QAS_MAR_MAZAGAN_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_14",
+        "code": "QAS_MAR_MAZAGAN_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_15",
+        "code": "QAS_MAR_MAZAGAN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_16",
+        "code": "QAS_MAR_MAZAGAN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_17",
+        "code": "QAS_MAR_MAZAGAN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MAZAGAN_18",
+        "code": "QAS_MAR_MAZAGAN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_MAZAGAN_BLACK",
+        "code": "QAS_MAR_MAZAGAN_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7530,
+        "totalMeters": 6885,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_02",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_03",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_04",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_05",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_07",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_08",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_09",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_13",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_14",
+            "yards": 615,
+            "meters": 562
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_15",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_16",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_17",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_18",
+            "yards": 570,
+            "meters": 521
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MAZAGAN_GOLD",
+        "code": "QAS_MAR_MAZAGAN_GOLD",
+        "type": "GOLD",
+        "displayName": "Or",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6664,
+        "totalMeters": 6093,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_02",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_03",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_07",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_08",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_11",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_13",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_14",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_15",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_17",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_18",
+            "yards": 510,
+            "meters": 466
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MAZAGAN_SILVER",
+        "code": "QAS_MAR_MAZAGAN_SILVER",
+        "type": "SILVER",
+        "displayName": "Argent",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6156,
+        "totalMeters": 5630,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_03",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_05",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_06",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_07",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_08",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_09",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_12",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_14",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_16",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MAZAGAN_JADE",
+        "code": "QAS_MAR_MAZAGAN_JADE",
+        "type": "JADE",
+        "displayName": "Jade",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5160,
+        "totalMeters": 4719,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_01",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_02",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_03",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_04",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_05",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_06",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_10",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_11",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_12",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_13",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_14",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_15",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_16",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_MAZAGAN_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_OUED_FES_GOLF",
+    "code": "QAS_MAR_OUED_FES_GOLF",
+    "name": "Oued Fès Golf Resort",
+    "city": "Fès",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_01",
+        "code": "QAS_MAR_OUED_FES_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_02",
+        "code": "QAS_MAR_OUED_FES_GOLF_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_03",
+        "code": "QAS_MAR_OUED_FES_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_04",
+        "code": "QAS_MAR_OUED_FES_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_05",
+        "code": "QAS_MAR_OUED_FES_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_06",
+        "code": "QAS_MAR_OUED_FES_GOLF_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_07",
+        "code": "QAS_MAR_OUED_FES_GOLF_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_08",
+        "code": "QAS_MAR_OUED_FES_GOLF_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_09",
+        "code": "QAS_MAR_OUED_FES_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_10",
+        "code": "QAS_MAR_OUED_FES_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_11",
+        "code": "QAS_MAR_OUED_FES_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_12",
+        "code": "QAS_MAR_OUED_FES_GOLF_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_13",
+        "code": "QAS_MAR_OUED_FES_GOLF_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_14",
+        "code": "QAS_MAR_OUED_FES_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_15",
+        "code": "QAS_MAR_OUED_FES_GOLF_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_16",
+        "code": "QAS_MAR_OUED_FES_GOLF_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_17",
+        "code": "QAS_MAR_OUED_FES_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_OUED_FES_GOLF_18",
+        "code": "QAS_MAR_OUED_FES_GOLF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_OUED_FES_GOLF_BLACK",
+        "code": "QAS_MAR_OUED_FES_GOLF_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7306,
+        "totalMeters": 6680,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_01",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_02",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_03",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_04",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_05",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_06",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_07",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_09",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_10",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_11",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_12",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_13",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_14",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_15",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_16",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_17",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_18",
+            "yards": 431,
+            "meters": 394
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_OUED_FES_GOLF_WHITE",
+        "code": "QAS_MAR_OUED_FES_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6890,
+        "totalMeters": 6300,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_02",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_06",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_07",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_08",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_10",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_12",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_13",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_14",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_16",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_17",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_OUED_FES_GOLF_YELLOW",
+        "code": "QAS_MAR_OUED_FES_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6452,
+        "totalMeters": 5900,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_02",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_06",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_08",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_11",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_12",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_13",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_14",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_15",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_16",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_OUED_FES_GOLF_BLUE",
+        "code": "QAS_MAR_OUED_FES_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5971,
+        "totalMeters": 5460,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_02",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_05",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_06",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_07",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_11",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_13",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_14",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_15",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_16",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_17",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_18",
+            "yards": 352,
+            "meters": 322
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_OUED_FES_GOLF_RED",
+        "code": "QAS_MAR_OUED_FES_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5379,
+        "totalMeters": 4920,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_03",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_05",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_07",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_08",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_09",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_15",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_17",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_OUED_FES_GOLF_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      }
+    ]
+  }
+}

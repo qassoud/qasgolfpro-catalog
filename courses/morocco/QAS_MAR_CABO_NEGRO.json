@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_CABO_NEGRO",
+    "code": "QAS_MAR_CABO_NEGRO",
+    "name": "Cabo Negro Golf Club",
+    "city": "Tétouan",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_01",
+        "code": "QAS_MAR_CABO_NEGRO_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_02",
+        "code": "QAS_MAR_CABO_NEGRO_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_03",
+        "code": "QAS_MAR_CABO_NEGRO_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_04",
+        "code": "QAS_MAR_CABO_NEGRO_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_05",
+        "code": "QAS_MAR_CABO_NEGRO_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_06",
+        "code": "QAS_MAR_CABO_NEGRO_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_07",
+        "code": "QAS_MAR_CABO_NEGRO_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_08",
+        "code": "QAS_MAR_CABO_NEGRO_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_09",
+        "code": "QAS_MAR_CABO_NEGRO_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_10",
+        "code": "QAS_MAR_CABO_NEGRO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_11",
+        "code": "QAS_MAR_CABO_NEGRO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_12",
+        "code": "QAS_MAR_CABO_NEGRO_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_13",
+        "code": "QAS_MAR_CABO_NEGRO_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_14",
+        "code": "QAS_MAR_CABO_NEGRO_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_15",
+        "code": "QAS_MAR_CABO_NEGRO_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_16",
+        "code": "QAS_MAR_CABO_NEGRO_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_17",
+        "code": "QAS_MAR_CABO_NEGRO_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_CABO_NEGRO_18",
+        "code": "QAS_MAR_CABO_NEGRO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_CABO_NEGRO_BLACK",
+        "code": "QAS_MAR_CABO_NEGRO_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7163,
+        "totalMeters": 6550,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_02",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_03",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_04",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_06",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_07",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_09",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_11",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_12",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_13",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_15",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_16",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_17",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CABO_NEGRO_WHITE",
+        "code": "QAS_MAR_CABO_NEGRO_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6781,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_02",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_03",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_04",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_06",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_07",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_08",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_11",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_12",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_13",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_15",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_16",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_17",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CABO_NEGRO_YELLOW",
+        "code": "QAS_MAR_CABO_NEGRO_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6344,
+        "totalMeters": 5800,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_07",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_08",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_13",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_14",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_15",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_16",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_17",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CABO_NEGRO_BLUE",
+        "code": "QAS_MAR_CABO_NEGRO_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5850,
+        "totalMeters": 5350,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_02",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_03",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_05",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_08",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_09",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_11",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_13",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_15",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_16",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_CABO_NEGRO_RED",
+        "code": "QAS_MAR_CABO_NEGRO_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5305,
+        "totalMeters": 4850,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_03",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_04",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_05",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_06",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_08",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_09",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_15",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_16",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_17",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_CABO_NEGRO_18",
+            "yards": 312,
+            "meters": 285
+          }
+        ]
+      }
+    ]
+  }
+}

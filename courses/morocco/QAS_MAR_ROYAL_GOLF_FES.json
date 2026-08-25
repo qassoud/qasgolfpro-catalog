@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ROYAL_GOLF_FES",
+    "code": "QAS_MAR_ROYAL_GOLF_FES",
+    "name": "Royal Golf de Fès",
+    "city": "Fès",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_01",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_02",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_03",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_04",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_05",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_06",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_07",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_08",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_09",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_10",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_11",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_12",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_13",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_14",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_15",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_16",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_17",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_FES_18",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_FES_BLACK",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7087,
+        "totalMeters": 6480,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_02",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_03",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_04",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_08",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_10",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_11",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_12",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_13",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_14",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_16",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_17",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_FES_WHITE",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6694,
+        "totalMeters": 6120,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_04",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_05",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_07",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_11",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_14",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_16",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_17",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_FES_YELLOW",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6234,
+        "totalMeters": 5700,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_02",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_04",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_11",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_12",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_15",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_16",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_17",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_FES_BLUE",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5773,
+        "totalMeters": 5280,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_03",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_04",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_07",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_08",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_12",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_17",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_FES_RED",
+        "code": "QAS_MAR_ROYAL_GOLF_FES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5196,
+        "totalMeters": 4750,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_02",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_03",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_04",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_05",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_08",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_13",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_FES_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      }
+    ]
+  }
+}

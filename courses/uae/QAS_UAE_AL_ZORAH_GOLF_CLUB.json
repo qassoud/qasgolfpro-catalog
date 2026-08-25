@@ -1,0 +1,251 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_UAE_AL_ZORAH_GOLF_CLUB",
+    "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB",
+    "name": "Al Zorah Golf Club",
+    "city": "Ajman",
+    "countryCode": "UAE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_01",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_02",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_03",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_04",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_05",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_06",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_07",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_08",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_09",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_10",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_11",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_12",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_13",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_14",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_15",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_16",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_17",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_AL_ZORAH_GOLF_CLUB_18",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_UAE_AL_ZORAH_GOLF_CLUB_BLACK",
+        "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6554,
+        "totalMeters": 5991,
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_04",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_05",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_08",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_11",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_14",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_16",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_17",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_AL_ZORAH_GOLF_CLUB_18",
+            "yards": 512,
+            "meters": 468
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_MONTGOMERIE_MARRAKECH",
+    "code": "QAS_MAR_MONTGOMERIE_MARRAKECH",
+    "name": "The Montgomerie Marrakech",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_MONTGOMERIE_MARRAKECH_WHITE",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 126.0,
+            "par": 71
+          }
+        ],
+        "totalYards": 6811,
+        "totalMeters": 6230,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+            "yards": 514,
+            "meters": 470
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MONTGOMERIE_MARRAKECH_YELLOW",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 119.0,
+            "par": 71
+          }
+        ],
+        "totalYards": 6248,
+        "totalMeters": 5710,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+            "yards": 476,
+            "meters": 435
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MONTGOMERIE_MARRAKECH_BLUE",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 130.0,
+            "par": 71
+          }
+        ],
+        "totalYards": 5818,
+        "totalMeters": 5320,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_MONTGOMERIE_MARRAKECH_RED",
+        "code": "QAS_MAR_MONTGOMERIE_MARRAKECH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.9,
+            "slopeRating": 120.0,
+            "par": 71
+          }
+        ],
+        "totalYards": 5234,
+        "totalMeters": 4785,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_01",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_02",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_03",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_04",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_07",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_08",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_11",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_12",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_14",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_17",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_MONTGOMERIE_MARRAKECH_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_BAHIA_GOLF_BEACH",
+    "code": "QAS_MAR_BAHIA_GOLF_BEACH",
+    "name": "Bahia Golf Beach",
+    "city": "Bouznika",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_01",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_02",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_03",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_04",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_05",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_06",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_07",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_08",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_09",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_10",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_11",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_12",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_13",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_14",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_15",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_16",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_17",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BAHIA_GOLF_BEACH_18",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_BAHIA_GOLF_BEACH_BLACK",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7261,
+        "totalMeters": 6640,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BAHIA_GOLF_BEACH_WHITE",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6847,
+        "totalMeters": 6260,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BAHIA_GOLF_BEACH_YELLOW",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6407,
+        "totalMeters": 5860,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BAHIA_GOLF_BEACH_BLUE",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5919,
+        "totalMeters": 5410,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BAHIA_GOLF_BEACH_RED",
+        "code": "QAS_MAR_BAHIA_GOLF_BEACH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5339,
+        "totalMeters": 4880,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_02",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_03",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_06",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_07",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_08",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_11",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_12",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_16",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_17",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_MAR_BAHIA_GOLF_BEACH_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      }
+    ]
+  }
+}

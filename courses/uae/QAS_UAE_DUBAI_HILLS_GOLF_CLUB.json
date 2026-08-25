@@ -1,0 +1,251 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB",
+    "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB",
+    "name": "Dubai Hills Golf Club",
+    "city": "Dubai",
+    "countryCode": "UAE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_01",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_02",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_03",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_04",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_05",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_06",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_07",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_08",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_09",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_10",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_11",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_12",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_13",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_14",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_15",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_16",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_17",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_18",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_UAE_DUBAI_HILLS_GOLF_CLUB_BLACK",
+        "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6656,
+        "totalMeters": 6089,
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_03",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_05",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_08",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_09",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_10",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_11",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_12",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_14",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_15",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_17",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,478 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_BOUZNIKA_18T",
+    "code": "QAS_MAR_BOUZNIKA_18T",
+    "name": "Bouznika 18T",
+    "city": "Bouznika",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_01",
+        "code": "QAS_MAR_BOUZNIKA_18T_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_02",
+        "code": "QAS_MAR_BOUZNIKA_18T_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_03",
+        "code": "QAS_MAR_BOUZNIKA_18T_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_04",
+        "code": "QAS_MAR_BOUZNIKA_18T_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_05",
+        "code": "QAS_MAR_BOUZNIKA_18T_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_06",
+        "code": "QAS_MAR_BOUZNIKA_18T_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_07",
+        "code": "QAS_MAR_BOUZNIKA_18T_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_08",
+        "code": "QAS_MAR_BOUZNIKA_18T_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_09",
+        "code": "QAS_MAR_BOUZNIKA_18T_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_10",
+        "code": "QAS_MAR_BOUZNIKA_18T_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_11",
+        "code": "QAS_MAR_BOUZNIKA_18T_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_12",
+        "code": "QAS_MAR_BOUZNIKA_18T_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_13",
+        "code": "QAS_MAR_BOUZNIKA_18T_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_14",
+        "code": "QAS_MAR_BOUZNIKA_18T_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_15",
+        "code": "QAS_MAR_BOUZNIKA_18T_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_16",
+        "code": "QAS_MAR_BOUZNIKA_18T_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_17",
+        "code": "QAS_MAR_BOUZNIKA_18T_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_18",
+        "code": "QAS_MAR_BOUZNIKA_18T_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_BOUZNIKA_18T_BLACK",
+        "code": "QAS_MAR_BOUZNIKA_18T_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.0,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 113.0,
+            "par": 70
+          }
+        ],
+        "totalYards": 6652,
+        "totalMeters": 6082,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_02",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_06",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_08",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_11",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_13",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_15",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_16",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_17",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BOUZNIKA_18T_WHITE",
+        "code": "QAS_MAR_BOUZNIKA_18T_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.0,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 113.0,
+            "par": 70
+          }
+        ],
+        "totalYards": 6652,
+        "totalMeters": 6082,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_02",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_06",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_08",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_11",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_13",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_15",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_16",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_17",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_BOUZNIKA_18T_YELLOW",
+        "code": "QAS_MAR_BOUZNIKA_18T_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.0,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 113.0,
+            "par": 70
+          }
+        ],
+        "totalYards": 6652,
+        "totalMeters": 6082,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_02",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_06",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_08",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_11",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_13",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_15",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_16",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_17",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_BOUZNIKA_18T_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER",
+    "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER",
+    "name": "Royal Country Club de Tanger",
+    "city": "Tanger",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_BLACK",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.01,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.01,
+            "slopeRating": 137.12,
+            "par": 72
+          }
+        ],
+        "totalYards": 6590,
+        "totalMeters": 6028,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+            "yards": 647,
+            "meters": 592
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_WHITE",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.93,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.93,
+            "slopeRating": 137.12,
+            "par": 72
+          }
+        ],
+        "totalYards": 6563,
+        "totalMeters": 6003,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+            "yards": 647,
+            "meters": 592
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_YELLOW",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.42,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.42,
+            "slopeRating": 128.63,
+            "par": 72
+          }
+        ],
+        "totalYards": 6062,
+        "totalMeters": 5543,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+            "yards": 294,
+            "meters": 269
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_BLUE",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.47,
+            "slopeRating": 138.6,
+            "par": 72
+          }
+        ],
+        "totalYards": 5694,
+        "totalMeters": 5205,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+            "yards": 277,
+            "meters": 253
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_RED",
+        "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.64,
+            "slopeRating": 128.72,
+            "par": 72
+          }
+        ],
+        "totalYards": 5180,
+        "totalMeters": 4736,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_02",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_03",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_04",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_05",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_06",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_08",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_09",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_11",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_14",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_15",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_16",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_17",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER_18",
+            "yards": 234,
+            "meters": 214
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_SAMANAH_GOLF_CLUB",
+    "code": "QAS_MAR_SAMANAH_GOLF_CLUB",
+    "name": "Samanah Golf Club",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_01",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_02",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_03",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_04",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_05",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_06",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_07",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_08",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_09",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_10",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_11",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_12",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_13",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_14",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_15",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_16",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_17",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_SAMANAH_GOLF_CLUB_18",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_SAMANAH_GOLF_CLUB_BLACK",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7327,
+        "totalMeters": 6700,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+            "yards": 545,
+            "meters": 498
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_SAMANAH_GOLF_CLUB_WHITE",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6837,
+        "totalMeters": 6250,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+            "yards": 507,
+            "meters": 464
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_SAMANAH_GOLF_CLUB_YELLOW",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6341,
+        "totalMeters": 5800,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+            "yards": 471,
+            "meters": 431
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_SAMANAH_GOLF_CLUB_BLUE",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5849,
+        "totalMeters": 5350,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+            "yards": 434,
+            "meters": 397
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_SAMANAH_GOLF_CLUB_RED",
+        "code": "QAS_MAR_SAMANAH_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5248,
+        "totalMeters": 4800,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_01",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_02",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_05",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_08",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_09",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_10",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_12",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_16",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_17",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_MAR_SAMANAH_GOLF_CLUB_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      }
+    ]
+  }
+}

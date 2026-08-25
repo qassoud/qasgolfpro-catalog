@@ -1,15 +1,41 @@
 {
   "version": 1,
   "provider": "QasGolfPro",
-  "updatedAt": "2026-08-24",
+  "generatedAt": "2026-08-25",
+  "countries": [
+    {
+      "code": "ESP",
+      "name": "Espagne",
+      "folder": "spain"
+    },
+    {
+      "code": "MAR",
+      "name": "Maroc",
+      "folder": "morocco"
+    },
+    {
+      "code": "UAE",
+      "name": "UAE",
+      "folder": "uae"
+    }
+  ],
   "courses": [
     {
-      "code": "QAS_MAR_PALMGOLF_CASABLANCA",
-      "name": "PalmGolf Casablanca - Palmeraie Country Club",
-      "country": "MAR",
-      "city": "Bouskoura",
-      "file": "courses/morocco/QAS_MAR_PALMGOLF_CASABLANCA.json",
-      "dataVersion": 4,
+      "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB",
+      "name": "Abu Dhabi City Golf Club",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_ABU_DHABI_GOLF_CLUB_NATIONAL",
+      "name": "Abu Dhabi Golf Club - National",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_ABU_DHABI_GOLF_CLUB_NATIONAL.json",
+      "dataVersion": 1,
       "verified": false
     },
     {
@@ -22,6 +48,141 @@
       "verified": false
     },
     {
+      "code": "QAS_UAE_AL_AIN_CHAMPIONSHIP",
+      "name": "Al Ain Equestrian Shooting & Golf Club - Championship",
+      "country": "UAE",
+      "city": "Al Ain",
+      "file": "courses/uae/QAS_UAE_AL_AIN_CHAMPIONSHIP.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_AL_GHAZAL_GOLF_CLUB",
+      "name": "Al Ghazal Golf Club",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_AL_GHAZAL_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB",
+      "name": "Al Hamra Golf Club",
+      "country": "UAE",
+      "city": "Ras Al Khaimah",
+      "file": "courses/uae/QAS_UAE_AL_HAMRA_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AL_HOUARA_GOLF_CLUB",
+      "name": "Al Houara Golf Club",
+      "country": "MAR",
+      "city": "Tanger",
+      "file": "courses/morocco/QAS_MAR_AL_HOUARA_GOLF_CLUB.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AL_MAADEN",
+      "name": "Al Maaden Golf",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_AL_MAADEN.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_AL_ZORAH_GOLF_CLUB",
+      "name": "Al Zorah Golf Club",
+      "country": "UAE",
+      "city": "Ajman",
+      "file": "courses/uae/QAS_UAE_AL_ZORAH_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AMELKIS_ROUGE_VERT",
+      "name": "Amelkis - Rouge Vert",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_AMELKIS_ROUGE_VERT.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AMELKIS_BLUE_GREEN",
+      "name": "Amelkis Golf Club - Bleu & Vert",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_AMELKIS_BLUE_GREEN.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_AMELKIS_RESORTS",
+      "name": "Amelkis Resorts",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_AMELKIS_RESORTS.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB",
+      "name": "Arabian Ranches Golf Club",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ASSOUFID",
+      "name": "Assoufid Golf Club",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_ASSOUFID.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH",
+      "name": "Atlas Golf Marrakech",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_ATLAS_GOLF_MARRAKECH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_BAHIA_GOLF_BEACH",
+      "name": "Bahia Golf Beach",
+      "country": "MAR",
+      "city": "Bouznika",
+      "file": "courses/morocco/QAS_MAR_BAHIA_GOLF_BEACH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_BOUZNIKA_18T",
+      "name": "Bouznika 18T",
+      "country": "MAR",
+      "city": "Bouznika",
+      "file": "courses/morocco/QAS_MAR_BOUZNIKA_18T.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_CABO_NEGRO",
+      "name": "Cabo Negro Golf Club",
+      "country": "MAR",
+      "city": "Tétouan",
+      "file": "courses/morocco/QAS_MAR_CABO_NEGRO.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
       "code": "QAS_ESP_CAMIRAL_STADIUM",
       "name": "Camiral Stadium Course",
       "country": "ESP",
@@ -31,11 +192,236 @@
       "verified": false
     },
     {
-      "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB",
-      "name": "Abu Dhabi City Golf Club",
+      "code": "QAS_ESP_CAMIRAL_TOUR",
+      "name": "Camiral Tour Course",
+      "country": "ESP",
+      "city": "Caldes de Malavella",
+      "file": "courses/spain/QAS_ESP_CAMIRAL_TOUR.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_CASA_GREEN",
+      "name": "Casa Green Golf Club",
+      "country": "MAR",
+      "city": "Casablanca",
+      "file": "courses/morocco/QAS_MAR_CASA_GREEN.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_DUBAI_CREEK_CHAMPIONSHIP",
+      "name": "Dubai Creek Championship Course",
       "country": "UAE",
-      "city": "Abu Dhabi",
-      "file": "courses/uae/QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB.json",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_DUBAI_CREEK_CHAMPIONSHIP.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_DUBAI_HILLS_GOLF_CLUB",
+      "name": "Dubai Hills Golf Club",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_DUBAI_HILLS_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO",
+      "name": "Emirates Golf Club - Faldo",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_EMIRATES_GOLF_CLUB_FALDO.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS",
+      "name": "Emirates Golf Club - Majlis",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_BENSLIMANE",
+      "name": "Golf de Benslimane",
+      "country": "MAR",
+      "city": "Benslimane",
+      "file": "courses/morocco/QAS_MAR_GOLF_BENSLIMANE.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_DE_L_OCEAN_AGADIR",
+      "name": "Golf de l'Océan Agadir",
+      "country": "MAR",
+      "city": "Agadir",
+      "file": "courses/morocco/QAS_MAR_GOLF_DE_L_OCEAN_AGADIR.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MOGADOR_NORTH",
+      "name": "Golf de Mogador - Parcours Nord",
+      "country": "MAR",
+      "city": "Essaouira",
+      "file": "courses/morocco/QAS_MAR_MOGADOR_NORTH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MOGADOR_SOUTH",
+      "name": "Golf de Mogador - Parcours Sud",
+      "country": "MAR",
+      "city": "Essaouira",
+      "file": "courses/morocco/QAS_MAR_MOGADOR_SOUTH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_DES_LACS_SAIDIA",
+      "name": "Golf des Lacs Saïdia",
+      "country": "MAR",
+      "city": "Saïdia",
+      "file": "courses/morocco/QAS_MAR_GOLF_DES_LACS_SAIDIA.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_DU_SOLEIL_CHAMPIONSHIP",
+      "name": "Golf du Soleil - Championship",
+      "country": "MAR",
+      "city": "Agadir",
+      "file": "courses/morocco/QAS_MAR_GOLF_DU_SOLEIL_CHAMPIONSHIP.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_LES_DUNES_AGADIR",
+      "name": "Golf Les Dunes Agadir",
+      "country": "MAR",
+      "city": "Agadir",
+      "file": "courses/morocco/QAS_MAR_LES_DUNES_AGADIR.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_ESP_GOLF_MONTANYA",
+      "name": "Golf Montanyà",
+      "country": "ESP",
+      "city": "El Brull",
+      "file": "courses/spain/QAS_ESP_GOLF_MONTANYA.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_SAIDIA_TEELAL",
+      "name": "Golf Saidia Teelal",
+      "country": "MAR",
+      "city": "Saidia",
+      "file": "courses/morocco/QAS_MAR_GOLF_SAIDIA_TEELAL.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH",
+      "name": "Jumeirah Golf Estates - Earth",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE",
+      "name": "Jumeirah Golf Estates - Fire",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MAZAGAN",
+      "name": "Mazagan Golf Club",
+      "country": "MAR",
+      "city": "El Jadida",
+      "file": "courses/morocco/QAS_MAR_MAZAGAN.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MICHLIFEN",
+      "name": "Michlifen Golf & Country Club",
+      "country": "MAR",
+      "city": "Ifrane",
+      "file": "courses/morocco/QAS_MAR_MICHLIFEN.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI",
+      "name": "Montgomerie Golf Club Dubai",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MONTGOMERIE_PLAGE_DES_NATIONS",
+      "name": "Montgomerie Plage des Nations",
+      "country": "MAR",
+      "city": "Plage des Nations",
+      "file": "courses/morocco/QAS_MAR_MONTGOMERIE_PLAGE_DES_NATIONS.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_NORIA_GOLF_CLUB",
+      "name": "Noria Golf Club",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_NORIA_GOLF_CLUB.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_OUED_FES_GOLF",
+      "name": "Oued Fès Golf Resort",
+      "country": "MAR",
+      "city": "Fès",
+      "file": "courses/morocco/QAS_MAR_OUED_FES_GOLF.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_PALMERAIE_MARRAKECH",
+      "name": "Palmeraie Marrakech",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_PALMERAIE_MARRAKECH.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_PALMGOLF_CASABLANCA",
+      "name": "PalmGolf Casablanca - Palmeraie Country Club",
+      "country": "MAR",
+      "city": "Bouskoura",
+      "file": "courses/morocco/QAS_MAR_PALMGOLF_CASABLANCA.json",
+      "dataVersion": 4,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_PALMGOLF_OURIKA",
+      "name": "PalmGolf Ourika",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_PALMGOLF_OURIKA.json",
       "dataVersion": 1,
       "verified": false
     },
@@ -45,6 +431,195 @@
       "country": "MAR",
       "city": "Larache",
       "file": "courses/morocco/QAS_MAR_PORT_LIXUS_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER",
+      "name": "Royal Country Club de Tanger",
+      "country": "MAR",
+      "city": "Tanger",
+      "file": "courses/morocco/QAS_MAR_ROYAL_COUNTRY_CLUB_TANGER.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_DAR_ES_SALAM_BLEU",
+      "name": "Royal Golf Dar Es Salam - Bleu",
+      "country": "MAR",
+      "city": "Rabat",
+      "file": "courses/morocco/QAS_MAR_DAR_ES_SALAM_BLEU.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_DAR_ES_SALAM_ROUGE",
+      "name": "Royal Golf Dar Es Salam - Rouge",
+      "country": "MAR",
+      "city": "Rabat",
+      "file": "courses/morocco/QAS_MAR_DAR_ES_SALAM_ROUGE.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_DAR_ES_SALAM_VERT",
+      "name": "Royal Golf Dar Es Salam - Vert",
+      "country": "MAR",
+      "city": "Rabat",
+      "file": "courses/morocco/QAS_MAR_DAR_ES_SALAM_VERT.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_GOLF_FES",
+      "name": "Royal Golf de Fès",
+      "country": "MAR",
+      "city": "Fès",
+      "file": "courses/morocco/QAS_MAR_ROYAL_GOLF_FES.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_GOLF_EL_JADIDA",
+      "name": "Royal Golf El Jadida",
+      "country": "MAR",
+      "city": "El Jadida",
+      "file": "courses/morocco/QAS_MAR_ROYAL_GOLF_EL_JADIDA.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_GOLF_MARRAKECH",
+      "name": "Royal Golf Marrakech",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_ROYAL_GOLF_MARRAKECH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_GOLF_MEKNES",
+      "name": "Royal Golf Meknes",
+      "country": "MAR",
+      "city": "Meknès",
+      "file": "courses/morocco/QAS_MAR_GOLF_MEKNES.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA",
+      "name": "Royal Golf Mohammedia",
+      "country": "MAR",
+      "city": "Mohammedia",
+      "file": "courses/morocco/QAS_MAR_ROYAL_GOLF_MOHAMMEDIA.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_ROYAL_PALM_MARRAKECH",
+      "name": "Royal Palm Golf Marrakech",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_ROYAL_PALM_MARRAKECH.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB",
+      "name": "Saadiyat Beach Golf Club",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_SAMANAH_GOLF_CLUB",
+      "name": "Samanah Golf Club",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_SAMANAH_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_ESP_SON_ANTEM_EAST",
+      "name": "Son Antem East",
+      "country": "ESP",
+      "city": "Llucmajor",
+      "file": "courses/spain/QAS_ESP_SON_ANTEM_EAST.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_ESP_SON_ANTEM_WEST",
+      "name": "Son Antem West",
+      "country": "ESP",
+      "city": "Llucmajor",
+      "file": "courses/spain/QAS_ESP_SON_ANTEM_WEST.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_TAZEGZOUT_GOLF",
+      "name": "Tazegzout Golf",
+      "country": "MAR",
+      "city": "Agadir",
+      "file": "courses/morocco/QAS_MAR_TAZEGZOUT_GOLF.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_THE_ELS_CLUB_DUBAI",
+      "name": "The Els Club Dubai",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_THE_ELS_CLUB_DUBAI.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_MONTGOMERIE_MARRAKECH",
+      "name": "The Montgomerie Marrakech",
+      "country": "MAR",
+      "city": "Marrakech",
+      "file": "courses/morocco/QAS_MAR_MONTGOMERIE_MARRAKECH.json",
+      "dataVersion": 2,
+      "verified": false
+    },
+    {
+      "code": "QAS_MAR_TONY_JACKLIN_CASABLANCA",
+      "name": "Tony Jacklin Casablanca",
+      "country": "MAR",
+      "city": "Casablanca",
+      "file": "courses/morocco/QAS_MAR_TONY_JACKLIN_CASABLANCA.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB",
+      "name": "Tower Links Golf Club",
+      "country": "UAE",
+      "city": "Ras Al Khaimah",
+      "file": "courses/uae/QAS_UAE_TOWER_LINKS_GOLF_CLUB.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI",
+      "name": "Trump International Golf Club Dubai",
+      "country": "UAE",
+      "city": "Dubai",
+      "file": "courses/uae/QAS_UAE_TRUMP_INTERNATIONAL_DUBAI.json",
+      "dataVersion": 1,
+      "verified": false
+    },
+    {
+      "code": "QAS_UAE_YAS_LINKS_ABU_DHABI",
+      "name": "Yas Links Abu Dhabi",
+      "country": "UAE",
+      "city": "Abu Dhabi",
+      "file": "courses/uae/QAS_UAE_YAS_LINKS_ABU_DHABI.json",
       "dataVersion": 1,
       "verified": false
     }

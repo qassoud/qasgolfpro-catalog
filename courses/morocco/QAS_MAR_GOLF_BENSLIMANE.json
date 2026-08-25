@@ -1,0 +1,698 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_GOLF_BENSLIMANE",
+    "code": "QAS_MAR_GOLF_BENSLIMANE",
+    "name": "Golf de Benslimane",
+    "city": "Benslimane",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_01",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_02",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_03",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_04",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_05",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_06",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_07",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_08",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_09",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_10",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_11",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_12",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_13",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_14",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_15",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_16",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_17",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_GOLF_BENSLIMANE_18",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_BENSLIMANE_BLACK",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 76.1,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.1,
+            "slopeRating": 142.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 7242,
+        "totalMeters": 6623,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_03",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_04",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_05",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_07",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_08",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_09",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_11",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_12",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_13",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_14",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_17",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_18",
+            "yards": 459,
+            "meters": 420
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_BENSLIMANE_WHITE",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.3,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 138.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6561,
+        "totalMeters": 5998,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_05",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_06",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_07",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_09",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_11",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_13",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_14",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_15",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_16",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_17",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_BENSLIMANE_YELLOW",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.9,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 128.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5842,
+        "totalMeters": 5339,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_04",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_06",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_07",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_08",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_09",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_12",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_13",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_14",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_17",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_BENSLIMANE_BLUE",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.9,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 128.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5261,
+        "totalMeters": 4811,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_01",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_02",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_04",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_12",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_13",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_14",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_15",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_GOLF_BENSLIMANE_RED",
+        "code": "QAS_MAR_GOLF_BENSLIMANE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.9,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 128.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5261,
+        "totalMeters": 4811,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_01",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_02",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_04",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_12",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_13",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_14",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_15",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_GOLF_BENSLIMANE_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      }
+    ]
+  }
+}

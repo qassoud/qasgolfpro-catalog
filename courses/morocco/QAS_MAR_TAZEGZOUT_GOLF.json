@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_TAZEGZOUT_GOLF",
+    "code": "QAS_MAR_TAZEGZOUT_GOLF",
+    "name": "Tazegzout Golf",
+    "city": "Agadir",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_01",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_02",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_03",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_04",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_05",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_06",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_07",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_08",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_09",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_10",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_11",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_12",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_13",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_14",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_15",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_16",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_17",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TAZEGZOUT_GOLF_18",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_TAZEGZOUT_GOLF_BLACK",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7298,
+        "totalMeters": 6675,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_01",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_02",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_03",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_05",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_06",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_08",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_09",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_11",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_12",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_13",
+            "yards": 654,
+            "meters": 598
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_14",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_15",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_18",
+            "yards": 505,
+            "meters": 462
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TAZEGZOUT_GOLF_WHITE",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6898,
+        "totalMeters": 6310,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_01",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_06",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_08",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_09",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_11",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_13",
+            "yards": 622,
+            "meters": 569
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_15",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_18",
+            "yards": 492,
+            "meters": 450
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TAZEGZOUT_GOLF_YELLOW",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6417,
+        "totalMeters": 5870,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_01",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_03",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_04",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_05",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_09",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_13",
+            "yards": 605,
+            "meters": 553
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_14",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_16",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_18",
+            "yards": 472,
+            "meters": 432
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TAZEGZOUT_GOLF_BLUE",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5964,
+        "totalMeters": 5454,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_01",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_02",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_05",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_06",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_08",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_09",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_10",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_12",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_13",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_16",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_17",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_18",
+            "yards": 452,
+            "meters": 413
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TAZEGZOUT_GOLF_RED",
+        "code": "QAS_MAR_TAZEGZOUT_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5200,
+        "totalMeters": 4756,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_01",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_02",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_03",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_07",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_08",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_10",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_11",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_12",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_13",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_17",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_MAR_TAZEGZOUT_GOLF_18",
+            "yards": 410,
+            "meters": 375
+          }
+        ]
+      }
+    ]
+  }
+}

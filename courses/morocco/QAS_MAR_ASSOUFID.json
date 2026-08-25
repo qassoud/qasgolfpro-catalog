@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ASSOUFID",
+    "code": "QAS_MAR_ASSOUFID",
+    "name": "Assoufid Golf Club",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_01",
+        "code": "QAS_MAR_ASSOUFID_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_02",
+        "code": "QAS_MAR_ASSOUFID_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_03",
+        "code": "QAS_MAR_ASSOUFID_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_04",
+        "code": "QAS_MAR_ASSOUFID_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_05",
+        "code": "QAS_MAR_ASSOUFID_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_06",
+        "code": "QAS_MAR_ASSOUFID_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_07",
+        "code": "QAS_MAR_ASSOUFID_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_08",
+        "code": "QAS_MAR_ASSOUFID_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_09",
+        "code": "QAS_MAR_ASSOUFID_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_10",
+        "code": "QAS_MAR_ASSOUFID_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_11",
+        "code": "QAS_MAR_ASSOUFID_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_12",
+        "code": "QAS_MAR_ASSOUFID_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_13",
+        "code": "QAS_MAR_ASSOUFID_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_14",
+        "code": "QAS_MAR_ASSOUFID_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_15",
+        "code": "QAS_MAR_ASSOUFID_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_16",
+        "code": "QAS_MAR_ASSOUFID_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_17",
+        "code": "QAS_MAR_ASSOUFID_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ASSOUFID_18",
+        "code": "QAS_MAR_ASSOUFID_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ASSOUFID_BLACK",
+        "code": "QAS_MAR_ASSOUFID_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7042,
+        "totalMeters": 6440,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_02",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_03",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_04",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_05",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_07",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_08",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_09",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_11",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_12",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_13",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_14",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_15",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_17",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ASSOUFID_WHITE",
+        "code": "QAS_MAR_ASSOUFID_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6515,
+        "totalMeters": 5957,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_01",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_02",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_03",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_04",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_08",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_09",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_11",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_12",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_13",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_14",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_15",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_16",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_17",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ASSOUFID_YELLOW",
+        "code": "QAS_MAR_ASSOUFID_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6237,
+        "totalMeters": 5703,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_02",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_03",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_05",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_06",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_08",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_09",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_12",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_13",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_14",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_16",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ASSOUFID_BLUE",
+        "code": "QAS_MAR_ASSOUFID_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5995,
+        "totalMeters": 5483,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_02",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_06",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_08",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_09",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_12",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_13",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_16",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_17",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_18",
+            "yards": 304,
+            "meters": 278
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ASSOUFID_RED",
+        "code": "QAS_MAR_ASSOUFID_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5431,
+        "totalMeters": 4966,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_01",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_02",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_05",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_07",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_08",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_09",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_17",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_MAR_ASSOUFID_18",
+            "yards": 285,
+            "meters": 261
+          }
+        ]
+      }
+    ]
+  }
+}

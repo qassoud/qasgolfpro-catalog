@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_AMELKIS_BLUE_GREEN",
+    "code": "QAS_MAR_AMELKIS_BLUE_GREEN",
+    "name": "Amelkis Golf Club - Bleu & Vert",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_01",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_02",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_03",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_04",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_05",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_06",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_07",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_08",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_09",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_10",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_11",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_12",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_13",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_14",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_15",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_16",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_17",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AMELKIS_BLUE_GREEN_18",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_AMELKIS_BLUE_GREEN_BLACK",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7298,
+        "totalMeters": 6673,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AMELKIS_BLUE_GREEN_WHITE",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6903,
+        "totalMeters": 6312,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AMELKIS_BLUE_GREEN_YELLOW",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6386,
+        "totalMeters": 5840,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AMELKIS_BLUE_GREEN_BLUE",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6043,
+        "totalMeters": 5526,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AMELKIS_BLUE_GREEN_RED",
+        "code": "QAS_MAR_AMELKIS_BLUE_GREEN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5468,
+        "totalMeters": 5000,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_02",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_03",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_08",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_09",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_11",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_12",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_13",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_16",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_AMELKIS_BLUE_GREEN_18",
+            "yards": 325,
+            "meters": 297
+          }
+        ]
+      }
+    ]
+  }
+}

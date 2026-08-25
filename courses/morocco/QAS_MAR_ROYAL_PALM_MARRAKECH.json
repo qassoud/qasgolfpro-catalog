@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ROYAL_PALM_MARRAKECH",
+    "code": "QAS_MAR_ROYAL_PALM_MARRAKECH",
+    "name": "Royal Palm Golf Marrakech",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_PALM_MARRAKECH_BLACK",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7228,
+        "totalMeters": 6608,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+            "yards": 599,
+            "meters": 548
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_PALM_MARRAKECH_WHITE",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6783,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+            "yards": 392,
+            "meters": 358
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_PALM_MARRAKECH_YELLOW",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6343,
+        "totalMeters": 5800,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_PALM_MARRAKECH_BLUE",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5850,
+        "totalMeters": 5350,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_PALM_MARRAKECH_RED",
+        "code": "QAS_MAR_ROYAL_PALM_MARRAKECH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5304,
+        "totalMeters": 4850,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_03",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_04",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_05",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_09",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_14",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_15",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_PALM_MARRAKECH_18",
+            "yards": 306,
+            "meters": 280
+          }
+        ]
+      }
+    ]
+  }
+}

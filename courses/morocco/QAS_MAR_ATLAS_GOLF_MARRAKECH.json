@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ATLAS_GOLF_MARRAKECH",
+    "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH",
+    "name": "Atlas Golf Marrakech",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ATLAS_GOLF_MARRAKECH_BLACK",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7109,
+        "totalMeters": 6500,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ATLAS_GOLF_MARRAKECH_WHITE",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6714,
+        "totalMeters": 6140,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+            "yards": 402,
+            "meters": 368
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ATLAS_GOLF_MARRAKECH_YELLOW",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6279,
+        "totalMeters": 5740,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ATLAS_GOLF_MARRAKECH_BLUE",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5796,
+        "totalMeters": 5300,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ATLAS_GOLF_MARRAKECH_RED",
+        "code": "QAS_MAR_ATLAS_GOLF_MARRAKECH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5228,
+        "totalMeters": 4780,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_04",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_05",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_07",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_08",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_12",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_13",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_15",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_16",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_17",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_ATLAS_GOLF_MARRAKECH_18",
+            "yards": 314,
+            "meters": 287
+          }
+        ]
+      }
+    ]
+  }
+}

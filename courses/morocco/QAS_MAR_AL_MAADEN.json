@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_AL_MAADEN",
+    "code": "QAS_MAR_AL_MAADEN",
+    "name": "Al Maaden Golf",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_01",
+        "code": "QAS_MAR_AL_MAADEN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_02",
+        "code": "QAS_MAR_AL_MAADEN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_03",
+        "code": "QAS_MAR_AL_MAADEN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_04",
+        "code": "QAS_MAR_AL_MAADEN_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_05",
+        "code": "QAS_MAR_AL_MAADEN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_06",
+        "code": "QAS_MAR_AL_MAADEN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_07",
+        "code": "QAS_MAR_AL_MAADEN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_08",
+        "code": "QAS_MAR_AL_MAADEN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_09",
+        "code": "QAS_MAR_AL_MAADEN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_10",
+        "code": "QAS_MAR_AL_MAADEN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_11",
+        "code": "QAS_MAR_AL_MAADEN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_12",
+        "code": "QAS_MAR_AL_MAADEN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_13",
+        "code": "QAS_MAR_AL_MAADEN_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_14",
+        "code": "QAS_MAR_AL_MAADEN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_15",
+        "code": "QAS_MAR_AL_MAADEN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_16",
+        "code": "QAS_MAR_AL_MAADEN_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_17",
+        "code": "QAS_MAR_AL_MAADEN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_AL_MAADEN_18",
+        "code": "QAS_MAR_AL_MAADEN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_AL_MAADEN_BLACK",
+        "code": "QAS_MAR_AL_MAADEN_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7184,
+        "totalMeters": 6569,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_02",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_03",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_04",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_05",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_06",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_07",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_08",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_10",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_11",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_12",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_13",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_14",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_15",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_16",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_17",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_MAADEN_WHITE",
+        "code": "QAS_MAR_AL_MAADEN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6907,
+        "totalMeters": 6317,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_02",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_03",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_04",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_05",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_06",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_07",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_08",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_09",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_11",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_12",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_13",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_15",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_16",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_17",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_MAADEN_YELLOW",
+        "code": "QAS_MAR_AL_MAADEN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6390,
+        "totalMeters": 5842,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_03",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_04",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_05",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_07",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_08",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_11",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_13",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_15",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_16",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_17",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_MAADEN_BLUE",
+        "code": "QAS_MAR_AL_MAADEN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6019,
+        "totalMeters": 5504,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_03",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_04",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_11",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_12",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_13",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_15",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_16",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_17",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_AL_MAADEN_RED",
+        "code": "QAS_MAR_AL_MAADEN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5214,
+        "totalMeters": 4766,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_01",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_03",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_05",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_06",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_07",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_08",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_11",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_12",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_13",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_15",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_16",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_17",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_AL_MAADEN_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      }
+    ]
+  }
+}

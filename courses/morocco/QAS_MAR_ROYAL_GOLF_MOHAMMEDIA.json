@@ -1,0 +1,728 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA",
+    "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA",
+    "name": "Royal Golf Mohammedia",
+    "city": "Mohammedia",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV généré par QasGolfPro Course Generator",
+    "dataVersion": 2,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_BLACK",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.1,
+        "slope": 147,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 147.1,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 147.1,
+            "par": 72
+          }
+        ],
+        "totalYards": 6515,
+        "totalMeters": 5956,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+            "yards": 407,
+            "meters": 372
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_WHITE",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.1,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 146.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 146.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6335,
+        "totalMeters": 5792,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_YELLOW",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.0,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 140.4,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 140.4,
+            "par": 72
+          }
+        ],
+        "totalYards": 6092,
+        "totalMeters": 5570,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+            "yards": 360,
+            "meters": 329
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_BLUE",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 75.2,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 141.1,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 141.1,
+            "par": 72
+          }
+        ],
+        "totalYards": 5717,
+        "totalMeters": 5225,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+            "yards": 346,
+            "meters": 316
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_RED",
+        "code": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.6,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 141.0,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 141.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 5258,
+        "totalMeters": 4809,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_01",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_02",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_08",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_09",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_10",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_11",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_13",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_17",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_MAR_ROYAL_GOLF_MOHAMMEDIA_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      }
+    ]
+  }
+}
