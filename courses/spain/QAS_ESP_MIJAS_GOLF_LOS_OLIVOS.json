@@ -1,0 +1,484 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS",
+    "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS",
+    "name": "Mijas Golf Club - Los Olivos",
+    "city": "Mijas",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": 36.55338,
+    "longitude": -4.67238,
+    "dataSource": "Mijas Golf Club - official Los Olivos scorecard and official slope table",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_01",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_02",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_03",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_04",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_05",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_06",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_07",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_08",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_09",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_10",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_11",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_12",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_13",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_14",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_15",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_16",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_17",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_18",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_WHITE",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.5,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 128,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6427,
+        "totalMeters": 5875,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_02",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_04",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_08",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_09",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_10",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_11",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_14",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_15",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_16",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_17",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_18",
+            "yards": 476,
+            "meters": 435
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_YELLOW",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6110,
+        "totalMeters": 5588,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_02",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_04",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_06",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_10",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_12",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_13",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_14",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_15",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_18",
+            "yards": 460,
+            "meters": 421
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_RED",
+        "code": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.1,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 119,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 123,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5388,
+        "totalMeters": 4926,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_02",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_03",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_09",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_10",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_13",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_15",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_16",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_17",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_MIJAS_GOLF_LOS_OLIVOS_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      }
+    ]
+  }
+}
