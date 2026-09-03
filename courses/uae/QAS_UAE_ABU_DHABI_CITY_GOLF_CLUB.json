@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB",
@@ -11,9 +11,10 @@
     "totalPar": 70,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Abu Dhabi City Golf Club — Scorecard officiel 2025 + Emirates Golf Federation Course Rating Program",
+    "dataVersion": 2,
+    "isVerified": true,
+    "pruneMissingTees": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_01",
@@ -27,7 +28,7 @@
         "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_02",
         "number": 2,
         "par": 4,
-        "strokeIndex": 4
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_03",
@@ -69,7 +70,7 @@
         "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_08",
         "number": 8,
         "par": 5,
-        "strokeIndex": 2
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_09",
@@ -90,7 +91,7 @@
         "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_11",
         "number": 11,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_12",
@@ -132,7 +133,7 @@
         "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_17",
         "number": 17,
         "par": 5,
-        "strokeIndex": 1
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_18",
@@ -144,105 +145,222 @@
     ],
     "tees": [
       {
-        "uuid": "TEE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_RED",
-        "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_RED",
-        "type": "RED",
-        "displayName": "Dames",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 4941,
-        "totalMeters": 4519,
+        "uuid": "TEE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_BACK",
+        "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_BACK",
+        "type": "BACK",
+        "displayName": "Messieurs Bleu / Jaune",
+        "courseRating": 70.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 134,
+            "par": 70
+          }
+        ],
+        "totalYards": 6307,
+        "totalMeters": 5767,
         "distances": [
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_01",
-            "yards": 293,
-            "meters": 268
+            "yards": 355,
+            "meters": 325
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_02",
-            "yards": 334,
-            "meters": 305
+            "yards": 385,
+            "meters": 352
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_03",
-            "yards": 315,
-            "meters": 288
+            "yards": 390,
+            "meters": 357
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_04",
-            "yards": 119,
-            "meters": 109
+            "yards": 150,
+            "meters": 137
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_05",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_07",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_08",
+            "yards": 610,
+            "meters": 558
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_09",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_14",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_15",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_17",
+            "yards": 630,
+            "meters": 576
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_LADIES",
+        "code": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_LADIES",
+        "type": "LADIES",
+        "displayName": "Dames Rouge / Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 131,
+            "par": 70
+          }
+        ],
+        "totalYards": 5403,
+        "totalMeters": 4941,
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_01",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_03",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_04",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_06",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_07",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_08",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_09",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_13",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_14",
             "yards": 325,
             "meters": 297
           },
           {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_06",
-            "yards": 252,
-            "meters": 230
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_07",
-            "yards": 133,
-            "meters": 122
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_08",
-            "yards": 413,
-            "meters": 378
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_09",
-            "yards": 245,
-            "meters": 224
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_10",
-            "yards": 302,
-            "meters": 276
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_11",
-            "yards": 343,
-            "meters": 314
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_12",
-            "yards": 302,
-            "meters": 276
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_13",
-            "yards": 128,
-            "meters": 117
-          },
-          {
-            "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_14",
-            "yards": 297,
-            "meters": 272
-          },
-          {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_15",
-            "yards": 265,
-            "meters": 242
+            "yards": 290,
+            "meters": 265
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_16",
-            "yards": 119,
-            "meters": 109
+            "yards": 130,
+            "meters": 119
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_17",
-            "yards": 484,
-            "meters": 443
+            "yards": 530,
+            "meters": 485
           },
           {
             "holeCode": "QAS_UAE_ABU_DHABI_CITY_GOLF_CLUB_18",
-            "yards": 272,
-            "meters": 249
+            "yards": 298,
+            "meters": 272
           }
         ]
       }
