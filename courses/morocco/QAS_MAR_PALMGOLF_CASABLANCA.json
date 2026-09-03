@@ -11,8 +11,8 @@
     "totalPar": 71,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 4,
+    "dataSource": "QasGolfPro — distances et ratings issus du jeu de données SSS/Slope; conflit connu avec une autre carte de score utilisateur sur certaines longueurs, donc statut non vérifié",
+    "dataVersion": 5,
     "isVerified": false,
     "holes": [
       {
@@ -723,6 +723,7 @@
           }
         ]
       }
-    ]
+    ],
+    "pruneMissingTees": true
   }
 }
