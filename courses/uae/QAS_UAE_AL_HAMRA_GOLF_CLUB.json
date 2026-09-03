@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_AL_HAMRA_GOLF_CLUB",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard; official club page confirms five tee options; Yellow from All Square | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,56 +20,56 @@
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 14
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
         "number": 2,
         "par": 4,
-        "strokeIndex": 6
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
         "number": 3,
         "par": 5,
-        "strokeIndex": 4
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
         "number": 4,
         "par": 3,
-        "strokeIndex": 16
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
         "number": 5,
         "par": 4,
-        "strokeIndex": 12
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
         "number": 6,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
         "number": 7,
         "par": 3,
-        "strokeIndex": 18
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
         "number": 8,
         "par": 5,
-        "strokeIndex": 10
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
@@ -144,35 +144,488 @@
     ],
     "tees": [
       {
+        "uuid": "TEE_QAS_UAE_AL_HAMRA_GOLF_CLUB_BLACK",
+        "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.3,
+        "slope": 138,
+        "totalYards": 7323,
+        "totalMeters": 6696,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 138,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
+            "yards": 607,
+            "meters": 555
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_10",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_11",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_12",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_14",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_15",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_17",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_18",
+            "yards": 576,
+            "meters": 527
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_HAMRA_GOLF_CLUB_BLUE",
+        "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.7,
+        "slope": 135,
+        "totalYards": 6989,
+        "totalMeters": 6391,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 135,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
+            "yards": 592,
+            "meters": 541
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_10",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_11",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_14",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_15",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_16",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_17",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_18",
+            "yards": 550,
+            "meters": 503
+          }
+        ]
+      },
+      {
         "uuid": "TEE_QAS_UAE_AL_HAMRA_GOLF_CLUB_WHITE",
         "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6130,
-        "totalMeters": 5605,
+        "courseRating": 72.4,
+        "slope": 132,
+        "totalYards": 6703,
+        "totalMeters": 6130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 132,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
-            "yards": 308,
-            "meters": 282
+            "yards": 337,
+            "meters": 308
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
-            "yards": 340,
-            "meters": 311
+            "yards": 372,
+            "meters": 340
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
-            "yards": 497,
-            "meters": 454
+            "yards": 543,
+            "meters": 497
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
-            "yards": 122,
-            "meters": 112
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_12",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_13",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_14",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_15",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_17",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_18",
+            "yards": 532,
+            "meters": 486
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_HAMRA_GOLF_CLUB_YELLOW",
+        "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.6,
+        "slope": 131,
+        "totalYards": 6126,
+        "totalMeters": 5601,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 131,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 134,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_11",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_12",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_13",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_14",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_15",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_16",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_HAMRA_GOLF_CLUB_RED",
+        "code": "QAS_UAE_AL_HAMRA_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 73.4,
+        "slope": 130,
+        "totalYards": 5815,
+        "totalMeters": 5318,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 130,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_01",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_03",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_04",
+            "yards": 118,
+            "meters": 108
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_05",
@@ -181,68 +634,68 @@
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_06",
-            "yards": 383,
-            "meters": 350
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_07",
-            "yards": 135,
-            "meters": 123
+            "yards": 122,
+            "meters": 112
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_08",
-            "yards": 526,
-            "meters": 481
+            "yards": 490,
+            "meters": 448
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_09",
-            "yards": 420,
-            "meters": 384
+            "yards": 392,
+            "meters": 358
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_10",
-            "yards": 382,
-            "meters": 349
+            "yards": 355,
+            "meters": 325
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_11",
-            "yards": 152,
-            "meters": 139
+            "yards": 145,
+            "meters": 133
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_12",
-            "yards": 386,
-            "meters": 353
+            "yards": 356,
+            "meters": 326
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_13",
-            "yards": 292,
-            "meters": 267
+            "yards": 272,
+            "meters": 249
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_14",
-            "yards": 476,
-            "meters": 435
+            "yards": 444,
+            "meters": 406
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_15",
-            "yards": 175,
-            "meters": 160
+            "yards": 163,
+            "meters": 149
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_16",
-            "yards": 366,
-            "meters": 335
+            "yards": 341,
+            "meters": 312
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_17",
-            "yards": 389,
-            "meters": 356
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_UAE_AL_HAMRA_GOLF_CLUB_18",
-            "yards": 486,
-            "meters": 444
+            "yards": 463,
+            "meters": 423
           }
         ]
       }

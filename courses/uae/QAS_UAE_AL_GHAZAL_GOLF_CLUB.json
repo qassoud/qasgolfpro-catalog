@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_AL_GHAZAL_GOLF_CLUB",
@@ -11,8 +11,8 @@
     "totalPar": 71,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -148,101 +148,328 @@
         "code": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6148,
-        "totalMeters": 5620,
+        "courseRating": 70.3,
+        "slope": 133,
+        "totalYards": 6724,
+        "totalMeters": 6148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 133,
+            "par": 71
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_01",
-            "yards": 331,
-            "meters": 303
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_02",
-            "yards": 383,
-            "meters": 350
+            "yards": 419,
+            "meters": 383
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_03",
-            "yards": 112,
-            "meters": 102
+            "yards": 123,
+            "meters": 112
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_04",
-            "yards": 332,
-            "meters": 304
+            "yards": 364,
+            "meters": 333
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_05",
-            "yards": 529,
-            "meters": 484
+            "yards": 578,
+            "meters": 529
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_06",
-            "yards": 163,
-            "meters": 149
+            "yards": 178,
+            "meters": 163
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_07",
-            "yards": 340,
-            "meters": 311
+            "yards": 372,
+            "meters": 340
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_08",
-            "yards": 296,
-            "meters": 271
+            "yards": 324,
+            "meters": 296
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_09",
-            "yards": 329,
-            "meters": 301
+            "yards": 360,
+            "meters": 329
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_10",
-            "yards": 326,
-            "meters": 298
+            "yards": 357,
+            "meters": 326
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_11",
-            "yards": 152,
-            "meters": 139
+            "yards": 166,
+            "meters": 152
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_12",
-            "yards": 369,
-            "meters": 337
+            "yards": 404,
+            "meters": 369
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_13",
-            "yards": 557,
-            "meters": 509
+            "yards": 609,
+            "meters": 557
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_14",
-            "yards": 416,
-            "meters": 380
+            "yards": 455,
+            "meters": 416
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_15",
-            "yards": 439,
-            "meters": 401
+            "yards": 479,
+            "meters": 438
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_16",
-            "yards": 182,
-            "meters": 166
+            "yards": 199,
+            "meters": 182
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_17",
-            "yards": 535,
-            "meters": 489
+            "yards": 585,
+            "meters": 535
           },
           {
             "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_18",
+            "yards": 390,
+            "meters": 357
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_GHAZAL_GOLF_CLUB_BLUE",
+        "code": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.6,
+        "slope": 129,
+        "totalYards": 6511,
+        "totalMeters": 5953,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 129,
+            "par": 71
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_03",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_04",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_05",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_06",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_10",
             "yards": 357,
             "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_13",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_14",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_15",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_16",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_17",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_18",
+            "yards": 390,
+            "meters": 357
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_GHAZAL_GOLF_CLUB_RED",
+        "code": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.2,
+        "slope": 128,
+        "totalYards": 5491,
+        "totalMeters": 5022,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.2,
+            "slopeRating": 128,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_03",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_05",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_06",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_07",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_15",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_16",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_17",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_UAE_AL_GHAZAL_GOLF_CLUB_18",
+            "yards": 321,
+            "meters": 294
           }
         ]
       }

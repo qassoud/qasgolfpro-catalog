@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,14 +20,14 @@
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 11
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
         "number": 2,
         "par": 3,
-        "strokeIndex": 17
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
@@ -48,42 +48,42 @@
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
         "number": 5,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
         "number": 6,
         "par": 4,
-        "strokeIndex": 13
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
         "number": 7,
         "par": 3,
-        "strokeIndex": 15
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
         "number": 8,
         "par": 5,
-        "strokeIndex": 3
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 9
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 12
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
@@ -97,7 +97,7 @@
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
         "number": 12,
         "par": 3,
-        "strokeIndex": 18
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
@@ -111,21 +111,21 @@
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
         "number": 14,
         "par": 4,
-        "strokeIndex": 2
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 14
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
         "number": 16,
         "par": 5,
-        "strokeIndex": 6
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
@@ -139,10 +139,429 @@
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
         "number": 18,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 18
       }
     ],
     "tees": [
+      {
+        "uuid": "TEE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_BLACK",
+        "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "totalYards": 7691,
+        "totalMeters": 7030,
+        "ratings": [],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_04",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
+            "yards": 588,
+            "meters": 538
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
+            "yards": 193,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
+            "yards": 617,
+            "meters": 564
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
+            "yards": 489,
+            "meters": 447
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_YELLOW",
+        "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "totalYards": 7092,
+        "totalMeters": 6486,
+        "ratings": [],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
+            "yards": 193,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_04",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
+            "yards": 431,
+            "meters": 394
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_BLUE",
+        "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.3,
+        "slope": 125,
+        "totalYards": 6531,
+        "totalMeters": 5973,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 125,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_WHITE",
+        "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "totalYards": 5853,
+        "totalMeters": 5352,
+        "ratings": [],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
       {
         "uuid": "TEE_QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_RED",
         "code": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_RED",
@@ -150,64 +569,64 @@
         "displayName": "Rouge",
         "courseRating": null,
         "slope": null,
+        "totalYards": 5226,
+        "totalMeters": 4780,
         "ratings": [],
-        "totalYards": 5021,
-        "totalMeters": 4591,
         "distances": [
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_01",
-            "yards": 303,
-            "meters": 277
+            "yards": 307,
+            "meters": 281
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_02",
-            "yards": 114,
-            "meters": 104
+            "yards": 104,
+            "meters": 95
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_03",
-            "yards": 416,
-            "meters": 380
+            "yards": 384,
+            "meters": 351
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_04",
-            "yards": 288,
-            "meters": 263
+            "yards": 316,
+            "meters": 289
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_05",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
             "yards": 284,
             "meters": 260
           },
           {
-            "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_06",
-            "yards": 289,
-            "meters": 264
-          },
-          {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_07",
-            "yards": 141,
-            "meters": 129
+            "yards": 155,
+            "meters": 142
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_08",
-            "yards": 414,
-            "meters": 379
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_09",
-            "yards": 313,
-            "meters": 286
+            "yards": 343,
+            "meters": 314
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_10",
-            "yards": 291,
-            "meters": 266
+            "yards": 290,
+            "meters": 265
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_11",
-            "yards": 280,
-            "meters": 256
+            "yards": 307,
+            "meters": 281
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_12",
@@ -216,33 +635,33 @@
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_13",
-            "yards": 400,
-            "meters": 366
+            "yards": 423,
+            "meters": 387
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_14",
-            "yards": 297,
-            "meters": 272
+            "yards": 303,
+            "meters": 277
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_15",
-            "yards": 213,
-            "meters": 195
+            "yards": 234,
+            "meters": 214
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_16",
-            "yards": 427,
-            "meters": 390
+            "yards": 467,
+            "meters": 427
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_17",
-            "yards": 119,
-            "meters": 109
+            "yards": 131,
+            "meters": 120
           },
           {
             "holeCode": "QAS_UAE_ARABIAN_RANCHES_GOLF_CLUB_18",
-            "yards": 302,
-            "meters": 276
+            "yards": 331,
+            "meters": 303
           }
         ]
       }

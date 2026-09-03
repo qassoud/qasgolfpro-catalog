@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_YAS_LINKS_ABU_DHABI",
@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Yas Links Abu Dhabi official 2024 scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_UAE_YAS_LINKS_ABU_DHABI_01",
@@ -144,105 +144,552 @@
     ],
     "tees": [
       {
-        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_54",
-        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_54",
-        "type": "TEE_54",
-        "displayName": "54",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 4967,
-        "totalMeters": 4541,
+        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_74",
+        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_74",
+        "type": "TEE_74",
+        "displayName": "74",
+        "courseRating": 76.1,
+        "slope": 143,
+        "totalYards": 7414,
+        "totalMeters": 6780,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.1,
+            "slopeRating": 143,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_01",
-            "yards": 240,
-            "meters": 219
+            "yards": 378,
+            "meters": 346
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_02",
-            "yards": 362,
-            "meters": 331
+            "yards": 534,
+            "meters": 488
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_03",
-            "yards": 313,
-            "meters": 286
+            "yards": 442,
+            "meters": 404
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_04",
-            "yards": 131,
-            "meters": 120
+            "yards": 212,
+            "meters": 194
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_05",
-            "yards": 264,
-            "meters": 241
+            "yards": 405,
+            "meters": 370
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_06",
-            "yards": 299,
-            "meters": 273
+            "yards": 468,
+            "meters": 428
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_07",
-            "yards": 409,
-            "meters": 374
+            "yards": 591,
+            "meters": 540
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_08",
-            "yards": 100,
-            "meters": 91
+            "yards": 186,
+            "meters": 170
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_09",
-            "yards": 348,
-            "meters": 318
+            "yards": 481,
+            "meters": 440
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_10",
-            "yards": 284,
-            "meters": 260
+            "yards": 394,
+            "meters": 360
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_11",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_12",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_13",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_15",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_16",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_17",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_18",
+            "yards": 646,
+            "meters": 591
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_70",
+        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_70",
+        "type": "TEE_70",
+        "displayName": "70",
+        "courseRating": 74.9,
+        "slope": 139,
+        "totalYards": 7037,
+        "totalMeters": 6435,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 139,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_02",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_03",
             "yards": 423,
             "meters": 387
           },
           {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_04",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_06",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_07",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_09",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_11",
+            "yards": 560,
+            "meters": 512
+          },
+          {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_12",
-            "yards": 326,
-            "meters": 298
+            "yards": 439,
+            "meters": 401
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_13",
-            "yards": 87,
-            "meters": 80
+            "yards": 145,
+            "meters": 133
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_14",
-            "yards": 243,
-            "meters": 222
+            "yards": 329,
+            "meters": 301
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_15",
-            "yards": 316,
-            "meters": 289
+            "yards": 453,
+            "meters": 414
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_16",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_17",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_18",
+            "yards": 608,
+            "meters": 556
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_66",
+        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_66",
+        "type": "TEE_66",
+        "displayName": "66",
+        "courseRating": 72.5,
+        "slope": 134,
+        "totalYards": 6611,
+        "totalMeters": 6046,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 134,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_02",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_03",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_04",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_05",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_06",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_07",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_08",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_09",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_11",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_15",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_16",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_18",
+            "yards": 589,
+            "meters": 539
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_62",
+        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_62",
+        "type": "TEE_62",
+        "displayName": "62",
+        "courseRating": 72.0,
+        "slope": 129,
+        "totalYards": 6236,
+        "totalMeters": 5701,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 129,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_02",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_07",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_09",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_11",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_13",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_14",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_15",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_16",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_18",
+            "yards": 558,
+            "meters": 510
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_54",
+        "code": "QAS_UAE_YAS_LINKS_ABU_DHABI_TEE_54",
+        "type": "TEE_54",
+        "displayName": "54",
+        "courseRating": 72.0,
+        "slope": 129,
+        "totalYards": 5434,
+        "totalMeters": 4967,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 129,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_01",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_02",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_05",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_07",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_08",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_09",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_11",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_13",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_14",
             "yards": 266,
             "meters": 243
           },
           {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_17",
-            "yards": 120,
-            "meters": 110
+            "yards": 131,
+            "meters": 120
           },
           {
             "holeCode": "QAS_UAE_YAS_LINKS_ABU_DHABI_18",
-            "yards": 436,
-            "meters": 399
+            "yards": 477,
+            "meters": 436
           }
         ]
       }

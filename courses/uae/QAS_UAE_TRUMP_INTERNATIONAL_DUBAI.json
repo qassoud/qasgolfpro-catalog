@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI",
@@ -11,9 +11,9 @@
     "totalPar": 71,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Trump International Golf Club Dubai official virtual course tour; ratings cross-checked with Chronogolf | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_01",
@@ -144,105 +144,448 @@
     ],
     "tees": [
       {
-        "uuid": "TEE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_BLUE",
-        "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_BLUE",
-        "type": "BLUE",
-        "displayName": "Bleu (Dames)",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 5856,
-        "totalMeters": 5355,
+        "uuid": "TEE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_TIPS",
+        "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_TIPS",
+        "type": "TIPS",
+        "displayName": "Tips",
+        "courseRating": 73.6,
+        "slope": 133,
+        "totalYards": 7229,
+        "totalMeters": 6611,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.6,
+            "slopeRating": 133,
+            "par": 71
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_01",
-            "yards": 361,
-            "meters": 330
+            "yards": 439,
+            "meters": 401
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_02",
-            "yards": 502,
-            "meters": 459
+            "yards": 611,
+            "meters": 559
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_03",
-            "yards": 157,
-            "meters": 144
+            "yards": 217,
+            "meters": 198
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_04",
-            "yards": 405,
-            "meters": 370
+            "yards": 498,
+            "meters": 455
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_05",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_07",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_08",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_09",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_10",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_12",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_13",
+            "yards": 599,
+            "meters": 548
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_14",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_15",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_16",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_17",
             "yards": 156,
             "meters": 143
           },
           {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_06",
-            "yards": 332,
-            "meters": 304
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_18",
+            "yards": 452,
+            "meters": 413
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_GOLD",
+        "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_GOLD",
+        "type": "GOLD",
+        "displayName": "Or",
+        "courseRating": 72.0,
+        "slope": 129,
+        "totalYards": 6839,
+        "totalMeters": 6254,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 129,
+            "par": 71
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_01",
+            "yards": 416,
+            "meters": 380
           },
           {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_07",
-            "yards": 405,
-            "meters": 370
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_02",
+            "yards": 586,
+            "meters": 536
           },
           {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_08",
-            "yards": 269,
-            "meters": 246
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_03",
+            "yards": 194,
+            "meters": 177
           },
           {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_09",
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_04",
             "yards": 469,
             "meters": 429
           },
           {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_05",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_06",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_07",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_08",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_10",
-            "yards": 382,
-            "meters": 349
+            "yards": 442,
+            "meters": 404
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_11",
-            "yards": 326,
-            "meters": 298
-          },
-          {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_12",
-            "yards": 230,
-            "meters": 210
-          },
-          {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_13",
-            "yards": 509,
-            "meters": 465
-          },
-          {
-            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_14",
             "yards": 375,
             "meters": 343
           },
           {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_12",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_13",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_14",
+            "yards": 436,
+            "meters": 399
+          },
+          {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_15",
-            "yards": 122,
-            "meters": 112
+            "yards": 150,
+            "meters": 137
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_16",
-            "yards": 369,
-            "meters": 337
+            "yards": 435,
+            "meters": 398
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_17",
-            "yards": 120,
-            "meters": 110
+            "yards": 141,
+            "meters": 129
           },
           {
             "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_18",
-            "yards": 367,
-            "meters": 336
+            "yards": 424,
+            "meters": 388
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_BLUE",
+        "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.0,
+        "slope": 125,
+        "totalYards": 6406,
+        "totalMeters": 5857,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 125,
+            "par": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.0,
+            "slopeRating": 125,
+            "par": 71
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_02",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_06",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_09",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_12",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_13",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_15",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_16",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_RED",
+        "code": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 68.4,
+        "slope": 119,
+        "totalYards": 5119,
+        "totalMeters": 4682,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.4,
+            "slopeRating": 119,
+            "par": 71
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_02",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_03",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_06",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_08",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_09",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_11",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_12",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_13",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_14",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_15",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_16",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_17",
+            "yards": 81,
+            "meters": 74
+          },
+          {
+            "holeCode": "QAS_UAE_TRUMP_INTERNATIONAL_DUBAI_18",
+            "yards": 271,
+            "meters": 248
           }
         ]
       }

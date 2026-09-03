@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_TOWER_LINKS_GOLF_CLUB",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,21 +20,21 @@
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 11
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
         "number": 2,
         "par": 4,
-        "strokeIndex": 15
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
         "number": 3,
         "par": 4,
-        "strokeIndex": 7
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_04",
@@ -48,14 +48,14 @@
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_05",
         "number": 5,
         "par": 5,
-        "strokeIndex": 1
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
         "number": 6,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_07",
@@ -76,21 +76,21 @@
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
         "number": 11,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_12",
@@ -111,21 +111,21 @@
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
         "number": 14,
         "par": 4,
-        "strokeIndex": 12
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 14
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
         "number": 16,
         "par": 3,
-        "strokeIndex": 16
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_17",
@@ -139,7 +139,7 @@
         "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_18",
         "number": 18,
         "par": 5,
-        "strokeIndex": 6
+        "strokeIndex": 8
       }
     ],
     "tees": [
@@ -150,99 +150,415 @@
         "displayName": "Noir",
         "courseRating": null,
         "slope": null,
+        "totalYards": 7199,
+        "totalMeters": 6583,
         "ratings": [],
-        "totalYards": 6575,
-        "totalMeters": 6010,
         "distances": [
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_01",
-            "yards": 370,
-            "meters": 338
+            "yards": 405,
+            "meters": 370
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
-            "yards": 378,
-            "meters": 346
+            "yards": 414,
+            "meters": 379
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
-            "yards": 346,
-            "meters": 316
+            "yards": 379,
+            "meters": 347
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_04",
-            "yards": 182,
-            "meters": 166
+            "yards": 199,
+            "meters": 182
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_05",
-            "yards": 533,
-            "meters": 487
+            "yards": 583,
+            "meters": 533
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
-            "yards": 418,
-            "meters": 382
+            "yards": 458,
+            "meters": 419
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_07",
-            "yards": 563,
-            "meters": 515
+            "yards": 616,
+            "meters": 563
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_08",
-            "yards": 235,
-            "meters": 215
+            "yards": 258,
+            "meters": 236
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_09",
-            "yards": 406,
-            "meters": 371
+            "yards": 445,
+            "meters": 407
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
-            "yards": 384,
-            "meters": 351
+            "yards": 420,
+            "meters": 384
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
-            "yards": 329,
-            "meters": 301
+            "yards": 360,
+            "meters": 329
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_12",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_13",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_18",
+            "yards": 563,
+            "meters": 515
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_BLUE",
+        "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "totalYards": 6693,
+        "totalMeters": 6119,
+        "ratings": [],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_04",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_05",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_07",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_08",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_12",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_13",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_17",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_18",
+            "yards": 531,
+            "meters": 486
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_WHITE",
+        "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.1,
+        "slope": 133,
+        "totalYards": 6201,
+        "totalMeters": 5671,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 133,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_05",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_07",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_08",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
             "yards": 147,
             "meters": 134
           },
           {
-            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_13",
-            "yards": 521,
-            "meters": 476
-          },
-          {
-            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
-            "yards": 357,
-            "meters": 326
-          },
-          {
-            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
-            "yards": 339,
-            "meters": 310
-          },
-          {
-            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
-            "yards": 168,
-            "meters": 154
-          },
-          {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_17",
-            "yards": 385,
-            "meters": 352
+            "yards": 371,
+            "meters": 339
           },
           {
             "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_18",
-            "yards": 514,
-            "meters": 470
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_TOWER_LINKS_GOLF_CLUB_RED",
+        "code": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "totalYards": 5540,
+        "totalMeters": 5065,
+        "ratings": [],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_03",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_05",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_10",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_11",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_12",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_13",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_14",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_15",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_17",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_TOWER_LINKS_GOLF_CLUB_18",
+            "yards": 461,
+            "meters": 422
           }
         ]
       }

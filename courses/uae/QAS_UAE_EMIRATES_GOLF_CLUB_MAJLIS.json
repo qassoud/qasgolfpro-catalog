@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -34,21 +34,21 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_03",
         "number": 3,
         "par": 5,
-        "strokeIndex": 15
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
         "number": 4,
         "par": 3,
-        "strokeIndex": 11
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
         "number": 5,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_06",
@@ -62,21 +62,21 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_07",
         "number": 7,
         "par": 3,
-        "strokeIndex": 17
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
         "number": 8,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_10",
@@ -90,7 +90,7 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_11",
         "number": 11,
         "par": 3,
-        "strokeIndex": 16
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_12",
@@ -104,7 +104,7 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_13",
         "number": 13,
         "par": 5,
-        "strokeIndex": 12
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_14",
@@ -125,21 +125,21 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_16",
         "number": 16,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
         "number": 17,
         "par": 4,
-        "strokeIndex": 18
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
         "number": 18,
         "par": 5,
-        "strokeIndex": 6
+        "strokeIndex": 12
       }
     ],
     "tees": [
@@ -150,29 +150,255 @@
         "displayName": "Noir",
         "courseRating": null,
         "slope": null,
+        "totalYards": 7293,
+        "totalMeters": 6670,
         "ratings": [],
-        "totalYards": 6775,
-        "totalMeters": 6195,
         "distances": [
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_01",
-            "yards": 429,
-            "meters": 392
+            "yards": 458,
+            "meters": 419
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_02",
-            "yards": 322,
-            "meters": 294
+            "yards": 351,
+            "meters": 321
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_03",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_06",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_07",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_10",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_11",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_12",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_13",
             "yards": 550,
             "meters": 503
           },
           {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_15",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_16",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
+            "yards": 564,
+            "meters": 516
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_BLUE",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 75.2,
+        "slope": 146,
+        "totalYards": 6896,
+        "totalMeters": 6306,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 146,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_01",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
-            "yards": 165,
-            "meters": 151
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_07",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_10",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_11",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_12",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_13",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_15",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
+            "yards": 527,
+            "meters": 482
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_WHITE",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.9,
+        "slope": 142,
+        "totalYards": 6532,
+        "totalMeters": 5973,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 142,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.6,
+            "slopeRating": 152,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_03",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
+            "yards": 157,
+            "meters": 144
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
@@ -181,68 +407,184 @@
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_06",
-            "yards": 443,
-            "meters": 405
+            "yards": 431,
+            "meters": 394
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_07",
-            "yards": 170,
-            "meters": 155
+            "yards": 152,
+            "meters": 139
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
-            "yards": 420,
-            "meters": 384
+            "yards": 389,
+            "meters": 356
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
-            "yards": 446,
-            "meters": 408
+            "yards": 398,
+            "meters": 364
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_10",
-            "yards": 502,
-            "meters": 459
+            "yards": 523,
+            "meters": 478
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_11",
-            "yards": 155,
-            "meters": 142
+            "yards": 149,
+            "meters": 136
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_12",
-            "yards": 435,
-            "meters": 398
+            "yards": 427,
+            "meters": 390
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_13",
-            "yards": 503,
-            "meters": 460
+            "yards": 528,
+            "meters": 483
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_14",
-            "yards": 397,
-            "meters": 363
+            "yards": 400,
+            "meters": 366
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_15",
-            "yards": 174,
-            "meters": 159
+            "yards": 163,
+            "meters": 149
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_16",
-            "yards": 408,
-            "meters": 373
+            "yards": 351,
+            "meters": 321
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
-            "yards": 328,
-            "meters": 300
+            "yards": 318,
+            "meters": 291
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
-            "yards": 516,
-            "meters": 472
+            "yards": 511,
+            "meters": 467
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_RED",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 74.2,
+        "slope": 141,
+        "totalYards": 5568,
+        "totalMeters": 5092,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 127,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 141,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_02",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_03",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_05",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_06",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_07",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_09",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_10",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_11",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_13",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_15",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_17",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_MAJLIS_18",
+            "yards": 459,
+            "meters": 420
           }
         ]
       }

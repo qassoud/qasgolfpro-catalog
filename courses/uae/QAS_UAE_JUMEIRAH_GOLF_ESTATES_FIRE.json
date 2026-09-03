@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -27,7 +27,7 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_02",
         "number": 2,
         "par": 3,
-        "strokeIndex": 9
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_03",
@@ -41,7 +41,7 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_04",
         "number": 4,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_05",
@@ -62,28 +62,28 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_07",
         "number": 7,
         "par": 5,
-        "strokeIndex": 15
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
         "number": 8,
         "par": 3,
-        "strokeIndex": 17
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 2
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_11",
@@ -125,21 +125,21 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_16",
         "number": 16,
         "par": 4,
-        "strokeIndex": 16
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
         "number": 17,
         "par": 4,
-        "strokeIndex": 4
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
         "number": 18,
         "par": 5,
-        "strokeIndex": 18
+        "strokeIndex": 16
       }
     ],
     "tees": [
@@ -148,101 +148,456 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_CHAMPIONSHIP",
         "type": "CHAMPIONSHIP",
         "displayName": "Championship",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6839,
-        "totalMeters": 6256,
+        "courseRating": 76.7,
+        "slope": 142,
+        "totalYards": 7480,
+        "totalMeters": 6839,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.7,
+            "slopeRating": 142,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_01",
-            "yards": 330,
-            "meters": 302
+            "yards": 361,
+            "meters": 330
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_02",
-            "yards": 229,
-            "meters": 209
+            "yards": 250,
+            "meters": 229
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_03",
-            "yards": 413,
-            "meters": 378
+            "yards": 452,
+            "meters": 413
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_04",
-            "yards": 408,
-            "meters": 373
+            "yards": 446,
+            "meters": 408
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_05",
-            "yards": 576,
-            "meters": 527
+            "yards": 630,
+            "meters": 576
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_06",
-            "yards": 364,
-            "meters": 333
+            "yards": 398,
+            "meters": 364
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_07",
-            "yards": 507,
-            "meters": 464
+            "yards": 555,
+            "meters": 507
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
-            "yards": 191,
-            "meters": 175
+            "yards": 209,
+            "meters": 191
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
-            "yards": 402,
-            "meters": 368
+            "yards": 440,
+            "meters": 402
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
-            "yards": 448,
-            "meters": 410
+            "yards": 490,
+            "meters": 448
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_11",
-            "yards": 230,
-            "meters": 210
+            "yards": 251,
+            "meters": 230
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_12",
-            "yards": 348,
-            "meters": 318
+            "yards": 381,
+            "meters": 348
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_13",
-            "yards": 568,
-            "meters": 519
+            "yards": 621,
+            "meters": 568
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_14",
-            "yards": 180,
-            "meters": 165
+            "yards": 197,
+            "meters": 180
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_15",
-            "yards": 413,
-            "meters": 378
+            "yards": 452,
+            "meters": 413
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_16",
-            "yards": 311,
-            "meters": 284
+            "yards": 340,
+            "meters": 311
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
-            "yards": 414,
-            "meters": 379
+            "yards": 453,
+            "meters": 414
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
-            "yards": 507,
-            "meters": 464
+            "yards": 554,
+            "meters": 507
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_TOURNAMENT",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 74.8,
+        "slope": 138,
+        "totalYards": 7062,
+        "totalMeters": 6456,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.8,
+            "slopeRating": 138,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 81.3,
+            "slopeRating": 150,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_02",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_03",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_04",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_05",
+            "yards": 606,
+            "meters": 554
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_07",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_11",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_12",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_13",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_14",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_16",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
+            "yards": 525,
+            "meters": 480
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_SIGNATURE",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_SIGNATURE",
+        "type": "SIGNATURE",
+        "displayName": "Signature",
+        "courseRating": 72.2,
+        "slope": 132,
+        "totalYards": 6507,
+        "totalMeters": 5950,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 132,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.2,
+            "slopeRating": 143,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_02",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_03",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_04",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_05",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_07",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_11",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_12",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_13",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_14",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
+            "yards": 491,
+            "meters": 449
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_FORWARD",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_FORWARD",
+        "type": "FORWARD",
+        "displayName": "Forward",
+        "courseRating": 67.9,
+        "slope": 125,
+        "totalYards": 5619,
+        "totalMeters": 5140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.9,
+            "slopeRating": 125,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 133,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_01",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_02",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_05",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_06",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_07",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_08",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_11",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_12",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_13",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_14",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_15",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_16",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_17",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_FIRE_18",
+            "yards": 426,
+            "meters": 390
           }
         ]
       }

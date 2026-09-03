@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_AL_AIN_CHAMPIONSHIP",
@@ -11,8 +11,8 @@
     "totalPar": 70,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Grassy detailed scorecard; black rating cross-checked with Golf Genius | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -148,101 +148,438 @@
         "code": "QAS_UAE_AL_AIN_CHAMPIONSHIP_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6186,
-        "totalMeters": 5656,
+        "courseRating": 72.7,
+        "slope": 135,
+        "totalYards": 7117,
+        "totalMeters": 6507,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 135,
+            "par": 70
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_01",
-            "yards": 388,
-            "meters": 355
+            "yards": 472,
+            "meters": 432
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_02",
-            "yards": 411,
-            "meters": 376
+            "yards": 506,
+            "meters": 463
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_03",
-            "yards": 176,
-            "meters": 161
+            "yards": 193,
+            "meters": 176
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_04",
-            "yards": 278,
-            "meters": 254
+            "yards": 304,
+            "meters": 278
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_05",
-            "yards": 354,
-            "meters": 324
+            "yards": 432,
+            "meters": 395
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_06",
-            "yards": 396,
-            "meters": 362
+            "yards": 433,
+            "meters": 396
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_07",
-            "yards": 466,
-            "meters": 426
+            "yards": 545,
+            "meters": 498
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_08",
-            "yards": 154,
-            "meters": 141
+            "yards": 194,
+            "meters": 177
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_09",
-            "yards": 416,
-            "meters": 380
+            "yards": 487,
+            "meters": 445
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_10",
-            "yards": 620,
-            "meters": 567
+            "yards": 678,
+            "meters": 620
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_11",
-            "yards": 421,
-            "meters": 385
+            "yards": 460,
+            "meters": 421
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_12",
-            "yards": 371,
-            "meters": 339
+            "yards": 417,
+            "meters": 381
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_13",
-            "yards": 183,
-            "meters": 167
+            "yards": 200,
+            "meters": 183
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_14",
-            "yards": 338,
-            "meters": 309
+            "yards": 407,
+            "meters": 372
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_15",
-            "yards": 147,
-            "meters": 134
+            "yards": 187,
+            "meters": 171
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_16",
-            "yards": 385,
-            "meters": 352
+            "yards": 456,
+            "meters": 417
           },
           {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_17",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_18",
+            "yards": 574,
+            "meters": 525
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_AIN_CHAMPIONSHIP_BLUE",
+        "code": "QAS_UAE_AL_AIN_CHAMPIONSHIP_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.7,
+        "slope": 132,
+        "totalYards": 6349,
+        "totalMeters": 5806,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 132,
+            "par": 70
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_01",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_02",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_03",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_04",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_05",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_06",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_07",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_09",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_10",
+            "yards": 638,
+            "meters": 583
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_12",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_13",
             "yards": 157,
             "meters": 144
           },
           {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_15",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_16",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
             "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_18",
-            "yards": 525,
-            "meters": 480
+            "yards": 535,
+            "meters": 489
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_AIN_CHAMPIONSHIP_WHITE",
+        "code": "QAS_UAE_AL_AIN_CHAMPIONSHIP_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 67.5,
+        "slope": 129,
+        "totalYards": 5865,
+        "totalMeters": 5361,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.5,
+            "slopeRating": 129,
+            "par": 70
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_03",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_04",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_07",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_10",
+            "yards": 603,
+            "meters": 551
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_11",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_13",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_14",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_15",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_16",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_17",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_18",
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_AL_AIN_CHAMPIONSHIP_RED",
+        "code": "QAS_UAE_AL_AIN_CHAMPIONSHIP_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 69.8,
+        "slope": 129,
+        "totalYards": 5376,
+        "totalMeters": 4915,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "par": 70
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_01",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_04",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_05",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_07",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_10",
+            "yards": 567,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_12",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_13",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_14",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_15",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_16",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_17",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_UAE_AL_AIN_CHAMPIONSHIP_18",
+            "yards": 473,
+            "meters": 433
           }
         ]
       }

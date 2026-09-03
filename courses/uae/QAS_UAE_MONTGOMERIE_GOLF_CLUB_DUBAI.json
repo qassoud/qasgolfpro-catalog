@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -148,101 +148,438 @@
         "code": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6808,
-        "totalMeters": 6226,
+        "courseRating": 75.5,
+        "slope": 135,
+        "totalYards": 7446,
+        "totalMeters": 6809,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.5,
+            "slopeRating": 135,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_01",
-            "yards": 367,
-            "meters": 336
+            "yards": 402,
+            "meters": 368
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_02",
-            "yards": 385,
-            "meters": 352
+            "yards": 421,
+            "meters": 385
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_03",
-            "yards": 433,
-            "meters": 396
+            "yards": 473,
+            "meters": 433
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_04",
-            "yards": 497,
-            "meters": 454
-          },
-          {
-            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_05",
-            "yards": 385,
-            "meters": 352
-          },
-          {
-            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_06",
-            "yards": 201,
-            "meters": 184
-          },
-          {
-            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_07",
-            "yards": 385,
-            "meters": 352
-          },
-          {
-            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_08",
-            "yards": 180,
-            "meters": 165
-          },
-          {
-            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_09",
-            "yards": 544,
+            "yards": 543,
             "meters": 497
           },
           {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_05",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_06",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_07",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_08",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_09",
+            "yards": 595,
+            "meters": 544
+          },
+          {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_11",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_12",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_13",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_14",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_15",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_16",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_17",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_18",
+            "yards": 656,
+            "meters": 600
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_BLUE",
+        "code": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.9,
+        "slope": 132,
+        "totalYards": 6686,
+        "totalMeters": 6113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 132,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_01",
             "yards": 376,
             "meters": 344
           },
           {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_03",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_04",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_07",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_09",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_10",
+            "yards": 363,
+            "meters": 332
+          },
+          {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_11",
-            "yards": 369,
-            "meters": 337
+            "yards": 371,
+            "meters": 339
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_12",
-            "yards": 423,
-            "meters": 387
+            "yards": 432,
+            "meters": 395
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_13",
-            "yards": 187,
-            "meters": 171
+            "yards": 131,
+            "meters": 120
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_14",
-            "yards": 495,
-            "meters": 453
+            "yards": 499,
+            "meters": 456
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_15",
-            "yards": 370,
-            "meters": 338
+            "yards": 363,
+            "meters": 332
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_16",
-            "yards": 424,
-            "meters": 388
+            "yards": 445,
+            "meters": 407
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_17",
-            "yards": 187,
-            "meters": 171
+            "yards": 136,
+            "meters": 124
           },
           {
             "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_18",
-            "yards": 600,
-            "meters": 549
+            "yards": 567,
+            "meters": 518
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_GREEN",
+        "code": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 69.3,
+        "slope": 128,
+        "totalYards": 6126,
+        "totalMeters": 5602,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 128,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_02",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_03",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_04",
+            "yards": 496,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_06",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_07",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_09",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_13",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_17",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_18",
+            "yards": 559,
+            "meters": 511
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_LADIES",
+        "code": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_LADIES",
+        "type": "LADIES",
+        "displayName": "Dames",
+        "courseRating": 70.4,
+        "slope": 126,
+        "totalYards": 5406,
+        "totalMeters": 4944,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 126,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_04",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_07",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_08",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_09",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_10",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_11",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_15",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_16",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_17",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_UAE_MONTGOMERIE_GOLF_CLUB_DUBAI_18",
+            "yards": 427,
+            "meters": 390
           }
         ]
       }

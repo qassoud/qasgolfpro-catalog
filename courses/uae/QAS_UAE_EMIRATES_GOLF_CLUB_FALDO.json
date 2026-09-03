@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,126 +20,126 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
         "number": 2,
         "par": 3,
-        "strokeIndex": 7
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
         "number": 3,
         "par": 5,
-        "strokeIndex": 17
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
         "number": 4,
         "par": 4,
-        "strokeIndex": 9
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
         "number": 5,
         "par": 5,
-        "strokeIndex": 11
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
         "number": 6,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
         "number": 7,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
         "number": 8,
         "par": 3,
-        "strokeIndex": 15
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 13
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
         "number": 10,
         "par": 5,
-        "strokeIndex": 16
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
         "number": 11,
         "par": 4,
-        "strokeIndex": 2
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
         "number": 12,
         "par": 3,
-        "strokeIndex": 14
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
         "number": 13,
         "par": 4,
-        "strokeIndex": 18
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
         "number": 14,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
         "number": 16,
         "par": 5,
-        "strokeIndex": 4
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
         "number": 17,
         "par": 3,
-        "strokeIndex": 12
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
         "number": 18,
         "par": 4,
-        "strokeIndex": 6
+        "strokeIndex": 5
       }
     ],
     "tees": [
@@ -148,101 +148,450 @@
         "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6446,
-        "totalMeters": 5896,
+        "courseRating": 75.6,
+        "slope": 154,
+        "totalYards": 7052,
+        "totalMeters": 6446,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.6,
+            "slopeRating": 154,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_01",
-            "yards": 395,
-            "meters": 361
+            "yards": 432,
+            "meters": 395
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
-            "yards": 188,
-            "meters": 172
+            "yards": 206,
+            "meters": 188
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
-            "yards": 499,
-            "meters": 456
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
-            "yards": 343,
-            "meters": 314
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
-            "yards": 507,
-            "meters": 464
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
-            "yards": 401,
-            "meters": 367
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
-            "yards": 390,
-            "meters": 357
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
-            "yards": 157,
-            "meters": 144
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
-            "yards": 332,
-            "meters": 304
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
-            "yards": 465,
-            "meters": 425
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
-            "yards": 411,
-            "meters": 376
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
-            "yards": 144,
-            "meters": 132
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
-            "yards": 261,
-            "meters": 239
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
-            "yards": 357,
-            "meters": 326
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
-            "yards": 396,
-            "meters": 362
-          },
-          {
-            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
             "yards": 546,
             "meters": 499
           },
           {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
+            "yards": 597,
+            "meters": 546
+          },
+          {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
-            "yards": 211,
-            "meters": 193
+            "yards": 231,
+            "meters": 211
           },
           {
             "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
-            "yards": 443,
-            "meters": 405
+            "yards": 485,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_BLUE",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.8,
+        "slope": 149,
+        "totalYards": 6638,
+        "totalMeters": 6070,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 149,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_WHITE",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.3,
+        "slope": 142,
+        "totalYards": 5979,
+        "totalMeters": 5467,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 142,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.8,
+            "slopeRating": 146,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_RED",
+        "code": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.6,
+        "slope": 138,
+        "totalYards": 5220,
+        "totalMeters": 4773,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 123,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 138,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_03",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_04",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_07",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_08",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_09",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_11",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_12",
+            "yards": 88,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_13",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_14",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_15",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_16",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_UAE_EMIRATES_GOLF_CLUB_FALDO_18",
+            "yards": 336,
+            "meters": 307
           }
         ]
       }

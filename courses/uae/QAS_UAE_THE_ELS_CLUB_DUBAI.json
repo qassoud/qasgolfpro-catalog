@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_THE_ELS_CLUB_DUBAI",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -144,105 +144,448 @@
     ],
     "tees": [
       {
+        "uuid": "TEE_QAS_UAE_THE_ELS_CLUB_DUBAI_BLACK",
+        "code": "QAS_UAE_THE_ELS_CLUB_DUBAI_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.7,
+        "slope": 138,
+        "totalYards": 7538,
+        "totalMeters": 6893,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.7,
+            "slopeRating": 138,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_01",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_02",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_03",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_05",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_07",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_08",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_09",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_10",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_11",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_12",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_13",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_14",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_15",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_16",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_17",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_18",
+            "yards": 619,
+            "meters": 566
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_THE_ELS_CLUB_DUBAI_BLUE",
+        "code": "QAS_UAE_THE_ELS_CLUB_DUBAI_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.5,
+        "slope": 133,
+        "totalYards": 6829,
+        "totalMeters": 6243,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 133,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_01",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_02",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_04",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_05",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_06",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_07",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_08",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_09",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_10",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_11",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_13",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_14",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_15",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_17",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_18",
+            "yards": 557,
+            "meters": 509
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_THE_ELS_CLUB_DUBAI_WHITE",
+        "code": "QAS_UAE_THE_ELS_CLUB_DUBAI_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.0,
+        "slope": 125,
+        "totalYards": 6242,
+        "totalMeters": 5708,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 125,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 134,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_02",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_04",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_05",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_08",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_09",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_10",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_11",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_12",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_14",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_15",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_18",
+            "yards": 516,
+            "meters": 472
+          }
+        ]
+      },
+      {
         "uuid": "TEE_QAS_UAE_THE_ELS_CLUB_DUBAI_RED",
         "code": "QAS_UAE_THE_ELS_CLUB_DUBAI_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 4888,
-        "totalMeters": 4470,
+        "courseRating": 70.4,
+        "slope": 123,
+        "totalYards": 5343,
+        "totalMeters": 4886,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 123,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_01",
-            "yards": 302,
-            "meters": 276
+            "yards": 330,
+            "meters": 302
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_02",
-            "yards": 104,
-            "meters": 95
+            "yards": 114,
+            "meters": 104
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_03",
-            "yards": 284,
-            "meters": 260
+            "yards": 311,
+            "meters": 284
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_04",
-            "yards": 90,
-            "meters": 82
+            "yards": 98,
+            "meters": 90
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_05",
-            "yards": 366,
-            "meters": 335
+            "yards": 400,
+            "meters": 366
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_06",
-            "yards": 266,
-            "meters": 243
+            "yards": 291,
+            "meters": 266
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_07",
-            "yards": 259,
-            "meters": 237
+            "yards": 283,
+            "meters": 259
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_08",
-            "yards": 401,
-            "meters": 367
+            "yards": 438,
+            "meters": 401
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_09",
-            "yards": 342,
-            "meters": 313
+            "yards": 374,
+            "meters": 342
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_10",
-            "yards": 308,
-            "meters": 282
+            "yards": 337,
+            "meters": 308
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_11",
-            "yards": 135,
-            "meters": 123
+            "yards": 146,
+            "meters": 134
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_12",
-            "yards": 281,
-            "meters": 257
+            "yards": 307,
+            "meters": 281
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_13",
-            "yards": 392,
-            "meters": 358
+            "yards": 428,
+            "meters": 391
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_14",
-            "yards": 306,
-            "meters": 280
+            "yards": 335,
+            "meters": 306
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_15",
-            "yards": 304,
-            "meters": 278
+            "yards": 333,
+            "meters": 304
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_16",
-            "yards": 233,
-            "meters": 213
+            "yards": 255,
+            "meters": 233
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_17",
-            "yards": 125,
-            "meters": 114
+            "yards": 137,
+            "meters": 125
           },
           {
             "holeCode": "QAS_UAE_THE_ELS_CLUB_DUBAI_18",
-            "yards": 390,
-            "meters": 357
+            "yards": 426,
+            "meters": 390
           }
         ]
       }

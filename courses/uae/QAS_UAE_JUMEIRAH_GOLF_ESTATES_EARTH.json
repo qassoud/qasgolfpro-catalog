@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,14 +20,14 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 9
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
         "number": 2,
         "par": 5,
-        "strokeIndex": 11
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_03",
@@ -62,7 +62,7 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_07",
         "number": 7,
         "par": 5,
-        "strokeIndex": 13
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
@@ -83,7 +83,7 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
@@ -104,21 +104,21 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
         "number": 13,
         "par": 3,
-        "strokeIndex": 14
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
         "number": 14,
         "par": 5,
-        "strokeIndex": 8
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 18
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_16",
@@ -132,7 +132,7 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_17",
         "number": 17,
         "par": 3,
-        "strokeIndex": 16
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_18",
@@ -148,91 +148,208 @@
         "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_CHAMPIONSHIP",
         "type": "CHAMPIONSHIP",
         "displayName": "Championship",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 7044,
-        "totalMeters": 6442,
+        "courseRating": 78.1,
+        "slope": 154,
+        "totalYards": 7706,
+        "totalMeters": 7045,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 78.1,
+            "slopeRating": 154,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_01",
-            "yards": 414,
-            "meters": 379
+            "yards": 454,
+            "meters": 415
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
-            "yards": 533,
-            "meters": 487
+            "yards": 583,
+            "meters": 533
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_03",
-            "yards": 413,
-            "meters": 378
+            "yards": 452,
+            "meters": 413
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_04",
-            "yards": 224,
-            "meters": 205
+            "yards": 245,
+            "meters": 224
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_05",
-            "yards": 372,
-            "meters": 340
+            "yards": 407,
+            "meters": 372
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_06",
-            "yards": 170,
-            "meters": 155
+            "yards": 186,
+            "meters": 170
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_07",
-            "yards": 523,
-            "meters": 478
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
-            "yards": 422,
-            "meters": 386
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_09",
-            "yards": 456,
-            "meters": 417
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
-            "yards": 400,
-            "meters": 366
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
-            "yards": 367,
-            "meters": 336
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_12",
-            "yards": 435,
-            "meters": 398
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
-            "yards": 187,
-            "meters": 171
-          },
-          {
-            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
             "yards": 572,
             "meters": 523
           },
           {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_09",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_12",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
+            "yards": 626,
+            "meters": 572
+          },
+          {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
-            "yards": 339,
-            "meters": 310
+            "yards": 371,
+            "meters": 339
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_16",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_18",
+            "yards": 651,
+            "meters": 595
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_TOURNAMENT",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 75.1,
+        "slope": 149,
+        "totalYards": 7045,
+        "totalMeters": 6441,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.1,
+            "slopeRating": 149,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_03",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_04",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_06",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_07",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
             "yards": 444,
             "meters": 406
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_09",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_16",
+            "yards": 448,
+            "meters": 410
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_17",
@@ -241,8 +358,240 @@
           },
           {
             "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_18",
-            "yards": 595,
-            "meters": 544
+            "yards": 606,
+            "meters": 554
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_SIGNATURE",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_SIGNATURE",
+        "type": "SIGNATURE",
+        "displayName": "Signature",
+        "courseRating": 72.5,
+        "slope": 143,
+        "totalYards": 6473,
+        "totalMeters": 5919,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 143,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.7,
+            "slopeRating": 145,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_01",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_03",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_04",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_05",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_07",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_18",
+            "yards": 573,
+            "meters": 524
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_FORWARD",
+        "code": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_FORWARD",
+        "type": "FORWARD",
+        "displayName": "Forward",
+        "courseRating": 67.7,
+        "slope": 120,
+        "totalYards": 5435,
+        "totalMeters": 4972,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.7,
+            "slopeRating": 120,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 133,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_01",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_04",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_06",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_07",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_08",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_10",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_12",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_14",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_15",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_17",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_UAE_JUMEIRAH_GOLF_ESTATES_EARTH_18",
+            "yards": 433,
+            "meters": 396
           }
         ]
       }

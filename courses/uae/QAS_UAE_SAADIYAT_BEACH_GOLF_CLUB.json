@@ -1,5 +1,5 @@
 {
-  "formatVersion": 1,
+  "formatVersion": 2,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB",
@@ -11,8 +11,8 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
+    "dataSource": "Golfify detailed scorecard | CR/Slope: Emirates Golf Federation Course Rating Program (Feb 2025)",
+    "dataVersion": 2,
     "isVerified": false,
     "holes": [
       {
@@ -20,28 +20,28 @@
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
         "number": 2,
         "par": 5,
-        "strokeIndex": 14
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
         "number": 3,
         "par": 3,
-        "strokeIndex": 17
+        "strokeIndex": 18
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
         "number": 4,
         "par": 4,
-        "strokeIndex": 13
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
@@ -55,7 +55,7 @@
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
         "number": 6,
         "par": 3,
-        "strokeIndex": 7
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
@@ -76,63 +76,63 @@
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
         "number": 9,
         "par": 5,
-        "strokeIndex": 15
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 12
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
         "number": 11,
         "par": 5,
-        "strokeIndex": 16
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
         "number": 12,
         "par": 3,
-        "strokeIndex": 8
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
         "number": 13,
         "par": 4,
-        "strokeIndex": 11
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
         "number": 14,
-        "par": 3,
-        "strokeIndex": 18
+        "par": 4,
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
         "number": 15,
-        "par": 4,
-        "strokeIndex": 1
+        "par": 5,
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
         "number": 16,
-        "par": 5,
-        "strokeIndex": 5
+        "par": 4,
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
         "number": 17,
-        "par": 4,
-        "strokeIndex": 3
+        "par": 3,
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
@@ -148,101 +148,548 @@
         "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 7081,
-        "totalMeters": 6475,
+        "courseRating": 76.8,
+        "slope": 138,
+        "totalYards": 7806,
+        "totalMeters": 7139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.8,
+            "slopeRating": 138,
+            "par": 72
+          }
+        ],
         "distances": [
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
-            "yards": 442,
-            "meters": 404
+            "yards": 483,
+            "meters": 442
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
-            "yards": 570,
-            "meters": 521
+            "yards": 623,
+            "meters": 570
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
-            "yards": 202,
-            "meters": 185
+            "yards": 221,
+            "meters": 202
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
-            "yards": 427,
-            "meters": 390
+            "yards": 466,
+            "meters": 426
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_08",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
+            "yards": 611,
+            "meters": 559
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
             "yards": 440,
             "meters": 402
           },
           {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
+            "yards": 467,
+            "meters": 427
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_GOLD",
+        "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_GOLD",
+        "type": "GOLD",
+        "displayName": "Or",
+        "courseRating": 74.5,
+        "slope": 133,
+        "totalYards": 7268,
+        "totalMeters": 6645,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.5,
+            "slopeRating": 133,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
+            "yards": 433,
+            "meters": 396
+          },
+          {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
-            "yards": 217,
-            "meters": 198
+            "yards": 229,
+            "meters": 209
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
-            "yards": 452,
-            "meters": 413
+            "yards": 472,
+            "meters": 432
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_08",
-            "yards": 442,
-            "meters": 404
+            "yards": 424,
+            "meters": 388
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
-            "yards": 559,
-            "meters": 511
+            "yards": 585,
+            "meters": 535
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
-            "yards": 309,
-            "meters": 283
+            "yards": 322,
+            "meters": 294
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
-            "yards": 506,
-            "meters": 463
+            "yards": 510,
+            "meters": 466
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
-            "yards": 226,
-            "meters": 207
+            "yards": 219,
+            "meters": 200
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
+            "yards": 410,
+            "meters": 375
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_BLUE",
+        "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.1,
+        "slope": 128,
+        "totalYards": 6733,
+        "totalMeters": 6157,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 128,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_08",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
+            "yards": 352,
+            "meters": 322
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_WHITE",
+        "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.6,
+        "slope": 122,
+        "totalYards": 5992,
+        "totalMeters": 5480,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 122,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
             "yards": 379,
             "meters": 347
           },
           {
-            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
-            "yards": 165,
-            "meters": 151
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
+            "yards": 170,
+            "meters": 155
           },
           {
-            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
             "yards": 402,
             "meters": 368
           },
           {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_08",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "yards": 472,
+            "meters": 432
+          },
+          {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
-            "yards": 524,
-            "meters": 479
+            "yards": 375,
+            "meters": 343
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
-            "yards": 437,
-            "meters": 400
+            "yards": 116,
+            "meters": 106
           },
           {
             "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
-            "yards": 382,
-            "meters": 349
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_RED",
+        "code": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.0,
+        "slope": 121,
+        "totalYards": 5290,
+        "totalMeters": 4837,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.0,
+            "slopeRating": 121,
+            "par": 72
+          }
+        ],
+        "distances": [
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_02",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_03",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_04",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_06",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_07",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_08",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_09",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_10",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_11",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_13",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_14",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_15",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_17",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_UAE_SAADIYAT_BEACH_GOLF_CLUB_18",
+            "yards": 308,
+            "meters": 282
           }
         ]
       }
