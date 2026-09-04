@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Camiral Golf & Wellness — scorecard officiel + tableau Slope officiel, vérifié 2026-09-04",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_ESP_CAMIRAL_STADIUM_01",
@@ -148,9 +148,16 @@
         "code": "QAS_ESP_CAMIRAL_STADIUM_TEE_65",
         "type": "TEE_65",
         "displayName": "65",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 76.0,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.0,
+            "slopeRating": 155,
+            "ratingPar": 72
+          }
+        ],
         "totalYards": 7140,
         "totalMeters": 6530,
         "distances": [
@@ -251,9 +258,16 @@
         "code": "QAS_ESP_CAMIRAL_STADIUM_TEE_60",
         "type": "TEE_60",
         "displayName": "60",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 73.2,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
         "totalYards": 6609,
         "totalMeters": 6042,
         "distances": [
@@ -354,9 +368,22 @@
         "code": "QAS_ESP_CAMIRAL_STADIUM_TEE_56",
         "type": "TEE_56",
         "displayName": "56",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 71.3,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 142,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.3,
+            "slopeRating": 151,
+            "ratingPar": 72
+          }
+        ],
         "totalYards": 6159,
         "totalMeters": 5632,
         "distances": [
@@ -457,9 +484,16 @@
         "code": "QAS_ESP_CAMIRAL_STADIUM_TEE_49",
         "type": "TEE_49",
         "displayName": "49",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 73.4,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
         "totalYards": 5465,
         "totalMeters": 4999,
         "distances": [

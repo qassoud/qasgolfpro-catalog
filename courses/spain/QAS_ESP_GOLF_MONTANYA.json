@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Golf Montanyà — scorecard officiel + tableau RFEG SLOPE_2022 par catégorie, vérifié 2026-09-04",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_ESP_GOLF_MONTANYA_01",
@@ -148,9 +148,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 73.4,
+        "slope": 136,
         "totalYards": 6763,
         "totalMeters": 6184,
         "distances": [
@@ -244,6 +243,20 @@
             "yards": 417,
             "meters": 381
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.5,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -251,9 +264,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 72.5,
+        "slope": 136,
         "totalYards": 6620,
         "totalMeters": 6053,
         "distances": [
@@ -347,6 +359,20 @@
             "yards": 412,
             "meters": 377
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.7,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -354,9 +380,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 71.0,
+        "slope": 134,
         "totalYards": 6265,
         "totalMeters": 5730,
         "distances": [
@@ -450,6 +475,20 @@
             "yards": 387,
             "meters": 354
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -457,9 +496,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 68.9,
+        "slope": 126,
         "totalYards": 5864,
         "totalMeters": 5362,
         "distances": [
@@ -553,6 +591,20 @@
             "yards": 378,
             "meters": 346
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -560,9 +612,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 67.0,
+        "slope": 124,
         "totalYards": 5573,
         "totalMeters": 5095,
         "distances": [
@@ -656,6 +707,20 @@
             "yards": 359,
             "meters": 328
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.0,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -663,9 +728,8 @@
         "code": "QAS_ESP_GOLF_MONTANYA_PINK",
         "type": "PINK",
         "displayName": "Rose",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 64.9,
+        "slope": 119,
         "totalYards": 5173,
         "totalMeters": 4733,
         "distances": [
@@ -758,6 +822,20 @@
             "holeCode": "QAS_ESP_GOLF_MONTANYA_18",
             "yards": 351,
             "meters": 321
+          }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.9,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 126,
+            "ratingPar": 72
           }
         ]
       }

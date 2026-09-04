@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Golf Son Antem — scorecard officiel West détaillé + tableau Slope officiel par catégorie, Blue total 5396 m retenu selon somme trou-par-trou, vérifié 2026-09-04",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_ESP_SON_ANTEM_WEST_01",
@@ -148,9 +148,8 @@
         "code": "QAS_ESP_SON_ANTEM_WEST_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 73.7,
+        "slope": 140,
         "totalYards": 6880,
         "totalMeters": 6293,
         "distances": [
@@ -244,6 +243,14 @@
             "yards": 437,
             "meters": 400
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -251,9 +258,8 @@
         "code": "QAS_ESP_SON_ANTEM_WEST_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 71.8,
+        "slope": 134,
         "totalYards": 6468,
         "totalMeters": 5913,
         "distances": [
@@ -347,6 +353,14 @@
             "yards": 405,
             "meters": 370
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -354,9 +368,8 @@
         "code": "QAS_ESP_SON_ANTEM_WEST_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 69.7,
+        "slope": 128,
         "totalYards": 5901,
         "totalMeters": 5396,
         "distances": [
@@ -450,6 +463,20 @@
             "yards": 386,
             "meters": 353
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -457,9 +484,8 @@
         "code": "QAS_ESP_SON_ANTEM_WEST_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 67.7,
+        "slope": 123,
         "totalYards": 5476,
         "totalMeters": 5007,
         "distances": [
@@ -552,6 +578,20 @@
             "holeCode": "QAS_ESP_SON_ANTEM_WEST_18",
             "yards": 357,
             "meters": 326
+          }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.7,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 131,
+            "ratingPar": 72
           }
         ]
       }

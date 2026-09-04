@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Golf Son Antem — scorecard officiel East + tableau Slope officiel par catégorie, vérifié 2026-09-04",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_ESP_SON_ANTEM_EAST_01",
@@ -148,9 +148,8 @@
         "code": "QAS_ESP_SON_ANTEM_EAST_TEE_62",
         "type": "TEE_62",
         "displayName": "62",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 72.9,
+        "slope": 133,
         "totalYards": 6836,
         "totalMeters": 6251,
         "distances": [
@@ -244,6 +243,20 @@
             "yards": 548,
             "meters": 501
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -251,9 +264,8 @@
         "code": "QAS_ESP_SON_ANTEM_EAST_TEE_58",
         "type": "TEE_58",
         "displayName": "58",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 70.7,
+        "slope": 129,
         "totalYards": 6402,
         "totalMeters": 5853,
         "distances": [
@@ -347,6 +359,20 @@
             "yards": 492,
             "meters": 450
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.6,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -354,9 +380,8 @@
         "code": "QAS_ESP_SON_ANTEM_EAST_TEE_52",
         "type": "TEE_52",
         "displayName": "52",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 67.6,
+        "slope": 122,
         "totalYards": 5730,
         "totalMeters": 5240,
         "distances": [
@@ -450,6 +475,20 @@
             "yards": 472,
             "meters": 432
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -457,9 +496,8 @@
         "code": "QAS_ESP_SON_ANTEM_EAST_TEE_48",
         "type": "TEE_48",
         "displayName": "48",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 65.5,
+        "slope": 114,
         "totalYards": 5285,
         "totalMeters": 4832,
         "distances": [
@@ -552,6 +590,20 @@
             "holeCode": "QAS_ESP_SON_ANTEM_EAST_18",
             "yards": 408,
             "meters": 373
+          }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 114,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.9,
+            "slopeRating": 126,
+            "ratingPar": 72
           }
         ]
       }

@@ -11,9 +11,9 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "Camiral Golf & Wellness — scorecard officiel + tableau Slope officiel, vérifié 2026-09-04",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_ESP_CAMIRAL_TOUR_01",
@@ -148,9 +148,8 @@
         "code": "QAS_ESP_CAMIRAL_TOUR_TEE_58",
         "type": "TEE_58",
         "displayName": "58",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 72.5,
+        "slope": 141,
         "totalYards": 6412,
         "totalMeters": 5863,
         "distances": [
@@ -244,6 +243,14 @@
             "yards": 519,
             "meters": 475
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -251,9 +258,8 @@
         "code": "QAS_ESP_CAMIRAL_TOUR_TEE_54",
         "type": "TEE_54",
         "displayName": "54",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 70.4,
+        "slope": 136,
         "totalYards": 5989,
         "totalMeters": 5476,
         "distances": [
@@ -347,6 +353,14 @@
             "yards": 493,
             "meters": 451
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.4,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -354,9 +368,8 @@
         "code": "QAS_ESP_CAMIRAL_TOUR_TEE_50",
         "type": "TEE_50",
         "displayName": "50",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 68.7,
+        "slope": 130,
         "totalYards": 5557,
         "totalMeters": 5080,
         "distances": [
@@ -450,6 +463,20 @@
             "yards": 445,
             "meters": 407
           }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
         ]
       },
       {
@@ -457,9 +484,8 @@
         "code": "QAS_ESP_CAMIRAL_TOUR_TEE_46",
         "type": "TEE_46",
         "displayName": "46",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
+        "courseRating": 71.3,
+        "slope": 132,
         "totalYards": 5119,
         "totalMeters": 4681,
         "distances": [
@@ -552,6 +578,14 @@
             "holeCode": "QAS_ESP_CAMIRAL_TOUR_18",
             "yards": 412,
             "meters": 377
+          }
+        ],
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 132,
+            "ratingPar": 72
           }
         ]
       }
