@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_HACIENDA_RIQUELME",
+    "code": "QAS_ESP_HACIENDA_RIQUELME",
+    "name": "Hacienda Riquelme Golf",
+    "city": "Sucina",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo MM25; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_01",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_02",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_03",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_04",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_05",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_06",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_07",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_08",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_09",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_10",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_11",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_12",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_13",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_14",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_15",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_16",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_17",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_HACIENDA_RIQUELME_18",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_HACIENDA_RIQUELME_WHITE",
+        "code": "QAS_ESP_HACIENDA_RIQUELME_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 82.1,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 82.1,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6954,
+        "totalMeters": 6356,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_01",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_02",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_04",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_05",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_06",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_07",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_08",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_11",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_12",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_13",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_14",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_15",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_17",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_ESP_HACIENDA_RIQUELME_18",
+            "yards": 446,
+            "meters": 408
+          }
+        ]
+      }
+    ]
+  }
+}

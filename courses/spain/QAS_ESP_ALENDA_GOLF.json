@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ALENDA_GOLF",
+    "code": "QAS_ESP_ALENDA_GOLF",
+    "name": "Alenda Golf Club",
+    "city": "Monforte del Cid",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo LV65; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_01",
+        "code": "QAS_ESP_ALENDA_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_02",
+        "code": "QAS_ESP_ALENDA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_03",
+        "code": "QAS_ESP_ALENDA_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_04",
+        "code": "QAS_ESP_ALENDA_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_05",
+        "code": "QAS_ESP_ALENDA_GOLF_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_06",
+        "code": "QAS_ESP_ALENDA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_07",
+        "code": "QAS_ESP_ALENDA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_08",
+        "code": "QAS_ESP_ALENDA_GOLF_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_09",
+        "code": "QAS_ESP_ALENDA_GOLF_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_10",
+        "code": "QAS_ESP_ALENDA_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_11",
+        "code": "QAS_ESP_ALENDA_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_12",
+        "code": "QAS_ESP_ALENDA_GOLF_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_13",
+        "code": "QAS_ESP_ALENDA_GOLF_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_14",
+        "code": "QAS_ESP_ALENDA_GOLF_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_15",
+        "code": "QAS_ESP_ALENDA_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_16",
+        "code": "QAS_ESP_ALENDA_GOLF_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_17",
+        "code": "QAS_ESP_ALENDA_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALENDA_GOLF_18",
+        "code": "QAS_ESP_ALENDA_GOLF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ALENDA_GOLF_WHITE",
+        "code": "QAS_ESP_ALENDA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 80.6,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 80.6,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6811,
+        "totalMeters": 6229,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_01",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_03",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_04",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_06",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_07",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_09",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_10",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_11",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_12",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_13",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_14",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_15",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_16",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_17",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_ALENDA_GOLF_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      }
+    ]
+  }
+}

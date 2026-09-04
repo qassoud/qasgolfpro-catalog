@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_RESERVA_SOTOGRANDE",
+    "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE",
+    "name": "La Reserva Club Sotogrande",
+    "city": "Sotogrande",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo AMB9; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_01",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_02",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_03",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_04",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_05",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_06",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_07",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_08",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_09",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_10",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_11",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_12",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_13",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_14",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_15",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_16",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_17",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_RESERVA_SOTOGRANDE_18",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_RESERVA_SOTOGRANDE_WHITE",
+        "code": "QAS_ESP_LA_RESERVA_SOTOGRANDE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 75.2,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7053,
+        "totalMeters": 6448,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_01",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_02",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_03",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_04",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_06",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_08",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_12",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_15",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_16",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_17",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_LA_RESERVA_SOTOGRANDE_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      }
+    ]
+  }
+}

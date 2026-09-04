@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_FONT_DEL_LLOP",
+    "code": "QAS_ESP_FONT_DEL_LLOP",
+    "name": "Font del Llop Golf Resort",
+    "city": "Monforte del Cid",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo LV26; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_01",
+        "code": "QAS_ESP_FONT_DEL_LLOP_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_02",
+        "code": "QAS_ESP_FONT_DEL_LLOP_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_03",
+        "code": "QAS_ESP_FONT_DEL_LLOP_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_04",
+        "code": "QAS_ESP_FONT_DEL_LLOP_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_05",
+        "code": "QAS_ESP_FONT_DEL_LLOP_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_06",
+        "code": "QAS_ESP_FONT_DEL_LLOP_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_07",
+        "code": "QAS_ESP_FONT_DEL_LLOP_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_08",
+        "code": "QAS_ESP_FONT_DEL_LLOP_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_09",
+        "code": "QAS_ESP_FONT_DEL_LLOP_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_10",
+        "code": "QAS_ESP_FONT_DEL_LLOP_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_11",
+        "code": "QAS_ESP_FONT_DEL_LLOP_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_12",
+        "code": "QAS_ESP_FONT_DEL_LLOP_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_13",
+        "code": "QAS_ESP_FONT_DEL_LLOP_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_14",
+        "code": "QAS_ESP_FONT_DEL_LLOP_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_15",
+        "code": "QAS_ESP_FONT_DEL_LLOP_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_16",
+        "code": "QAS_ESP_FONT_DEL_LLOP_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_17",
+        "code": "QAS_ESP_FONT_DEL_LLOP_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONT_DEL_LLOP_18",
+        "code": "QAS_ESP_FONT_DEL_LLOP_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_FONT_DEL_LLOP_WHITE",
+        "code": "QAS_ESP_FONT_DEL_LLOP_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.3,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.3,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6904,
+        "totalMeters": 6313,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_03",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_04",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_05",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_07",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_10",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_11",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_12",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_13",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_14",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_15",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_16",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_17",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_FONT_DEL_LLOP_18",
+            "yards": 529,
+            "meters": 484
+          }
+        ]
+      }
+    ]
+  }
+}

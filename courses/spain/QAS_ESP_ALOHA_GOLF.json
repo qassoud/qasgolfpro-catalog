@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ALOHA_GOLF",
+    "code": "QAS_ESP_ALOHA_GOLF",
+    "name": "Aloha Golf",
+    "city": "Marbella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo AM57; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_01",
+        "code": "QAS_ESP_ALOHA_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_02",
+        "code": "QAS_ESP_ALOHA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_03",
+        "code": "QAS_ESP_ALOHA_GOLF_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_04",
+        "code": "QAS_ESP_ALOHA_GOLF_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_05",
+        "code": "QAS_ESP_ALOHA_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_06",
+        "code": "QAS_ESP_ALOHA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_07",
+        "code": "QAS_ESP_ALOHA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_08",
+        "code": "QAS_ESP_ALOHA_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_09",
+        "code": "QAS_ESP_ALOHA_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_10",
+        "code": "QAS_ESP_ALOHA_GOLF_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_11",
+        "code": "QAS_ESP_ALOHA_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_12",
+        "code": "QAS_ESP_ALOHA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_13",
+        "code": "QAS_ESP_ALOHA_GOLF_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_14",
+        "code": "QAS_ESP_ALOHA_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_15",
+        "code": "QAS_ESP_ALOHA_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_16",
+        "code": "QAS_ESP_ALOHA_GOLF_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_17",
+        "code": "QAS_ESP_ALOHA_GOLF_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALOHA_GOLF_18",
+        "code": "QAS_ESP_ALOHA_GOLF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ALOHA_GOLF_WHITE",
+        "code": "QAS_ESP_ALOHA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 79.5,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.5,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6818,
+        "totalMeters": 6235,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_01",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_02",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_04",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_05",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_07",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_09",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_10",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_15",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_16",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_17",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_ESP_ALOHA_GOLF_18",
+            "yards": 435,
+            "meters": 398
+          }
+        ]
+      }
+    ]
+  }
+}

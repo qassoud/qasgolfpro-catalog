@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_MONTECASTILLO",
+    "code": "QAS_ESP_MONTECASTILLO",
+    "name": "Montecastillo Barceló Golf Club",
+    "city": "Jerez de la Frontera",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo AM29; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_01",
+        "code": "QAS_ESP_MONTECASTILLO_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_02",
+        "code": "QAS_ESP_MONTECASTILLO_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_03",
+        "code": "QAS_ESP_MONTECASTILLO_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_04",
+        "code": "QAS_ESP_MONTECASTILLO_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_05",
+        "code": "QAS_ESP_MONTECASTILLO_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_06",
+        "code": "QAS_ESP_MONTECASTILLO_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_07",
+        "code": "QAS_ESP_MONTECASTILLO_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_08",
+        "code": "QAS_ESP_MONTECASTILLO_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_09",
+        "code": "QAS_ESP_MONTECASTILLO_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_10",
+        "code": "QAS_ESP_MONTECASTILLO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_11",
+        "code": "QAS_ESP_MONTECASTILLO_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_12",
+        "code": "QAS_ESP_MONTECASTILLO_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_13",
+        "code": "QAS_ESP_MONTECASTILLO_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_14",
+        "code": "QAS_ESP_MONTECASTILLO_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_15",
+        "code": "QAS_ESP_MONTECASTILLO_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_16",
+        "code": "QAS_ESP_MONTECASTILLO_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_17",
+        "code": "QAS_ESP_MONTECASTILLO_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MONTECASTILLO_18",
+        "code": "QAS_ESP_MONTECASTILLO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_MONTECASTILLO_WHITE",
+        "code": "QAS_ESP_MONTECASTILLO_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 81.1,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 81.1,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7012,
+        "totalMeters": 6411,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_02",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_03",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_05",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_07",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_09",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_10",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_11",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_12",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_13",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_14",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_15",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_16",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_17",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_MONTECASTILLO_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      }
+    ]
+  }
+}

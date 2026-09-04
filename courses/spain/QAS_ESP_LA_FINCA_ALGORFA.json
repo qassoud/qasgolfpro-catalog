@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_FINCA_ALGORFA",
+    "code": "QAS_ESP_LA_FINCA_ALGORFA",
+    "name": "La Finca Golf - Algorfa",
+    "city": "Algorfa",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo LV73; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_01",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_02",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_03",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_04",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_05",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_06",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_07",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_08",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_09",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_10",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_11",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_12",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_13",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_14",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_15",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_16",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_17",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FINCA_ALGORFA_18",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_FINCA_ALGORFA_WHITE",
+        "code": "QAS_ESP_LA_FINCA_ALGORFA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6993,
+        "totalMeters": 6394,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_01",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_03",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_04",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_05",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_06",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_07",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_08",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_09",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_11",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_12",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_13",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_15",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_16",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FINCA_ALGORFA_18",
+            "yards": 467,
+            "meters": 427
+          }
+        ]
+      }
+    ]
+  }
+}

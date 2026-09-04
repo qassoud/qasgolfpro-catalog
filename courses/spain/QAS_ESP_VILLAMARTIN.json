@@ -1,0 +1,258 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_VILLAMARTIN",
+    "code": "QAS_ESP_VILLAMARTIN",
+    "name": "Club de Golf Villamartín",
+    "city": "Orihuela Costa",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG), código federativo LV53; tarjeta y VC/VS consultados 2026-09-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_01",
+        "code": "QAS_ESP_VILLAMARTIN_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_02",
+        "code": "QAS_ESP_VILLAMARTIN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_03",
+        "code": "QAS_ESP_VILLAMARTIN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_04",
+        "code": "QAS_ESP_VILLAMARTIN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_05",
+        "code": "QAS_ESP_VILLAMARTIN_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_06",
+        "code": "QAS_ESP_VILLAMARTIN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_07",
+        "code": "QAS_ESP_VILLAMARTIN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_08",
+        "code": "QAS_ESP_VILLAMARTIN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_09",
+        "code": "QAS_ESP_VILLAMARTIN_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_10",
+        "code": "QAS_ESP_VILLAMARTIN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_11",
+        "code": "QAS_ESP_VILLAMARTIN_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_12",
+        "code": "QAS_ESP_VILLAMARTIN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_13",
+        "code": "QAS_ESP_VILLAMARTIN_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_14",
+        "code": "QAS_ESP_VILLAMARTIN_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_15",
+        "code": "QAS_ESP_VILLAMARTIN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_16",
+        "code": "QAS_ESP_VILLAMARTIN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_17",
+        "code": "QAS_ESP_VILLAMARTIN_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VILLAMARTIN_18",
+        "code": "QAS_ESP_VILLAMARTIN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_VILLAMARTIN_WHITE",
+        "code": "QAS_ESP_VILLAMARTIN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.2,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6565,
+        "totalMeters": 6005,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_01",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_02",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_05",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_06",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_07",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_09",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_11",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_12",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_13",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_14",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_15",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_17",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_VILLAMARTIN_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      }
+    ]
+  }
+}
