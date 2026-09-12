@@ -1,0 +1,258 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ANTEQUERA_GOLF",
+    "code": "QAS_ESP_ANTEQUERA_GOLF",
+    "name": "Antequera Golf",
+    "city": "Antequera",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG) — ANTEQUERA GOLF, BLANCAS (M), id=341",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_01",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_02",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_03",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_04",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_05",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_06",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_07",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_08",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_09",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_10",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_11",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_12",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_13",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_14",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_15",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_16",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_17",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ANTEQUERA_GOLF_18",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ANTEQUERA_GOLF_WHITE",
+        "code": "QAS_ESP_ANTEQUERA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6679,
+        "totalMeters": 6105,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_02",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_04",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_05",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_09",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_10",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_14",
+            "yards": 627,
+            "meters": 573
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_15",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_16",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_ANTEQUERA_GOLF_18",
+            "yards": 171,
+            "meters": 156
+          }
+        ]
+      }
+    ]
+  }
+}
