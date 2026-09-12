@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SON_MUNTANER",
+    "code": "QAS_ESP_SON_MUNTANER",
+    "name": "Son Muntaner Golf",
+    "city": "Palma de Mallorca",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG) — Son Muntaner Golf — https://rfeg.es/club/son_muntaner_golf?id=380",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_01",
+        "code": "QAS_ESP_SON_MUNTANER_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_02",
+        "code": "QAS_ESP_SON_MUNTANER_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_03",
+        "code": "QAS_ESP_SON_MUNTANER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_04",
+        "code": "QAS_ESP_SON_MUNTANER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_05",
+        "code": "QAS_ESP_SON_MUNTANER_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_06",
+        "code": "QAS_ESP_SON_MUNTANER_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_07",
+        "code": "QAS_ESP_SON_MUNTANER_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_08",
+        "code": "QAS_ESP_SON_MUNTANER_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_09",
+        "code": "QAS_ESP_SON_MUNTANER_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_10",
+        "code": "QAS_ESP_SON_MUNTANER_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_11",
+        "code": "QAS_ESP_SON_MUNTANER_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_12",
+        "code": "QAS_ESP_SON_MUNTANER_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_13",
+        "code": "QAS_ESP_SON_MUNTANER_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_14",
+        "code": "QAS_ESP_SON_MUNTANER_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_15",
+        "code": "QAS_ESP_SON_MUNTANER_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_16",
+        "code": "QAS_ESP_SON_MUNTANER_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_17",
+        "code": "QAS_ESP_SON_MUNTANER_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_MUNTANER_18",
+        "code": "QAS_ESP_SON_MUNTANER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SON_MUNTANER_WHITE",
+        "code": "QAS_ESP_SON_MUNTANER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6895,
+        "totalMeters": 6305,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_01",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_02",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_04",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_05",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_08",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_09",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_11",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_15",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_16",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_17",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_18",
+            "yards": 395,
+            "meters": 361
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_MUNTANER_YELLOW",
+        "code": "QAS_ESP_SON_MUNTANER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.4,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6545,
+        "totalMeters": 5985,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_02",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_03",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_05",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_06",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_08",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_09",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_11",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_12",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_13",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_15",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_16",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_MUNTANER_BLUE",
+        "code": "QAS_ESP_SON_MUNTANER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.2,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5937,
+        "totalMeters": 5430,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_02",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_04",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_07",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_08",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_11",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_12",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_13",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_16",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_17",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_MUNTANER_RED",
+        "code": "QAS_ESP_SON_MUNTANER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.5,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.5,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5574,
+        "totalMeters": 5098,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_02",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_03",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_07",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_09",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_10",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_11",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_13",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_14",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_15",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_17",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_SON_MUNTANER_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA",
+    "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA",
+    "name": "Santa María Golf & Country Club",
+    "city": "Marbella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG) — Santa María Golf & Country Club — https://rfegolf.es/club/santa_maria_golf_%26_country_club?id=812",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_WHITE",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.2,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.1,
+            "slopeRating": 147,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6580,
+        "totalMeters": 6015,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_YELLOW",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.7,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.6,
+            "slopeRating": 143,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6304,
+        "totalMeters": 5766,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_BLUE",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.1,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.1,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5830,
+        "totalMeters": 5330,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_RED",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.6,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5382,
+        "totalMeters": 4921,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+            "yards": 287,
+            "meters": 262
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_PINK",
+        "code": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_PINK",
+        "type": "PINK",
+        "displayName": "Rose",
+        "courseRating": 65.3,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.1,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.3,
+            "slopeRating": 117,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4820,
+        "totalMeters": 4407,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_01",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_03",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_04",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_05",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_06",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_08",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_10",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_11",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_12",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_15",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_17",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARIA_GOLF_MARBELLA_18",
+            "yards": 236,
+            "meters": 216
+          }
+        ]
+      }
+    ]
+  }
+}
