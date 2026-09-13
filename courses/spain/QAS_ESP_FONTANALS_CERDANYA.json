@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_FONTANALS_CERDANYA",
+    "code": "QAS_ESP_FONTANALS_CERDANYA",
+    "name": "Golf Fontanals de Cerdanya",
+    "city": "Soriguerola",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Fontanals de Cerdanya, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_01",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_02",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_03",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_04",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_05",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_06",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_07",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_08",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_09",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_10",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_11",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_12",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_13",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_14",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_15",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_16",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_17",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_FONTANALS_CERDANYA_18",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 1
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_FONTANALS_CERDANYA_WHITE",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 74.0,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7121,
+        "totalMeters": 6511,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_02",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_03",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_06",
+            "yards": 611,
+            "meters": 559
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_07",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_08",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_09",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_10",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_11",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_12",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_13",
+            "yards": 619,
+            "meters": 566
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_14",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_15",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_16",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_18",
+            "yards": 428,
+            "meters": 391
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_FONTANALS_CERDANYA_YELLOW",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 71.5,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6622,
+        "totalMeters": 6055,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_02",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_04",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_06",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_08",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_10",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_11",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_13",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_FONTANALS_CERDANYA_BLUE",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 69.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.0,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6105,
+        "totalMeters": 5583,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_02",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_03",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_04",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_05",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_06",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_07",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_08",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_09",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_12",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_13",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_14",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_18",
+            "yards": 360,
+            "meters": 329
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_FONTANALS_CERDANYA_RED",
+        "code": "QAS_ESP_FONTANALS_CERDANYA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.2,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5586,
+        "totalMeters": 5108,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_04",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_05",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_06",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_07",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_09",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_10",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_12",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_13",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_15",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_16",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_FONTANALS_CERDANYA_18",
+            "yards": 325,
+            "meters": 297
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ENTREPINOS",
+    "code": "QAS_ESP_ENTREPINOS",
+    "name": "Golf Entrepinos",
+    "city": "Simancas",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 69,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Entrepinos scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_01",
+        "code": "QAS_ESP_ENTREPINOS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_02",
+        "code": "QAS_ESP_ENTREPINOS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_03",
+        "code": "QAS_ESP_ENTREPINOS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_04",
+        "code": "QAS_ESP_ENTREPINOS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_05",
+        "code": "QAS_ESP_ENTREPINOS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_06",
+        "code": "QAS_ESP_ENTREPINOS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_07",
+        "code": "QAS_ESP_ENTREPINOS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_08",
+        "code": "QAS_ESP_ENTREPINOS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_09",
+        "code": "QAS_ESP_ENTREPINOS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_10",
+        "code": "QAS_ESP_ENTREPINOS_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_11",
+        "code": "QAS_ESP_ENTREPINOS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_12",
+        "code": "QAS_ESP_ENTREPINOS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_13",
+        "code": "QAS_ESP_ENTREPINOS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_14",
+        "code": "QAS_ESP_ENTREPINOS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_15",
+        "code": "QAS_ESP_ENTREPINOS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_16",
+        "code": "QAS_ESP_ENTREPINOS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_17",
+        "code": "QAS_ESP_ENTREPINOS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ENTREPINOS_18",
+        "code": "QAS_ESP_ENTREPINOS_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ENTREPINOS_WHITE",
+        "code": "QAS_ESP_ENTREPINOS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 122,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5828,
+        "totalMeters": 5329,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_01",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_05",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_06",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_07",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_08",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_09",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_10",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_11",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_12",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_13",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_14",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_16",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_17",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_18",
+            "yards": 124,
+            "meters": 113
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ENTREPINOS_YELLOW",
+        "code": "QAS_ESP_ENTREPINOS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.4,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 121,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5638,
+        "totalMeters": 5155,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_01",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_05",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_07",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_08",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_09",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_11",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_12",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_13",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_14",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_16",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_18",
+            "yards": 115,
+            "meters": 105
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ENTREPINOS_BLUE",
+        "code": "QAS_ESP_ENTREPINOS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.2,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.2,
+            "slopeRating": 119,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5091,
+        "totalMeters": 4656,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_01",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_05",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_06",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_07",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_08",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_09",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_10",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_11",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_12",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_13",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_15",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_16",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_18",
+            "yards": 106,
+            "meters": 97
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ENTREPINOS_RED",
+        "code": "QAS_ESP_ENTREPINOS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.8,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.8,
+            "slopeRating": 117,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4867,
+        "totalMeters": 4451,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_01",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_04",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_05",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_06",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_07",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_08",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_09",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_10",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_12",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_13",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_16",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_17",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_ENTREPINOS_18",
+            "yards": 93,
+            "meters": 85
+          }
+        ]
+      }
+    ]
+  }
+}

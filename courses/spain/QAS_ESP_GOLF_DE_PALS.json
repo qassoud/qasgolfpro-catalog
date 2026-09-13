@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOLF_DE_PALS",
+    "code": "QAS_ESP_GOLF_DE_PALS",
+    "name": "Golf de Pals",
+    "city": "Pals",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "1Golf/Albrecht — Golf de Pals scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_01",
+        "code": "QAS_ESP_GOLF_DE_PALS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_02",
+        "code": "QAS_ESP_GOLF_DE_PALS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_03",
+        "code": "QAS_ESP_GOLF_DE_PALS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_04",
+        "code": "QAS_ESP_GOLF_DE_PALS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_05",
+        "code": "QAS_ESP_GOLF_DE_PALS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_06",
+        "code": "QAS_ESP_GOLF_DE_PALS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_07",
+        "code": "QAS_ESP_GOLF_DE_PALS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_08",
+        "code": "QAS_ESP_GOLF_DE_PALS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_09",
+        "code": "QAS_ESP_GOLF_DE_PALS_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_10",
+        "code": "QAS_ESP_GOLF_DE_PALS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_11",
+        "code": "QAS_ESP_GOLF_DE_PALS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_12",
+        "code": "QAS_ESP_GOLF_DE_PALS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_13",
+        "code": "QAS_ESP_GOLF_DE_PALS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_14",
+        "code": "QAS_ESP_GOLF_DE_PALS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_15",
+        "code": "QAS_ESP_GOLF_DE_PALS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_16",
+        "code": "QAS_ESP_GOLF_DE_PALS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_17",
+        "code": "QAS_ESP_GOLF_DE_PALS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_PALS_18",
+        "code": "QAS_ESP_GOLF_DE_PALS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_PALS_WHITE",
+        "code": "QAS_ESP_GOLF_DE_PALS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanco",
+        "courseRating": 73.9,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.9,
+            "slopeRating": 135,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6849,
+        "totalMeters": 6263,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_03",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_05",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_07",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_08",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_09",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_12",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_14",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_15",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_16",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_18",
+            "yards": 539,
+            "meters": 493
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_PALS_YELLOW",
+        "code": "QAS_ESP_GOLF_DE_PALS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillo",
+        "courseRating": 72.0,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 133,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6499,
+        "totalMeters": 5942,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_04",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_05",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_07",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_08",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_09",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_11",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_12",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_14",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_15",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_16",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_17",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_18",
+            "yards": 489,
+            "meters": 447
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_PALS_BLUE",
+        "code": "QAS_ESP_GOLF_DE_PALS_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 68.3,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 119,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.6,
+            "slopeRating": 130,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5894,
+        "totalMeters": 5390,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_01",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_02",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_05",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_07",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_08",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_09",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_11",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_14",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_15",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_16",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_17",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_18",
+            "yards": 464,
+            "meters": 424
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_PALS_RED",
+        "code": "QAS_ESP_GOLF_DE_PALS_RED",
+        "type": "RED",
+        "displayName": "Rojo",
+        "courseRating": 67.0,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.0,
+            "slopeRating": 118,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 126,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5608,
+        "totalMeters": 5127,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_01",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_02",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_03",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_05",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_06",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_08",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_09",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_11",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_13",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_14",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_15",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_16",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_17",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_PALS_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      }
+    ]
+  }
+}

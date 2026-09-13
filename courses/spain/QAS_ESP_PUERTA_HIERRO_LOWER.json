@@ -1,0 +1,684 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_PUERTA_HIERRO_LOWER",
+    "code": "QAS_ESP_PUERTA_HIERRO_LOWER",
+    "name": "Real Club de la Puerta de Hierro - Lower",
+    "city": "Madrid",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Real Club de la Puerta de Hierro Lower, checked 2026-09-13; unrated tees excluded | https://www.golfify.io/courses/real-club-de-la-puerta-de-hierro-lower",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_01",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_02",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_03",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_04",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_05",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_06",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_07",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_08",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_09",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_10",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_11",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_12",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_13",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_14",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_15",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_16",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_17",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUERTA_HIERRO_LOWER_18",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_PUERTA_HIERRO_LOWER_WHITE",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 74.9,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7112,
+        "totalMeters": 6504,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUERTA_HIERRO_LOWER_YELLOW",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 72.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6619,
+        "totalMeters": 6052,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUERTA_HIERRO_LOWER_RED",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 72.3,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5592,
+        "totalMeters": 5114,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUERTA_HIERRO_LOWER_BLUE",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_BLUE",
+        "type": "BLUE",
+        "displayName": "Azules",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6081,
+        "totalMeters": 5560,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+            "yards": 336,
+            "meters": 307
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUERTA_HIERRO_LOWER_RED_5592",
+        "code": "QAS_ESP_PUERTA_HIERRO_LOWER_RED_5592",
+        "type": "RED_5592",
+        "displayName": "Rojas 5592 m",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6117,
+        "totalMeters": 5592,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_01",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_05",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_06",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_08",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_11",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_13",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_PUERTA_HIERRO_LOWER_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      }
+    ]
+  }
+}

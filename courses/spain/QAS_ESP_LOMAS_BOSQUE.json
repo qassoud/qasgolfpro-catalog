@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LOMAS_BOSQUE",
+    "code": "QAS_ESP_LOMAS_BOSQUE",
+    "name": "Club de Golf Lomas Bosque",
+    "city": "Villaviciosa de Odón",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Lomas Bosque scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_01",
+        "code": "QAS_ESP_LOMAS_BOSQUE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_02",
+        "code": "QAS_ESP_LOMAS_BOSQUE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_03",
+        "code": "QAS_ESP_LOMAS_BOSQUE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_04",
+        "code": "QAS_ESP_LOMAS_BOSQUE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_05",
+        "code": "QAS_ESP_LOMAS_BOSQUE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_06",
+        "code": "QAS_ESP_LOMAS_BOSQUE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_07",
+        "code": "QAS_ESP_LOMAS_BOSQUE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_08",
+        "code": "QAS_ESP_LOMAS_BOSQUE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_09",
+        "code": "QAS_ESP_LOMAS_BOSQUE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_10",
+        "code": "QAS_ESP_LOMAS_BOSQUE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_11",
+        "code": "QAS_ESP_LOMAS_BOSQUE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_12",
+        "code": "QAS_ESP_LOMAS_BOSQUE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_13",
+        "code": "QAS_ESP_LOMAS_BOSQUE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_14",
+        "code": "QAS_ESP_LOMAS_BOSQUE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_15",
+        "code": "QAS_ESP_LOMAS_BOSQUE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_16",
+        "code": "QAS_ESP_LOMAS_BOSQUE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_17",
+        "code": "QAS_ESP_LOMAS_BOSQUE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LOMAS_BOSQUE_18",
+        "code": "QAS_ESP_LOMAS_BOSQUE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LOMAS_BOSQUE_WHITE",
+        "code": "QAS_ESP_LOMAS_BOSQUE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 73.5,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6726,
+        "totalMeters": 6148,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_01",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_02",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_04",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_05",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_06",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_07",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_08",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_10",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_11",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_14",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_15",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_16",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_17",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LOMAS_BOSQUE_YELLOW",
+        "code": "QAS_ESP_LOMAS_BOSQUE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 71.9,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6420,
+        "totalMeters": 5869,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_01",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_02",
+            "yards": 83,
+            "meters": 76
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_03",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_06",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_07",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_08",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_09",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_10",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_11",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_14",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_15",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_16",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_18",
+            "yards": 477,
+            "meters": 436
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LOMAS_BOSQUE_BLUE",
+        "code": "QAS_ESP_LOMAS_BOSQUE_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 74.4,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5777,
+        "totalMeters": 5283,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_01",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_02",
+            "yards": 84,
+            "meters": 77
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_04",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_05",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_08",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_11",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_14",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_15",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_16",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_17",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LOMAS_BOSQUE_RED",
+        "code": "QAS_ESP_LOMAS_BOSQUE_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 72.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5494,
+        "totalMeters": 5024,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_02",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_03",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_04",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_05",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_07",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_09",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_10",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_14",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_16",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_17",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_LOMAS_BOSQUE_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LARRABEA",
+    "code": "QAS_ESP_LARRABEA",
+    "name": "Club de Golf Larrabea",
+    "city": "Legutiano",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Larrabea scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_01",
+        "code": "QAS_ESP_LARRABEA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_02",
+        "code": "QAS_ESP_LARRABEA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_03",
+        "code": "QAS_ESP_LARRABEA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_04",
+        "code": "QAS_ESP_LARRABEA_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_05",
+        "code": "QAS_ESP_LARRABEA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_06",
+        "code": "QAS_ESP_LARRABEA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_07",
+        "code": "QAS_ESP_LARRABEA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_08",
+        "code": "QAS_ESP_LARRABEA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_09",
+        "code": "QAS_ESP_LARRABEA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_10",
+        "code": "QAS_ESP_LARRABEA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_11",
+        "code": "QAS_ESP_LARRABEA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_12",
+        "code": "QAS_ESP_LARRABEA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_13",
+        "code": "QAS_ESP_LARRABEA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_14",
+        "code": "QAS_ESP_LARRABEA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_15",
+        "code": "QAS_ESP_LARRABEA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_16",
+        "code": "QAS_ESP_LARRABEA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_17",
+        "code": "QAS_ESP_LARRABEA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LARRABEA_18",
+        "code": "QAS_ESP_LARRABEA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LARRABEA_WHITE",
+        "code": "QAS_ESP_LARRABEA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanco",
+        "courseRating": 72.8,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6683,
+        "totalMeters": 6111,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LARRABEA_01",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_02",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_03",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_04",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_08",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_12",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_13",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_14",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_17",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LARRABEA_YELLOW",
+        "code": "QAS_ESP_LARRABEA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 71.9,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6392,
+        "totalMeters": 5844,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LARRABEA_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_03",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_04",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_06",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_07",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_08",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_09",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_11",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_12",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_13",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_14",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_15",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_17",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LARRABEA_BLUE",
+        "code": "QAS_ESP_LARRABEA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 73.7,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5791,
+        "totalMeters": 5297,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LARRABEA_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_03",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_04",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_06",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_07",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_08",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_11",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_12",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_13",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_14",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_15",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_17",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_18",
+            "yards": 362,
+            "meters": 331
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LARRABEA_RED",
+        "code": "QAS_ESP_LARRABEA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.6,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5442,
+        "totalMeters": 4974,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LARRABEA_01",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_03",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_04",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_05",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_07",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_08",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_10",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_12",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_13",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_14",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_15",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_16",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_17",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_LARRABEA_18",
+            "yards": 353,
+            "meters": 323
+          }
+        ]
+      }
+    ]
+  }
+}

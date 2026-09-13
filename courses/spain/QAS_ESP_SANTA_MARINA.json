@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SANTA_MARINA",
+    "code": "QAS_ESP_SANTA_MARINA",
+    "name": "Golf Santa Marina",
+    "city": "San Vicente de la Barquera",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Santa Marina, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_01",
+        "code": "QAS_ESP_SANTA_MARINA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_02",
+        "code": "QAS_ESP_SANTA_MARINA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_03",
+        "code": "QAS_ESP_SANTA_MARINA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_04",
+        "code": "QAS_ESP_SANTA_MARINA_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_05",
+        "code": "QAS_ESP_SANTA_MARINA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_06",
+        "code": "QAS_ESP_SANTA_MARINA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_07",
+        "code": "QAS_ESP_SANTA_MARINA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_08",
+        "code": "QAS_ESP_SANTA_MARINA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_09",
+        "code": "QAS_ESP_SANTA_MARINA_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_10",
+        "code": "QAS_ESP_SANTA_MARINA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_11",
+        "code": "QAS_ESP_SANTA_MARINA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_12",
+        "code": "QAS_ESP_SANTA_MARINA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_13",
+        "code": "QAS_ESP_SANTA_MARINA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_14",
+        "code": "QAS_ESP_SANTA_MARINA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_15",
+        "code": "QAS_ESP_SANTA_MARINA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_16",
+        "code": "QAS_ESP_SANTA_MARINA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_17",
+        "code": "QAS_ESP_SANTA_MARINA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_MARINA_18",
+        "code": "QAS_ESP_SANTA_MARINA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARINA_WHITE",
+        "code": "QAS_ESP_SANTA_MARINA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 71.4,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6389,
+        "totalMeters": 5843,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_01",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_02",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_03",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_04",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_05",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_06",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_07",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_08",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_09",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_10",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_11",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_12",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_14",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_17",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_18",
+            "yards": 547,
+            "meters": 500
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARINA_YELLOW",
+        "code": "QAS_ESP_SANTA_MARINA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 69.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6047,
+        "totalMeters": 5528,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_01",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_02",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_03",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_04",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_06",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_07",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_08",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_09",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_13",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_15",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_16",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_17",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_18",
+            "yards": 510,
+            "meters": 466
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARINA_ORANGE",
+        "code": "QAS_ESP_SANTA_MARINA_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Naranjas",
+        "courseRating": 68.1,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5582,
+        "totalMeters": 5104,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_01",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_03",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_04",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_05",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_06",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_07",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_09",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_10",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_12",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_13",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_16",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_18",
+            "yards": 469,
+            "meters": 429
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARINA_BLUE",
+        "code": "QAS_ESP_SANTA_MARINA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 70.7,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 127,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5308,
+        "totalMeters": 4852,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_02",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_03",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_04",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_05",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_06",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_08",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_09",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_10",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_11",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_13",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_15",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_16",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_18",
+            "yards": 456,
+            "meters": 417
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_MARINA_RED",
+        "code": "QAS_ESP_SANTA_MARINA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 67.5,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.5,
+            "slopeRating": 121,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4662,
+        "totalMeters": 4263,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_01",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_03",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_04",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_06",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_07",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_08",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_09",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_10",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_11",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_12",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_13",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_14",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_15",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_16",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_17",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_MARINA_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      }
+    ]
+  }
+}

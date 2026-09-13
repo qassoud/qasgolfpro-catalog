@@ -1,0 +1,471 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_NESTARES",
+    "code": "QAS_ESP_NESTARES",
+    "name": "Club de Golf Nestares",
+    "city": "Nestares",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Nestares, checked 2026-09-13; unrated 5598 m tee excluded | https://www.golfify.io/courses/club-de-golf-nestares",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_01",
+        "code": "QAS_ESP_NESTARES_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_02",
+        "code": "QAS_ESP_NESTARES_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_03",
+        "code": "QAS_ESP_NESTARES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_04",
+        "code": "QAS_ESP_NESTARES_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_05",
+        "code": "QAS_ESP_NESTARES_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_06",
+        "code": "QAS_ESP_NESTARES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_07",
+        "code": "QAS_ESP_NESTARES_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_08",
+        "code": "QAS_ESP_NESTARES_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_09",
+        "code": "QAS_ESP_NESTARES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_10",
+        "code": "QAS_ESP_NESTARES_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_11",
+        "code": "QAS_ESP_NESTARES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_12",
+        "code": "QAS_ESP_NESTARES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_13",
+        "code": "QAS_ESP_NESTARES_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_14",
+        "code": "QAS_ESP_NESTARES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_15",
+        "code": "QAS_ESP_NESTARES_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_16",
+        "code": "QAS_ESP_NESTARES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_17",
+        "code": "QAS_ESP_NESTARES_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NESTARES_18",
+        "code": "QAS_ESP_NESTARES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_NESTARES_YELLOW",
+        "code": "QAS_ESP_NESTARES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 70.6,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6456,
+        "totalMeters": 5902,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NESTARES_01",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_02",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_05",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_06",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_07",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_08",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_11",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_13",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_16",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_17",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_18",
+            "yards": 535,
+            "meters": 489
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NESTARES_RED",
+        "code": "QAS_ESP_NESTARES_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 72.0,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5598,
+        "totalMeters": 5119,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NESTARES_01",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_02",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_04",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_06",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_07",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_08",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_10",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_11",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_12",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_13",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_15",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_16",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_17",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_18",
+            "yards": 465,
+            "meters": 425
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NESTARES_RED_5598",
+        "code": "QAS_ESP_NESTARES_RED_5598",
+        "type": "RED_5598",
+        "displayName": "Rojas 5598 m",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6124,
+        "totalMeters": 5598,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NESTARES_01",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_02",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_03",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_05",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_06",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_07",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_08",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_10",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_11",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_12",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_13",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_15",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_17",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_NESTARES_18",
+            "yards": 509,
+            "meters": 465
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,670 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_FAISANERA",
+    "code": "QAS_ESP_LA_FAISANERA",
+    "name": "La Faisanera Golf",
+    "city": "Palazuelos de Eresma",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — La Faisanera Golf, checked 2026-09-13; unrated tee sets excluded | https://www.golfify.io/courses/la-faisanera-golf",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_01",
+        "code": "QAS_ESP_LA_FAISANERA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_02",
+        "code": "QAS_ESP_LA_FAISANERA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_03",
+        "code": "QAS_ESP_LA_FAISANERA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_04",
+        "code": "QAS_ESP_LA_FAISANERA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_05",
+        "code": "QAS_ESP_LA_FAISANERA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_06",
+        "code": "QAS_ESP_LA_FAISANERA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_07",
+        "code": "QAS_ESP_LA_FAISANERA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_08",
+        "code": "QAS_ESP_LA_FAISANERA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_09",
+        "code": "QAS_ESP_LA_FAISANERA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_10",
+        "code": "QAS_ESP_LA_FAISANERA_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_11",
+        "code": "QAS_ESP_LA_FAISANERA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_12",
+        "code": "QAS_ESP_LA_FAISANERA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_13",
+        "code": "QAS_ESP_LA_FAISANERA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_14",
+        "code": "QAS_ESP_LA_FAISANERA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_15",
+        "code": "QAS_ESP_LA_FAISANERA_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_16",
+        "code": "QAS_ESP_LA_FAISANERA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_17",
+        "code": "QAS_ESP_LA_FAISANERA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_FAISANERA_18",
+        "code": "QAS_ESP_LA_FAISANERA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_FAISANERA_YELLOW",
+        "code": "QAS_ESP_LA_FAISANERA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 69.0,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.0,
+            "slopeRating": 123,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6370,
+        "totalMeters": 5825,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_01",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_04",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_06",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_07",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_08",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_09",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_10",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_11",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_13",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_15",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_18",
+            "yards": 484,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_FAISANERA_WHITE",
+        "code": "QAS_ESP_LA_FAISANERA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6778,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_01",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_03",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_04",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_05",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_06",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_07",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_09",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_10",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_11",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_13",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_14",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_15",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_16",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_17",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_18",
+            "yards": 513,
+            "meters": 469
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_FAISANERA_RED_5064",
+        "code": "QAS_ESP_LA_FAISANERA_RED_5064",
+        "type": "RED_5064",
+        "displayName": "Rojas 5064 m",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5539,
+        "totalMeters": 5064,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_01",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_02",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_06",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_07",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_09",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_10",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_12",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_13",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_15",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_FAISANERA_BLUE",
+        "code": "QAS_ESP_LA_FAISANERA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5908,
+        "totalMeters": 5402,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_01",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_02",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_04",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_06",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_08",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_09",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_10",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_11",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_12",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_13",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_14",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_15",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_16",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_18",
+            "yards": 456,
+            "meters": 417
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_FAISANERA_RED_5060",
+        "code": "QAS_ESP_LA_FAISANERA_RED_5060",
+        "type": "RED_5060",
+        "displayName": "Rojas 5060 m",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5534,
+        "totalMeters": 5060,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_01",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_02",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_06",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_07",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_09",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_10",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_12",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_13",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_15",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_LA_FAISANERA_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      }
+    ]
+  }
+}

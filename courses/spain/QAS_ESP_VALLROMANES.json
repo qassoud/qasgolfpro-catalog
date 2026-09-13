@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_VALLROMANES",
+    "code": "QAS_ESP_VALLROMANES",
+    "name": "Club de Golf Vallromanes",
+    "city": "Vallromanes",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Vallromanes scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_01",
+        "code": "QAS_ESP_VALLROMANES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_02",
+        "code": "QAS_ESP_VALLROMANES_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_03",
+        "code": "QAS_ESP_VALLROMANES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_04",
+        "code": "QAS_ESP_VALLROMANES_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_05",
+        "code": "QAS_ESP_VALLROMANES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_06",
+        "code": "QAS_ESP_VALLROMANES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_07",
+        "code": "QAS_ESP_VALLROMANES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_08",
+        "code": "QAS_ESP_VALLROMANES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_09",
+        "code": "QAS_ESP_VALLROMANES_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_10",
+        "code": "QAS_ESP_VALLROMANES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_11",
+        "code": "QAS_ESP_VALLROMANES_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_12",
+        "code": "QAS_ESP_VALLROMANES_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_13",
+        "code": "QAS_ESP_VALLROMANES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_14",
+        "code": "QAS_ESP_VALLROMANES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_15",
+        "code": "QAS_ESP_VALLROMANES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_16",
+        "code": "QAS_ESP_VALLROMANES_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_17",
+        "code": "QAS_ESP_VALLROMANES_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALLROMANES_18",
+        "code": "QAS_ESP_VALLROMANES_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 7
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_VALLROMANES_WHITE",
+        "code": "QAS_ESP_VALLROMANES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 72.1,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6607,
+        "totalMeters": 6044,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_04",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_08",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_09",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_10",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_11",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_12",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_13",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_16",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_17",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALLROMANES_YELLOW",
+        "code": "QAS_ESP_VALLROMANES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 71.2,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6405,
+        "totalMeters": 5857,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_04",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_06",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_08",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_09",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_10",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_11",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_12",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_13",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_16",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_17",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALLROMANES_BLUE",
+        "code": "QAS_ESP_VALLROMANES_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 73.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5735,
+        "totalMeters": 5244,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_03",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_04",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_05",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_06",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_09",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_11",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_13",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_14",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_15",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_16",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_17",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALLROMANES_RED",
+        "code": "QAS_ESP_VALLROMANES_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.9,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5551,
+        "totalMeters": 5075,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_03",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_04",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_05",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_06",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_07",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_08",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_12",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_13",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_14",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_16",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_VALLROMANES_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      }
+    ]
+  }
+}

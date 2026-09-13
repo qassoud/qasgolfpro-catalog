@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_PALOMAREJOS",
+    "code": "QAS_ESP_PALOMAREJOS",
+    "name": "Palomarejos Golf",
+    "city": "Talavera de la Reina",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Palomarejos Golf, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_01",
+        "code": "QAS_ESP_PALOMAREJOS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_02",
+        "code": "QAS_ESP_PALOMAREJOS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_03",
+        "code": "QAS_ESP_PALOMAREJOS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_04",
+        "code": "QAS_ESP_PALOMAREJOS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_05",
+        "code": "QAS_ESP_PALOMAREJOS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_06",
+        "code": "QAS_ESP_PALOMAREJOS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_07",
+        "code": "QAS_ESP_PALOMAREJOS_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_08",
+        "code": "QAS_ESP_PALOMAREJOS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_09",
+        "code": "QAS_ESP_PALOMAREJOS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_10",
+        "code": "QAS_ESP_PALOMAREJOS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_11",
+        "code": "QAS_ESP_PALOMAREJOS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_12",
+        "code": "QAS_ESP_PALOMAREJOS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_13",
+        "code": "QAS_ESP_PALOMAREJOS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_14",
+        "code": "QAS_ESP_PALOMAREJOS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_15",
+        "code": "QAS_ESP_PALOMAREJOS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_16",
+        "code": "QAS_ESP_PALOMAREJOS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_17",
+        "code": "QAS_ESP_PALOMAREJOS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PALOMAREJOS_18",
+        "code": "QAS_ESP_PALOMAREJOS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_PALOMAREJOS_WHITE",
+        "code": "QAS_ESP_PALOMAREJOS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanco",
+        "courseRating": 72.1,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6642,
+        "totalMeters": 6073,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_05",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_06",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_07",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_13",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_14",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_15",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_16",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_17",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PALOMAREJOS_YELLOW",
+        "code": "QAS_ESP_PALOMAREJOS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 70.0,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6231,
+        "totalMeters": 5698,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_03",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_05",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_07",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_08",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_09",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_11",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_13",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_14",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_15",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_16",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_17",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PALOMAREJOS_BLUE",
+        "code": "QAS_ESP_PALOMAREJOS_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 73.5,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5762,
+        "totalMeters": 5268,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_02",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_04",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_07",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_08",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_09",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_10",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_14",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_15",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_16",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_17",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PALOMAREJOS_RED",
+        "code": "QAS_ESP_PALOMAREJOS_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 70.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.9,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5369,
+        "totalMeters": 4909,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_02",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_03",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_04",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_05",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_08",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_09",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_15",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_16",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_17",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_PALOMAREJOS_18",
+            "yards": 300,
+            "meters": 274
+          }
+        ]
+      }
+    ]
+  }
+}

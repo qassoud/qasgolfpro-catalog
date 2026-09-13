@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_VALDECANAS",
+    "code": "QAS_ESP_VALDECANAS",
+    "name": "Vincci Valdecañas Golf",
+    "city": "El Gordo",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Vincci Valdecañas Golf, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_01",
+        "code": "QAS_ESP_VALDECANAS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_02",
+        "code": "QAS_ESP_VALDECANAS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_03",
+        "code": "QAS_ESP_VALDECANAS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_04",
+        "code": "QAS_ESP_VALDECANAS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_05",
+        "code": "QAS_ESP_VALDECANAS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_06",
+        "code": "QAS_ESP_VALDECANAS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_07",
+        "code": "QAS_ESP_VALDECANAS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_08",
+        "code": "QAS_ESP_VALDECANAS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_09",
+        "code": "QAS_ESP_VALDECANAS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_10",
+        "code": "QAS_ESP_VALDECANAS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_11",
+        "code": "QAS_ESP_VALDECANAS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_12",
+        "code": "QAS_ESP_VALDECANAS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_13",
+        "code": "QAS_ESP_VALDECANAS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_14",
+        "code": "QAS_ESP_VALDECANAS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_15",
+        "code": "QAS_ESP_VALDECANAS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_16",
+        "code": "QAS_ESP_VALDECANAS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_17",
+        "code": "QAS_ESP_VALDECANAS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDECANAS_18",
+        "code": "QAS_ESP_VALDECANAS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_VALDECANAS_YELLOW",
+        "code": "QAS_ESP_VALDECANAS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 71.3,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6479,
+        "totalMeters": 5924,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_01",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_02",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_03",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_11",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_12",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_13",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_15",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_17",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALDECANAS_WHITE",
+        "code": "QAS_ESP_VALDECANAS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 73.9,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6912,
+        "totalMeters": 6319,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_01",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_02",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_03",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_06",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_09",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_11",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_12",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_13",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_18",
+            "yards": 374,
+            "meters": 342
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALDECANAS_BLUE",
+        "code": "QAS_ESP_VALDECANAS_BLUE",
+        "type": "BLUE",
+        "displayName": "Azules",
+        "courseRating": 75.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6052,
+        "totalMeters": 5533,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_01",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_02",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_03",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_04",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_11",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_12",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_13",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_14",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_15",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_17",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALDECANAS_RED",
+        "code": "QAS_ESP_VALDECANAS_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.4,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5460,
+        "totalMeters": 4995,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_01",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_02",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_03",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_05",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_08",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_11",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_12",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_13",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_14",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_16",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_17",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ESP_VALDECANAS_18",
+            "yards": 288,
+            "meters": 263
+          }
+        ]
+      }
+    ]
+  }
+}

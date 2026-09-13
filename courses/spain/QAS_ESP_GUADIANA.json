@@ -1,0 +1,464 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GUADIANA",
+    "code": "QAS_ESP_GUADIANA",
+    "name": "Golf de Guadiana",
+    "city": "Badajoz",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Guadiana, checked 2026-09-13; unrated tee sets excluded | https://www.golfify.io/courses/golf-de-guadiana",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_01",
+        "code": "QAS_ESP_GUADIANA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_02",
+        "code": "QAS_ESP_GUADIANA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_03",
+        "code": "QAS_ESP_GUADIANA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_04",
+        "code": "QAS_ESP_GUADIANA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_05",
+        "code": "QAS_ESP_GUADIANA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_06",
+        "code": "QAS_ESP_GUADIANA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_07",
+        "code": "QAS_ESP_GUADIANA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_08",
+        "code": "QAS_ESP_GUADIANA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_09",
+        "code": "QAS_ESP_GUADIANA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_10",
+        "code": "QAS_ESP_GUADIANA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_11",
+        "code": "QAS_ESP_GUADIANA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_12",
+        "code": "QAS_ESP_GUADIANA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_13",
+        "code": "QAS_ESP_GUADIANA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_14",
+        "code": "QAS_ESP_GUADIANA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_15",
+        "code": "QAS_ESP_GUADIANA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_16",
+        "code": "QAS_ESP_GUADIANA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_17",
+        "code": "QAS_ESP_GUADIANA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADIANA_18",
+        "code": "QAS_ESP_GUADIANA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GUADIANA_YELLOW",
+        "code": "QAS_ESP_GUADIANA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 71.8,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6671,
+        "totalMeters": 6103,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADIANA_01",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_02",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_05",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_06",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_07",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_08",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_09",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_10",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_13",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_14",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_15",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_18",
+            "yards": 542,
+            "meters": 496
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GUADIANA_BLUE",
+        "code": "QAS_ESP_GUADIANA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5930,
+        "totalMeters": 5421,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADIANA_01",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_03",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_06",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_07",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_08",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_11",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_12",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_15",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_16",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GUADIANA_RED",
+        "code": "QAS_ESP_GUADIANA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5602,
+        "totalMeters": 5124,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADIANA_01",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_03",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_05",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_06",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_07",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_08",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_11",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_12",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_13",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_15",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_16",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_GUADIANA_18",
+            "yards": 462,
+            "meters": 422
+          }
+        ]
+      }
+    ]
+  }
+}

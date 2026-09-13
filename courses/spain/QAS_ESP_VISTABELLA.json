@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_VISTABELLA",
+    "code": "QAS_ESP_VISTABELLA",
+    "name": "Vistabella Golf Club",
+    "city": "Orihuela",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Vistabella Golf Club, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_01",
+        "code": "QAS_ESP_VISTABELLA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_02",
+        "code": "QAS_ESP_VISTABELLA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_03",
+        "code": "QAS_ESP_VISTABELLA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_04",
+        "code": "QAS_ESP_VISTABELLA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_05",
+        "code": "QAS_ESP_VISTABELLA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_06",
+        "code": "QAS_ESP_VISTABELLA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_07",
+        "code": "QAS_ESP_VISTABELLA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_08",
+        "code": "QAS_ESP_VISTABELLA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_09",
+        "code": "QAS_ESP_VISTABELLA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_10",
+        "code": "QAS_ESP_VISTABELLA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_11",
+        "code": "QAS_ESP_VISTABELLA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_12",
+        "code": "QAS_ESP_VISTABELLA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_13",
+        "code": "QAS_ESP_VISTABELLA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_14",
+        "code": "QAS_ESP_VISTABELLA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_15",
+        "code": "QAS_ESP_VISTABELLA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_16",
+        "code": "QAS_ESP_VISTABELLA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_17",
+        "code": "QAS_ESP_VISTABELLA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VISTABELLA_18",
+        "code": "QAS_ESP_VISTABELLA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_VISTABELLA_WHITE",
+        "code": "QAS_ESP_VISTABELLA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanco",
+        "courseRating": 72.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6706,
+        "totalMeters": 6133,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_01",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_02",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_03",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_05",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_06",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_07",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_10",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_12",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_13",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_14",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_15",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_17",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_18",
+            "yards": 402,
+            "meters": 368
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VISTABELLA_YELLOW",
+        "code": "QAS_ESP_VISTABELLA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 70.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6281,
+        "totalMeters": 5746,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_03",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_04",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_05",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_08",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_10",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_14",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_15",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_17",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VISTABELLA_BLUE",
+        "code": "QAS_ESP_VISTABELLA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 74.2,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5767,
+        "totalMeters": 5276,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_02",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_04",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_05",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_08",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_10",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_11",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_12",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_13",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_14",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_17",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VISTABELLA_RED",
+        "code": "QAS_ESP_VISTABELLA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.5,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5218,
+        "totalMeters": 4772,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_01",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_04",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_06",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_08",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_10",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_12",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_13",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_14",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_15",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_16",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_17",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_ESP_VISTABELLA_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      }
+    ]
+  }
+}

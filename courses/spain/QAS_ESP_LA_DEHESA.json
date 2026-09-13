@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_DEHESA",
+    "code": "QAS_ESP_LA_DEHESA",
+    "name": "La Dehesa Club de Golf",
+    "city": "Villanueva de la Cañada",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — La Dehesa Club de Golf scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_01",
+        "code": "QAS_ESP_LA_DEHESA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_02",
+        "code": "QAS_ESP_LA_DEHESA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_03",
+        "code": "QAS_ESP_LA_DEHESA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_04",
+        "code": "QAS_ESP_LA_DEHESA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_05",
+        "code": "QAS_ESP_LA_DEHESA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_06",
+        "code": "QAS_ESP_LA_DEHESA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_07",
+        "code": "QAS_ESP_LA_DEHESA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_08",
+        "code": "QAS_ESP_LA_DEHESA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_09",
+        "code": "QAS_ESP_LA_DEHESA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_10",
+        "code": "QAS_ESP_LA_DEHESA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_11",
+        "code": "QAS_ESP_LA_DEHESA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_12",
+        "code": "QAS_ESP_LA_DEHESA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_13",
+        "code": "QAS_ESP_LA_DEHESA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_14",
+        "code": "QAS_ESP_LA_DEHESA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_15",
+        "code": "QAS_ESP_LA_DEHESA_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_16",
+        "code": "QAS_ESP_LA_DEHESA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_17",
+        "code": "QAS_ESP_LA_DEHESA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_DEHESA_18",
+        "code": "QAS_ESP_LA_DEHESA_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 13
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_DEHESA_WHITE",
+        "code": "QAS_ESP_LA_DEHESA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanco",
+        "courseRating": 73.8,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7020,
+        "totalMeters": 6419,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_02",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_03",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_04",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_06",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_07",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_08",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_09",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_10",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_11",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_12",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_14",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_15",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_16",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_17",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_18",
+            "yards": 182,
+            "meters": 166
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_DEHESA_YELLOW",
+        "code": "QAS_ESP_LA_DEHESA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillas",
+        "courseRating": 71.5,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6585,
+        "totalMeters": 6022,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_02",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_03",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_05",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_06",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_07",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_08",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_09",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_10",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_11",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_12",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_15",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_16",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_17",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_18",
+            "yards": 165,
+            "meters": 151
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_DEHESA_BLUE",
+        "code": "QAS_ESP_LA_DEHESA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 75.9,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.9,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6178,
+        "totalMeters": 5649,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_06",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_07",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_11",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_15",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_16",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_17",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_18",
+            "yards": 148,
+            "meters": 135
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_DEHESA_RED",
+        "code": "QAS_ESP_LA_DEHESA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 72.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5602,
+        "totalMeters": 5122,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_02",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_04",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_05",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_07",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_09",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_11",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_12",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_13",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_14",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_15",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_17",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_LA_DEHESA_18",
+            "yards": 137,
+            "meters": 125
+          }
+        ]
+      }
+    ]
+  }
+}

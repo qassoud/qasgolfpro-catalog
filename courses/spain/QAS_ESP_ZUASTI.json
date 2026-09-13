@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ZUASTI",
+    "code": "QAS_ESP_ZUASTI",
+    "name": "Club de Campo Señorío de Zuasti",
+    "city": "Zuasti",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Campo Señorío de Zuasti scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_01",
+        "code": "QAS_ESP_ZUASTI_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_02",
+        "code": "QAS_ESP_ZUASTI_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_03",
+        "code": "QAS_ESP_ZUASTI_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_04",
+        "code": "QAS_ESP_ZUASTI_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_05",
+        "code": "QAS_ESP_ZUASTI_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_06",
+        "code": "QAS_ESP_ZUASTI_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_07",
+        "code": "QAS_ESP_ZUASTI_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_08",
+        "code": "QAS_ESP_ZUASTI_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_09",
+        "code": "QAS_ESP_ZUASTI_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_10",
+        "code": "QAS_ESP_ZUASTI_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_11",
+        "code": "QAS_ESP_ZUASTI_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_12",
+        "code": "QAS_ESP_ZUASTI_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_13",
+        "code": "QAS_ESP_ZUASTI_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_14",
+        "code": "QAS_ESP_ZUASTI_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_15",
+        "code": "QAS_ESP_ZUASTI_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_16",
+        "code": "QAS_ESP_ZUASTI_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_17",
+        "code": "QAS_ESP_ZUASTI_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ZUASTI_18",
+        "code": "QAS_ESP_ZUASTI_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ZUASTI_WHITE",
+        "code": "QAS_ESP_ZUASTI_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6553,
+        "totalMeters": 5992,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ZUASTI_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_02",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_03",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_04",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_06",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_08",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_09",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_10",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_12",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_14",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_15",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_16",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_17",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ZUASTI_YELLOW",
+        "code": "QAS_ESP_ZUASTI_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.5,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6241,
+        "totalMeters": 5706,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ZUASTI_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_02",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_03",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_05",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_06",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_08",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_09",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_10",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_13",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_14",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_15",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_16",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_18",
+            "yards": 383,
+            "meters": 350
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ZUASTI_BLUE",
+        "code": "QAS_ESP_ZUASTI_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.0,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5639,
+        "totalMeters": 5157,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ZUASTI_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_04",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_05",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_06",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_07",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_08",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_09",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_10",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_12",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_13",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_14",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_16",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_17",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ZUASTI_RED",
+        "code": "QAS_ESP_ZUASTI_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.7,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5383,
+        "totalMeters": 4921,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ZUASTI_01",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_04",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_05",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_07",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_09",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_10",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_13",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_14",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_15",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_16",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_17",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_ZUASTI_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      }
+    ]
+  }
+}

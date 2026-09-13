@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LAYOS",
+    "code": "QAS_ESP_LAYOS",
+    "name": "Layos Campo de Golf",
+    "city": "Layos",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Layos Campo de Golf, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_01",
+        "code": "QAS_ESP_LAYOS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_02",
+        "code": "QAS_ESP_LAYOS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_03",
+        "code": "QAS_ESP_LAYOS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_04",
+        "code": "QAS_ESP_LAYOS_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_05",
+        "code": "QAS_ESP_LAYOS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_06",
+        "code": "QAS_ESP_LAYOS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_07",
+        "code": "QAS_ESP_LAYOS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_08",
+        "code": "QAS_ESP_LAYOS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_09",
+        "code": "QAS_ESP_LAYOS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_10",
+        "code": "QAS_ESP_LAYOS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_11",
+        "code": "QAS_ESP_LAYOS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_12",
+        "code": "QAS_ESP_LAYOS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_13",
+        "code": "QAS_ESP_LAYOS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_14",
+        "code": "QAS_ESP_LAYOS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_15",
+        "code": "QAS_ESP_LAYOS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_16",
+        "code": "QAS_ESP_LAYOS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_17",
+        "code": "QAS_ESP_LAYOS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAYOS_18",
+        "code": "QAS_ESP_LAYOS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LAYOS_WHITE",
+        "code": "QAS_ESP_LAYOS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 75.2,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7135,
+        "totalMeters": 6526,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAYOS_01",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_02",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_03",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_04",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_06",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_07",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_08",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_09",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_12",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_13",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_14",
+            "yards": 608,
+            "meters": 556
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_15",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_16",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_17",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_18",
+            "yards": 470,
+            "meters": 430
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAYOS_YELLOW",
+        "code": "QAS_ESP_LAYOS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 72.3,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6588,
+        "totalMeters": 6025,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAYOS_01",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_02",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_03",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_04",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_06",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_08",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_11",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_12",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_13",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_14",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_15",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_17",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAYOS_BLUE",
+        "code": "QAS_ESP_LAYOS_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 75.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6002,
+        "totalMeters": 5488,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAYOS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_02",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_03",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_04",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_05",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_06",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_07",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_09",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_10",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_14",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_15",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_17",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAYOS_RED",
+        "code": "QAS_ESP_LAYOS_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 70.3,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.3,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5123,
+        "totalMeters": 4683,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAYOS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_02",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_04",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_05",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_06",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_07",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_08",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_09",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_10",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_11",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_15",
+            "yards": 79,
+            "meters": 72
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_16",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_17",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_LAYOS_18",
+            "yards": 329,
+            "meters": 301
+          }
+        ]
+      }
+    ]
+  }
+}

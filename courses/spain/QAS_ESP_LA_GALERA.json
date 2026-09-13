@@ -1,0 +1,368 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_GALERA",
+    "code": "QAS_ESP_LA_GALERA",
+    "name": "Club de Campo La Galera",
+    "city": "Valladolid",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Campo La Galera, checked 2026-09-13; 9-hole back-only tee entries excluded",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_01",
+        "code": "QAS_ESP_LA_GALERA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_02",
+        "code": "QAS_ESP_LA_GALERA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_03",
+        "code": "QAS_ESP_LA_GALERA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_04",
+        "code": "QAS_ESP_LA_GALERA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_05",
+        "code": "QAS_ESP_LA_GALERA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_06",
+        "code": "QAS_ESP_LA_GALERA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_07",
+        "code": "QAS_ESP_LA_GALERA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_08",
+        "code": "QAS_ESP_LA_GALERA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_09",
+        "code": "QAS_ESP_LA_GALERA_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_10",
+        "code": "QAS_ESP_LA_GALERA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_11",
+        "code": "QAS_ESP_LA_GALERA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_12",
+        "code": "QAS_ESP_LA_GALERA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_13",
+        "code": "QAS_ESP_LA_GALERA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_14",
+        "code": "QAS_ESP_LA_GALERA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_15",
+        "code": "QAS_ESP_LA_GALERA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_16",
+        "code": "QAS_ESP_LA_GALERA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_17",
+        "code": "QAS_ESP_LA_GALERA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_GALERA_18",
+        "code": "QAS_ESP_LA_GALERA_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_GALERA_YELLOW",
+        "code": "QAS_ESP_LA_GALERA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 71.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6420,
+        "totalMeters": 5872,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_01",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_02",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_05",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_06",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_08",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_09",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_10",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_11",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_14",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_15",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_17",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_18",
+            "yards": 155,
+            "meters": 142
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_GALERA_RED",
+        "code": "QAS_ESP_LA_GALERA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 73.0,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5570,
+        "totalMeters": 5092,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_02",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_03",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_04",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_05",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_06",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_07",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_08",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_09",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_10",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_13",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_14",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_16",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_17",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_LA_GALERA_18",
+            "yards": 102,
+            "meters": 93
+          }
+        ]
+      }
+    ]
+  }
+}

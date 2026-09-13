@@ -1,0 +1,808 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_MONACILLA",
+    "code": "QAS_ESP_LA_MONACILLA",
+    "name": "La Monacilla Golf Club",
+    "city": "Aljaraque",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — La Monacilla Golf Club scorecard and ratings, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_01",
+        "code": "QAS_ESP_LA_MONACILLA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_02",
+        "code": "QAS_ESP_LA_MONACILLA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_03",
+        "code": "QAS_ESP_LA_MONACILLA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_04",
+        "code": "QAS_ESP_LA_MONACILLA_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_05",
+        "code": "QAS_ESP_LA_MONACILLA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_06",
+        "code": "QAS_ESP_LA_MONACILLA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_07",
+        "code": "QAS_ESP_LA_MONACILLA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_08",
+        "code": "QAS_ESP_LA_MONACILLA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_09",
+        "code": "QAS_ESP_LA_MONACILLA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_10",
+        "code": "QAS_ESP_LA_MONACILLA_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_11",
+        "code": "QAS_ESP_LA_MONACILLA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_12",
+        "code": "QAS_ESP_LA_MONACILLA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_13",
+        "code": "QAS_ESP_LA_MONACILLA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_14",
+        "code": "QAS_ESP_LA_MONACILLA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_15",
+        "code": "QAS_ESP_LA_MONACILLA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_16",
+        "code": "QAS_ESP_LA_MONACILLA_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_17",
+        "code": "QAS_ESP_LA_MONACILLA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MONACILLA_18",
+        "code": "QAS_ESP_LA_MONACILLA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_BLACK",
+        "code": "QAS_ESP_LA_MONACILLA_BLACK",
+        "type": "BLACK",
+        "displayName": "Negro",
+        "courseRating": 73.0,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7531,
+        "totalMeters": 6886,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_WHITE",
+        "code": "QAS_ESP_LA_MONACILLA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blancas",
+        "courseRating": 70.8,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 118,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7047,
+        "totalMeters": 6443,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_YELLOW",
+        "code": "QAS_ESP_LA_MONACILLA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarillos",
+        "courseRating": 74.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.2,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6582,
+        "totalMeters": 6020,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_BLUE",
+        "code": "QAS_ESP_LA_MONACILLA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul",
+        "courseRating": 74.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6048,
+        "totalMeters": 5529,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_RED",
+        "code": "QAS_ESP_LA_MONACILLA_RED",
+        "type": "RED",
+        "displayName": "Rojas",
+        "courseRating": 71.6,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5647,
+        "totalMeters": 5164,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 367,
+            "meters": 336
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MONACILLA_GOLD",
+        "code": "QAS_ESP_LA_MONACILLA_GOLD",
+        "type": "GOLD",
+        "displayName": "Oro",
+        "courseRating": 71.6,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5194,
+        "totalMeters": 4749,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_01",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_02",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_05",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_06",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_07",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_08",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_09",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_10",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_13",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_14",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_17",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MONACILLA_18",
+            "yards": 341,
+            "meters": 312
+          }
+        ]
+      }
+    ]
+  }
+}

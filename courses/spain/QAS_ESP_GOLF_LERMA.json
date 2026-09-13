@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOLF_LERMA",
+    "code": "QAS_ESP_GOLF_LERMA",
+    "name": "Golf Lerma",
+    "city": "Lerma",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Lerma, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_01",
+        "code": "QAS_ESP_GOLF_LERMA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_02",
+        "code": "QAS_ESP_GOLF_LERMA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_03",
+        "code": "QAS_ESP_GOLF_LERMA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_04",
+        "code": "QAS_ESP_GOLF_LERMA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_05",
+        "code": "QAS_ESP_GOLF_LERMA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_06",
+        "code": "QAS_ESP_GOLF_LERMA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_07",
+        "code": "QAS_ESP_GOLF_LERMA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_08",
+        "code": "QAS_ESP_GOLF_LERMA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_09",
+        "code": "QAS_ESP_GOLF_LERMA_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_10",
+        "code": "QAS_ESP_GOLF_LERMA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_11",
+        "code": "QAS_ESP_GOLF_LERMA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_12",
+        "code": "QAS_ESP_GOLF_LERMA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_13",
+        "code": "QAS_ESP_GOLF_LERMA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_14",
+        "code": "QAS_ESP_GOLF_LERMA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_15",
+        "code": "QAS_ESP_GOLF_LERMA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_16",
+        "code": "QAS_ESP_GOLF_LERMA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_17",
+        "code": "QAS_ESP_GOLF_LERMA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LERMA_18",
+        "code": "QAS_ESP_GOLF_LERMA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LERMA_WHITE",
+        "code": "QAS_ESP_GOLF_LERMA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanca",
+        "courseRating": 73.3,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6977,
+        "totalMeters": 6378,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_01",
+            "yards": 611,
+            "meters": 559
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_02",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_03",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_08",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_09",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_10",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_12",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_15",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_16",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_17",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_18",
+            "yards": 334,
+            "meters": 305
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LERMA_YELLOW",
+        "code": "QAS_ESP_GOLF_LERMA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Amarilla",
+        "courseRating": 70.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6193,
+        "totalMeters": 5664,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_01",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_04",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_06",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_07",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_08",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_09",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_10",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_11",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_12",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_13",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_15",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_16",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_17",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LERMA_BLUE",
+        "code": "QAS_ESP_GOLF_LERMA_BLUE",
+        "type": "BLUE",
+        "displayName": "Azul (L)",
+        "courseRating": 73.5,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5784,
+        "totalMeters": 5288,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_01",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_02",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_03",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_04",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_05",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_07",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_08",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_09",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_10",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_15",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_17",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_18",
+            "yards": 281,
+            "meters": 257
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LERMA_RED",
+        "code": "QAS_ESP_GOLF_LERMA_RED",
+        "type": "RED",
+        "displayName": "Rojas (L)",
+        "courseRating": 71.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5550,
+        "totalMeters": 5076,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_01",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_03",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_04",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_05",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_07",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_08",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_09",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_10",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_11",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_12",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_16",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_17",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LERMA_18",
+            "yards": 259,
+            "meters": 237
+          }
+        ]
+      }
+    ]
+  }
+}
