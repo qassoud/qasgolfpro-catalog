@@ -1,18 +1,18 @@
 {
-  "formatVersion": 2,
+  "formatVersion": 1,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_MAR_BOUZNIKA_18T",
     "code": "QAS_MAR_BOUZNIKA_18T",
-    "name": "Bouznika 18T",
+    "name": "Bouznika Bay Golf - 9 trous x2",
     "city": "Bouznika",
     "countryCode": "MAR",
     "numberOfHoles": 18,
     "totalPar": 70,
     "latitude": null,
     "longitude": null,
-    "dataSource": "FRMG official course profile; distances cross-checked with All Square and FlyAway",
-    "dataVersion": 3,
+    "dataSource": "FRMG (9 trous, Par 35) + FlyAway Golf scorecard — contrôlé 2026-09-13",
+    "dataVersion": 4,
     "isVerified": true,
     "holes": [
       {
@@ -20,77 +20,77 @@
         "code": "QAS_MAR_BOUZNIKA_18T_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 7
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_02",
         "code": "QAS_MAR_BOUZNIKA_18T_02",
         "number": 2,
         "par": 5,
-        "strokeIndex": 13
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_03",
         "code": "QAS_MAR_BOUZNIKA_18T_03",
         "number": 3,
         "par": 3,
-        "strokeIndex": 11
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_04",
         "code": "QAS_MAR_BOUZNIKA_18T_04",
         "number": 4,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_05",
         "code": "QAS_MAR_BOUZNIKA_18T_05",
         "number": 5,
         "par": 3,
-        "strokeIndex": 15
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_06",
         "code": "QAS_MAR_BOUZNIKA_18T_06",
         "number": 6,
         "par": 5,
-        "strokeIndex": 17
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_07",
         "code": "QAS_MAR_BOUZNIKA_18T_07",
         "number": 7,
         "par": 3,
-        "strokeIndex": 9
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_08",
         "code": "QAS_MAR_BOUZNIKA_18T_08",
         "number": 8,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_09",
         "code": "QAS_MAR_BOUZNIKA_18T_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_10",
         "code": "QAS_MAR_BOUZNIKA_18T_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_11",
         "code": "QAS_MAR_BOUZNIKA_18T_11",
         "number": 11,
         "par": 5,
-        "strokeIndex": 14
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_12",
@@ -104,42 +104,42 @@
         "code": "QAS_MAR_BOUZNIKA_18T_13",
         "number": 13,
         "par": 4,
-        "strokeIndex": 4
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_14",
         "code": "QAS_MAR_BOUZNIKA_18T_14",
         "number": 14,
         "par": 3,
-        "strokeIndex": 16
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_15",
         "code": "QAS_MAR_BOUZNIKA_18T_15",
         "number": 15,
         "par": 5,
-        "strokeIndex": 18
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_16",
         "code": "QAS_MAR_BOUZNIKA_18T_16",
         "number": 16,
         "par": 3,
-        "strokeIndex": 10
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_17",
         "code": "QAS_MAR_BOUZNIKA_18T_17",
         "number": 17,
         "par": 4,
-        "strokeIndex": 2
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_MAR_BOUZNIKA_18T_18",
         "code": "QAS_MAR_BOUZNIKA_18T_18",
         "number": 18,
         "par": 4,
-        "strokeIndex": 6
+        "strokeIndex": 18
       }
     ],
     "tees": [
@@ -150,9 +150,9 @@
         "displayName": "Blanc",
         "courseRating": null,
         "slope": null,
+        "ratings": [],
         "totalYards": 6652,
         "totalMeters": 6082,
-        "ratings": [],
         "distances": [
           {
             "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
@@ -253,9 +253,9 @@
         "displayName": "Jaune",
         "courseRating": null,
         "slope": null,
+        "ratings": [],
         "totalYards": 5892,
         "totalMeters": 5388,
-        "ratings": [],
         "distances": [
           {
             "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
@@ -356,9 +356,9 @@
         "displayName": "Bleu",
         "courseRating": null,
         "slope": null,
+        "ratings": [],
         "totalYards": 5180,
         "totalMeters": 4738,
-        "ratings": [],
         "distances": [
           {
             "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
@@ -459,9 +459,9 @@
         "displayName": "Rouge",
         "courseRating": null,
         "slope": null,
+        "ratings": [],
         "totalYards": 4550,
         "totalMeters": 4160,
-        "ratings": [],
         "distances": [
           {
             "holeCode": "QAS_MAR_BOUZNIKA_18T_01",
@@ -555,7 +555,6 @@
           }
         ]
       }
-    ],
-    "pruneMissingTees": true
+    ]
   }
 }

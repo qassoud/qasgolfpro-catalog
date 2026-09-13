@@ -1,19 +1,19 @@
 {
-  "formatVersion": 2,
+  "formatVersion": 1,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_MAR_GOLF_MEKNES",
     "code": "QAS_MAR_GOLF_MEKNES",
-    "name": "Royal Golf Meknes",
+    "name": "Royal Golf de Meknès - 9 trous x2",
     "city": "Meknès",
     "countryCode": "MAR",
     "numberOfHoles": 18,
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV Ratings V13 — QasGolfPro Course Generator v3.0",
-    "dataVersion": 2,
-    "isVerified": false,
+    "dataSource": "FRMG (9 trous) + carte source QasGolfPro historique; Jaune recoupé Hole19 — contrôlé 2026-09-13",
+    "dataVersion": 3,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_MAR_GOLF_MEKNES_01",
@@ -131,14 +131,14 @@
         "uuid": "HOLE_QAS_MAR_GOLF_MEKNES_17",
         "code": "QAS_MAR_GOLF_MEKNES_17",
         "number": 17,
-        "par": 3,
+        "par": 4,
         "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_MAR_GOLF_MEKNES_18",
         "code": "QAS_MAR_GOLF_MEKNES_18",
         "number": 18,
-        "par": 4,
+        "par": 3,
         "strokeIndex": 18
       }
     ],
@@ -148,24 +148,11 @@
         "code": "QAS_MAR_GOLF_MEKNES_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": 72.0,
-        "slope": 113,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 5525,
-        "totalMeters": 5052,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5710,
+        "totalMeters": 5220,
         "distances": [
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_01",
@@ -229,8 +216,8 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_13",
-            "yards": 272,
-            "meters": 249
+            "yards": 382,
+            "meters": 349
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_14",
@@ -249,13 +236,13 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_17",
-            "yards": 135,
-            "meters": 123
+            "yards": 267,
+            "meters": 244
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_18",
-            "yards": 227,
-            "meters": 208
+            "yards": 170,
+            "meters": 155
           }
         ]
       },
@@ -264,24 +251,11 @@
         "code": "QAS_MAR_GOLF_MEKNES_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": 72.0,
-        "slope": 113,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 5525,
-        "totalMeters": 5052,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5710,
+        "totalMeters": 5220,
         "distances": [
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_01",
@@ -345,8 +319,8 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_13",
-            "yards": 272,
-            "meters": 249
+            "yards": 382,
+            "meters": 349
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_14",
@@ -365,13 +339,13 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_17",
-            "yards": 135,
-            "meters": 123
+            "yards": 267,
+            "meters": 244
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_18",
-            "yards": 227,
-            "meters": 208
+            "yards": 170,
+            "meters": 155
           }
         ]
       },
@@ -380,24 +354,11 @@
         "code": "QAS_MAR_GOLF_MEKNES_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": 72.0,
-        "slope": 113,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 5525,
-        "totalMeters": 5052,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5710,
+        "totalMeters": 5220,
         "distances": [
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_01",
@@ -461,8 +422,8 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_13",
-            "yards": 272,
-            "meters": 249
+            "yards": 382,
+            "meters": 349
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_14",
@@ -481,13 +442,13 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_17",
-            "yards": 135,
-            "meters": 123
+            "yards": 267,
+            "meters": 244
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_18",
-            "yards": 227,
-            "meters": 208
+            "yards": 170,
+            "meters": 155
           }
         ]
       },
@@ -496,24 +457,11 @@
         "code": "QAS_MAR_GOLF_MEKNES_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": 72.0,
-        "slope": 113,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 4904,
-        "totalMeters": 4485,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5028,
+        "totalMeters": 4598,
         "distances": [
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_01",
@@ -597,8 +545,8 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_17",
-            "yards": 108,
-            "meters": 99
+            "yards": 232,
+            "meters": 212
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_18",
@@ -612,24 +560,11 @@
         "code": "QAS_MAR_GOLF_MEKNES_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": 72.0,
-        "slope": 113,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 113.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 4904,
-        "totalMeters": 4485,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5028,
+        "totalMeters": 4598,
         "distances": [
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_01",
@@ -713,8 +648,8 @@
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_17",
-            "yards": 108,
-            "meters": 99
+            "yards": 232,
+            "meters": 212
           },
           {
             "holeCode": "QAS_MAR_GOLF_MEKNES_18",

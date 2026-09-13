@@ -1,0 +1,684 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_TONY_JACKLIN_MARRAKECH",
+    "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH",
+    "name": "The Tony Jacklin Marrakech",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "FRMG + Bilyana Golf (distances) + GolfPass (ratings) — contrôlé 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 9
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_TONY_JACKLIN_MARRAKECH_BLACK",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.9,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 131.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 7081,
+        "totalMeters": 6479,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+            "yards": 586,
+            "meters": 536
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TONY_JACKLIN_MARRAKECH_WHITE",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 123.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6749,
+        "totalMeters": 6175,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+            "yards": 541,
+            "meters": 495
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TONY_JACKLIN_MARRAKECH_YELLOW",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.7,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 121.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6175,
+        "totalMeters": 5648,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+            "yards": 506,
+            "meters": 463
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TONY_JACKLIN_MARRAKECH_BLUE",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5565,
+        "totalMeters": 5088,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+            "yards": 458,
+            "meters": 419
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_TONY_JACKLIN_MARRAKECH_RED",
+        "code": "QAS_MAR_TONY_JACKLIN_MARRAKECH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4911,
+        "totalMeters": 4490,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_02",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_03",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_06",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_07",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_08",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_10",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_11",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_12",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_14",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_16",
+            "yards": 79,
+            "meters": 72
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_17",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_MAR_TONY_JACKLIN_MARRAKECH_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      }
+    ]
+  }
+}

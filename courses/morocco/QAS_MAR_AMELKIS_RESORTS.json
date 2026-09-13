@@ -1,46 +1,46 @@
 {
-  "formatVersion": 2,
+  "formatVersion": 1,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_MAR_AMELKIS_RESORTS",
     "code": "QAS_MAR_AMELKIS_RESORTS",
-    "name": "Amelkis Resorts",
+    "name": "Amelkis Golf Club - Rouge - 9 trous x2",
     "city": "Marrakech",
     "countryCode": "MAR",
     "numberOfHoles": 18,
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV Ratings V13 — QasGolfPro Course Generator v3.0",
-    "dataVersion": 2,
-    "isVerified": false,
+    "dataSource": "Amelkis scorecard officiel / PDF — boucle Rouge 9 trous représentée x2 — contrôlé 2026-09-13",
+    "dataVersion": 3,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_01",
         "code": "QAS_MAR_AMELKIS_RESORTS_01",
         "number": 1,
-        "par": 5,
+        "par": 4,
         "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_02",
         "code": "QAS_MAR_AMELKIS_RESORTS_02",
         "number": 2,
-        "par": 5,
+        "par": 4,
         "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_03",
         "code": "QAS_MAR_AMELKIS_RESORTS_03",
         "number": 3,
-        "par": 3,
+        "par": 4,
         "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_04",
         "code": "QAS_MAR_AMELKIS_RESORTS_04",
         "number": 4,
-        "par": 4,
+        "par": 3,
         "strokeIndex": 4
       },
       {
@@ -54,56 +54,56 @@
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_06",
         "code": "QAS_MAR_AMELKIS_RESORTS_06",
         "number": 6,
-        "par": 4,
+        "par": 5,
         "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_07",
         "code": "QAS_MAR_AMELKIS_RESORTS_07",
         "number": 7,
-        "par": 3,
+        "par": 4,
         "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_08",
         "code": "QAS_MAR_AMELKIS_RESORTS_08",
         "number": 8,
-        "par": 4,
+        "par": 3,
         "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_09",
         "code": "QAS_MAR_AMELKIS_RESORTS_09",
         "number": 9,
-        "par": 4,
+        "par": 5,
         "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_10",
         "code": "QAS_MAR_AMELKIS_RESORTS_10",
         "number": 10,
-        "par": 5,
+        "par": 4,
         "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_11",
         "code": "QAS_MAR_AMELKIS_RESORTS_11",
         "number": 11,
-        "par": 5,
+        "par": 4,
         "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_12",
         "code": "QAS_MAR_AMELKIS_RESORTS_12",
         "number": 12,
-        "par": 3,
+        "par": 4,
         "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_13",
         "code": "QAS_MAR_AMELKIS_RESORTS_13",
         "number": 13,
-        "par": 4,
+        "par": 3,
         "strokeIndex": 13
       },
       {
@@ -117,28 +117,28 @@
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_15",
         "code": "QAS_MAR_AMELKIS_RESORTS_15",
         "number": 15,
-        "par": 4,
+        "par": 5,
         "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_16",
         "code": "QAS_MAR_AMELKIS_RESORTS_16",
         "number": 16,
-        "par": 3,
+        "par": 4,
         "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_17",
         "code": "QAS_MAR_AMELKIS_RESORTS_17",
         "number": 17,
-        "par": 4,
+        "par": 3,
         "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_MAR_AMELKIS_RESORTS_18",
         "code": "QAS_MAR_AMELKIS_RESORTS_18",
         "number": 18,
-        "par": 4,
+        "par": 5,
         "strokeIndex": 18
       }
     ],
@@ -148,108 +148,101 @@
         "code": "QAS_MAR_AMELKIS_RESORTS_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": 76.4,
-        "slope": 137,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 76.4,
-            "slopeRating": 137.1,
-            "par": 72
-          }
-        ],
-        "totalYards": 7652,
-        "totalMeters": 6996,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7088,
+        "totalMeters": 6478,
         "distances": [
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_01",
-            "yards": 606,
-            "meters": 554
+            "yards": 392,
+            "meters": 358
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_02",
-            "yards": 594,
-            "meters": 543
+            "yards": 405,
+            "meters": 370
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_03",
-            "yards": 224,
-            "meters": 205
+            "yards": 394,
+            "meters": 360
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_04",
-            "yards": 442,
-            "meters": 404
+            "yards": 206,
+            "meters": 188
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_05",
-            "yards": 511,
-            "meters": 467
+            "yards": 429,
+            "meters": 392
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_06",
-            "yards": 437,
-            "meters": 400
+            "yards": 554,
+            "meters": 507
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_07",
-            "yards": 236,
-            "meters": 216
+            "yards": 465,
+            "meters": 425
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_08",
-            "yards": 419,
-            "meters": 383
+            "yards": 166,
+            "meters": 152
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_09",
-            "yards": 357,
-            "meters": 326
+            "yards": 533,
+            "meters": 487
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_10",
-            "yards": 606,
-            "meters": 554
+            "yards": 392,
+            "meters": 358
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_11",
-            "yards": 594,
-            "meters": 543
+            "yards": 405,
+            "meters": 370
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_12",
-            "yards": 224,
-            "meters": 205
+            "yards": 394,
+            "meters": 360
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_13",
-            "yards": 442,
-            "meters": 404
+            "yards": 206,
+            "meters": 188
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_14",
-            "yards": 511,
-            "meters": 467
+            "yards": 429,
+            "meters": 392
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_15",
-            "yards": 437,
-            "meters": 400
+            "yards": 554,
+            "meters": 507
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_16",
-            "yards": 236,
-            "meters": 216
+            "yards": 465,
+            "meters": 425
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_17",
-            "yards": 419,
-            "meters": 383
+            "yards": 166,
+            "meters": 152
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_18",
-            "yards": 357,
-            "meters": 326
+            "yards": 533,
+            "meters": 487
           }
         ]
       },
@@ -258,108 +251,101 @@
         "code": "QAS_MAR_AMELKIS_RESORTS_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": 73.7,
-        "slope": 128,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 73.7,
-            "slopeRating": 128.5,
-            "par": 72
-          }
-        ],
-        "totalYards": 7152,
-        "totalMeters": 6536,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6514,
+        "totalMeters": 5958,
         "distances": [
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_01",
-            "yards": 579,
-            "meters": 529
+            "yards": 364,
+            "meters": 333
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_02",
-            "yards": 583,
-            "meters": 533
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_03",
-            "yards": 170,
-            "meters": 155
+            "yards": 352,
+            "meters": 322
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_04",
-            "yards": 416,
-            "meters": 380
+            "yards": 189,
+            "meters": 173
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_05",
-            "yards": 487,
-            "meters": 445
+            "yards": 388,
+            "meters": 355
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_06",
-            "yards": 408,
-            "meters": 373
+            "yards": 534,
+            "meters": 488
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_07",
-            "yards": 196,
-            "meters": 179
+            "yards": 434,
+            "meters": 397
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_08",
-            "yards": 390,
-            "meters": 357
+            "yards": 128,
+            "meters": 117
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_09",
-            "yards": 347,
-            "meters": 317
+            "yards": 506,
+            "meters": 463
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_10",
-            "yards": 579,
-            "meters": 529
+            "yards": 364,
+            "meters": 333
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_11",
-            "yards": 583,
-            "meters": 533
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_12",
-            "yards": 170,
-            "meters": 155
+            "yards": 352,
+            "meters": 322
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_13",
-            "yards": 416,
-            "meters": 380
+            "yards": 189,
+            "meters": 173
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_14",
-            "yards": 487,
-            "meters": 445
+            "yards": 388,
+            "meters": 355
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_15",
-            "yards": 408,
-            "meters": 373
+            "yards": 534,
+            "meters": 488
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_16",
-            "yards": 196,
-            "meters": 179
+            "yards": 434,
+            "meters": 397
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_17",
-            "yards": 390,
-            "meters": 357
+            "yards": 128,
+            "meters": 117
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_18",
-            "yards": 347,
-            "meters": 317
+            "yards": 506,
+            "meters": 463
           }
         ]
       },
@@ -368,108 +354,101 @@
         "code": "QAS_MAR_AMELKIS_RESORTS_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": 71.9,
-        "slope": 128,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 71.9,
-            "slopeRating": 128.3,
-            "par": 72
-          }
-        ],
-        "totalYards": 6678,
-        "totalMeters": 6104,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6036,
+        "totalMeters": 5518,
         "distances": [
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_01",
-            "yards": 546,
-            "meters": 499
+            "yards": 328,
+            "meters": 300
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_02",
-            "yards": 544,
-            "meters": 497
+            "yards": 326,
+            "meters": 298
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_03",
-            "yards": 138,
-            "meters": 126
+            "yards": 334,
+            "meters": 305
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_04",
-            "yards": 386,
-            "meters": 353
+            "yards": 156,
+            "meters": 143
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_05",
-            "yards": 458,
-            "meters": 419
+            "yards": 357,
+            "meters": 326
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_06",
-            "yards": 393,
-            "meters": 359
+            "yards": 509,
+            "meters": 465
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_07",
-            "yards": 186,
-            "meters": 170
+            "yards": 417,
+            "meters": 381
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_08",
-            "yards": 365,
-            "meters": 334
+            "yards": 120,
+            "meters": 110
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_09",
-            "yards": 323,
-            "meters": 295
+            "yards": 471,
+            "meters": 431
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_10",
-            "yards": 546,
-            "meters": 499
+            "yards": 328,
+            "meters": 300
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_11",
-            "yards": 544,
-            "meters": 497
+            "yards": 326,
+            "meters": 298
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_12",
-            "yards": 138,
-            "meters": 126
+            "yards": 334,
+            "meters": 305
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_13",
-            "yards": 386,
-            "meters": 353
+            "yards": 156,
+            "meters": 143
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_14",
-            "yards": 458,
-            "meters": 419
+            "yards": 357,
+            "meters": 326
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_15",
-            "yards": 393,
-            "meters": 359
+            "yards": 509,
+            "meters": 465
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_16",
-            "yards": 186,
-            "meters": 170
+            "yards": 417,
+            "meters": 381
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_17",
-            "yards": 365,
-            "meters": 334
+            "yards": 120,
+            "meters": 110
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_18",
-            "yards": 323,
-            "meters": 295
+            "yards": 471,
+            "meters": 431
           }
         ]
       },
@@ -478,108 +457,101 @@
         "code": "QAS_MAR_AMELKIS_RESORTS_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": 75.2,
-        "slope": 133,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 75.2,
-            "slopeRating": 132.6,
-            "par": 72
-          }
-        ],
-        "totalYards": 6174,
-        "totalMeters": 5646,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5448,
+        "totalMeters": 4982,
         "distances": [
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_01",
-            "yards": 515,
-            "meters": 471
+            "yards": 297,
+            "meters": 272
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_02",
-            "yards": 500,
-            "meters": 457
+            "yards": 280,
+            "meters": 256
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_03",
-            "yards": 125,
-            "meters": 114
+            "yards": 293,
+            "meters": 268
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_04",
-            "yards": 364,
-            "meters": 333
+            "yards": 142,
+            "meters": 130
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_05",
-            "yards": 433,
-            "meters": 396
+            "yards": 341,
+            "meters": 312
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_06",
-            "yards": 370,
-            "meters": 338
+            "yards": 457,
+            "meters": 418
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_07",
-            "yards": 156,
-            "meters": 143
+            "yards": 372,
+            "meters": 340
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_08",
-            "yards": 329,
-            "meters": 301
+            "yards": 113,
+            "meters": 103
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_09",
-            "yards": 295,
-            "meters": 270
+            "yards": 429,
+            "meters": 392
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_10",
-            "yards": 515,
-            "meters": 471
+            "yards": 297,
+            "meters": 272
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_11",
-            "yards": 500,
-            "meters": 457
+            "yards": 280,
+            "meters": 256
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_12",
-            "yards": 125,
-            "meters": 114
+            "yards": 293,
+            "meters": 268
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_13",
-            "yards": 364,
-            "meters": 333
+            "yards": 142,
+            "meters": 130
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_14",
-            "yards": 433,
-            "meters": 396
+            "yards": 341,
+            "meters": 312
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_15",
-            "yards": 370,
-            "meters": 338
+            "yards": 457,
+            "meters": 418
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_16",
-            "yards": 156,
-            "meters": 143
+            "yards": 372,
+            "meters": 340
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_17",
-            "yards": 329,
-            "meters": 301
+            "yards": 113,
+            "meters": 103
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_18",
-            "yards": 295,
-            "meters": 270
+            "yards": 429,
+            "meters": 392
           }
         ]
       },
@@ -588,108 +560,101 @@
         "code": "QAS_MAR_AMELKIS_RESORTS_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": 71.9,
-        "slope": 122,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 71.9,
-            "slopeRating": 122.1,
-            "par": 72
-          }
-        ],
-        "totalYards": 5620,
-        "totalMeters": 5140,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4958,
+        "totalMeters": 4532,
         "distances": [
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_01",
-            "yards": 490,
-            "meters": 448
+            "yards": 287,
+            "meters": 262
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_02",
-            "yards": 459,
-            "meters": 420
+            "yards": 281,
+            "meters": 257
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_03",
-            "yards": 92,
-            "meters": 84
+            "yards": 283,
+            "meters": 259
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_04",
-            "yards": 330,
-            "meters": 302
+            "yards": 96,
+            "meters": 88
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_05",
-            "yards": 399,
-            "meters": 365
+            "yards": 287,
+            "meters": 262
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_06",
-            "yards": 342,
-            "meters": 313
+            "yards": 428,
+            "meters": 391
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_07",
-            "yards": 124,
-            "meters": 113
+            "yards": 332,
+            "meters": 304
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_08",
-            "yards": 300,
-            "meters": 274
+            "yards": 93,
+            "meters": 85
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_09",
-            "yards": 274,
-            "meters": 251
+            "yards": 392,
+            "meters": 358
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_10",
-            "yards": 490,
-            "meters": 448
+            "yards": 287,
+            "meters": 262
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_11",
-            "yards": 459,
-            "meters": 420
+            "yards": 281,
+            "meters": 257
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_12",
-            "yards": 92,
-            "meters": 84
+            "yards": 283,
+            "meters": 259
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_13",
-            "yards": 330,
-            "meters": 302
+            "yards": 96,
+            "meters": 88
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_14",
-            "yards": 399,
-            "meters": 365
+            "yards": 287,
+            "meters": 262
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_15",
-            "yards": 342,
-            "meters": 313
+            "yards": 428,
+            "meters": 391
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_16",
-            "yards": 124,
-            "meters": 113
+            "yards": 332,
+            "meters": 304
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_17",
-            "yards": 300,
-            "meters": 274
+            "yards": 93,
+            "meters": 85
           },
           {
             "holeCode": "QAS_MAR_AMELKIS_RESORTS_18",
-            "yards": 274,
-            "meters": 251
+            "yards": 392,
+            "meters": 358
           }
         ]
       }

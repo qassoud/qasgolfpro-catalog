@@ -1,19 +1,19 @@
 {
-  "formatVersion": 2,
+  "formatVersion": 1,
   "provider": "QasGolfPro",
   "course": {
     "uuid": "COURSE_QAS_MAR_PALMERAIE_MARRAKECH",
     "code": "QAS_MAR_PALMERAIE_MARRAKECH",
-    "name": "Palmeraie Marrakech",
+    "name": "Palmeraie Marrakech - Jbilettes & Atlas",
     "city": "Marrakech",
     "countryCode": "MAR",
     "numberOfHoles": 18,
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV Ratings V13 — QasGolfPro Course Generator v3.0",
-    "dataVersion": 2,
-    "isVerified": false,
+    "dataSource": "Bilyana Golf scorecard — boucles Jbilettes + Atlas — contrôlé 2026-09-13",
+    "dataVersion": 3,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_MAR_PALMERAIE_MARRAKECH_01",
@@ -148,74 +148,61 @@
         "code": "QAS_MAR_PALMERAIE_MARRAKECH_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": 72.5,
-        "slope": 139,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 72.5,
-            "slopeRating": 139.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 72.0,
-            "slopeRating": 139.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 6509,
-        "totalMeters": 5950,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6673,
+        "totalMeters": 6102,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_01",
-            "yards": 381,
-            "meters": 348
+            "yards": 370,
+            "meters": 338
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_02",
-            "yards": 506,
-            "meters": 463
+            "yards": 519,
+            "meters": 475
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_03",
-            "yards": 329,
-            "meters": 301
+            "yards": 362,
+            "meters": 331
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_04",
-            "yards": 157,
-            "meters": 144
-          },
-          {
-            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_05",
-            "yards": 379,
-            "meters": 347
-          },
-          {
-            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_06",
-            "yards": 417,
-            "meters": 381
-          },
-          {
-            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_07",
-            "yards": 527,
-            "meters": 482
-          },
-          {
-            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_08",
             "yards": 162,
             "meters": 148
           },
           {
+            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_05",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_06",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_07",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_09",
-            "yards": 427,
-            "meters": 390
+            "yards": 423,
+            "meters": 387
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_10",
-            "yards": 381,
-            "meters": 348
+            "yards": 376,
+            "meters": 344
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_11",
@@ -224,38 +211,38 @@
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_12",
-            "yards": 513,
-            "meters": 469
+            "yards": 558,
+            "meters": 510
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_13",
-            "yards": 371,
-            "meters": 339
+            "yards": 390,
+            "meters": 357
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_14",
-            "yards": 394,
-            "meters": 360
+            "yards": 398,
+            "meters": 364
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_15",
-            "yards": 249,
-            "meters": 228
+            "yards": 320,
+            "meters": 293
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_16",
-            "yards": 546,
-            "meters": 499
+            "yards": 547,
+            "meters": 500
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_17",
-            "yards": 196,
-            "meters": 179
+            "yards": 192,
+            "meters": 176
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_18",
-            "yards": 427,
-            "meters": 390
+            "yards": 422,
+            "meters": 386
           }
         ]
       },
@@ -264,44 +251,31 @@
         "code": "QAS_MAR_PALMERAIE_MARRAKECH_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": 70.2,
-        "slope": 131,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 70.2,
-            "slopeRating": 131.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 70.2,
-            "slopeRating": 131.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 6000,
-        "totalMeters": 5487,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6108,
+        "totalMeters": 5585,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_01",
-            "yards": 343,
-            "meters": 314
+            "yards": 341,
+            "meters": 312
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_02",
-            "yards": 471,
-            "meters": 431
+            "yards": 484,
+            "meters": 443
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_03",
-            "yards": 308,
-            "meters": 282
+            "yards": 332,
+            "meters": 304
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_04",
-            "yards": 142,
-            "meters": 130
+            "yards": 147,
+            "meters": 134
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_05",
@@ -310,68 +284,68 @@
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_06",
-            "yards": 382,
-            "meters": 349
+            "yards": 381,
+            "meters": 348
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_07",
-            "yards": 498,
-            "meters": 455
+            "yards": 478,
+            "meters": 437
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_08",
-            "yards": 139,
-            "meters": 127
+            "yards": 143,
+            "meters": 131
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_09",
-            "yards": 389,
-            "meters": 356
+            "yards": 385,
+            "meters": 352
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_10",
-            "yards": 350,
-            "meters": 320
+            "yards": 344,
+            "meters": 315
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_11",
-            "yards": 121,
-            "meters": 111
+            "yards": 120,
+            "meters": 110
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_12",
-            "yards": 482,
-            "meters": 441
+            "yards": 522,
+            "meters": 477
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_13",
-            "yards": 358,
-            "meters": 327
+            "yards": 360,
+            "meters": 329
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_14",
-            "yards": 338,
-            "meters": 309
+            "yards": 340,
+            "meters": 311
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_15",
-            "yards": 235,
-            "meters": 215
+            "yards": 276,
+            "meters": 252
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_16",
-            "yards": 503,
-            "meters": 460
+            "yards": 523,
+            "meters": 478
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_17",
-            "yards": 182,
-            "meters": 166
+            "yards": 177,
+            "meters": 162
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_18",
-            "yards": 402,
-            "meters": 368
+            "yards": 398,
+            "meters": 364
           }
         ]
       },
@@ -380,74 +354,61 @@
         "code": "QAS_MAR_PALMERAIE_MARRAKECH_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": 73.1,
-        "slope": 131,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 73.1,
-            "slopeRating": 131.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 73.1,
-            "slopeRating": 131.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 5508,
-        "totalMeters": 5038,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5645,
+        "totalMeters": 5163,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_01",
-            "yards": 318,
-            "meters": 291
+            "yards": 317,
+            "meters": 290
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_02",
-            "yards": 442,
-            "meters": 404
+            "yards": 455,
+            "meters": 416
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_03",
-            "yards": 283,
-            "meters": 259
+            "yards": 308,
+            "meters": 282
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_04",
-            "yards": 118,
-            "meters": 108
+            "yards": 122,
+            "meters": 112
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_05",
-            "yards": 331,
-            "meters": 303
+            "yards": 330,
+            "meters": 302
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_06",
-            "yards": 352,
-            "meters": 322
+            "yards": 350,
+            "meters": 320
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_07",
-            "yards": 481,
-            "meters": 440
+            "yards": 458,
+            "meters": 419
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_08",
-            "yards": 115,
-            "meters": 105
+            "yards": 119,
+            "meters": 109
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_09",
-            "yards": 357,
-            "meters": 326
+            "yards": 355,
+            "meters": 325
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_10",
-            "yards": 316,
-            "meters": 289
+            "yards": 313,
+            "meters": 286
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_11",
@@ -456,38 +417,38 @@
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_12",
-            "yards": 459,
-            "meters": 420
+            "yards": 497,
+            "meters": 454
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_13",
-            "yards": 332,
-            "meters": 304
+            "yards": 343,
+            "meters": 314
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_14",
-            "yards": 309,
-            "meters": 283
+            "yards": 312,
+            "meters": 285
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_15",
-            "yards": 211,
-            "meters": 193
+            "yards": 252,
+            "meters": 230
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_16",
-            "yards": 469,
-            "meters": 429
+            "yards": 505,
+            "meters": 462
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_17",
-            "yards": 136,
-            "meters": 124
+            "yards": 133,
+            "meters": 122
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_18",
-            "yards": 377,
-            "meters": 345
+            "yards": 374,
+            "meters": 342
           }
         ]
       },
@@ -496,64 +457,51 @@
         "code": "QAS_MAR_PALMERAIE_MARRAKECH_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": 70.6,
-        "slope": 127,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 70.6,
-            "slopeRating": 127.0,
-            "par": 72
-          },
-          {
-            "playerCategory": "WOMEN",
-            "courseRating": 70.6,
-            "slopeRating": 127.0,
-            "par": 72
-          }
-        ],
-        "totalYards": 5102,
-        "totalMeters": 4665,
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5110,
+        "totalMeters": 4674,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_01",
-            "yards": 300,
-            "meters": 274
+            "yards": 296,
+            "meters": 271
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_02",
-            "yards": 410,
-            "meters": 375
+            "yards": 422,
+            "meters": 386
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_03",
-            "yards": 281,
-            "meters": 257
+            "yards": 284,
+            "meters": 260
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_04",
-            "yards": 102,
-            "meters": 93
+            "yards": 103,
+            "meters": 94
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_05",
-            "yards": 303,
-            "meters": 277
+            "yards": 306,
+            "meters": 280
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_06",
-            "yards": 326,
-            "meters": 298
+            "yards": 324,
+            "meters": 296
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_07",
-            "yards": 464,
-            "meters": 424
+            "yards": 420,
+            "meters": 384
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_08",
-            "yards": 98,
-            "meters": 90
+            "yards": 100,
+            "meters": 91
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_09",
@@ -562,48 +510,48 @@
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_10",
-            "yards": 295,
-            "meters": 270
+            "yards": 292,
+            "meters": 267
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_11",
-            "yards": 78,
-            "meters": 71
+            "yards": 77,
+            "meters": 70
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_12",
-            "yards": 434,
-            "meters": 397
+            "yards": 471,
+            "meters": 431
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_13",
-            "yards": 301,
-            "meters": 275
+            "yards": 297,
+            "meters": 272
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_14",
-            "yards": 268,
-            "meters": 245
+            "yards": 262,
+            "meters": 240
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_15",
-            "yards": 205,
-            "meters": 187
+            "yards": 227,
+            "meters": 208
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_16",
-            "yards": 432,
-            "meters": 395
+            "yards": 431,
+            "meters": 394
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_17",
-            "yards": 119,
-            "meters": 109
+            "yards": 118,
+            "meters": 108
           },
           {
             "holeCode": "QAS_MAR_PALMERAIE_MARRAKECH_18",
-            "yards": 354,
-            "meters": 324
+            "yards": 348,
+            "meters": 318
           }
         ]
       }
