@@ -1,0 +1,574 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOLF_LOGRONO",
+    "code": "QAS_ESP_GOLF_LOGRONO",
+    "name": "Campo de Golf de Logroño",
+    "city": "Logroño",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "GolfPlayer scorecard + GolfTraxx ratings cross-check, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_01",
+        "code": "QAS_ESP_GOLF_LOGRONO_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_02",
+        "code": "QAS_ESP_GOLF_LOGRONO_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_03",
+        "code": "QAS_ESP_GOLF_LOGRONO_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_04",
+        "code": "QAS_ESP_GOLF_LOGRONO_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_05",
+        "code": "QAS_ESP_GOLF_LOGRONO_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_06",
+        "code": "QAS_ESP_GOLF_LOGRONO_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_07",
+        "code": "QAS_ESP_GOLF_LOGRONO_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_08",
+        "code": "QAS_ESP_GOLF_LOGRONO_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_09",
+        "code": "QAS_ESP_GOLF_LOGRONO_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_10",
+        "code": "QAS_ESP_GOLF_LOGRONO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_11",
+        "code": "QAS_ESP_GOLF_LOGRONO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_12",
+        "code": "QAS_ESP_GOLF_LOGRONO_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_13",
+        "code": "QAS_ESP_GOLF_LOGRONO_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_14",
+        "code": "QAS_ESP_GOLF_LOGRONO_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_15",
+        "code": "QAS_ESP_GOLF_LOGRONO_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_16",
+        "code": "QAS_ESP_GOLF_LOGRONO_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_17",
+        "code": "QAS_ESP_GOLF_LOGRONO_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LOGRONO_18",
+        "code": "QAS_ESP_GOLF_LOGRONO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 1
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LOGRONO_BLANCAS",
+        "code": "QAS_ESP_GOLF_LOGRONO_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 74.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7377,
+        "totalMeters": 6746,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_01",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_03",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_04",
+            "yards": 676,
+            "meters": 618
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_08",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_09",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_11",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_12",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_13",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_14",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_15",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_16",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_17",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_18",
+            "yards": 454,
+            "meters": 415
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LOGRONO_AMARILLAS",
+        "code": "QAS_ESP_GOLF_LOGRONO_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 70.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6567,
+        "totalMeters": 6005,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_01",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_02",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_04",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_05",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_07",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_09",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_10",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_11",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_12",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_13",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_14",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_15",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_16",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_17",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LOGRONO_AZULES",
+        "code": "QAS_ESP_GOLF_LOGRONO_AZULES",
+        "type": "AZULES",
+        "displayName": "Azules",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5976,
+        "totalMeters": 5464,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_01",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_02",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_03",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_05",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_07",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_08",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_09",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_10",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_11",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_12",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_14",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_15",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_16",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_17",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_18",
+            "yards": 383,
+            "meters": 350
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LOGRONO_ROJAS",
+        "code": "QAS_ESP_GOLF_LOGRONO_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5420,
+        "totalMeters": 4957,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_02",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_04",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_05",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_06",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_07",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_10",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_11",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_12",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_13",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_14",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_15",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_16",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_17",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LOGRONO_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      }
+    ]
+  }
+}

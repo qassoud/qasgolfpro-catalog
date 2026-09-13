@@ -1,0 +1,478 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_AUGAS_SANTAS",
+    "code": "QAS_ESP_AUGAS_SANTAS",
+    "name": "Augas Santas Golf",
+    "city": "Pantón",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Augas Santas Golf, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_01",
+        "code": "QAS_ESP_AUGAS_SANTAS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_02",
+        "code": "QAS_ESP_AUGAS_SANTAS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_03",
+        "code": "QAS_ESP_AUGAS_SANTAS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_04",
+        "code": "QAS_ESP_AUGAS_SANTAS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_05",
+        "code": "QAS_ESP_AUGAS_SANTAS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_06",
+        "code": "QAS_ESP_AUGAS_SANTAS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_07",
+        "code": "QAS_ESP_AUGAS_SANTAS_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_08",
+        "code": "QAS_ESP_AUGAS_SANTAS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_09",
+        "code": "QAS_ESP_AUGAS_SANTAS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_10",
+        "code": "QAS_ESP_AUGAS_SANTAS_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_11",
+        "code": "QAS_ESP_AUGAS_SANTAS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_12",
+        "code": "QAS_ESP_AUGAS_SANTAS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_13",
+        "code": "QAS_ESP_AUGAS_SANTAS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_14",
+        "code": "QAS_ESP_AUGAS_SANTAS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_15",
+        "code": "QAS_ESP_AUGAS_SANTAS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_16",
+        "code": "QAS_ESP_AUGAS_SANTAS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_17",
+        "code": "QAS_ESP_AUGAS_SANTAS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AUGAS_SANTAS_18",
+        "code": "QAS_ESP_AUGAS_SANTAS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_AUGAS_SANTAS_BLANCAS",
+        "code": "QAS_ESP_AUGAS_SANTAS_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 68.6,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 124,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5844,
+        "totalMeters": 5344,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_02",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_04",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_05",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_07",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_08",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_11",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_12",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_13",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_15",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_16",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_17",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AUGAS_SANTAS_AMARILLOS",
+        "code": "QAS_ESP_AUGAS_SANTAS_AMARILLOS",
+        "type": "AMARILLOS",
+        "displayName": "Amarillos",
+        "courseRating": 67.9,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.9,
+            "slopeRating": 123,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5693,
+        "totalMeters": 5206,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_02",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_04",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_05",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_07",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_09",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_10",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_11",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_12",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_14",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_15",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_16",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_17",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AUGAS_SANTAS_ROJAS",
+        "code": "QAS_ESP_AUGAS_SANTAS_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 69.4,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.4,
+            "slopeRating": 120,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4951,
+        "totalMeters": 4527,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_01",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_03",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_04",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_06",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_07",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_09",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_10",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_11",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_14",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_15",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_16",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_17",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_AUGAS_SANTAS_18",
+            "yards": 291,
+            "meters": 266
+          }
+        ]
+      }
+    ]
+  }
+}

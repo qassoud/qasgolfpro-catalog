@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ALCANADA",
+    "code": "QAS_ESP_ALCANADA",
+    "name": "Club de Golf Alcanada",
+    "city": "Port d'Alcúdia",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Alcanada, scorecard and ratings checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_01",
+        "code": "QAS_ESP_ALCANADA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_02",
+        "code": "QAS_ESP_ALCANADA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_03",
+        "code": "QAS_ESP_ALCANADA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_04",
+        "code": "QAS_ESP_ALCANADA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_05",
+        "code": "QAS_ESP_ALCANADA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_06",
+        "code": "QAS_ESP_ALCANADA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_07",
+        "code": "QAS_ESP_ALCANADA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_08",
+        "code": "QAS_ESP_ALCANADA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_09",
+        "code": "QAS_ESP_ALCANADA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_10",
+        "code": "QAS_ESP_ALCANADA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_11",
+        "code": "QAS_ESP_ALCANADA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_12",
+        "code": "QAS_ESP_ALCANADA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_13",
+        "code": "QAS_ESP_ALCANADA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_14",
+        "code": "QAS_ESP_ALCANADA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_15",
+        "code": "QAS_ESP_ALCANADA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_16",
+        "code": "QAS_ESP_ALCANADA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_17",
+        "code": "QAS_ESP_ALCANADA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALCANADA_18",
+        "code": "QAS_ESP_ALCANADA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ALCANADA_BLANCO",
+        "code": "QAS_ESP_ALCANADA_BLANCO",
+        "type": "BLANCO",
+        "displayName": "Blanco",
+        "courseRating": 73.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7109,
+        "totalMeters": 6499,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALCANADA_01",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_02",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_04",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_07",
+            "yards": 633,
+            "meters": 579
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_08",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_11",
+            "yards": 606,
+            "meters": 554
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_12",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_13",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_14",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_16",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_17",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALCANADA_AMARILLAS",
+        "code": "QAS_ESP_ALCANADA_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 72.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6727,
+        "totalMeters": 6152,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALCANADA_01",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_05",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_07",
+            "yards": 614,
+            "meters": 561
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_11",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_13",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_14",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_16",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_17",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALCANADA_VERDE",
+        "code": "QAS_ESP_ALCANADA_VERDE",
+        "type": "VERDE",
+        "displayName": "Verde",
+        "courseRating": 71.7,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6390,
+        "totalMeters": 5844,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALCANADA_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_06",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_07",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_11",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_14",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_16",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_17",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALCANADA_AZUL_L",
+        "code": "QAS_ESP_ALCANADA_AZUL_L",
+        "type": "AZUL_L",
+        "displayName": "Azul (L)",
+        "courseRating": 75.5,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6172,
+        "totalMeters": 5645,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALCANADA_01",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_02",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_03",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_07",
+            "yards": 593,
+            "meters": 542
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_08",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_11",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_13",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_15",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_17",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALCANADA_ROJAS_L",
+        "code": "QAS_ESP_ALCANADA_ROJAS_L",
+        "type": "ROJAS_L",
+        "displayName": "Rojas (L)",
+        "courseRating": 72.7,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5732,
+        "totalMeters": 5241,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALCANADA_01",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_03",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_04",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_06",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_07",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_09",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_10",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_11",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_13",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_14",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_15",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_17",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_ALCANADA_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_BARCELONA_MASIA",
+    "code": "QAS_ESP_BARCELONA_MASIA",
+    "name": "Club de Golf de Barcelona - Masia",
+    "city": "Sant Esteve Sesrovires",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf de Barcelona Masia, checked 2026-09-13; single QasGolfPro SI uses men/long-tee SI",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_01",
+        "code": "QAS_ESP_BARCELONA_MASIA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_02",
+        "code": "QAS_ESP_BARCELONA_MASIA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_03",
+        "code": "QAS_ESP_BARCELONA_MASIA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_04",
+        "code": "QAS_ESP_BARCELONA_MASIA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_05",
+        "code": "QAS_ESP_BARCELONA_MASIA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_06",
+        "code": "QAS_ESP_BARCELONA_MASIA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_07",
+        "code": "QAS_ESP_BARCELONA_MASIA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_08",
+        "code": "QAS_ESP_BARCELONA_MASIA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_09",
+        "code": "QAS_ESP_BARCELONA_MASIA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_10",
+        "code": "QAS_ESP_BARCELONA_MASIA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_11",
+        "code": "QAS_ESP_BARCELONA_MASIA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_12",
+        "code": "QAS_ESP_BARCELONA_MASIA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_13",
+        "code": "QAS_ESP_BARCELONA_MASIA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_14",
+        "code": "QAS_ESP_BARCELONA_MASIA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_15",
+        "code": "QAS_ESP_BARCELONA_MASIA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_16",
+        "code": "QAS_ESP_BARCELONA_MASIA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_17",
+        "code": "QAS_ESP_BARCELONA_MASIA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARCELONA_MASIA_18",
+        "code": "QAS_ESP_BARCELONA_MASIA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_BARCELONA_MASIA_BLANCAS",
+        "code": "QAS_ESP_BARCELONA_MASIA_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 73.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6857,
+        "totalMeters": 6271,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_01",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_02",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_03",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_07",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_08",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_10",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_11",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_12",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_13",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_15",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_16",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_17",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BARCELONA_MASIA_AMARILLOS",
+        "code": "QAS_ESP_BARCELONA_MASIA_AMARILLOS",
+        "type": "AMARILLOS",
+        "displayName": "Amarillos",
+        "courseRating": 72.4,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6603,
+        "totalMeters": 6038,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_01",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_02",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_03",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_04",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_07",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_09",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_10",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_12",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_17",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_18",
+            "yards": 367,
+            "meters": 336
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BARCELONA_MASIA_AZUL",
+        "code": "QAS_ESP_BARCELONA_MASIA_AZUL",
+        "type": "AZUL",
+        "displayName": "Azul",
+        "courseRating": 74.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5993,
+        "totalMeters": 5481,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_06",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_07",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_08",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_09",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_10",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_12",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_13",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BARCELONA_MASIA_ROJAS",
+        "code": "QAS_ESP_BARCELONA_MASIA_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 74.1,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5658,
+        "totalMeters": 5173,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_05",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_06",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_07",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_08",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_09",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_13",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_14",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_16",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_BARCELONA_MASIA_18",
+            "yards": 323,
+            "meters": 295
+          }
+        ]
+      }
+    ]
+  }
+}

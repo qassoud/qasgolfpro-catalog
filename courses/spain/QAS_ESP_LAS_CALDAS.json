@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LAS_CALDAS",
+    "code": "QAS_ESP_LAS_CALDAS",
+    "name": "Las Caldas Municipal Golf",
+    "city": "Las Caldas",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Las Caldas Municipal Golf, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_01",
+        "code": "QAS_ESP_LAS_CALDAS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_02",
+        "code": "QAS_ESP_LAS_CALDAS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_03",
+        "code": "QAS_ESP_LAS_CALDAS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_04",
+        "code": "QAS_ESP_LAS_CALDAS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_05",
+        "code": "QAS_ESP_LAS_CALDAS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_06",
+        "code": "QAS_ESP_LAS_CALDAS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_07",
+        "code": "QAS_ESP_LAS_CALDAS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_08",
+        "code": "QAS_ESP_LAS_CALDAS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_09",
+        "code": "QAS_ESP_LAS_CALDAS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_10",
+        "code": "QAS_ESP_LAS_CALDAS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_11",
+        "code": "QAS_ESP_LAS_CALDAS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_12",
+        "code": "QAS_ESP_LAS_CALDAS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_13",
+        "code": "QAS_ESP_LAS_CALDAS_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_14",
+        "code": "QAS_ESP_LAS_CALDAS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_15",
+        "code": "QAS_ESP_LAS_CALDAS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_16",
+        "code": "QAS_ESP_LAS_CALDAS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_17",
+        "code": "QAS_ESP_LAS_CALDAS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LAS_CALDAS_18",
+        "code": "QAS_ESP_LAS_CALDAS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LAS_CALDAS_BLANCAS",
+        "code": "QAS_ESP_LAS_CALDAS_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 71.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 139,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6211,
+        "totalMeters": 5678,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_03",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_07",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_11",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_12",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_13",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_16",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_17",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAS_CALDAS_AMARILLAS",
+        "code": "QAS_ESP_LAS_CALDAS_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 69.6,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5804,
+        "totalMeters": 5308,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_01",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_03",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_05",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_07",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_09",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_11",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_12",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_13",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_15",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_18",
+            "yards": 301,
+            "meters": 275
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAS_CALDAS_AZULES",
+        "code": "QAS_ESP_LAS_CALDAS_AZULES",
+        "type": "AZULES",
+        "displayName": "Azules",
+        "courseRating": 71.4,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5235,
+        "totalMeters": 4788,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_01",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_02",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_03",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_04",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_05",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_06",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_08",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_09",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_11",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_13",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_14",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_17",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_18",
+            "yards": 277,
+            "meters": 253
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LAS_CALDAS_ROJAS",
+        "code": "QAS_ESP_LAS_CALDAS_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 69.7,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.7,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4933,
+        "totalMeters": 4512,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_01",
+            "yards": 238,
+            "meters": 218
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_03",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_04",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_05",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_06",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_07",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_09",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_10",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_11",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_12",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_13",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_14",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_15",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_17",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_LAS_CALDAS_18",
+            "yards": 269,
+            "meters": 246
+          }
+        ]
+      }
+    ]
+  }
+}

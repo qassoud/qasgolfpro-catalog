@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SALOBRE_OLD",
+    "code": "QAS_ESP_SALOBRE_OLD",
+    "name": "Salobre Golf - Old Course",
+    "city": "Maspalomas",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Salobre Golf official Old Course scorecard PDF, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_01",
+        "code": "QAS_ESP_SALOBRE_OLD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_02",
+        "code": "QAS_ESP_SALOBRE_OLD_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_03",
+        "code": "QAS_ESP_SALOBRE_OLD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_04",
+        "code": "QAS_ESP_SALOBRE_OLD_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_05",
+        "code": "QAS_ESP_SALOBRE_OLD_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_06",
+        "code": "QAS_ESP_SALOBRE_OLD_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_07",
+        "code": "QAS_ESP_SALOBRE_OLD_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_08",
+        "code": "QAS_ESP_SALOBRE_OLD_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_09",
+        "code": "QAS_ESP_SALOBRE_OLD_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_10",
+        "code": "QAS_ESP_SALOBRE_OLD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_11",
+        "code": "QAS_ESP_SALOBRE_OLD_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_12",
+        "code": "QAS_ESP_SALOBRE_OLD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_13",
+        "code": "QAS_ESP_SALOBRE_OLD_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_14",
+        "code": "QAS_ESP_SALOBRE_OLD_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_15",
+        "code": "QAS_ESP_SALOBRE_OLD_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_16",
+        "code": "QAS_ESP_SALOBRE_OLD_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_17",
+        "code": "QAS_ESP_SALOBRE_OLD_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SALOBRE_OLD_18",
+        "code": "QAS_ESP_SALOBRE_OLD_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SALOBRE_OLD_WHITE",
+        "code": "QAS_ESP_SALOBRE_OLD_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6370,
+        "totalMeters": 5825,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_04",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_05",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_06",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_08",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_10",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_11",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_12",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_14",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_15",
+            "yards": 579,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_16",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_17",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SALOBRE_OLD_YELLOW",
+        "code": "QAS_ESP_SALOBRE_OLD_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5837,
+        "totalMeters": 5338,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_03",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_04",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_05",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_06",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_07",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_08",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_10",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_11",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_12",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_13",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_14",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_15",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_18",
+            "yards": 442,
+            "meters": 404
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SALOBRE_OLD_BLUE",
+        "code": "QAS_ESP_SALOBRE_OLD_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5556,
+        "totalMeters": 5081,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_03",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_05",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_06",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_07",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_08",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_10",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_11",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_13",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_14",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_15",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SALOBRE_OLD_RED",
+        "code": "QAS_ESP_SALOBRE_OLD_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4924,
+        "totalMeters": 4502,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_01",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_02",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_03",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_04",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_05",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_07",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_08",
+            "yards": 78,
+            "meters": 71
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_09",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_10",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_11",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_12",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_13",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_14",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_16",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_17",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_SALOBRE_OLD_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      }
+    ]
+  }
+}

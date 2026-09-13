@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_PLAYA_SERENA",
+    "code": "QAS_ESP_PLAYA_SERENA",
+    "name": "Club de Golf Playa Serena",
+    "city": "Roquetas de Mar",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG official Club de Golf Playa Serena course cards, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_01",
+        "code": "QAS_ESP_PLAYA_SERENA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_02",
+        "code": "QAS_ESP_PLAYA_SERENA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_03",
+        "code": "QAS_ESP_PLAYA_SERENA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_04",
+        "code": "QAS_ESP_PLAYA_SERENA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_05",
+        "code": "QAS_ESP_PLAYA_SERENA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_06",
+        "code": "QAS_ESP_PLAYA_SERENA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_07",
+        "code": "QAS_ESP_PLAYA_SERENA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_08",
+        "code": "QAS_ESP_PLAYA_SERENA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_09",
+        "code": "QAS_ESP_PLAYA_SERENA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_10",
+        "code": "QAS_ESP_PLAYA_SERENA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_11",
+        "code": "QAS_ESP_PLAYA_SERENA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_12",
+        "code": "QAS_ESP_PLAYA_SERENA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_13",
+        "code": "QAS_ESP_PLAYA_SERENA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_14",
+        "code": "QAS_ESP_PLAYA_SERENA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_15",
+        "code": "QAS_ESP_PLAYA_SERENA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_16",
+        "code": "QAS_ESP_PLAYA_SERENA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_17",
+        "code": "QAS_ESP_PLAYA_SERENA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PLAYA_SERENA_18",
+        "code": "QAS_ESP_PLAYA_SERENA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_PLAYA_SERENA_BLANCAS",
+        "code": "QAS_ESP_PLAYA_SERENA_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 72.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6847,
+        "totalMeters": 6262,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_02",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_03",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_04",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_07",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_08",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_10",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_12",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_13",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_14",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_16",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_17",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PLAYA_SERENA_AMARILLAS",
+        "code": "QAS_ESP_PLAYA_SERENA_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 71.4,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6556,
+        "totalMeters": 5997,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_02",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_03",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_04",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_05",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_07",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_10",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_12",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_13",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_14",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_16",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PLAYA_SERENA_AZULES",
+        "code": "QAS_ESP_PLAYA_SERENA_AZULES",
+        "type": "AZULES",
+        "displayName": "Azules",
+        "courseRating": 74.8,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 118,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6087,
+        "totalMeters": 5566,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_05",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_06",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_07",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_08",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_09",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_12",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_13",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_14",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_15",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_18",
+            "yards": 336,
+            "meters": 307
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PLAYA_SERENA_ROJAS",
+        "code": "QAS_ESP_PLAYA_SERENA_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 73,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 117,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5771,
+        "totalMeters": 5276,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_02",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_03",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_04",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_05",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_06",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_07",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_08",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_09",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_11",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_13",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_14",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_15",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_PLAYA_SERENA_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      }
+    ]
+  }
+}

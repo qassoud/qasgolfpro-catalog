@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SON_PARC_MENORCA",
+    "code": "QAS_ESP_SON_PARC_MENORCA",
+    "name": "Golf Son Parc Menorca",
+    "city": "Mercadal",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 69,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Son Parc Menorca, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_01",
+        "code": "QAS_ESP_SON_PARC_MENORCA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_02",
+        "code": "QAS_ESP_SON_PARC_MENORCA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_03",
+        "code": "QAS_ESP_SON_PARC_MENORCA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_04",
+        "code": "QAS_ESP_SON_PARC_MENORCA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_05",
+        "code": "QAS_ESP_SON_PARC_MENORCA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_06",
+        "code": "QAS_ESP_SON_PARC_MENORCA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_07",
+        "code": "QAS_ESP_SON_PARC_MENORCA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_08",
+        "code": "QAS_ESP_SON_PARC_MENORCA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_09",
+        "code": "QAS_ESP_SON_PARC_MENORCA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_10",
+        "code": "QAS_ESP_SON_PARC_MENORCA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_11",
+        "code": "QAS_ESP_SON_PARC_MENORCA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_12",
+        "code": "QAS_ESP_SON_PARC_MENORCA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_13",
+        "code": "QAS_ESP_SON_PARC_MENORCA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_14",
+        "code": "QAS_ESP_SON_PARC_MENORCA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_15",
+        "code": "QAS_ESP_SON_PARC_MENORCA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_16",
+        "code": "QAS_ESP_SON_PARC_MENORCA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_17",
+        "code": "QAS_ESP_SON_PARC_MENORCA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_PARC_MENORCA_18",
+        "code": "QAS_ESP_SON_PARC_MENORCA_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SON_PARC_MENORCA_BLANCAS",
+        "code": "QAS_ESP_SON_PARC_MENORCA_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 68.2,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 131,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5654,
+        "totalMeters": 5169,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_01",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_02",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_03",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_05",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_07",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_11",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_12",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_13",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_14",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_16",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_17",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_18",
+            "yards": 161,
+            "meters": 147
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_PARC_MENORCA_AMARILLO",
+        "code": "QAS_ESP_SON_PARC_MENORCA_AMARILLO",
+        "type": "AMARILLO",
+        "displayName": "Amarillo",
+        "courseRating": 66.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 128,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5329,
+        "totalMeters": 4872,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_01",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_03",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_04",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_05",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_06",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_07",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_08",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_10",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_15",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_16",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_17",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_18",
+            "yards": 149,
+            "meters": 136
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_PARC_MENORCA_AZULES_L",
+        "code": "QAS_ESP_SON_PARC_MENORCA_AZULES_L",
+        "type": "AZULES_L",
+        "displayName": "Azules (L)",
+        "courseRating": 70.2,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.2,
+            "slopeRating": 127,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5087,
+        "totalMeters": 4652,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_01",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_02",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_03",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_04",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_05",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_07",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_08",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_09",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_10",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_11",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_13",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_15",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_16",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_17",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_18",
+            "yards": 138,
+            "meters": 126
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_PARC_MENORCA_ROJAS_L",
+        "code": "QAS_ESP_SON_PARC_MENORCA_ROJAS_L",
+        "type": "ROJAS_L",
+        "displayName": "Rojas (L)",
+        "courseRating": 68.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.1,
+            "slopeRating": 123,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4726,
+        "totalMeters": 4320,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_02",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_03",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_04",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_06",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_07",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_09",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_10",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_12",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_13",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_15",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_17",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_ESP_SON_PARC_MENORCA_18",
+            "yards": 128,
+            "meters": 117
+          }
+        ]
+      }
+    ]
+  }
+}

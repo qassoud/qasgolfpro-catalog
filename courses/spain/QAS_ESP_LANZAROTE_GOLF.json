@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LANZAROTE_GOLF",
+    "code": "QAS_ESP_LANZAROTE_GOLF",
+    "name": "Lanzarote Golf Resort",
+    "city": "Puerto del Carmen",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Lanzarote Golf Resort, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_01",
+        "code": "QAS_ESP_LANZAROTE_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_02",
+        "code": "QAS_ESP_LANZAROTE_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_03",
+        "code": "QAS_ESP_LANZAROTE_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_04",
+        "code": "QAS_ESP_LANZAROTE_GOLF_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_05",
+        "code": "QAS_ESP_LANZAROTE_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_06",
+        "code": "QAS_ESP_LANZAROTE_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_07",
+        "code": "QAS_ESP_LANZAROTE_GOLF_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_08",
+        "code": "QAS_ESP_LANZAROTE_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_09",
+        "code": "QAS_ESP_LANZAROTE_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_10",
+        "code": "QAS_ESP_LANZAROTE_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_11",
+        "code": "QAS_ESP_LANZAROTE_GOLF_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_12",
+        "code": "QAS_ESP_LANZAROTE_GOLF_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_13",
+        "code": "QAS_ESP_LANZAROTE_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_14",
+        "code": "QAS_ESP_LANZAROTE_GOLF_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_15",
+        "code": "QAS_ESP_LANZAROTE_GOLF_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_16",
+        "code": "QAS_ESP_LANZAROTE_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_17",
+        "code": "QAS_ESP_LANZAROTE_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LANZAROTE_GOLF_18",
+        "code": "QAS_ESP_LANZAROTE_GOLF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LANZAROTE_GOLF_BLANCAS",
+        "code": "QAS_ESP_LANZAROTE_GOLF_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 73.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6706,
+        "totalMeters": 6133,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_02",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_03",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_04",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_06",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_07",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_08",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_11",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_14",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_15",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_16",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_17",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LANZAROTE_GOLF_AMARILLAS",
+        "code": "QAS_ESP_LANZAROTE_GOLF_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 71,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6338,
+        "totalMeters": 5796,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_04",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_07",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_08",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_09",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_11",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_15",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_17",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LANZAROTE_GOLF_AZULES",
+        "code": "QAS_ESP_LANZAROTE_GOLF_AZULES",
+        "type": "AZULES",
+        "displayName": "Azules",
+        "courseRating": 75.4,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5866,
+        "totalMeters": 5363,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_02",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_06",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_07",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_09",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_11",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_14",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_15",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_16",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_17",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LANZAROTE_GOLF_ROJAS",
+        "code": "QAS_ESP_LANZAROTE_GOLF_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 71.4,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5277,
+        "totalMeters": 4827,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_03",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_07",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_08",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_09",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_11",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_12",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_13",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_14",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_15",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_16",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_LANZAROTE_GOLF_18",
+            "yards": 314,
+            "meters": 287
+          }
+        ]
+      }
+    ]
+  }
+}

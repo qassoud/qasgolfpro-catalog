@@ -1,0 +1,471 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOLF_LUGO",
+    "code": "QAS_ESP_GOLF_LUGO",
+    "name": "Club de Golf Lugo",
+    "city": "Lugo",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "GolfPlayer scorecard + RFEG rating cross-check, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_01",
+        "code": "QAS_ESP_GOLF_LUGO_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_02",
+        "code": "QAS_ESP_GOLF_LUGO_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_03",
+        "code": "QAS_ESP_GOLF_LUGO_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_04",
+        "code": "QAS_ESP_GOLF_LUGO_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_05",
+        "code": "QAS_ESP_GOLF_LUGO_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_06",
+        "code": "QAS_ESP_GOLF_LUGO_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_07",
+        "code": "QAS_ESP_GOLF_LUGO_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_08",
+        "code": "QAS_ESP_GOLF_LUGO_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_09",
+        "code": "QAS_ESP_GOLF_LUGO_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_10",
+        "code": "QAS_ESP_GOLF_LUGO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_11",
+        "code": "QAS_ESP_GOLF_LUGO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_12",
+        "code": "QAS_ESP_GOLF_LUGO_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_13",
+        "code": "QAS_ESP_GOLF_LUGO_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_14",
+        "code": "QAS_ESP_GOLF_LUGO_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_15",
+        "code": "QAS_ESP_GOLF_LUGO_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_16",
+        "code": "QAS_ESP_GOLF_LUGO_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_17",
+        "code": "QAS_ESP_GOLF_LUGO_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_LUGO_18",
+        "code": "QAS_ESP_GOLF_LUGO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LUGO_BLANCAS",
+        "code": "QAS_ESP_GOLF_LUGO_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 73.2,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6744,
+        "totalMeters": 6166,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_02",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_04",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_05",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_06",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_08",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_13",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_14",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_15",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_16",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_17",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_18",
+            "yards": 313,
+            "meters": 286
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LUGO_AMARILLAS",
+        "code": "QAS_ESP_GOLF_LUGO_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 72.4,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6608,
+        "totalMeters": 6042,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_02",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_04",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_05",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_08",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_13",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_14",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_17",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_18",
+            "yards": 311,
+            "meters": 284
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_LUGO_ROJAS",
+        "code": "QAS_ESP_GOLF_LUGO_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5626,
+        "totalMeters": 5144,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_01",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_04",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_06",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_07",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_08",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_09",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_10",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_13",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_14",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_16",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_17",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_LUGO_18",
+            "yards": 268,
+            "meters": 245
+          }
+        ]
+      }
+    ]
+  }
+}

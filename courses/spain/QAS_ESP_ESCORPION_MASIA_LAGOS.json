@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ESCORPION_MASIA_LAGOS",
+    "code": "QAS_ESP_ESCORPION_MASIA_LAGOS",
+    "name": "Club de Golf Escorpión - Masia/Lagos",
+    "city": "Bétera",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Club de Golf Escorpión Masia/Lagos, checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 9
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ESCORPION_MASIA_LAGOS_BLANCA",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_BLANCA",
+        "type": "BLANCA",
+        "displayName": "Blanca",
+        "courseRating": 72,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72,
+            "slopeRating": 132,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6614,
+        "totalMeters": 6048,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+            "yards": 558,
+            "meters": 510
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ESCORPION_MASIA_LAGOS_AMARILLA",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_AMARILLA",
+        "type": "AMARILLA",
+        "displayName": "Amarilla",
+        "courseRating": 70,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 130,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6265,
+        "totalMeters": 5729,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+            "yards": 525,
+            "meters": 480
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ESCORPION_MASIA_LAGOS_AZUL_L",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_AZUL_L",
+        "type": "AZUL_L",
+        "displayName": "Azul (L)",
+        "courseRating": 74.1,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5775,
+        "totalMeters": 5281,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ESCORPION_MASIA_LAGOS_ROJA_L",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_ROJA_L",
+        "type": "ROJA_L",
+        "displayName": "Roja (L)",
+        "courseRating": 71.9,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5401,
+        "totalMeters": 4940,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+            "yards": 470,
+            "meters": 430
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ESCORPION_MASIA_LAGOS_ROJAS_L",
+        "code": "QAS_ESP_ESCORPION_MASIA_LAGOS_ROJAS_L",
+        "type": "ROJAS_L",
+        "displayName": "Rojas (L)",
+        "courseRating": 71.9,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5402,
+        "totalMeters": 4941,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_01",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_02",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_03",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_05",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_09",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_12",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_14",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_ESCORPION_MASIA_LAGOS_18",
+            "yards": 470,
+            "meters": 430
+          }
+        ]
+      }
+    ]
+  }
+}

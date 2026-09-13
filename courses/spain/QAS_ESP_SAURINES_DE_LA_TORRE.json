@@ -1,0 +1,478 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SAURINES_DE_LA_TORRE",
+    "code": "QAS_ESP_SAURINES_DE_LA_TORRE",
+    "name": "Saurines de la Torre Golf",
+    "city": "Roldán",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "UGOLF Iberia official Saurines scorecard (2022 card), checked 2026-09-13",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_01",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_02",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_03",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_04",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_05",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_06",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_07",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_08",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_09",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_10",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_11",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_12",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_13",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_14",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_15",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_16",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_17",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SAURINES_DE_LA_TORRE_18",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SAURINES_DE_LA_TORRE_BLANCAS",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_BLANCAS",
+        "type": "BLANCAS",
+        "displayName": "Blancas",
+        "courseRating": 74,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7079,
+        "totalMeters": 6473,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_01",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_02",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_04",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_08",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_09",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_10",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_11",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_12",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_13",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_17",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SAURINES_DE_LA_TORRE_AMARILLAS",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_AMARILLAS",
+        "type": "AMARILLAS",
+        "displayName": "Amarillas",
+        "courseRating": 71.1,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6510,
+        "totalMeters": 5952,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_01",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_02",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_04",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_05",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_07",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_08",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_09",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_10",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_13",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_16",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_17",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SAURINES_DE_LA_TORRE_ROJAS",
+        "code": "QAS_ESP_SAURINES_DE_LA_TORRE_ROJAS",
+        "type": "ROJAS",
+        "displayName": "Rojas",
+        "courseRating": 70.9,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.9,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5374,
+        "totalMeters": 4914,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_01",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_04",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_06",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_08",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_10",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_12",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_14",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_15",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_16",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_17",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_SAURINES_DE_LA_TORRE_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      }
+    ]
+  }
+}
