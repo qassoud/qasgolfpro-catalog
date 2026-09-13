@@ -1,0 +1,612 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SERENA_GOLF",
+    "code": "QAS_ESP_SERENA_GOLF",
+    "name": "Serena Golf",
+    "city": "Los Alcázares",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG) — Serena Golf — https://www.rfeg.es/club/serena_golf.html?id=550",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_01",
+        "code": "QAS_ESP_SERENA_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_02",
+        "code": "QAS_ESP_SERENA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_03",
+        "code": "QAS_ESP_SERENA_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_04",
+        "code": "QAS_ESP_SERENA_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_05",
+        "code": "QAS_ESP_SERENA_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_06",
+        "code": "QAS_ESP_SERENA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_07",
+        "code": "QAS_ESP_SERENA_GOLF_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_08",
+        "code": "QAS_ESP_SERENA_GOLF_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_09",
+        "code": "QAS_ESP_SERENA_GOLF_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_10",
+        "code": "QAS_ESP_SERENA_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_11",
+        "code": "QAS_ESP_SERENA_GOLF_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_12",
+        "code": "QAS_ESP_SERENA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_13",
+        "code": "QAS_ESP_SERENA_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_14",
+        "code": "QAS_ESP_SERENA_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_15",
+        "code": "QAS_ESP_SERENA_GOLF_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_16",
+        "code": "QAS_ESP_SERENA_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_17",
+        "code": "QAS_ESP_SERENA_GOLF_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SERENA_GOLF_18",
+        "code": "QAS_ESP_SERENA_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SERENA_GOLF_WHITE",
+        "code": "QAS_ESP_SERENA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.2,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 80.1,
+            "slopeRating": 151,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6776,
+        "totalMeters": 6196,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_01",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_02",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_03",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_05",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_06",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_07",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_08",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_09",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_10",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_11",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_12",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_13",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_15",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_16",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_17",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_18",
+            "yards": 547,
+            "meters": 500
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SERENA_GOLF_YELLOW",
+        "code": "QAS_ESP_SERENA_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.1,
+            "slopeRating": 147,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6461,
+        "totalMeters": 5909,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_01",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_02",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_03",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_04",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_07",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_08",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_09",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_11",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_13",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_14",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_15",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_16",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_18",
+            "yards": 525,
+            "meters": 480
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SERENA_GOLF_BLUE",
+        "code": "QAS_ESP_SERENA_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.6,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 140,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5799,
+        "totalMeters": 5303,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_01",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_02",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_03",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_04",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_05",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_07",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_08",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_09",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_10",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_11",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_13",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_15",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_16",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SERENA_GOLF_RED",
+        "code": "QAS_ESP_SERENA_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.7,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5406,
+        "totalMeters": 4944,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_01",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_02",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_03",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_05",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_06",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_08",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_09",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_11",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_13",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_15",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_16",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_17",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_SERENA_GOLF_18",
+            "yards": 460,
+            "meters": 421
+          }
+        ]
+      }
+    ]
+  }
+}

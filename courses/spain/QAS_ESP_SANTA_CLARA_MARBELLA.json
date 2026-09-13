@@ -1,0 +1,612 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SANTA_CLARA_MARBELLA",
+    "code": "QAS_ESP_SANTA_CLARA_MARBELLA",
+    "name": "Santa Clara Golf Marbella",
+    "city": "Marbella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Real Federación Española de Golf (RFEG) — Santa Clara Golf — https://rfeg.es/club/santa_clara_golf?id=321",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_01",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_02",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_03",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_04",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_05",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_06",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_07",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_08",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_09",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_10",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_11",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_12",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_13",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_14",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_15",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_16",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_17",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SANTA_CLARA_MARBELLA_18",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 13
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_CLARA_MARBELLA_WHITE",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.0,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.7,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6390,
+        "totalMeters": 5843,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_02",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_03",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_05",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_06",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_07",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_08",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_10",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_11",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_12",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_13",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_14",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_15",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_17",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_18",
+            "yards": 387,
+            "meters": 354
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_CLARA_MARBELLA_YELLOW",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.3,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 132,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6026,
+        "totalMeters": 5511,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_02",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_03",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_04",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_06",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_08",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_09",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_10",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_11",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_12",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_13",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_14",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_15",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_16",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_17",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_CLARA_MARBELLA_BLUE",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5675,
+        "totalMeters": 5189,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_02",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_04",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_05",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_06",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_07",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_08",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_09",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_11",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_13",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_14",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_15",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_16",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_17",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SANTA_CLARA_MARBELLA_RED",
+        "code": "QAS_ESP_SANTA_CLARA_MARBELLA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.6,
+            "slopeRating": 123,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5213,
+        "totalMeters": 4765,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_02",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_05",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_06",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_07",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_09",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_10",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_11",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_12",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_13",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_14",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_16",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_17",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_ESP_SANTA_CLARA_MARBELLA_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      }
+    ]
+  }
+}
