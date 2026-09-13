@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_REAL_GOLF_PEDRENA",
+    "code": "QAS_ESP_REAL_GOLF_PEDRENA",
+    "name": "Real Golf de Pedreña",
+    "city": "Pedreña",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; course identity cross-checked with Real Golf de Pedreña",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_01",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_02",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_03",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_04",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_05",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_06",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_07",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_08",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_09",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_10",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_11",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_12",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_13",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_14",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_15",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_16",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_17",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_REAL_GOLF_PEDRENA_18",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_REAL_GOLF_PEDRENA_WHITE",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.7,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 135,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6240,
+        "totalMeters": 5705,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_02",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_04",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_05",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_09",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_10",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_11",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_13",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_15",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_16",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_17",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_REAL_GOLF_PEDRENA_YELLOW",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.5,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 130,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5978,
+        "totalMeters": 5464,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_02",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_05",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_06",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_07",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_08",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_09",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_10",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_11",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_13",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_15",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_16",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_18",
+            "yards": 354,
+            "meters": 324
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_REAL_GOLF_PEDRENA_BLUE",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.6,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5267,
+        "totalMeters": 4816,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_01",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_05",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_07",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_08",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_10",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_11",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_12",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_14",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_15",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_16",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_17",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_REAL_GOLF_PEDRENA_RED",
+        "code": "QAS_ESP_REAL_GOLF_PEDRENA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.3,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.3,
+            "slopeRating": 124,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5080,
+        "totalMeters": 4645,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_01",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_03",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_04",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_05",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_07",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_08",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_10",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_15",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_16",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_17",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_REAL_GOLF_PEDRENA_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ]
+  }
+}

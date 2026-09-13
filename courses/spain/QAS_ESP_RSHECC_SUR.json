@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_RSHECC_SUR",
+    "code": "QAS_ESP_RSHECC_SUR",
+    "name": "Real Sociedad Hípica Española Club de Campo - Sur",
+    "city": "San Sebastián de los Reyes",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; club identity cross-checked with RSHECC",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_01",
+        "code": "QAS_ESP_RSHECC_SUR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_02",
+        "code": "QAS_ESP_RSHECC_SUR_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_03",
+        "code": "QAS_ESP_RSHECC_SUR_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_04",
+        "code": "QAS_ESP_RSHECC_SUR_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_05",
+        "code": "QAS_ESP_RSHECC_SUR_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_06",
+        "code": "QAS_ESP_RSHECC_SUR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_07",
+        "code": "QAS_ESP_RSHECC_SUR_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_08",
+        "code": "QAS_ESP_RSHECC_SUR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_09",
+        "code": "QAS_ESP_RSHECC_SUR_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_10",
+        "code": "QAS_ESP_RSHECC_SUR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_11",
+        "code": "QAS_ESP_RSHECC_SUR_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_12",
+        "code": "QAS_ESP_RSHECC_SUR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_13",
+        "code": "QAS_ESP_RSHECC_SUR_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_14",
+        "code": "QAS_ESP_RSHECC_SUR_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_15",
+        "code": "QAS_ESP_RSHECC_SUR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_16",
+        "code": "QAS_ESP_RSHECC_SUR_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_17",
+        "code": "QAS_ESP_RSHECC_SUR_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_RSHECC_SUR_18",
+        "code": "QAS_ESP_RSHECC_SUR_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_RSHECC_SUR_WHITE",
+        "code": "QAS_ESP_RSHECC_SUR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.0,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6119,
+        "totalMeters": 5595,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_02",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_05",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_07",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_08",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_09",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_12",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_13",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_14",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_15",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_16",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_RSHECC_SUR_YELLOW",
+        "code": "QAS_ESP_RSHECC_SUR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.9,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5761,
+        "totalMeters": 5266,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_02",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_03",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_05",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_06",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_08",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_12",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_13",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_RSHECC_SUR_BLUE",
+        "code": "QAS_ESP_RSHECC_SUR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 75.7,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.7,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5367,
+        "totalMeters": 4909,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_02",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_03",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_05",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_06",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_07",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_08",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_09",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_12",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_16",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_RSHECC_SUR_RED",
+        "code": "QAS_ESP_RSHECC_SUR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 73.4,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5002,
+        "totalMeters": 4571,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_02",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_03",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_05",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_06",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_07",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_08",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_09",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_10",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_11",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_12",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_16",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_17",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_RSHECC_SUR_18",
+            "yards": 292,
+            "meters": 267
+          }
+        ]
+      }
+    ]
+  }
+}

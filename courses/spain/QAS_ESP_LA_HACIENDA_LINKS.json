@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_HACIENDA_LINKS",
+    "code": "QAS_ESP_LA_HACIENDA_LINKS",
+    "name": "La Hacienda Links Golf Resort - Links Course",
+    "city": "San Roque",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; resort identity cross-checked with La Hacienda Links Golf Resort",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_01",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_02",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_03",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_04",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_05",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_06",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_07",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_08",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_09",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_10",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_11",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_12",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_13",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_14",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_15",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_16",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_17",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_LINKS_18",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_LINKS_WHITE",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.8,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6447,
+        "totalMeters": 5895,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_01",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_02",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_03",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_05",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_07",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_12",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_13",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_14",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_15",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_16",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_17",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_18",
+            "yards": 502,
+            "meters": 459
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_LINKS_YELLOW",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 69.4,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.4,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6060,
+        "totalMeters": 5540,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_01",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_02",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_03",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_05",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_06",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_07",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_13",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_14",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_15",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_16",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_LINKS_SILVER",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 66.9,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5526,
+        "totalMeters": 5052,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_03",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_04",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_05",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_06",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_07",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_08",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_10",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_12",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_13",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_14",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_15",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_17",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_18",
+            "yards": 469,
+            "meters": 429
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_LINKS_RED",
+        "code": "QAS_ESP_LA_HACIENDA_LINKS_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 71.8,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.8,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5110,
+        "totalMeters": 4674,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_01",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_06",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_07",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_08",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_09",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_12",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_13",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_14",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_15",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_16",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_17",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_LINKS_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      }
+    ]
+  }
+}

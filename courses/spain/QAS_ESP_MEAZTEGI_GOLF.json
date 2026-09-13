@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_MEAZTEGI_GOLF",
+    "code": "QAS_ESP_MEAZTEGI_GOLF",
+    "name": "Meaztegi Golf Club",
+    "city": "Ortuella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; course identity cross-checked with Meaztegi Golf Club",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_01",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_02",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_03",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_04",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_05",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_06",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_07",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_08",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_09",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_10",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_11",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_12",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_13",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_14",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_15",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_16",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_17",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MEAZTEGI_GOLF_18",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_MEAZTEGI_GOLF_WHITE",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.1,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6837,
+        "totalMeters": 6254,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_02",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_03",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_04",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_05",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_06",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_07",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_09",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_10",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_12",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_14",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_15",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_16",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_18",
+            "yards": 562,
+            "meters": 514
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MEAZTEGI_GOLF_YELLOW",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.1,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6639,
+        "totalMeters": 6070,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_01",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_02",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_04",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_05",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_07",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_10",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_11",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_12",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_17",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_18",
+            "yards": 554,
+            "meters": 507
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MEAZTEGI_GOLF_BLUE",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 76.9,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6231,
+        "totalMeters": 5698,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_01",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_02",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_04",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_05",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_07",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_09",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_10",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_12",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_13",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_15",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_17",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_18",
+            "yards": 523,
+            "meters": 478
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MEAZTEGI_GOLF_RED",
+        "code": "QAS_ESP_MEAZTEGI_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 73.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5760,
+        "totalMeters": 5268,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_01",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_02",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_03",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_04",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_06",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_07",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_08",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_09",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_10",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_12",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_14",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_15",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_17",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_MEAZTEGI_GOLF_18",
+            "yards": 488,
+            "meters": 446
+          }
+        ]
+      }
+    ]
+  }
+}

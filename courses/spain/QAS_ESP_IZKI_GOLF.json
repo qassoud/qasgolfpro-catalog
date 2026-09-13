@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_IZKI_GOLF",
+    "code": "QAS_ESP_IZKI_GOLF",
+    "name": "Izki Golf",
+    "city": "Urturi (Álava)",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; course identity cross-checked with Izki Golf",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_01",
+        "code": "QAS_ESP_IZKI_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_02",
+        "code": "QAS_ESP_IZKI_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_03",
+        "code": "QAS_ESP_IZKI_GOLF_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_04",
+        "code": "QAS_ESP_IZKI_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_05",
+        "code": "QAS_ESP_IZKI_GOLF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_06",
+        "code": "QAS_ESP_IZKI_GOLF_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_07",
+        "code": "QAS_ESP_IZKI_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_08",
+        "code": "QAS_ESP_IZKI_GOLF_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_09",
+        "code": "QAS_ESP_IZKI_GOLF_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_10",
+        "code": "QAS_ESP_IZKI_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_11",
+        "code": "QAS_ESP_IZKI_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_12",
+        "code": "QAS_ESP_IZKI_GOLF_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_13",
+        "code": "QAS_ESP_IZKI_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_14",
+        "code": "QAS_ESP_IZKI_GOLF_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_15",
+        "code": "QAS_ESP_IZKI_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_16",
+        "code": "QAS_ESP_IZKI_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_17",
+        "code": "QAS_ESP_IZKI_GOLF_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IZKI_GOLF_18",
+        "code": "QAS_ESP_IZKI_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_IZKI_GOLF_WHITE",
+        "code": "QAS_ESP_IZKI_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.5,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.5,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7172,
+        "totalMeters": 6559,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_02",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_03",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_04",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_05",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_09",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_11",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_12",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_15",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_16",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_17",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_18",
+            "yards": 560,
+            "meters": 512
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IZKI_GOLF_YELLOW",
+        "code": "QAS_ESP_IZKI_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.4,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6701,
+        "totalMeters": 6128,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_03",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_04",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_05",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_06",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_07",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_08",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_09",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_12",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_14",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_15",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_16",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_17",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_18",
+            "yards": 542,
+            "meters": 496
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IZKI_GOLF_BLUE",
+        "code": "QAS_ESP_IZKI_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.3,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5687,
+        "totalMeters": 5199,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_03",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_04",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_05",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_07",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_09",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_11",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_13",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_14",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_15",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_16",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IZKI_GOLF_RED",
+        "code": "QAS_ESP_IZKI_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5504,
+        "totalMeters": 5033,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_03",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_04",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_05",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_07",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_08",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_09",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_11",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_12",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_13",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_14",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_17",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_IZKI_GOLF_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_BARGANIZA",
+    "code": "QAS_ESP_LA_BARGANIZA",
+    "name": "Club de Golf La Barganiza",
+    "city": "Siero",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; course identity cross-checked with Club de Golf La Barganiza",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_01",
+        "code": "QAS_ESP_LA_BARGANIZA_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_02",
+        "code": "QAS_ESP_LA_BARGANIZA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_03",
+        "code": "QAS_ESP_LA_BARGANIZA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_04",
+        "code": "QAS_ESP_LA_BARGANIZA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_05",
+        "code": "QAS_ESP_LA_BARGANIZA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_06",
+        "code": "QAS_ESP_LA_BARGANIZA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_07",
+        "code": "QAS_ESP_LA_BARGANIZA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_08",
+        "code": "QAS_ESP_LA_BARGANIZA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_09",
+        "code": "QAS_ESP_LA_BARGANIZA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_10",
+        "code": "QAS_ESP_LA_BARGANIZA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_11",
+        "code": "QAS_ESP_LA_BARGANIZA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_12",
+        "code": "QAS_ESP_LA_BARGANIZA_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_13",
+        "code": "QAS_ESP_LA_BARGANIZA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_14",
+        "code": "QAS_ESP_LA_BARGANIZA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_15",
+        "code": "QAS_ESP_LA_BARGANIZA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_16",
+        "code": "QAS_ESP_LA_BARGANIZA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_17",
+        "code": "QAS_ESP_LA_BARGANIZA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_BARGANIZA_18",
+        "code": "QAS_ESP_LA_BARGANIZA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_BARGANIZA_WHITE",
+        "code": "QAS_ESP_LA_BARGANIZA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.5,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 138,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6084,
+        "totalMeters": 5565,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_01",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_03",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_05",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_07",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_08",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_09",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_10",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_12",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_13",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_14",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_17",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_BARGANIZA_YELLOW",
+        "code": "QAS_ESP_LA_BARGANIZA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5959,
+        "totalMeters": 5448,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_01",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_03",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_05",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_06",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_07",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_08",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_09",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_12",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_13",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_17",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_18",
+            "yards": 325,
+            "meters": 297
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_BARGANIZA_BLUE",
+        "code": "QAS_ESP_LA_BARGANIZA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 130,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5547,
+        "totalMeters": 5074,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_01",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_04",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_05",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_07",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_08",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_09",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_11",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_13",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_15",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_16",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_18",
+            "yards": 312,
+            "meters": 285
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_BARGANIZA_RED",
+        "code": "QAS_ESP_LA_BARGANIZA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 128,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5137,
+        "totalMeters": 4699,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_01",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_04",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_05",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_07",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_08",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_12",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_13",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_14",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_15",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_16",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_LA_BARGANIZA_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      }
+    ]
+  }
+}

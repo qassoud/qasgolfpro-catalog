@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_HACIENDA_HEATHLAND",
+    "code": "QAS_ESP_LA_HACIENDA_HEATHLAND",
+    "name": "La Hacienda Links Golf Resort - Heathland Course",
+    "city": "San Roque",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify scorecard/rating database; resort identity cross-checked with La Hacienda Links Golf Resort",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_HEATHLAND_CHAMPIONSHIP_MEN",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_CHAMPIONSHIP_MEN",
+        "type": "CHAMPIONSHIP_MEN",
+        "displayName": "Caballeros",
+        "courseRating": 74.0,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7017,
+        "totalMeters": 6415,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+            "yards": 587,
+            "meters": 537
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+            "yards": 489,
+            "meters": 447
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_HEATHLAND_MEN",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_MEN",
+        "type": "MEN",
+        "displayName": "Gentlemen",
+        "courseRating": 72.6,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6669,
+        "totalMeters": 6099,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+            "yards": 472,
+            "meters": 432
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_HEATHLAND_CHAMPIONSHIP_WOMEN",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_CHAMPIONSHIP_WOMEN",
+        "type": "CHAMPIONSHIP_WOMEN",
+        "displayName": "Señoras",
+        "courseRating": 76.1,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6237,
+        "totalMeters": 5703,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_HACIENDA_HEATHLAND_WOMEN",
+        "code": "QAS_ESP_LA_HACIENDA_HEATHLAND_WOMEN",
+        "type": "WOMEN",
+        "displayName": "Ladies",
+        "courseRating": 73.5,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5798,
+        "totalMeters": 5302,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_01",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_02",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_06",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_07",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_08",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_09",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_10",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_12",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_14",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_15",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_16",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_17",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_LA_HACIENDA_HEATHLAND_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      }
+    ]
+  }
+}
