@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_NOM_ROUGE",
+    "code": "QAS_FRA_SAINT_NOM_ROUGE",
+    "name": "Golf de Saint-Nom-la-Bretèche - Rouge",
+    "city": "Saint-Nom-la-Bretèche",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Saint-Nom-La-Bretèche - Rouge — https://www.golfify.io/courses/golf-de-saint-nom-la-breteche-rouge",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_01",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_02",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_03",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_04",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_05",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_06",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_07",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_08",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_09",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_10",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_11",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_12",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_13",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_14",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_15",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_16",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_17",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_NOM_ROUGE_18",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_NOM_ROUGE_WHITE",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.7,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6840,
+        "totalMeters": 6253,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_04",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_05",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_06",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_07",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_08",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_09",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_12",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_13",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_15",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_16",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_17",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_18",
+            "yards": 369,
+            "meters": 337
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_NOM_ROUGE_YELLOW",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6381,
+        "totalMeters": 5836,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_02",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_06",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_07",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_08",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_09",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_12",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_13",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_16",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_17",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_NOM_ROUGE_BLUE",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5826,
+        "totalMeters": 5327,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_02",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_03",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_07",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_09",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_11",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_12",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_13",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_15",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_17",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_NOM_ROUGE_RED",
+        "code": "QAS_FRA_SAINT_NOM_ROUGE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5338,
+        "totalMeters": 4882,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_03",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_05",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_07",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_09",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_10",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_12",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_14",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_16",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_NOM_ROUGE_18",
+            "yards": 299,
+            "meters": 273
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CANNES_MOUGINS",
+    "code": "QAS_FRA_CANNES_MOUGINS",
+    "name": "Golf Country Club de Cannes-Mougins",
+    "city": "Mougins",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Country Club de Cannes Mougins — https://www.golfify.io/courses/golf-country-club-de-cannes-mougins",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_01",
+        "code": "QAS_FRA_CANNES_MOUGINS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_02",
+        "code": "QAS_FRA_CANNES_MOUGINS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_03",
+        "code": "QAS_FRA_CANNES_MOUGINS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_04",
+        "code": "QAS_FRA_CANNES_MOUGINS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_05",
+        "code": "QAS_FRA_CANNES_MOUGINS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_06",
+        "code": "QAS_FRA_CANNES_MOUGINS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_07",
+        "code": "QAS_FRA_CANNES_MOUGINS_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_08",
+        "code": "QAS_FRA_CANNES_MOUGINS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_09",
+        "code": "QAS_FRA_CANNES_MOUGINS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_10",
+        "code": "QAS_FRA_CANNES_MOUGINS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_11",
+        "code": "QAS_FRA_CANNES_MOUGINS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_12",
+        "code": "QAS_FRA_CANNES_MOUGINS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_13",
+        "code": "QAS_FRA_CANNES_MOUGINS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_14",
+        "code": "QAS_FRA_CANNES_MOUGINS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_15",
+        "code": "QAS_FRA_CANNES_MOUGINS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_16",
+        "code": "QAS_FRA_CANNES_MOUGINS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_17",
+        "code": "QAS_FRA_CANNES_MOUGINS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CANNES_MOUGINS_18",
+        "code": "QAS_FRA_CANNES_MOUGINS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CANNES_MOUGINS_BLACK",
+        "code": "QAS_FRA_CANNES_MOUGINS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.9,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.9,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6908,
+        "totalMeters": 6315,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_01",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_02",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_07",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_08",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_11",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_12",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_14",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_15",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_16",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_17",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CANNES_MOUGINS_WHITE",
+        "code": "QAS_FRA_CANNES_MOUGINS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6749,
+        "totalMeters": 6169,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_01",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_02",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_03",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_05",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_07",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_08",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_09",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_14",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_15",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_16",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CANNES_MOUGINS_YELLOW",
+        "code": "QAS_FRA_CANNES_MOUGINS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.1,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6350,
+        "totalMeters": 5807,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_02",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_03",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_05",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_06",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_07",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_08",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_11",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_13",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_14",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_16",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CANNES_MOUGINS_BLUE",
+        "code": "QAS_FRA_CANNES_MOUGINS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.4,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.4,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5826,
+        "totalMeters": 5329,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_02",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_05",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_06",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_07",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_08",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_10",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_11",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_13",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_14",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_16",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_17",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_18",
+            "yards": 301,
+            "meters": 275
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CANNES_MOUGINS_RED",
+        "code": "QAS_FRA_CANNES_MOUGINS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.9,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5505,
+        "totalMeters": 5033,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_03",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_05",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_06",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_07",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_11",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_13",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_14",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_15",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CANNES_MOUGINS_18",
+            "yards": 289,
+            "meters": 264
+          }
+        ]
+      }
+    ]
+  }
+}
