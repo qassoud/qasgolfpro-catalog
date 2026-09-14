@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_ODET",
+    "code": "QAS_FRA_ODET",
+    "name": "Golf de l'Odet",
+    "city": "Bénodet",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=363&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_01",
+        "code": "QAS_FRA_ODET_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_02",
+        "code": "QAS_FRA_ODET_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_03",
+        "code": "QAS_FRA_ODET_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_04",
+        "code": "QAS_FRA_ODET_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_05",
+        "code": "QAS_FRA_ODET_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_06",
+        "code": "QAS_FRA_ODET_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_07",
+        "code": "QAS_FRA_ODET_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_08",
+        "code": "QAS_FRA_ODET_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_09",
+        "code": "QAS_FRA_ODET_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_10",
+        "code": "QAS_FRA_ODET_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_11",
+        "code": "QAS_FRA_ODET_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_12",
+        "code": "QAS_FRA_ODET_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_13",
+        "code": "QAS_FRA_ODET_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_14",
+        "code": "QAS_FRA_ODET_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_15",
+        "code": "QAS_FRA_ODET_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_16",
+        "code": "QAS_FRA_ODET_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_17",
+        "code": "QAS_FRA_ODET_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ODET_18",
+        "code": "QAS_FRA_ODET_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_ODET_BLACK",
+        "code": "QAS_FRA_ODET_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.9,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6392,
+        "totalMeters": 5843,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ODET_01",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_02",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_05",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_06",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_13",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_14",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_15",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ODET_WHITE",
+        "code": "QAS_FRA_ODET_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.9,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6392,
+        "totalMeters": 5843,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ODET_01",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_02",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_05",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_06",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_13",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_14",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_15",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ODET_YELLOW",
+        "code": "QAS_FRA_ODET_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.7,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5997,
+        "totalMeters": 5484,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ODET_01",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_02",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_04",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_06",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_07",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_08",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_12",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_13",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_14",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ODET_BLUE",
+        "code": "QAS_FRA_ODET_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.5,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.5,
+            "slopeRating": 118,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5522,
+        "totalMeters": 5050,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ODET_01",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_02",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_03",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_04",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_08",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_13",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_15",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_17",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ODET_RED",
+        "code": "QAS_FRA_ODET_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.1,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 115,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5211,
+        "totalMeters": 4765,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ODET_01",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_02",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_03",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_04",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_05",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_06",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_07",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_11",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_13",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_14",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_15",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_17",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_ODET_18",
+            "yards": 291,
+            "meters": 266
+          }
+        ]
+      }
+    ]
+  }
+}

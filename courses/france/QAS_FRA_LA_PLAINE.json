@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LA_PLAINE",
+    "code": "QAS_FRA_LA_PLAINE",
+    "name": "Golf de la Plaine",
+    "city": "Brives-Charensac",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=658&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_01",
+        "code": "QAS_FRA_LA_PLAINE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_02",
+        "code": "QAS_FRA_LA_PLAINE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_03",
+        "code": "QAS_FRA_LA_PLAINE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_04",
+        "code": "QAS_FRA_LA_PLAINE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_05",
+        "code": "QAS_FRA_LA_PLAINE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_06",
+        "code": "QAS_FRA_LA_PLAINE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_07",
+        "code": "QAS_FRA_LA_PLAINE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_08",
+        "code": "QAS_FRA_LA_PLAINE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_09",
+        "code": "QAS_FRA_LA_PLAINE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_10",
+        "code": "QAS_FRA_LA_PLAINE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_11",
+        "code": "QAS_FRA_LA_PLAINE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_12",
+        "code": "QAS_FRA_LA_PLAINE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_13",
+        "code": "QAS_FRA_LA_PLAINE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_14",
+        "code": "QAS_FRA_LA_PLAINE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_15",
+        "code": "QAS_FRA_LA_PLAINE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_16",
+        "code": "QAS_FRA_LA_PLAINE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_17",
+        "code": "QAS_FRA_LA_PLAINE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PLAINE_18",
+        "code": "QAS_FRA_LA_PLAINE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 13
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LA_PLAINE_BLACK",
+        "code": "QAS_FRA_LA_PLAINE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5030,
+        "totalMeters": 4600,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_06",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_10",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_15",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_16",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PLAINE_WHITE",
+        "code": "QAS_FRA_LA_PLAINE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5030,
+        "totalMeters": 4600,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_06",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_10",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_15",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_16",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PLAINE_YELLOW",
+        "code": "QAS_FRA_LA_PLAINE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5030,
+        "totalMeters": 4600,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_06",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_10",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_15",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_16",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PLAINE_BLUE",
+        "code": "QAS_FRA_LA_PLAINE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4357,
+        "totalMeters": 3985,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_01",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_03",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_04",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_06",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_09",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_10",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_12",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_15",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_17",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_18",
+            "yards": 208,
+            "meters": 190
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PLAINE_RED",
+        "code": "QAS_FRA_LA_PLAINE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4357,
+        "totalMeters": 3985,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_01",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_03",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_04",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_06",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_09",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_10",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_12",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_15",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_17",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PLAINE_18",
+            "yards": 208,
+            "meters": 190
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MIONNAY",
+    "code": "QAS_FRA_MIONNAY",
+    "name": "Garden Golf de Mionnay",
+    "city": "Mionnay",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_01",
+        "code": "QAS_FRA_MIONNAY_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_02",
+        "code": "QAS_FRA_MIONNAY_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_03",
+        "code": "QAS_FRA_MIONNAY_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_04",
+        "code": "QAS_FRA_MIONNAY_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_05",
+        "code": "QAS_FRA_MIONNAY_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_06",
+        "code": "QAS_FRA_MIONNAY_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_07",
+        "code": "QAS_FRA_MIONNAY_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_08",
+        "code": "QAS_FRA_MIONNAY_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_09",
+        "code": "QAS_FRA_MIONNAY_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_10",
+        "code": "QAS_FRA_MIONNAY_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_11",
+        "code": "QAS_FRA_MIONNAY_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_12",
+        "code": "QAS_FRA_MIONNAY_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_13",
+        "code": "QAS_FRA_MIONNAY_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_14",
+        "code": "QAS_FRA_MIONNAY_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_15",
+        "code": "QAS_FRA_MIONNAY_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_16",
+        "code": "QAS_FRA_MIONNAY_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_17",
+        "code": "QAS_FRA_MIONNAY_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MIONNAY_18",
+        "code": "QAS_FRA_MIONNAY_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MIONNAY_BLACK",
+        "code": "QAS_FRA_MIONNAY_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6454,
+        "totalMeters": 5902,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MIONNAY_01",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_02",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_04",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_05",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_07",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_08",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_12",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_14",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_17",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_18",
+            "yards": 180,
+            "meters": 165
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MIONNAY_WHITE",
+        "code": "QAS_FRA_MIONNAY_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6454,
+        "totalMeters": 5902,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MIONNAY_01",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_02",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_04",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_05",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_07",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_08",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_12",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_14",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_17",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_18",
+            "yards": 180,
+            "meters": 165
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MIONNAY_YELLOW",
+        "code": "QAS_FRA_MIONNAY_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6164,
+        "totalMeters": 5637,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MIONNAY_01",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_05",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_06",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_08",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_09",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_10",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_11",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_12",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_13",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_14",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_15",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_17",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_18",
+            "yards": 174,
+            "meters": 159
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MIONNAY_BLUE",
+        "code": "QAS_FRA_MIONNAY_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.6,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.6,
+            "slopeRating": 119,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 125,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5431,
+        "totalMeters": 4966,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MIONNAY_01",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_02",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_03",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_04",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_05",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_08",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_09",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_10",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_12",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_13",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_14",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_16",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_18",
+            "yards": 168,
+            "meters": 154
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MIONNAY_RED",
+        "code": "QAS_FRA_MIONNAY_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.7,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 117,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.6,
+            "slopeRating": 121,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5227,
+        "totalMeters": 4782,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MIONNAY_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_08",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_09",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_11",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_12",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_13",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_14",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_15",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_16",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MIONNAY_18",
+            "yards": 163,
+            "meters": 149
+          }
+        ]
+      }
+    ]
+  }
+}

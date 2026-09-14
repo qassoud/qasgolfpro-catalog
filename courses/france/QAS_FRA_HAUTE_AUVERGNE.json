@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_HAUTE_AUVERGNE",
+    "code": "QAS_FRA_HAUTE_AUVERGNE",
+    "name": "Golf de Haute-Auvergne",
+    "city": "Sansac-de-Marmiesse",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_01",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_02",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_03",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_04",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_05",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_06",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_07",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_08",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_09",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_10",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_11",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_12",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_13",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_14",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_15",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_16",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_17",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HAUTE_AUVERGNE_18",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_HAUTE_AUVERGNE_BLACK",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6792,
+        "totalMeters": 6211,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_03",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_04",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_06",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_08",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_12",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_14",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_15",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_17",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HAUTE_AUVERGNE_WHITE",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6681,
+        "totalMeters": 6109,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_03",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_04",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_06",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_09",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_12",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_14",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_15",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_16",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_17",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HAUTE_AUVERGNE_YELLOW",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.3,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.4,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6395,
+        "totalMeters": 5847,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_02",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_03",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_06",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_07",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_08",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_13",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_14",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_16",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_17",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HAUTE_AUVERGNE_BLUE",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.9,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.9,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5649,
+        "totalMeters": 5165,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_02",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_03",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_04",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_06",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_07",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_09",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_14",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_15",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_16",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_17",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_18",
+            "yards": 323,
+            "meters": 295
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HAUTE_AUVERGNE_RED",
+        "code": "QAS_FRA_HAUTE_AUVERGNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.5,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.5,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5342,
+        "totalMeters": 4885,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_02",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_03",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_04",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_05",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_08",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_09",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_11",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_14",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_15",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_16",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_17",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_HAUTE_AUVERGNE_18",
+            "yards": 292,
+            "meters": 267
+          }
+        ]
+      }
+    ]
+  }
+}

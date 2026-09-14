@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VAL_DE_CHER",
+    "code": "QAS_FRA_VAL_DE_CHER",
+    "name": "Golf Club du Val de Cher",
+    "city": "Nassigny",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_01",
+        "code": "QAS_FRA_VAL_DE_CHER_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_02",
+        "code": "QAS_FRA_VAL_DE_CHER_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_03",
+        "code": "QAS_FRA_VAL_DE_CHER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_04",
+        "code": "QAS_FRA_VAL_DE_CHER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_05",
+        "code": "QAS_FRA_VAL_DE_CHER_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_06",
+        "code": "QAS_FRA_VAL_DE_CHER_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_07",
+        "code": "QAS_FRA_VAL_DE_CHER_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_08",
+        "code": "QAS_FRA_VAL_DE_CHER_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_09",
+        "code": "QAS_FRA_VAL_DE_CHER_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_10",
+        "code": "QAS_FRA_VAL_DE_CHER_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_11",
+        "code": "QAS_FRA_VAL_DE_CHER_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_12",
+        "code": "QAS_FRA_VAL_DE_CHER_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_13",
+        "code": "QAS_FRA_VAL_DE_CHER_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_14",
+        "code": "QAS_FRA_VAL_DE_CHER_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_15",
+        "code": "QAS_FRA_VAL_DE_CHER_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_16",
+        "code": "QAS_FRA_VAL_DE_CHER_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_17",
+        "code": "QAS_FRA_VAL_DE_CHER_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAL_DE_CHER_18",
+        "code": "QAS_FRA_VAL_DE_CHER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VAL_DE_CHER_BLACK",
+        "code": "QAS_FRA_VAL_DE_CHER_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 68.3,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 129,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5769,
+        "totalMeters": 5275,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_01",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_08",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_11",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_17",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAL_DE_CHER_WHITE",
+        "code": "QAS_FRA_VAL_DE_CHER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.3,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 129,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5769,
+        "totalMeters": 5275,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_01",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_08",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_11",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_17",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAL_DE_CHER_YELLOW",
+        "code": "QAS_FRA_VAL_DE_CHER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 66.8,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 120,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 123,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5478,
+        "totalMeters": 5007,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_01",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_02",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_03",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_06",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_08",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_12",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_17",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_18",
+            "yards": 304,
+            "meters": 278
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAL_DE_CHER_BLUE",
+        "code": "QAS_FRA_VAL_DE_CHER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 64.2,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.2,
+            "slopeRating": 115,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.3,
+            "slopeRating": 116,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4898,
+        "totalMeters": 4478,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_03",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_04",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_05",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_06",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_07",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_08",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_09",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_10",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_12",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_15",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_17",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_18",
+            "yards": 236,
+            "meters": 216
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAL_DE_CHER_RED",
+        "code": "QAS_FRA_VAL_DE_CHER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63.2,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.2,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67,
+            "slopeRating": 113,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4671,
+        "totalMeters": 4271,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_03",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_04",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_05",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_06",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_07",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_08",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_09",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_10",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_11",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_13",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_15",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_17",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_FRA_VAL_DE_CHER_18",
+            "yards": 236,
+            "meters": 216
+          }
+        ]
+      }
+    ]
+  }
+}

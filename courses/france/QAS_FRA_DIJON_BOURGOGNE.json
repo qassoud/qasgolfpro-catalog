@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_DIJON_BOURGOGNE",
+    "code": "QAS_FRA_DIJON_BOURGOGNE",
+    "name": "Golf de Dijon-Bourgogne",
+    "city": "Norges-la-Ville",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=596&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_01",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_02",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_03",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_04",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_05",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_06",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_07",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_08",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_09",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_10",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_11",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_12",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_13",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_14",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_15",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_16",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_17",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DIJON_BOURGOGNE_18",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_DIJON_BOURGOGNE_BLACK",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72,
+            "slopeRating": 134,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6597,
+        "totalMeters": 6032,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_03",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_04",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_06",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_09",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_10",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_11",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_13",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_15",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_17",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_18",
+            "yards": 516,
+            "meters": 472
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DIJON_BOURGOGNE_WHITE",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72,
+            "slopeRating": 134,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6597,
+        "totalMeters": 6032,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_03",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_04",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_06",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_09",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_10",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_11",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_13",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_15",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_17",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_18",
+            "yards": 516,
+            "meters": 472
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DIJON_BOURGOGNE_YELLOW",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.5,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 135,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.6,
+            "slopeRating": 137,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6338,
+        "totalMeters": 5796,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_03",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_04",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_05",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_06",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_07",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_09",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_13",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_14",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_17",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_18",
+            "yards": 507,
+            "meters": 464
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DIJON_BOURGOGNE_BLUE",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.2,
+            "slopeRating": 128,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 129,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5610,
+        "totalMeters": 5131,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_01",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_03",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_04",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_05",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_06",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_07",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_09",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_11",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_12",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_13",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_14",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_17",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DIJON_BOURGOGNE_RED",
+        "code": "QAS_FRA_DIJON_BOURGOGNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.3,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.3,
+            "slopeRating": 126,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 128,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5407,
+        "totalMeters": 4945,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_03",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_04",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_05",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_06",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_07",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_09",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_11",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_12",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_13",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_14",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_15",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_16",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_17",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_DIJON_BOURGOGNE_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      }
+    ]
+  }
+}

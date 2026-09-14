@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_ETIENNE_PUBLIC",
+    "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC",
+    "name": "Golf Public de St Etienne",
+    "city": "Saint-Étienne",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ETIENNE_PUBLIC_BLACK",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6101,
+        "totalMeters": 5580,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+            "yards": 533,
+            "meters": 487
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ETIENNE_PUBLIC_WHITE",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6101,
+        "totalMeters": 5580,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+            "yards": 533,
+            "meters": 487
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ETIENNE_PUBLIC_YELLOW",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.2,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5693,
+        "totalMeters": 5209,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+            "yards": 505,
+            "meters": 462
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ETIENNE_PUBLIC_BLUE",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.3,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.3,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.7,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5072,
+        "totalMeters": 4640,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ETIENNE_PUBLIC_RED",
+        "code": "QAS_FRA_SAINT_ETIENNE_PUBLIC_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64.5,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.5,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.1,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4899,
+        "totalMeters": 4481,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_01",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_02",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_03",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_05",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_06",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_07",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_08",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_09",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_10",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_12",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_14",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_15",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_17",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ETIENNE_PUBLIC_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      }
+    ]
+  }
+}

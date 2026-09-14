@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BESANCON",
+    "code": "QAS_FRA_BESANCON",
+    "name": "Golf de Besançon",
+    "city": "Mamirolle",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=391&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_01",
+        "code": "QAS_FRA_BESANCON_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_02",
+        "code": "QAS_FRA_BESANCON_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_03",
+        "code": "QAS_FRA_BESANCON_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_04",
+        "code": "QAS_FRA_BESANCON_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_05",
+        "code": "QAS_FRA_BESANCON_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_06",
+        "code": "QAS_FRA_BESANCON_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_07",
+        "code": "QAS_FRA_BESANCON_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_08",
+        "code": "QAS_FRA_BESANCON_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_09",
+        "code": "QAS_FRA_BESANCON_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_10",
+        "code": "QAS_FRA_BESANCON_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_11",
+        "code": "QAS_FRA_BESANCON_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_12",
+        "code": "QAS_FRA_BESANCON_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_13",
+        "code": "QAS_FRA_BESANCON_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_14",
+        "code": "QAS_FRA_BESANCON_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_15",
+        "code": "QAS_FRA_BESANCON_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_16",
+        "code": "QAS_FRA_BESANCON_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_17",
+        "code": "QAS_FRA_BESANCON_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BESANCON_18",
+        "code": "QAS_FRA_BESANCON_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BESANCON_BLACK",
+        "code": "QAS_FRA_BESANCON_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.5,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6639,
+        "totalMeters": 6070,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BESANCON_01",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_04",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_09",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_11",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_12",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_13",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_14",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_16",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_18",
+            "yards": 549,
+            "meters": 502
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BESANCON_WHITE",
+        "code": "QAS_FRA_BESANCON_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.5,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6639,
+        "totalMeters": 6070,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BESANCON_01",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_04",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_09",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_11",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_12",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_13",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_14",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_16",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_18",
+            "yards": 549,
+            "meters": 502
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BESANCON_YELLOW",
+        "code": "QAS_FRA_BESANCON_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.6,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6241,
+        "totalMeters": 5707,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BESANCON_01",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_02",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_04",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_05",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_06",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_09",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_10",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_11",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_12",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_15",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_16",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BESANCON_BLUE",
+        "code": "QAS_FRA_BESANCON_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.6,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5596,
+        "totalMeters": 5117,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BESANCON_01",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_03",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_05",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_07",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_08",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_11",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_12",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_16",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_17",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_18",
+            "yards": 453,
+            "meters": 414
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BESANCON_RED",
+        "code": "QAS_FRA_BESANCON_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.1,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5265,
+        "totalMeters": 4814,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BESANCON_01",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_02",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_03",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_04",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_06",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_08",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_10",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_13",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_15",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_16",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_17",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_BESANCON_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      }
+    ]
+  }
+}

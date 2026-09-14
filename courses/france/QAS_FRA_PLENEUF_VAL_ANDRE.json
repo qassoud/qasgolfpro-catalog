@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_PLENEUF_VAL_ANDRE",
+    "code": "QAS_FRA_PLENEUF_VAL_ANDRE",
+    "name": "Golf de Pléneuf Val André",
+    "city": "Pléneuf-Val-André",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=351&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_01",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_02",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_03",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_04",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_05",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_06",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_07",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_08",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_09",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_10",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_11",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_12",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_13",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_14",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_15",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_16",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_17",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PLENEUF_VAL_ANDRE_18",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_PLENEUF_VAL_ANDRE_BLACK",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.7,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6539,
+        "totalMeters": 5978,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PLENEUF_VAL_ANDRE_WHITE",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.9,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6405,
+        "totalMeters": 5855,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PLENEUF_VAL_ANDRE_YELLOW",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6013,
+        "totalMeters": 5499,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PLENEUF_VAL_ANDRE_BLUE",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.8,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5485,
+        "totalMeters": 5014,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PLENEUF_VAL_ANDRE_RED",
+        "code": "QAS_FRA_PLENEUF_VAL_ANDRE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.7,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.1,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5014,
+        "totalMeters": 4584,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_02",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_04",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_05",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_06",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_07",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_08",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_10",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_12",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_13",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_15",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_16",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_17",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_PLENEUF_VAL_ANDRE_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      }
+    ]
+  }
+}

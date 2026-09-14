@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BEAUJOLAIS",
+    "code": "QAS_FRA_BEAUJOLAIS",
+    "name": "Golf du Beaujolais",
+    "city": "Lucenay",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_01",
+        "code": "QAS_FRA_BEAUJOLAIS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_02",
+        "code": "QAS_FRA_BEAUJOLAIS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_03",
+        "code": "QAS_FRA_BEAUJOLAIS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_04",
+        "code": "QAS_FRA_BEAUJOLAIS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_05",
+        "code": "QAS_FRA_BEAUJOLAIS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_06",
+        "code": "QAS_FRA_BEAUJOLAIS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_07",
+        "code": "QAS_FRA_BEAUJOLAIS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_08",
+        "code": "QAS_FRA_BEAUJOLAIS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_09",
+        "code": "QAS_FRA_BEAUJOLAIS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_10",
+        "code": "QAS_FRA_BEAUJOLAIS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_11",
+        "code": "QAS_FRA_BEAUJOLAIS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_12",
+        "code": "QAS_FRA_BEAUJOLAIS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_13",
+        "code": "QAS_FRA_BEAUJOLAIS_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_14",
+        "code": "QAS_FRA_BEAUJOLAIS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_15",
+        "code": "QAS_FRA_BEAUJOLAIS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_16",
+        "code": "QAS_FRA_BEAUJOLAIS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_17",
+        "code": "QAS_FRA_BEAUJOLAIS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUJOLAIS_18",
+        "code": "QAS_FRA_BEAUJOLAIS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 1
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BEAUJOLAIS_BLACK",
+        "code": "QAS_FRA_BEAUJOLAIS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.8,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6465,
+        "totalMeters": 5912,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_01",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_02",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_03",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_05",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_06",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_07",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_09",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_11",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_13",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_17",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUJOLAIS_WHITE",
+        "code": "QAS_FRA_BEAUJOLAIS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.8,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6465,
+        "totalMeters": 5912,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_01",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_02",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_03",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_05",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_06",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_07",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_09",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_11",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_13",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_17",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUJOLAIS_YELLOW",
+        "code": "QAS_FRA_BEAUJOLAIS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.6,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6114,
+        "totalMeters": 5591,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_01",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_03",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_07",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_08",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_09",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_10",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_12",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_13",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_14",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_15",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_16",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_17",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_18",
+            "yards": 396,
+            "meters": 362
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUJOLAIS_BLUE",
+        "code": "QAS_FRA_BEAUJOLAIS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5544,
+        "totalMeters": 5072,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_01",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_07",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_08",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_09",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_11",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_12",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_13",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_15",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_16",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_17",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUJOLAIS_RED",
+        "code": "QAS_FRA_BEAUJOLAIS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.8,
+            "slopeRating": 119,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5252,
+        "totalMeters": 4804,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_01",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_05",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_07",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_08",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_09",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_11",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_12",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_13",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_15",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_16",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_17",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUJOLAIS_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      }
+    ]
+  }
+}

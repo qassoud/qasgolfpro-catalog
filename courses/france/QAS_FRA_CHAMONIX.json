@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CHAMONIX",
+    "code": "QAS_FRA_CHAMONIX",
+    "name": "Golf de Chamonix",
+    "city": "Chamonix",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=188&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_01",
+        "code": "QAS_FRA_CHAMONIX_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_02",
+        "code": "QAS_FRA_CHAMONIX_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_03",
+        "code": "QAS_FRA_CHAMONIX_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_04",
+        "code": "QAS_FRA_CHAMONIX_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_05",
+        "code": "QAS_FRA_CHAMONIX_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_06",
+        "code": "QAS_FRA_CHAMONIX_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_07",
+        "code": "QAS_FRA_CHAMONIX_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_08",
+        "code": "QAS_FRA_CHAMONIX_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_09",
+        "code": "QAS_FRA_CHAMONIX_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_10",
+        "code": "QAS_FRA_CHAMONIX_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_11",
+        "code": "QAS_FRA_CHAMONIX_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_12",
+        "code": "QAS_FRA_CHAMONIX_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_13",
+        "code": "QAS_FRA_CHAMONIX_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_14",
+        "code": "QAS_FRA_CHAMONIX_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_15",
+        "code": "QAS_FRA_CHAMONIX_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_16",
+        "code": "QAS_FRA_CHAMONIX_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_17",
+        "code": "QAS_FRA_CHAMONIX_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHAMONIX_18",
+        "code": "QAS_FRA_CHAMONIX_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CHAMONIX_BLACK",
+        "code": "QAS_FRA_CHAMONIX_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.8,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6496,
+        "totalMeters": 5939,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_02",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_05",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_06",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_07",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_13",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_14",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_16",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_18",
+            "yards": 187,
+            "meters": 171
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHAMONIX_WHITE",
+        "code": "QAS_FRA_CHAMONIX_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6255,
+        "totalMeters": 5718,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_02",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_03",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_05",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_06",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_07",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_12",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_13",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_14",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_18",
+            "yards": 176,
+            "meters": 161
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHAMONIX_YELLOW",
+        "code": "QAS_FRA_CHAMONIX_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.3,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5860,
+        "totalMeters": 5358,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_02",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_03",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_05",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_07",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_11",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_12",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_14",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_16",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_17",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_18",
+            "yards": 160,
+            "meters": 146
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHAMONIX_BLUE",
+        "code": "QAS_FRA_CHAMONIX_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5424,
+        "totalMeters": 4959,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_03",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_06",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_07",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_08",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_09",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_11",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_13",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_14",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_15",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_16",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_18",
+            "yards": 119,
+            "meters": 109
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHAMONIX_RED",
+        "code": "QAS_FRA_CHAMONIX_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.4,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.4,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5131,
+        "totalMeters": 4690,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_01",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_02",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_03",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_05",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_06",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_08",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_11",
+            "yards": 72,
+            "meters": 66
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_13",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_14",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_16",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CHAMONIX_18",
+            "yards": 113,
+            "meters": 103
+          }
+        ]
+      }
+    ]
+  }
+}

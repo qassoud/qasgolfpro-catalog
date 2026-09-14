@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LA_SORELLE",
+    "code": "QAS_FRA_LA_SORELLE",
+    "name": "Golf de la Sorelle",
+    "city": "Villette-sur-Ain",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_01",
+        "code": "QAS_FRA_LA_SORELLE_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_02",
+        "code": "QAS_FRA_LA_SORELLE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_03",
+        "code": "QAS_FRA_LA_SORELLE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_04",
+        "code": "QAS_FRA_LA_SORELLE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_05",
+        "code": "QAS_FRA_LA_SORELLE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_06",
+        "code": "QAS_FRA_LA_SORELLE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_07",
+        "code": "QAS_FRA_LA_SORELLE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_08",
+        "code": "QAS_FRA_LA_SORELLE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_09",
+        "code": "QAS_FRA_LA_SORELLE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_10",
+        "code": "QAS_FRA_LA_SORELLE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_11",
+        "code": "QAS_FRA_LA_SORELLE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_12",
+        "code": "QAS_FRA_LA_SORELLE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_13",
+        "code": "QAS_FRA_LA_SORELLE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_14",
+        "code": "QAS_FRA_LA_SORELLE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_15",
+        "code": "QAS_FRA_LA_SORELLE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_16",
+        "code": "QAS_FRA_LA_SORELLE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_17",
+        "code": "QAS_FRA_LA_SORELLE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_SORELLE_18",
+        "code": "QAS_FRA_LA_SORELLE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LA_SORELLE_BLACK",
+        "code": "QAS_FRA_LA_SORELLE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6318,
+        "totalMeters": 5777,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_01",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_03",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_09",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_10",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_16",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_17",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_18",
+            "yards": 250,
+            "meters": 229
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_SORELLE_WHITE",
+        "code": "QAS_FRA_LA_SORELLE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6318,
+        "totalMeters": 5777,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_01",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_03",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_09",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_10",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_16",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_17",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_18",
+            "yards": 250,
+            "meters": 229
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_SORELLE_YELLOW",
+        "code": "QAS_FRA_LA_SORELLE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.5,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.5,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5906,
+        "totalMeters": 5400,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_01",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_03",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_06",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_08",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_09",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_11",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_14",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_16",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_17",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_18",
+            "yards": 242,
+            "meters": 221
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_SORELLE_BLUE",
+        "code": "QAS_FRA_LA_SORELLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.3,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.3,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5423,
+        "totalMeters": 4961,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_01",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_02",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_04",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_05",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_06",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_08",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_09",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_11",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_13",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_16",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_17",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_18",
+            "yards": 234,
+            "meters": 214
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_SORELLE_RED",
+        "code": "QAS_FRA_LA_SORELLE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64.3,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.3,
+            "slopeRating": 115,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4986,
+        "totalMeters": 4559,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_01",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_04",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_06",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_08",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_11",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_12",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_13",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_14",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_16",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_17",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_LA_SORELLE_18",
+            "yards": 225,
+            "meters": 206
+          }
+        ]
+      }
+    ]
+  }
+}

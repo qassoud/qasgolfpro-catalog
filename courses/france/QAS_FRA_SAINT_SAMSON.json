@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_SAMSON",
+    "code": "QAS_FRA_SAINT_SAMSON",
+    "name": "Golf de Saint Samson",
+    "city": "Pleumeur-Bodou",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=352&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_01",
+        "code": "QAS_FRA_SAINT_SAMSON_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_02",
+        "code": "QAS_FRA_SAINT_SAMSON_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_03",
+        "code": "QAS_FRA_SAINT_SAMSON_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_04",
+        "code": "QAS_FRA_SAINT_SAMSON_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_05",
+        "code": "QAS_FRA_SAINT_SAMSON_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_06",
+        "code": "QAS_FRA_SAINT_SAMSON_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_07",
+        "code": "QAS_FRA_SAINT_SAMSON_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_08",
+        "code": "QAS_FRA_SAINT_SAMSON_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_09",
+        "code": "QAS_FRA_SAINT_SAMSON_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_10",
+        "code": "QAS_FRA_SAINT_SAMSON_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_11",
+        "code": "QAS_FRA_SAINT_SAMSON_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_12",
+        "code": "QAS_FRA_SAINT_SAMSON_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_13",
+        "code": "QAS_FRA_SAINT_SAMSON_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_14",
+        "code": "QAS_FRA_SAINT_SAMSON_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_15",
+        "code": "QAS_FRA_SAINT_SAMSON_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_16",
+        "code": "QAS_FRA_SAINT_SAMSON_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_17",
+        "code": "QAS_FRA_SAINT_SAMSON_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_SAMSON_18",
+        "code": "QAS_FRA_SAINT_SAMSON_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_SAMSON_BLACK",
+        "code": "QAS_FRA_SAINT_SAMSON_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 144,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6305,
+        "totalMeters": 5764,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_02",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_03",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_04",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_09",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_11",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_12",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_13",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_17",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_SAMSON_WHITE",
+        "code": "QAS_FRA_SAINT_SAMSON_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 144,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6305,
+        "totalMeters": 5764,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_02",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_03",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_04",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_09",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_11",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_12",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_13",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_17",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_SAMSON_YELLOW",
+        "code": "QAS_FRA_SAINT_SAMSON_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.9,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5970,
+        "totalMeters": 5461,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_03",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_04",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_05",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_07",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_09",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_11",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_12",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_17",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_SAMSON_BLUE",
+        "code": "QAS_FRA_SAINT_SAMSON_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5501,
+        "totalMeters": 5028,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_01",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_03",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_09",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_12",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_13",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_18",
+            "yards": 294,
+            "meters": 269
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_SAMSON_RED",
+        "code": "QAS_FRA_SAINT_SAMSON_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.9,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5322,
+        "totalMeters": 4866,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_01",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_02",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_03",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_04",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_05",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_09",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_12",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_13",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_15",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_SAMSON_18",
+            "yards": 294,
+            "meters": 269
+          }
+        ]
+      }
+    ]
+  }
+}

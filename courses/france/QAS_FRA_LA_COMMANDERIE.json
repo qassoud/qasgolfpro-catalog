@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LA_COMMANDERIE",
+    "code": "QAS_FRA_LA_COMMANDERIE",
+    "name": "Golf de la Commanderie",
+    "city": "Crottet",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_01",
+        "code": "QAS_FRA_LA_COMMANDERIE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_02",
+        "code": "QAS_FRA_LA_COMMANDERIE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_03",
+        "code": "QAS_FRA_LA_COMMANDERIE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_04",
+        "code": "QAS_FRA_LA_COMMANDERIE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_05",
+        "code": "QAS_FRA_LA_COMMANDERIE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_06",
+        "code": "QAS_FRA_LA_COMMANDERIE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_07",
+        "code": "QAS_FRA_LA_COMMANDERIE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_08",
+        "code": "QAS_FRA_LA_COMMANDERIE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_09",
+        "code": "QAS_FRA_LA_COMMANDERIE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_10",
+        "code": "QAS_FRA_LA_COMMANDERIE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_11",
+        "code": "QAS_FRA_LA_COMMANDERIE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_12",
+        "code": "QAS_FRA_LA_COMMANDERIE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_13",
+        "code": "QAS_FRA_LA_COMMANDERIE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_14",
+        "code": "QAS_FRA_LA_COMMANDERIE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_15",
+        "code": "QAS_FRA_LA_COMMANDERIE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_16",
+        "code": "QAS_FRA_LA_COMMANDERIE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_17",
+        "code": "QAS_FRA_LA_COMMANDERIE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_COMMANDERIE_18",
+        "code": "QAS_FRA_LA_COMMANDERIE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LA_COMMANDERIE_BLACK",
+        "code": "QAS_FRA_LA_COMMANDERIE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.7,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.6,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6280,
+        "totalMeters": 5743,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_04",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_05",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_08",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_13",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_14",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_16",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_17",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_COMMANDERIE_WHITE",
+        "code": "QAS_FRA_LA_COMMANDERIE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.7,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.6,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6280,
+        "totalMeters": 5743,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_04",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_05",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_08",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_13",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_14",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_16",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_17",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_COMMANDERIE_YELLOW",
+        "code": "QAS_FRA_LA_COMMANDERIE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5905,
+        "totalMeters": 5400,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_02",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_04",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_05",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_07",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_08",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_11",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_13",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_15",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_16",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_COMMANDERIE_BLUE",
+        "code": "QAS_FRA_LA_COMMANDERIE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.2,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.2,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5354,
+        "totalMeters": 4898,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_03",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_04",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_05",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_08",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_11",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_12",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_14",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_15",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_17",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_18",
+            "yards": 281,
+            "meters": 257
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_COMMANDERIE_RED",
+        "code": "QAS_FRA_LA_COMMANDERIE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5211,
+        "totalMeters": 4766,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_02",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_04",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_05",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_08",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_09",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_11",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_12",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_13",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_14",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_15",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_16",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_17",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_LA_COMMANDERIE_18",
+            "yards": 281,
+            "meters": 257
+          }
+        ]
+      }
+    ]
+  }
+}

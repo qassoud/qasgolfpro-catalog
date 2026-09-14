@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_QUETIGNY_GRAND_DIJON",
+    "code": "QAS_FRA_QUETIGNY_GRAND_DIJON",
+    "name": "Golf Bluegreen Quetigny Grand Dijon",
+    "city": "Quetigny",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 9
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_QUETIGNY_GRAND_DIJON_BLACK",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 69.6,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 129,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.7,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6135,
+        "totalMeters": 5608,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+            "yards": 523,
+            "meters": 478
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_QUETIGNY_GRAND_DIJON_WHITE",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.6,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 129,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.7,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6135,
+        "totalMeters": 5608,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+            "yards": 523,
+            "meters": 478
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_QUETIGNY_GRAND_DIJON_YELLOW",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.6,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 132,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5749,
+        "totalMeters": 5256,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+            "yards": 478,
+            "meters": 437
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_QUETIGNY_GRAND_DIJON_BLUE",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.3,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.3,
+            "slopeRating": 121,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5243,
+        "totalMeters": 4793,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+            "yards": 440,
+            "meters": 402
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_QUETIGNY_GRAND_DIJON_RED",
+        "code": "QAS_FRA_QUETIGNY_GRAND_DIJON_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64.4,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.4,
+            "slopeRating": 120,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.3,
+            "slopeRating": 121,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5064,
+        "totalMeters": 4629,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_01",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_03",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_04",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_05",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_07",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_12",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_14",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_15",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_16",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_17",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_QUETIGNY_GRAND_DIJON_18",
+            "yards": 440,
+            "meters": 402
+          }
+        ]
+      }
+    ]
+  }
+}

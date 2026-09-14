@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BRIVE_PLANCHETORTE",
+    "code": "QAS_FRA_BRIVE_PLANCHETORTE",
+    "name": "Golf de Brive Planchetorte",
+    "city": "Brive-la-Gaillarde",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_01",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_02",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_03",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_04",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_05",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_06",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_07",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_08",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_09",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_10",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_11",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_12",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_13",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_14",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_15",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_16",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_17",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BRIVE_PLANCHETORTE_18",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BRIVE_PLANCHETORTE_BLACK",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.8,
+        "slope": 149,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 149,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.8,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6579,
+        "totalMeters": 6015,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+            "yards": 639,
+            "meters": 584
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+            "yards": 182,
+            "meters": 166
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BRIVE_PLANCHETORTE_WHITE",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.9,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.8,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6317,
+        "totalMeters": 5779,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+            "yards": 167,
+            "meters": 153
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BRIVE_PLANCHETORTE_YELLOW",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.5,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.0,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5821,
+        "totalMeters": 5323,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+            "yards": 155,
+            "meters": 142
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BRIVE_PLANCHETORTE_BLUE",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5416,
+        "totalMeters": 4952,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+            "yards": 139,
+            "meters": 127
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BRIVE_PLANCHETORTE_RED",
+        "code": "QAS_FRA_BRIVE_PLANCHETORTE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.1,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.1,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4843,
+        "totalMeters": 4430,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_01",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_02",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_05",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_06",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_07",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_08",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_10",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_11",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_14",
+            "yards": 79,
+            "meters": 72
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_15",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_17",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_BRIVE_PLANCHETORTE_18",
+            "yards": 109,
+            "meters": 100
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_GRENOBLE_INTERNATIONAL",
+    "code": "QAS_FRA_GRENOBLE_INTERNATIONAL",
+    "name": "Golf International de Grenoble",
+    "city": "Bresson",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_GRENOBLE_INTERNATIONAL_BLACK",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73,
+            "slopeRating": 139,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 143,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6758,
+        "totalMeters": 6179,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+            "yards": 479,
+            "meters": 438
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GRENOBLE_INTERNATIONAL_WHITE",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 131,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 143,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6340,
+        "totalMeters": 5796,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GRENOBLE_INTERNATIONAL_YELLOW",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.5,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 128,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 140,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6027,
+        "totalMeters": 5510,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GRENOBLE_INTERNATIONAL_BLUE",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.7,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.7,
+            "slopeRating": 124,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 135,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5623,
+        "totalMeters": 5143,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GRENOBLE_INTERNATIONAL_RED",
+        "code": "QAS_FRA_GRENOBLE_INTERNATIONAL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.3,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.3,
+            "slopeRating": 119,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.1,
+            "slopeRating": 126,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5113,
+        "totalMeters": 4677,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_03",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_05",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_06",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_08",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_09",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_10",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_14",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_15",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_16",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_17",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_GRENOBLE_INTERNATIONAL_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      }
+    ]
+  }
+}

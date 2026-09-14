@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MERIBEL",
+    "code": "QAS_FRA_MERIBEL",
+    "name": "Golf Club Méribel",
+    "city": "Méribel-les-Allues",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_01",
+        "code": "QAS_FRA_MERIBEL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_02",
+        "code": "QAS_FRA_MERIBEL_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_03",
+        "code": "QAS_FRA_MERIBEL_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_04",
+        "code": "QAS_FRA_MERIBEL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_05",
+        "code": "QAS_FRA_MERIBEL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_06",
+        "code": "QAS_FRA_MERIBEL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_07",
+        "code": "QAS_FRA_MERIBEL_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_08",
+        "code": "QAS_FRA_MERIBEL_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_09",
+        "code": "QAS_FRA_MERIBEL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_10",
+        "code": "QAS_FRA_MERIBEL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_11",
+        "code": "QAS_FRA_MERIBEL_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_12",
+        "code": "QAS_FRA_MERIBEL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_13",
+        "code": "QAS_FRA_MERIBEL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_14",
+        "code": "QAS_FRA_MERIBEL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_15",
+        "code": "QAS_FRA_MERIBEL_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_16",
+        "code": "QAS_FRA_MERIBEL_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_17",
+        "code": "QAS_FRA_MERIBEL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MERIBEL_18",
+        "code": "QAS_FRA_MERIBEL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MERIBEL_BLACK",
+        "code": "QAS_FRA_MERIBEL_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 69.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.9,
+            "slopeRating": 138,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6057,
+        "totalMeters": 5540,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MERIBEL_01",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_03",
+            "yards": 608,
+            "meters": 556
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_06",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_08",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_10",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_11",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_16",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_17",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MERIBEL_WHITE",
+        "code": "QAS_FRA_MERIBEL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.9,
+            "slopeRating": 138,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6057,
+        "totalMeters": 5540,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MERIBEL_01",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_03",
+            "yards": 608,
+            "meters": 556
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_06",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_08",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_10",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_11",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_16",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_17",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MERIBEL_YELLOW",
+        "code": "QAS_FRA_MERIBEL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.3,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 125,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.9,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5696,
+        "totalMeters": 5209,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MERIBEL_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_03",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_04",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_05",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_08",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_10",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_11",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_12",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_15",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_16",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_17",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_18",
+            "yards": 314,
+            "meters": 287
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MERIBEL_BLUE",
+        "code": "QAS_FRA_MERIBEL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.1,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 121,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5210,
+        "totalMeters": 4764,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MERIBEL_01",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_03",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_04",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_05",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_06",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_08",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_10",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_11",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_12",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_13",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_15",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_16",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_17",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MERIBEL_RED",
+        "code": "QAS_FRA_MERIBEL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65,
+            "slopeRating": 119,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.5,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4964,
+        "totalMeters": 4539,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MERIBEL_01",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_03",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_04",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_05",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_06",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_07",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_08",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_10",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_11",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_12",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_13",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_15",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_16",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_17",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_MERIBEL_18",
+            "yards": 252,
+            "meters": 230
+          }
+        ]
+      }
+    ]
+  }
+}

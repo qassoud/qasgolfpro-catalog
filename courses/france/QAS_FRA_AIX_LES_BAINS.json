@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_AIX_LES_BAINS",
+    "code": "QAS_FRA_AIX_LES_BAINS",
+    "name": "Golf d'Aix les Bains",
+    "city": "Aix-les-Bains",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_01",
+        "code": "QAS_FRA_AIX_LES_BAINS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_02",
+        "code": "QAS_FRA_AIX_LES_BAINS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_03",
+        "code": "QAS_FRA_AIX_LES_BAINS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_04",
+        "code": "QAS_FRA_AIX_LES_BAINS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_05",
+        "code": "QAS_FRA_AIX_LES_BAINS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_06",
+        "code": "QAS_FRA_AIX_LES_BAINS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_07",
+        "code": "QAS_FRA_AIX_LES_BAINS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_08",
+        "code": "QAS_FRA_AIX_LES_BAINS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_09",
+        "code": "QAS_FRA_AIX_LES_BAINS_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_10",
+        "code": "QAS_FRA_AIX_LES_BAINS_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_11",
+        "code": "QAS_FRA_AIX_LES_BAINS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_12",
+        "code": "QAS_FRA_AIX_LES_BAINS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_13",
+        "code": "QAS_FRA_AIX_LES_BAINS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_14",
+        "code": "QAS_FRA_AIX_LES_BAINS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_15",
+        "code": "QAS_FRA_AIX_LES_BAINS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_16",
+        "code": "QAS_FRA_AIX_LES_BAINS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_17",
+        "code": "QAS_FRA_AIX_LES_BAINS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AIX_LES_BAINS_18",
+        "code": "QAS_FRA_AIX_LES_BAINS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_AIX_LES_BAINS_BLACK",
+        "code": "QAS_FRA_AIX_LES_BAINS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 69.3,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 125,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 136,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5939,
+        "totalMeters": 5431,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_02",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_06",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_07",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_08",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_09",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_10",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_15",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_16",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_17",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_18",
+            "yards": 329,
+            "meters": 301
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AIX_LES_BAINS_WHITE",
+        "code": "QAS_FRA_AIX_LES_BAINS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.3,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 125,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 136,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5939,
+        "totalMeters": 5431,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_02",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_06",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_07",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_08",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_09",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_10",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_15",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_16",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_17",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_18",
+            "yards": 329,
+            "meters": 301
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AIX_LES_BAINS_YELLOW",
+        "code": "QAS_FRA_AIX_LES_BAINS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.3,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 124,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 133,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5739,
+        "totalMeters": 5249,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_02",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_03",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_04",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_05",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_06",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_07",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_08",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_09",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_10",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_11",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_12",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_13",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_16",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_17",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AIX_LES_BAINS_BLUE",
+        "code": "QAS_FRA_AIX_LES_BAINS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66,
+            "slopeRating": 119,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5221,
+        "totalMeters": 4775,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_02",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_03",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_05",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_06",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_08",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_09",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_10",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_11",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_12",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_13",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_14",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_15",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_16",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_17",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_18",
+            "yards": 311,
+            "meters": 284
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AIX_LES_BAINS_RED",
+        "code": "QAS_FRA_AIX_LES_BAINS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.1,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.1,
+            "slopeRating": 117,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.4,
+            "slopeRating": 120,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5017,
+        "totalMeters": 4586,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_02",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_06",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_07",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_08",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_09",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_10",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_11",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_12",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_13",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_14",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_15",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_16",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_17",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_AIX_LES_BAINS_18",
+            "yards": 301,
+            "meters": 275
+          }
+        ]
+      }
+    ]
+  }
+}

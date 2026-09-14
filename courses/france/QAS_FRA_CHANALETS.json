@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CHANALETS",
+    "code": "QAS_FRA_CHANALETS",
+    "name": "Golf des Chanalets",
+    "city": "Bourg-lès-Valence",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_01",
+        "code": "QAS_FRA_CHANALETS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_02",
+        "code": "QAS_FRA_CHANALETS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_03",
+        "code": "QAS_FRA_CHANALETS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_04",
+        "code": "QAS_FRA_CHANALETS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_05",
+        "code": "QAS_FRA_CHANALETS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_06",
+        "code": "QAS_FRA_CHANALETS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_07",
+        "code": "QAS_FRA_CHANALETS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_08",
+        "code": "QAS_FRA_CHANALETS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_09",
+        "code": "QAS_FRA_CHANALETS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_10",
+        "code": "QAS_FRA_CHANALETS_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_11",
+        "code": "QAS_FRA_CHANALETS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_12",
+        "code": "QAS_FRA_CHANALETS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_13",
+        "code": "QAS_FRA_CHANALETS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_14",
+        "code": "QAS_FRA_CHANALETS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_15",
+        "code": "QAS_FRA_CHANALETS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_16",
+        "code": "QAS_FRA_CHANALETS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_17",
+        "code": "QAS_FRA_CHANALETS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANALETS_18",
+        "code": "QAS_FRA_CHANALETS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CHANALETS_BLACK",
+        "code": "QAS_FRA_CHANALETS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6408,
+        "totalMeters": 5859,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANALETS_01",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_02",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_05",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_08",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_10",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_12",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_13",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_14",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_15",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANALETS_WHITE",
+        "code": "QAS_FRA_CHANALETS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6408,
+        "totalMeters": 5859,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANALETS_01",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_02",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_05",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_08",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_10",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_12",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_13",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_14",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_15",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANALETS_YELLOW",
+        "code": "QAS_FRA_CHANALETS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.9,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 123,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6072,
+        "totalMeters": 5551,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANALETS_01",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_02",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_06",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_07",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_08",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_09",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_10",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_11",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_13",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_14",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_16",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANALETS_BLUE",
+        "code": "QAS_FRA_CHANALETS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68,
+            "slopeRating": 120,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5650,
+        "totalMeters": 5164,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANALETS_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_02",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_06",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_08",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_09",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_10",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_11",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_13",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_14",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_16",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_17",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANALETS_RED",
+        "code": "QAS_FRA_CHANALETS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.5,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.5,
+            "slopeRating": 117,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 122,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5333,
+        "totalMeters": 4876,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANALETS_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_02",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_03",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_04",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_05",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_06",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_07",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_08",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_09",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_10",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_12",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_14",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_15",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_16",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_17",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_CHANALETS_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      }
+    ]
+  }
+}

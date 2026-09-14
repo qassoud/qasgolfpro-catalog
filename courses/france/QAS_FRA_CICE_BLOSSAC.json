@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CICE_BLOSSAC",
+    "code": "QAS_FRA_CICE_BLOSSAC",
+    "name": "Golf de Cicé-Blossac",
+    "city": "Bruz",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=364&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_01",
+        "code": "QAS_FRA_CICE_BLOSSAC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_02",
+        "code": "QAS_FRA_CICE_BLOSSAC_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_03",
+        "code": "QAS_FRA_CICE_BLOSSAC_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_04",
+        "code": "QAS_FRA_CICE_BLOSSAC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_05",
+        "code": "QAS_FRA_CICE_BLOSSAC_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_06",
+        "code": "QAS_FRA_CICE_BLOSSAC_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_07",
+        "code": "QAS_FRA_CICE_BLOSSAC_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_08",
+        "code": "QAS_FRA_CICE_BLOSSAC_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_09",
+        "code": "QAS_FRA_CICE_BLOSSAC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_10",
+        "code": "QAS_FRA_CICE_BLOSSAC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_11",
+        "code": "QAS_FRA_CICE_BLOSSAC_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_12",
+        "code": "QAS_FRA_CICE_BLOSSAC_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_13",
+        "code": "QAS_FRA_CICE_BLOSSAC_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_14",
+        "code": "QAS_FRA_CICE_BLOSSAC_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_15",
+        "code": "QAS_FRA_CICE_BLOSSAC_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_16",
+        "code": "QAS_FRA_CICE_BLOSSAC_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_17",
+        "code": "QAS_FRA_CICE_BLOSSAC_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CICE_BLOSSAC_18",
+        "code": "QAS_FRA_CICE_BLOSSAC_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CICE_BLOSSAC_BLACK",
+        "code": "QAS_FRA_CICE_BLOSSAC_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.6,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6703,
+        "totalMeters": 6127,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_02",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_06",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_07",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_08",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_10",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_11",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_12",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_13",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_14",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_16",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CICE_BLOSSAC_WHITE",
+        "code": "QAS_FRA_CICE_BLOSSAC_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.2,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6642,
+        "totalMeters": 6072,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_02",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_06",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_07",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_08",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_10",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_12",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_13",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_14",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_16",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CICE_BLOSSAC_YELLOW",
+        "code": "QAS_FRA_CICE_BLOSSAC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.2,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.1,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6178,
+        "totalMeters": 5649,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_02",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_03",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_06",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_07",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_12",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_13",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_16",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_17",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CICE_BLOSSAC_BLUE",
+        "code": "QAS_FRA_CICE_BLOSSAC_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.3,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5550,
+        "totalMeters": 5075,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_02",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_04",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_06",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_07",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_08",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_09",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_10",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_12",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_16",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_17",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CICE_BLOSSAC_RED",
+        "code": "QAS_FRA_CICE_BLOSSAC_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5214,
+        "totalMeters": 4767,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_01",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_02",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_03",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_05",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_06",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_07",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_08",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_10",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_11",
+            "yards": 79,
+            "meters": 72
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_12",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_13",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_16",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_17",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_CICE_BLOSSAC_18",
+            "yards": 288,
+            "meters": 263
+          }
+        ]
+      }
+    ]
+  }
+}

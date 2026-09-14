@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CORNOUAILLE",
+    "code": "QAS_FRA_CORNOUAILLE",
+    "name": "Golf de Cornouaille",
+    "city": "La Forêt-Fouesnant",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=358&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_01",
+        "code": "QAS_FRA_CORNOUAILLE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_02",
+        "code": "QAS_FRA_CORNOUAILLE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_03",
+        "code": "QAS_FRA_CORNOUAILLE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_04",
+        "code": "QAS_FRA_CORNOUAILLE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_05",
+        "code": "QAS_FRA_CORNOUAILLE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_06",
+        "code": "QAS_FRA_CORNOUAILLE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_07",
+        "code": "QAS_FRA_CORNOUAILLE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_08",
+        "code": "QAS_FRA_CORNOUAILLE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_09",
+        "code": "QAS_FRA_CORNOUAILLE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_10",
+        "code": "QAS_FRA_CORNOUAILLE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_11",
+        "code": "QAS_FRA_CORNOUAILLE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_12",
+        "code": "QAS_FRA_CORNOUAILLE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_13",
+        "code": "QAS_FRA_CORNOUAILLE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_14",
+        "code": "QAS_FRA_CORNOUAILLE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_15",
+        "code": "QAS_FRA_CORNOUAILLE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_16",
+        "code": "QAS_FRA_CORNOUAILLE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_17",
+        "code": "QAS_FRA_CORNOUAILLE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CORNOUAILLE_18",
+        "code": "QAS_FRA_CORNOUAILLE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 9
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CORNOUAILLE_BLACK",
+        "code": "QAS_FRA_CORNOUAILLE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 131,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.4,
+            "slopeRating": 141,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6221,
+        "totalMeters": 5688,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_04",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_07",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_09",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_10",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_11",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_13",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_14",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_16",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_18",
+            "yards": 313,
+            "meters": 286
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CORNOUAILLE_WHITE",
+        "code": "QAS_FRA_CORNOUAILLE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 131,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.4,
+            "slopeRating": 141,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6221,
+        "totalMeters": 5688,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_04",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_07",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_09",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_10",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_11",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_13",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_14",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_16",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_18",
+            "yards": 313,
+            "meters": 286
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CORNOUAILLE_YELLOW",
+        "code": "QAS_FRA_CORNOUAILLE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 124,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76,
+            "slopeRating": 138,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5969,
+        "totalMeters": 5461,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_01",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_04",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_07",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_08",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_10",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_11",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_13",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_16",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_17",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CORNOUAILLE_BLUE",
+        "code": "QAS_FRA_CORNOUAILLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.5,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.5,
+            "slopeRating": 121,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5607,
+        "totalMeters": 5128,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_04",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_06",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_08",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_09",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_10",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_11",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_12",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_13",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_15",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_16",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_18",
+            "yards": 292,
+            "meters": 267
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CORNOUAILLE_RED",
+        "code": "QAS_FRA_CORNOUAILLE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.9,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 118,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.2,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5246,
+        "totalMeters": 4798,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_04",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_05",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_06",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_08",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_09",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_10",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_11",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_13",
+            "yards": 238,
+            "meters": 218
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_15",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_17",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_CORNOUAILLE_18",
+            "yards": 249,
+            "meters": 228
+          }
+        ]
+      }
+    ]
+  }
+}

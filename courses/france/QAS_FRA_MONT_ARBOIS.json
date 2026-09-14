@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MONT_ARBOIS",
+    "code": "QAS_FRA_MONT_ARBOIS",
+    "name": "Golf Club du Mont d'Arbois",
+    "city": "Megève",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=404&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_01",
+        "code": "QAS_FRA_MONT_ARBOIS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_02",
+        "code": "QAS_FRA_MONT_ARBOIS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_03",
+        "code": "QAS_FRA_MONT_ARBOIS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_04",
+        "code": "QAS_FRA_MONT_ARBOIS_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_05",
+        "code": "QAS_FRA_MONT_ARBOIS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_06",
+        "code": "QAS_FRA_MONT_ARBOIS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_07",
+        "code": "QAS_FRA_MONT_ARBOIS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_08",
+        "code": "QAS_FRA_MONT_ARBOIS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_09",
+        "code": "QAS_FRA_MONT_ARBOIS_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_10",
+        "code": "QAS_FRA_MONT_ARBOIS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_11",
+        "code": "QAS_FRA_MONT_ARBOIS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_12",
+        "code": "QAS_FRA_MONT_ARBOIS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_13",
+        "code": "QAS_FRA_MONT_ARBOIS_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_14",
+        "code": "QAS_FRA_MONT_ARBOIS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_15",
+        "code": "QAS_FRA_MONT_ARBOIS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_16",
+        "code": "QAS_FRA_MONT_ARBOIS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_17",
+        "code": "QAS_FRA_MONT_ARBOIS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONT_ARBOIS_18",
+        "code": "QAS_FRA_MONT_ARBOIS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 9
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MONT_ARBOIS_BLACK",
+        "code": "QAS_FRA_MONT_ARBOIS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6623,
+        "totalMeters": 6056,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_01",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_02",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_05",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_07",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_08",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_09",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_13",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_15",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_17",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONT_ARBOIS_WHITE",
+        "code": "QAS_FRA_MONT_ARBOIS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6607,
+        "totalMeters": 6041,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_01",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_02",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_05",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_07",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_08",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_09",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_13",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_15",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_17",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONT_ARBOIS_YELLOW",
+        "code": "QAS_FRA_MONT_ARBOIS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.9,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6279,
+        "totalMeters": 5741,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_01",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_02",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_05",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_07",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_08",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_09",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_13",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_15",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_16",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_17",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONT_ARBOIS_BLUE",
+        "code": "QAS_FRA_MONT_ARBOIS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.1,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5637,
+        "totalMeters": 5153,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_01",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_06",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_07",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_08",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_09",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_10",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_13",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_17",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONT_ARBOIS_RED",
+        "code": "QAS_FRA_MONT_ARBOIS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.6,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5537,
+        "totalMeters": 5061,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_01",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_06",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_07",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_08",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_09",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_10",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_13",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_14",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_17",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_MONT_ARBOIS_18",
+            "yards": 367,
+            "meters": 336
+          }
+        ]
+      }
+    ]
+  }
+}

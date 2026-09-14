@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LYON_CHASSIEU",
+    "code": "QAS_FRA_LYON_CHASSIEU",
+    "name": "Golf de Lyon Chassieu",
+    "city": "Chassieu",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_01",
+        "code": "QAS_FRA_LYON_CHASSIEU_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_02",
+        "code": "QAS_FRA_LYON_CHASSIEU_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_03",
+        "code": "QAS_FRA_LYON_CHASSIEU_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_04",
+        "code": "QAS_FRA_LYON_CHASSIEU_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_05",
+        "code": "QAS_FRA_LYON_CHASSIEU_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_06",
+        "code": "QAS_FRA_LYON_CHASSIEU_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_07",
+        "code": "QAS_FRA_LYON_CHASSIEU_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_08",
+        "code": "QAS_FRA_LYON_CHASSIEU_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_09",
+        "code": "QAS_FRA_LYON_CHASSIEU_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_10",
+        "code": "QAS_FRA_LYON_CHASSIEU_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_11",
+        "code": "QAS_FRA_LYON_CHASSIEU_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_12",
+        "code": "QAS_FRA_LYON_CHASSIEU_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_13",
+        "code": "QAS_FRA_LYON_CHASSIEU_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_14",
+        "code": "QAS_FRA_LYON_CHASSIEU_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_15",
+        "code": "QAS_FRA_LYON_CHASSIEU_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_16",
+        "code": "QAS_FRA_LYON_CHASSIEU_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_17",
+        "code": "QAS_FRA_LYON_CHASSIEU_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_CHASSIEU_18",
+        "code": "QAS_FRA_LYON_CHASSIEU_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LYON_CHASSIEU_BLACK",
+        "code": "QAS_FRA_LYON_CHASSIEU_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.3,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 128,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6463,
+        "totalMeters": 5910,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_03",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_07",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_09",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_13",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_14",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_15",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_CHASSIEU_WHITE",
+        "code": "QAS_FRA_LYON_CHASSIEU_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.3,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 128,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6463,
+        "totalMeters": 5910,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_03",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_07",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_09",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_13",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_14",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_15",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_CHASSIEU_YELLOW",
+        "code": "QAS_FRA_LYON_CHASSIEU_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 66.6,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.6,
+            "slopeRating": 118,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5699,
+        "totalMeters": 5213,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_02",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_03",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_05",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_08",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_09",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_11",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_15",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_17",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_18",
+            "yards": 342,
+            "meters": 313
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_CHASSIEU_BLUE",
+        "code": "QAS_FRA_LYON_CHASSIEU_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.9,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.9,
+            "slopeRating": 117,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 124,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5521,
+        "totalMeters": 5047,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_02",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_06",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_07",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_08",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_10",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_11",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_12",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_13",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_14",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_17",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_CHASSIEU_RED",
+        "code": "QAS_FRA_LYON_CHASSIEU_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 62.7,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.7,
+            "slopeRating": 111,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.2,
+            "slopeRating": 115,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4836,
+        "totalMeters": 4422,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_01",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_02",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_03",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_05",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_08",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_09",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_10",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_11",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_13",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_15",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_17",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_CHASSIEU_18",
+            "yards": 283,
+            "meters": 259
+          }
+        ]
+      }
+    ]
+  }
+}

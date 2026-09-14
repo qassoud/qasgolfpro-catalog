@@ -1,0 +1,709 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_DINARD",
+    "code": "QAS_FRA_DINARD",
+    "name": "Dinard Golf",
+    "city": "Saint-Briac-sur-Mer",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 68,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=93&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_01",
+        "code": "QAS_FRA_DINARD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_02",
+        "code": "QAS_FRA_DINARD_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_03",
+        "code": "QAS_FRA_DINARD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_04",
+        "code": "QAS_FRA_DINARD_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_05",
+        "code": "QAS_FRA_DINARD_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_06",
+        "code": "QAS_FRA_DINARD_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_07",
+        "code": "QAS_FRA_DINARD_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_08",
+        "code": "QAS_FRA_DINARD_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_09",
+        "code": "QAS_FRA_DINARD_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_10",
+        "code": "QAS_FRA_DINARD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_11",
+        "code": "QAS_FRA_DINARD_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_12",
+        "code": "QAS_FRA_DINARD_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_13",
+        "code": "QAS_FRA_DINARD_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_14",
+        "code": "QAS_FRA_DINARD_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_15",
+        "code": "QAS_FRA_DINARD_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_16",
+        "code": "QAS_FRA_DINARD_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_17",
+        "code": "QAS_FRA_DINARD_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DINARD_18",
+        "code": "QAS_FRA_DINARD_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_DINARD_BLACK",
+        "code": "QAS_FRA_DINARD_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5812,
+        "totalMeters": 5313,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DINARD_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_02",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_05",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_07",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_09",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_16",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_17",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DINARD_WHITE",
+        "code": "QAS_FRA_DINARD_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68,
+            "slopeRating": 123,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 5812,
+        "totalMeters": 5313,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DINARD_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_02",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_05",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_07",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_09",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_16",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_17",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DINARD_YELLOW",
+        "code": "QAS_FRA_DINARD_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67,
+            "slopeRating": 119,
+            "ratingPar": 68
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72,
+            "slopeRating": 124,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 5490,
+        "totalMeters": 5020,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DINARD_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_02",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_04",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_07",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_08",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_09",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_11",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_12",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_13",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_17",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DINARD_BLUE",
+        "code": "QAS_FRA_DINARD_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65,
+            "slopeRating": 116,
+            "ratingPar": 68
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70,
+            "slopeRating": 121,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 5189,
+        "totalMeters": 4745,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DINARD_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_02",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_04",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_06",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_07",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_08",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_09",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_11",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_12",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_14",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_15",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_17",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DINARD_RED",
+        "code": "QAS_FRA_DINARD_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64,
+            "slopeRating": 114,
+            "ratingPar": 68
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69,
+            "slopeRating": 117,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 4929,
+        "totalMeters": 4507,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DINARD_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_02",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_04",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_06",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_07",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_08",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_09",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_10",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_11",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_12",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_14",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_15",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_17",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_DINARD_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      }
+    ]
+  }
+}

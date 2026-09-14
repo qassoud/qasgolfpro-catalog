@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LYON_SALVAGNY",
+    "code": "QAS_FRA_LYON_SALVAGNY",
+    "name": "Lyon Salvagny Golf Club",
+    "city": "La Tour-de-Salvagny",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_01",
+        "code": "QAS_FRA_LYON_SALVAGNY_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_02",
+        "code": "QAS_FRA_LYON_SALVAGNY_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_03",
+        "code": "QAS_FRA_LYON_SALVAGNY_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_04",
+        "code": "QAS_FRA_LYON_SALVAGNY_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_05",
+        "code": "QAS_FRA_LYON_SALVAGNY_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_06",
+        "code": "QAS_FRA_LYON_SALVAGNY_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_07",
+        "code": "QAS_FRA_LYON_SALVAGNY_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_08",
+        "code": "QAS_FRA_LYON_SALVAGNY_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_09",
+        "code": "QAS_FRA_LYON_SALVAGNY_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_10",
+        "code": "QAS_FRA_LYON_SALVAGNY_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_11",
+        "code": "QAS_FRA_LYON_SALVAGNY_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_12",
+        "code": "QAS_FRA_LYON_SALVAGNY_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_13",
+        "code": "QAS_FRA_LYON_SALVAGNY_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_14",
+        "code": "QAS_FRA_LYON_SALVAGNY_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_15",
+        "code": "QAS_FRA_LYON_SALVAGNY_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_16",
+        "code": "QAS_FRA_LYON_SALVAGNY_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_17",
+        "code": "QAS_FRA_LYON_SALVAGNY_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SALVAGNY_18",
+        "code": "QAS_FRA_LYON_SALVAGNY_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SALVAGNY_BLACK",
+        "code": "QAS_FRA_LYON_SALVAGNY_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.7,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 150,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6651,
+        "totalMeters": 6083,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_02",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_06",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_07",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_08",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_09",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_10",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_11",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_15",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_16",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_17",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_18",
+            "yards": 341,
+            "meters": 312
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SALVAGNY_WHITE",
+        "code": "QAS_FRA_LYON_SALVAGNY_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.1,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 144,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6551,
+        "totalMeters": 5990,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_02",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_03",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_06",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_07",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_08",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_09",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_10",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_11",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_15",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_17",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_18",
+            "yards": 341,
+            "meters": 312
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SALVAGNY_YELLOW",
+        "code": "QAS_FRA_LYON_SALVAGNY_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.8,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6114,
+        "totalMeters": 5591,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_02",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_03",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_05",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_06",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_08",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_10",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_11",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_13",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_15",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_16",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_17",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SALVAGNY_BLUE",
+        "code": "QAS_FRA_LYON_SALVAGNY_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5640,
+        "totalMeters": 5156,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_02",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_03",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_06",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_08",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_11",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_14",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_15",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_16",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_17",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_18",
+            "yards": 296,
+            "meters": 271
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SALVAGNY_RED",
+        "code": "QAS_FRA_LYON_SALVAGNY_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.5,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.5,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5151,
+        "totalMeters": 4706,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_02",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_03",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_04",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_07",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_08",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_09",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_11",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_16",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SALVAGNY_18",
+            "yards": 230,
+            "meters": 210
+          }
+        ]
+      }
+    ]
+  }
+}

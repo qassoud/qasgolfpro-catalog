@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_RHUYS_KERVER",
+    "code": "QAS_FRA_RHUYS_KERVER",
+    "name": "Golf de Rhuys Kerver",
+    "city": "Saint-Gildas-de-Rhuys",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=373&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_01",
+        "code": "QAS_FRA_RHUYS_KERVER_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_02",
+        "code": "QAS_FRA_RHUYS_KERVER_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_03",
+        "code": "QAS_FRA_RHUYS_KERVER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_04",
+        "code": "QAS_FRA_RHUYS_KERVER_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_05",
+        "code": "QAS_FRA_RHUYS_KERVER_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_06",
+        "code": "QAS_FRA_RHUYS_KERVER_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_07",
+        "code": "QAS_FRA_RHUYS_KERVER_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_08",
+        "code": "QAS_FRA_RHUYS_KERVER_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_09",
+        "code": "QAS_FRA_RHUYS_KERVER_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_10",
+        "code": "QAS_FRA_RHUYS_KERVER_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_11",
+        "code": "QAS_FRA_RHUYS_KERVER_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_12",
+        "code": "QAS_FRA_RHUYS_KERVER_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_13",
+        "code": "QAS_FRA_RHUYS_KERVER_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_14",
+        "code": "QAS_FRA_RHUYS_KERVER_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_15",
+        "code": "QAS_FRA_RHUYS_KERVER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_16",
+        "code": "QAS_FRA_RHUYS_KERVER_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_17",
+        "code": "QAS_FRA_RHUYS_KERVER_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_RHUYS_KERVER_18",
+        "code": "QAS_FRA_RHUYS_KERVER_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_RHUYS_KERVER_BLACK",
+        "code": "QAS_FRA_RHUYS_KERVER_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.9,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6649,
+        "totalMeters": 6080,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_01",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_05",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_06",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_09",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_10",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_11",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_12",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_RHUYS_KERVER_WHITE",
+        "code": "QAS_FRA_RHUYS_KERVER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6580,
+        "totalMeters": 6016,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_01",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_05",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_09",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_10",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_11",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_12",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_RHUYS_KERVER_YELLOW",
+        "code": "QAS_FRA_RHUYS_KERVER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.4,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6268,
+        "totalMeters": 5733,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_01",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_03",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_04",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_05",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_07",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_08",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_10",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_12",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_14",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_16",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_18",
+            "yards": 482,
+            "meters": 441
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_RHUYS_KERVER_BLUE",
+        "code": "QAS_FRA_RHUYS_KERVER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.3,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5618,
+        "totalMeters": 5138,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_01",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_04",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_07",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_09",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_11",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_12",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_13",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_14",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_15",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_16",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_RHUYS_KERVER_RED",
+        "code": "QAS_FRA_RHUYS_KERVER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.3,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5394,
+        "totalMeters": 4932,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_01",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_02",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_07",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_11",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_14",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_15",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_17",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_RHUYS_KERVER_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      }
+    ]
+  }
+}

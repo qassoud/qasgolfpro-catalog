@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_ABERS",
+    "code": "QAS_FRA_ABERS",
+    "name": "Golf des Abers",
+    "city": "Plouarzel",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — https://souslepar.com/fiche_parcours.php?id=204&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_01",
+        "code": "QAS_FRA_ABERS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_02",
+        "code": "QAS_FRA_ABERS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_03",
+        "code": "QAS_FRA_ABERS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_04",
+        "code": "QAS_FRA_ABERS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_05",
+        "code": "QAS_FRA_ABERS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_06",
+        "code": "QAS_FRA_ABERS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_07",
+        "code": "QAS_FRA_ABERS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_08",
+        "code": "QAS_FRA_ABERS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_09",
+        "code": "QAS_FRA_ABERS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_10",
+        "code": "QAS_FRA_ABERS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_11",
+        "code": "QAS_FRA_ABERS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_12",
+        "code": "QAS_FRA_ABERS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_13",
+        "code": "QAS_FRA_ABERS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_14",
+        "code": "QAS_FRA_ABERS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_15",
+        "code": "QAS_FRA_ABERS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_16",
+        "code": "QAS_FRA_ABERS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_17",
+        "code": "QAS_FRA_ABERS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ABERS_18",
+        "code": "QAS_FRA_ABERS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_ABERS_BLACK",
+        "code": "QAS_FRA_ABERS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 68.3,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 122,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5670,
+        "totalMeters": 5187,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ABERS_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_06",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_10",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_13",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_14",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_16",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_17",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ABERS_WHITE",
+        "code": "QAS_FRA_ABERS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.3,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 122,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5670,
+        "totalMeters": 5187,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ABERS_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_06",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_10",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_13",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_14",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_16",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_17",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ABERS_YELLOW",
+        "code": "QAS_FRA_ABERS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.1,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.1,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5340,
+        "totalMeters": 4885,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ABERS_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_04",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_05",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_06",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_09",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_13",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_14",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_15",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_17",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_18",
+            "yards": 287,
+            "meters": 262
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ABERS_BLUE",
+        "code": "QAS_FRA_ABERS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.6,
+        "slope": 110,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.6,
+            "slopeRating": 110,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.1,
+            "slopeRating": 123,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5028,
+        "totalMeters": 4597,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ABERS_01",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_02",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_03",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_06",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_10",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_11",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_12",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_13",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_14",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_15",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_16",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_17",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_18",
+            "yards": 287,
+            "meters": 262
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ABERS_RED",
+        "code": "QAS_FRA_ABERS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63.6,
+        "slope": 106,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.6,
+            "slopeRating": 106,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.7,
+            "slopeRating": 116,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4592,
+        "totalMeters": 4198,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ABERS_01",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_02",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_04",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_05",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_07",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_09",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_10",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_11",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_12",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_13",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_14",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_15",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_16",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_ABERS_18",
+            "yards": 273,
+            "meters": 250
+          }
+        ]
+      }
+    ]
+  }
+}

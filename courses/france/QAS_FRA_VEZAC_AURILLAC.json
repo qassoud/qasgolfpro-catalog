@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VEZAC_AURILLAC",
+    "code": "QAS_FRA_VEZAC_AURILLAC",
+    "name": "Golf Club de Vezac Aurillac",
+    "city": "Vézac",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 69,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_01",
+        "code": "QAS_FRA_VEZAC_AURILLAC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_02",
+        "code": "QAS_FRA_VEZAC_AURILLAC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_03",
+        "code": "QAS_FRA_VEZAC_AURILLAC_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_04",
+        "code": "QAS_FRA_VEZAC_AURILLAC_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_05",
+        "code": "QAS_FRA_VEZAC_AURILLAC_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_06",
+        "code": "QAS_FRA_VEZAC_AURILLAC_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_07",
+        "code": "QAS_FRA_VEZAC_AURILLAC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_08",
+        "code": "QAS_FRA_VEZAC_AURILLAC_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_09",
+        "code": "QAS_FRA_VEZAC_AURILLAC_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_10",
+        "code": "QAS_FRA_VEZAC_AURILLAC_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_11",
+        "code": "QAS_FRA_VEZAC_AURILLAC_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_12",
+        "code": "QAS_FRA_VEZAC_AURILLAC_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_13",
+        "code": "QAS_FRA_VEZAC_AURILLAC_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_14",
+        "code": "QAS_FRA_VEZAC_AURILLAC_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_15",
+        "code": "QAS_FRA_VEZAC_AURILLAC_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_16",
+        "code": "QAS_FRA_VEZAC_AURILLAC_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_17",
+        "code": "QAS_FRA_VEZAC_AURILLAC_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VEZAC_AURILLAC_18",
+        "code": "QAS_FRA_VEZAC_AURILLAC_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VEZAC_AURILLAC_BLACK",
+        "code": "QAS_FRA_VEZAC_AURILLAC_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 68.6,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 116,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 123,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5643,
+        "totalMeters": 5160,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_03",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_04",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_05",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_06",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_07",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_09",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_10",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_11",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_13",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_14",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_18",
+            "yards": 536,
+            "meters": 490
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VEZAC_AURILLAC_WHITE",
+        "code": "QAS_FRA_VEZAC_AURILLAC_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.6,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 116,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 123,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5643,
+        "totalMeters": 5160,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_03",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_04",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_05",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_06",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_07",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_09",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_10",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_11",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_13",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_14",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_18",
+            "yards": 536,
+            "meters": 490
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VEZAC_AURILLAC_YELLOW",
+        "code": "QAS_FRA_VEZAC_AURILLAC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.3,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 115,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.3,
+            "slopeRating": 120,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5365,
+        "totalMeters": 4907,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_03",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_04",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_05",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_07",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_08",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_09",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_10",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_11",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_13",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_17",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_18",
+            "yards": 514,
+            "meters": 470
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VEZAC_AURILLAC_BLUE",
+        "code": "QAS_FRA_VEZAC_AURILLAC_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 64.2,
+        "slope": 109,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.2,
+            "slopeRating": 109,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.8,
+            "slopeRating": 113,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4965,
+        "totalMeters": 4539,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_03",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_04",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_05",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_07",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_09",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_10",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_11",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_16",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_17",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_18",
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VEZAC_AURILLAC_RED",
+        "code": "QAS_FRA_VEZAC_AURILLAC_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63.5,
+        "slope": 109,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.5,
+            "slopeRating": 109,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68,
+            "slopeRating": 113,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4710,
+        "totalMeters": 4308,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_02",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_03",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_04",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_05",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_06",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_07",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_08",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_10",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_11",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_12",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_15",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_16",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_17",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_VEZAC_AURILLAC_18",
+            "yards": 457,
+            "meters": 418
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BIEVRE",
+    "code": "QAS_FRA_BIEVRE",
+    "name": "Golf de la Bièvre",
+    "city": "Faramans",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 63,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_01",
+        "code": "QAS_FRA_BIEVRE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_02",
+        "code": "QAS_FRA_BIEVRE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_03",
+        "code": "QAS_FRA_BIEVRE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_04",
+        "code": "QAS_FRA_BIEVRE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_05",
+        "code": "QAS_FRA_BIEVRE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_06",
+        "code": "QAS_FRA_BIEVRE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_07",
+        "code": "QAS_FRA_BIEVRE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_08",
+        "code": "QAS_FRA_BIEVRE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_09",
+        "code": "QAS_FRA_BIEVRE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_10",
+        "code": "QAS_FRA_BIEVRE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_11",
+        "code": "QAS_FRA_BIEVRE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_12",
+        "code": "QAS_FRA_BIEVRE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_13",
+        "code": "QAS_FRA_BIEVRE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_14",
+        "code": "QAS_FRA_BIEVRE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_15",
+        "code": "QAS_FRA_BIEVRE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_16",
+        "code": "QAS_FRA_BIEVRE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_17",
+        "code": "QAS_FRA_BIEVRE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BIEVRE_18",
+        "code": "QAS_FRA_BIEVRE_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BIEVRE_BLACK",
+        "code": "QAS_FRA_BIEVRE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 63,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          }
+        ],
+        "totalYards": 4310,
+        "totalMeters": 3942,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BIEVRE_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_05",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_08",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_09",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_10",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_11",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_12",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_13",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_15",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_16",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_18",
+            "yards": 164,
+            "meters": 150
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BIEVRE_WHITE",
+        "code": "QAS_FRA_BIEVRE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 63,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          }
+        ],
+        "totalYards": 4310,
+        "totalMeters": 3942,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BIEVRE_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_05",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_08",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_09",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_10",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_11",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_12",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_13",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_15",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_16",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_18",
+            "yards": 164,
+            "meters": 150
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BIEVRE_YELLOW",
+        "code": "QAS_FRA_BIEVRE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 63,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          }
+        ],
+        "totalYards": 3939,
+        "totalMeters": 3599,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BIEVRE_01",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_02",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_03",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_04",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_05",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_08",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_09",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_10",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_11",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_12",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_13",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_14",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_15",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_16",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_17",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_18",
+            "yards": 147,
+            "meters": 134
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BIEVRE_BLUE",
+        "code": "QAS_FRA_BIEVRE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 63,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          }
+        ],
+        "totalYards": 3399,
+        "totalMeters": 3108,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BIEVRE_01",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_02",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_04",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_05",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_06",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_08",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_09",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_10",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_11",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_12",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_13",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_14",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_16",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_17",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_18",
+            "yards": 129,
+            "meters": 118
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BIEVRE_RED",
+        "code": "QAS_FRA_BIEVRE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 63,
+            "slopeRating": 113,
+            "ratingPar": 63
+          }
+        ],
+        "totalYards": 3214,
+        "totalMeters": 2942,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BIEVRE_01",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_02",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_03",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_04",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_05",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_06",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_07",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_08",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_09",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_10",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_12",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_13",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_14",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_15",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_16",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_17",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_FRA_BIEVRE_18",
+            "yards": 120,
+            "meters": 110
+          }
+        ]
+      }
+    ]
+  }
+}

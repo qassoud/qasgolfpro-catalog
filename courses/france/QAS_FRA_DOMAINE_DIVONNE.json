@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_DOMAINE_DIVONNE",
+    "code": "QAS_FRA_DOMAINE_DIVONNE",
+    "name": "Golf du Domaine de Divonne",
+    "city": "Divonne-les-Bains",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar scorecard — SousLePar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_01",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_02",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_03",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_04",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_05",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_06",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_07",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_08",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_09",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_10",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_11",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_12",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_13",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_14",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_15",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_16",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_17",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DOMAINE_DIVONNE_18",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_DOMAINE_DIVONNE_BLACK",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6461,
+        "totalMeters": 5909,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_01",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_03",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_05",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_06",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_07",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_08",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_10",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_12",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_13",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_14",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_18",
+            "yards": 227,
+            "meters": 208
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DOMAINE_DIVONNE_WHITE",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6461,
+        "totalMeters": 5909,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_01",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_03",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_05",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_06",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_07",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_08",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_10",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_12",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_13",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_14",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_18",
+            "yards": 227,
+            "meters": 208
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DOMAINE_DIVONNE_YELLOW",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.5,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5961,
+        "totalMeters": 5450,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_01",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_02",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_05",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_06",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_07",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_08",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_12",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_13",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_14",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_15",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_16",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_18",
+            "yards": 217,
+            "meters": 198
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DOMAINE_DIVONNE_BLUE",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.3,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5476,
+        "totalMeters": 5006,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_01",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_02",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_07",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_10",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_12",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_14",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_15",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_17",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_18",
+            "yards": 170,
+            "meters": 155
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DOMAINE_DIVONNE_RED",
+        "code": "QAS_FRA_DOMAINE_DIVONNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.1,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.1,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.3,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4976,
+        "totalMeters": 4549,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_01",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_02",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_03",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_04",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_08",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_09",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_10",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_11",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_13",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_14",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_15",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_16",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_17",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_FRA_DOMAINE_DIVONNE_18",
+            "yards": 139,
+            "meters": 127
+          }
+        ]
+      }
+    ]
+  }
+}
