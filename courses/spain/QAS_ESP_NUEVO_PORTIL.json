@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_NUEVO_PORTIL",
+    "code": "QAS_ESP_NUEVO_PORTIL",
+    "name": "Nuevo Portil Golf",
+    "city": "Cartaya",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/nuevo-portil-golf",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_01",
+        "code": "QAS_ESP_NUEVO_PORTIL_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_02",
+        "code": "QAS_ESP_NUEVO_PORTIL_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_03",
+        "code": "QAS_ESP_NUEVO_PORTIL_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_04",
+        "code": "QAS_ESP_NUEVO_PORTIL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_05",
+        "code": "QAS_ESP_NUEVO_PORTIL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_06",
+        "code": "QAS_ESP_NUEVO_PORTIL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_07",
+        "code": "QAS_ESP_NUEVO_PORTIL_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_08",
+        "code": "QAS_ESP_NUEVO_PORTIL_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_09",
+        "code": "QAS_ESP_NUEVO_PORTIL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_10",
+        "code": "QAS_ESP_NUEVO_PORTIL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_11",
+        "code": "QAS_ESP_NUEVO_PORTIL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_12",
+        "code": "QAS_ESP_NUEVO_PORTIL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_13",
+        "code": "QAS_ESP_NUEVO_PORTIL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_14",
+        "code": "QAS_ESP_NUEVO_PORTIL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_15",
+        "code": "QAS_ESP_NUEVO_PORTIL_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_16",
+        "code": "QAS_ESP_NUEVO_PORTIL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_17",
+        "code": "QAS_ESP_NUEVO_PORTIL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NUEVO_PORTIL_18",
+        "code": "QAS_ESP_NUEVO_PORTIL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_NUEVO_PORTIL_GREY",
+        "code": "QAS_ESP_NUEVO_PORTIL_GREY",
+        "type": "BLACK",
+        "displayName": "Gris",
+        "courseRating": 71.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6386,
+        "totalMeters": 5841,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_01",
+            "yards": 587,
+            "meters": 537
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_05",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_07",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_08",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_10",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_11",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_13",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_15",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_17",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NUEVO_PORTIL_YELLOW",
+        "code": "QAS_ESP_NUEVO_PORTIL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6175,
+        "totalMeters": 5648,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_01",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_05",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_08",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_09",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_11",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_14",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_15",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_16",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NUEVO_PORTIL_BLUE",
+        "code": "QAS_ESP_NUEVO_PORTIL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.1,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5576,
+        "totalMeters": 5099,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_01",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_03",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_04",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_08",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_10",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_11",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_12",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_15",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_16",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_18",
+            "yards": 369,
+            "meters": 337
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NUEVO_PORTIL_RED",
+        "code": "QAS_ESP_NUEVO_PORTIL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.0,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 123,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5363,
+        "totalMeters": 4904,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_01",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_03",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_06",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_07",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_08",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_09",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_11",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_12",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_13",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_14",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_16",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_17",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_NUEVO_PORTIL_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      }
+    ]
+  }
+}

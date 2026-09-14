@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_SON_TERMENS",
+    "code": "QAS_ESP_SON_TERMENS",
+    "name": "Golf Son Termens",
+    "city": "Bunyola",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/golf-son-termens",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_01",
+        "code": "QAS_ESP_SON_TERMENS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_02",
+        "code": "QAS_ESP_SON_TERMENS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_03",
+        "code": "QAS_ESP_SON_TERMENS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_04",
+        "code": "QAS_ESP_SON_TERMENS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_05",
+        "code": "QAS_ESP_SON_TERMENS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_06",
+        "code": "QAS_ESP_SON_TERMENS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_07",
+        "code": "QAS_ESP_SON_TERMENS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_08",
+        "code": "QAS_ESP_SON_TERMENS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_09",
+        "code": "QAS_ESP_SON_TERMENS_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_10",
+        "code": "QAS_ESP_SON_TERMENS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_11",
+        "code": "QAS_ESP_SON_TERMENS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_12",
+        "code": "QAS_ESP_SON_TERMENS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_13",
+        "code": "QAS_ESP_SON_TERMENS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_14",
+        "code": "QAS_ESP_SON_TERMENS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_15",
+        "code": "QAS_ESP_SON_TERMENS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_16",
+        "code": "QAS_ESP_SON_TERMENS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_17",
+        "code": "QAS_ESP_SON_TERMENS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_SON_TERMENS_18",
+        "code": "QAS_ESP_SON_TERMENS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_SON_TERMENS_WHITE",
+        "code": "QAS_ESP_SON_TERMENS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.7,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6106,
+        "totalMeters": 5582,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_01",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_04",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_06",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_08",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_09",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_10",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_12",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_14",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_15",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_TERMENS_YELLOW",
+        "code": "QAS_ESP_SON_TERMENS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.9,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 135,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5775,
+        "totalMeters": 5282,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_01",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_03",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_05",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_06",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_08",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_09",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_10",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_12",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_13",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_15",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_17",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_TERMENS_BLUE",
+        "code": "QAS_ESP_SON_TERMENS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 134,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5372,
+        "totalMeters": 4912,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_01",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_02",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_03",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_04",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_05",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_06",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_07",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_09",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_10",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_11",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_12",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_13",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_15",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_17",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_18",
+            "yards": 319,
+            "meters": 292
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_SON_TERMENS_RED",
+        "code": "QAS_ESP_SON_TERMENS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4932,
+        "totalMeters": 4510,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_01",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_02",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_03",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_04",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_07",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_08",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_09",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_11",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_12",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_13",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_14",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_15",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_17",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_SON_TERMENS_18",
+            "yards": 259,
+            "meters": 237
+          }
+        ]
+      }
+    ]
+  }
+}

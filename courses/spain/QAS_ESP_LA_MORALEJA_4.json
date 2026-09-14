@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_LA_MORALEJA_4",
+    "code": "QAS_ESP_LA_MORALEJA_4",
+    "name": "Club de Golf La Moraleja - Course 4",
+    "city": "Algete",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/club-de-golf-la-moraleja-course-4",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_01",
+        "code": "QAS_ESP_LA_MORALEJA_4_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_02",
+        "code": "QAS_ESP_LA_MORALEJA_4_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_03",
+        "code": "QAS_ESP_LA_MORALEJA_4_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_04",
+        "code": "QAS_ESP_LA_MORALEJA_4_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_05",
+        "code": "QAS_ESP_LA_MORALEJA_4_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_06",
+        "code": "QAS_ESP_LA_MORALEJA_4_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_07",
+        "code": "QAS_ESP_LA_MORALEJA_4_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_08",
+        "code": "QAS_ESP_LA_MORALEJA_4_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_09",
+        "code": "QAS_ESP_LA_MORALEJA_4_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_10",
+        "code": "QAS_ESP_LA_MORALEJA_4_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_11",
+        "code": "QAS_ESP_LA_MORALEJA_4_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_12",
+        "code": "QAS_ESP_LA_MORALEJA_4_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_13",
+        "code": "QAS_ESP_LA_MORALEJA_4_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_14",
+        "code": "QAS_ESP_LA_MORALEJA_4_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_15",
+        "code": "QAS_ESP_LA_MORALEJA_4_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_16",
+        "code": "QAS_ESP_LA_MORALEJA_4_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_17",
+        "code": "QAS_ESP_LA_MORALEJA_4_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_LA_MORALEJA_4_18",
+        "code": "QAS_ESP_LA_MORALEJA_4_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_LA_MORALEJA_4_BLACK",
+        "code": "QAS_ESP_LA_MORALEJA_4_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7093,
+        "totalMeters": 6487,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_02",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_03",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_05",
+            "yards": 619,
+            "meters": 566
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_06",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_07",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_08",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_09",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_10",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_11",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_12",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_13",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_14",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_16",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_17",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MORALEJA_4_WHITE",
+        "code": "QAS_ESP_LA_MORALEJA_4_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.1,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6716,
+        "totalMeters": 6141,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_01",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_02",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_03",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_05",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_06",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_07",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_08",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_09",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_10",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_11",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_12",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_13",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_14",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_16",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_17",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MORALEJA_4_YELLOW",
+        "code": "QAS_ESP_LA_MORALEJA_4_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.3,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6125,
+        "totalMeters": 5603,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_02",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_03",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_04",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_05",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_06",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_07",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_08",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_09",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_10",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_11",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_14",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_15",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_16",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MORALEJA_4_BLUE",
+        "code": "QAS_ESP_LA_MORALEJA_4_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.1,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5448,
+        "totalMeters": 4982,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_02",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_03",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_04",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_05",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_06",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_07",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_08",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_09",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_10",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_11",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_14",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_15",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_16",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_18",
+            "yards": 334,
+            "meters": 305
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_LA_MORALEJA_4_RED",
+        "code": "QAS_ESP_LA_MORALEJA_4_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 68.4,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.4,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4929,
+        "totalMeters": 4507,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_02",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_03",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_04",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_05",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_07",
+            "yards": 68,
+            "meters": 62
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_09",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_11",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_12",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_13",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_14",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_15",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_16",
+            "yards": 81,
+            "meters": 74
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_17",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_LA_MORALEJA_4_18",
+            "yards": 260,
+            "meters": 238
+          }
+        ]
+      }
+    ]
+  }
+}

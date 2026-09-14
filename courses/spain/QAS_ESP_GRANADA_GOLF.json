@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GRANADA_GOLF",
+    "code": "QAS_ESP_GRANADA_GOLF",
+    "name": "Granada Club de Golf",
+    "city": "Las Gabias",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://rfeg.es/club/granada_club_de_golf?id=315",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_01",
+        "code": "QAS_ESP_GRANADA_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_02",
+        "code": "QAS_ESP_GRANADA_GOLF_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_03",
+        "code": "QAS_ESP_GRANADA_GOLF_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_04",
+        "code": "QAS_ESP_GRANADA_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_05",
+        "code": "QAS_ESP_GRANADA_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_06",
+        "code": "QAS_ESP_GRANADA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_07",
+        "code": "QAS_ESP_GRANADA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_08",
+        "code": "QAS_ESP_GRANADA_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_09",
+        "code": "QAS_ESP_GRANADA_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_10",
+        "code": "QAS_ESP_GRANADA_GOLF_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_11",
+        "code": "QAS_ESP_GRANADA_GOLF_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_12",
+        "code": "QAS_ESP_GRANADA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_13",
+        "code": "QAS_ESP_GRANADA_GOLF_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_14",
+        "code": "QAS_ESP_GRANADA_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_15",
+        "code": "QAS_ESP_GRANADA_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_16",
+        "code": "QAS_ESP_GRANADA_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_17",
+        "code": "QAS_ESP_GRANADA_GOLF_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GRANADA_GOLF_18",
+        "code": "QAS_ESP_GRANADA_GOLF_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GRANADA_GOLF_WHITE",
+        "code": "QAS_ESP_GRANADA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6528,
+        "totalMeters": 5970,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_02",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_03",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_04",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_06",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_07",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_08",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_09",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_10",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_13",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_14",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_15",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_17",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_18",
+            "yards": 140,
+            "meters": 128
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GRANADA_GOLF_YELLOW",
+        "code": "QAS_ESP_GRANADA_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.3,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 125,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6177,
+        "totalMeters": 5649,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_02",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_03",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_04",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_05",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_06",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_08",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_09",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_10",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_11",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_13",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_15",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_16",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_17",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_18",
+            "yards": 135,
+            "meters": 123
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GRANADA_GOLF_GOLD",
+        "code": "QAS_ESP_GRANADA_GOLF_GOLD",
+        "type": "ORANGE",
+        "displayName": "Or",
+        "courseRating": 68.8,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.8,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.0,
+            "slopeRating": 130,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5844,
+        "totalMeters": 5345,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_02",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_03",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_04",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_05",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_06",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_08",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_09",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_10",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_12",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_13",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_14",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_15",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_17",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_18",
+            "yards": 130,
+            "meters": 119
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GRANADA_GOLF_RED",
+        "code": "QAS_ESP_GRANADA_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.3,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 124,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 121,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5538,
+        "totalMeters": 5061,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_03",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_04",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_05",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_06",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_09",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_10",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_11",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_12",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_13",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_14",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_16",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_GRANADA_GOLF_18",
+            "yards": 126,
+            "meters": 115
+          }
+        ]
+      }
+    ]
+  }
+}

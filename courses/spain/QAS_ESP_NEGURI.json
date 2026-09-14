@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_NEGURI",
+    "code": "QAS_ESP_NEGURI",
+    "name": "Real Sociedad de Golf de Neguri",
+    "city": "Getxo",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://stimp.golf/course/real-sociedad-de-golf-de-neguri",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_01",
+        "code": "QAS_ESP_NEGURI_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_02",
+        "code": "QAS_ESP_NEGURI_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_03",
+        "code": "QAS_ESP_NEGURI_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_04",
+        "code": "QAS_ESP_NEGURI_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_05",
+        "code": "QAS_ESP_NEGURI_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_06",
+        "code": "QAS_ESP_NEGURI_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_07",
+        "code": "QAS_ESP_NEGURI_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_08",
+        "code": "QAS_ESP_NEGURI_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_09",
+        "code": "QAS_ESP_NEGURI_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_10",
+        "code": "QAS_ESP_NEGURI_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_11",
+        "code": "QAS_ESP_NEGURI_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_12",
+        "code": "QAS_ESP_NEGURI_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_13",
+        "code": "QAS_ESP_NEGURI_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_14",
+        "code": "QAS_ESP_NEGURI_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_15",
+        "code": "QAS_ESP_NEGURI_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_16",
+        "code": "QAS_ESP_NEGURI_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_17",
+        "code": "QAS_ESP_NEGURI_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_NEGURI_18",
+        "code": "QAS_ESP_NEGURI_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_NEGURI_WHITE",
+        "code": "QAS_ESP_NEGURI_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6278,
+        "totalMeters": 5741,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NEGURI_01",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_04",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_05",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_06",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_09",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_10",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_11",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_12",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_13",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_14",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_16",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_18",
+            "yards": 502,
+            "meters": 459
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NEGURI_YELLOW",
+        "code": "QAS_ESP_NEGURI_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6055,
+        "totalMeters": 5536,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NEGURI_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_03",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_04",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_05",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_07",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_09",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_10",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_11",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_13",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_14",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_17",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_18",
+            "yards": 494,
+            "meters": 452
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NEGURI_BLUE",
+        "code": "QAS_ESP_NEGURI_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5515,
+        "totalMeters": 5044,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NEGURI_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_04",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_07",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_08",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_09",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_10",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_11",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_13",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_14",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_16",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_NEGURI_RED",
+        "code": "QAS_ESP_NEGURI_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5114,
+        "totalMeters": 4676,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_NEGURI_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_02",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_04",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_07",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_08",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_09",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_11",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_13",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_14",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_16",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_17",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_NEGURI_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      }
+    ]
+  }
+}

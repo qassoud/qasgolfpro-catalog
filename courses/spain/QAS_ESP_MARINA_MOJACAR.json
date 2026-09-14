@@ -1,0 +1,478 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_MARINA_MOJACAR",
+    "code": "QAS_ESP_MARINA_MOJACAR",
+    "name": "Marina Golf Mojácar",
+    "city": "Mojácar",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/marina-golf-mojacar",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_01",
+        "code": "QAS_ESP_MARINA_MOJACAR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_02",
+        "code": "QAS_ESP_MARINA_MOJACAR_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_03",
+        "code": "QAS_ESP_MARINA_MOJACAR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_04",
+        "code": "QAS_ESP_MARINA_MOJACAR_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_05",
+        "code": "QAS_ESP_MARINA_MOJACAR_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_06",
+        "code": "QAS_ESP_MARINA_MOJACAR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_07",
+        "code": "QAS_ESP_MARINA_MOJACAR_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_08",
+        "code": "QAS_ESP_MARINA_MOJACAR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_09",
+        "code": "QAS_ESP_MARINA_MOJACAR_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_10",
+        "code": "QAS_ESP_MARINA_MOJACAR_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_11",
+        "code": "QAS_ESP_MARINA_MOJACAR_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_12",
+        "code": "QAS_ESP_MARINA_MOJACAR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_13",
+        "code": "QAS_ESP_MARINA_MOJACAR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_14",
+        "code": "QAS_ESP_MARINA_MOJACAR_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_15",
+        "code": "QAS_ESP_MARINA_MOJACAR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_16",
+        "code": "QAS_ESP_MARINA_MOJACAR_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_17",
+        "code": "QAS_ESP_MARINA_MOJACAR_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_MARINA_MOJACAR_18",
+        "code": "QAS_ESP_MARINA_MOJACAR_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_MARINA_MOJACAR_WHITE",
+        "code": "QAS_ESP_MARINA_MOJACAR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 66.7,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5272,
+        "totalMeters": 4822,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_01",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_03",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_04",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_05",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_07",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_08",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_09",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_10",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_11",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_12",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_13",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_14",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_15",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_16",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_18",
+            "yards": 460,
+            "meters": 421
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MARINA_MOJACAR_YELLOW",
+        "code": "QAS_ESP_MARINA_MOJACAR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 66.3,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.3,
+            "slopeRating": 124,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5169,
+        "totalMeters": 4727,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_01",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_03",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_04",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_05",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_07",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_08",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_09",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_10",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_12",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_13",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_MARINA_MOJACAR_RED",
+        "code": "QAS_ESP_MARINA_MOJACAR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.2,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.2,
+            "slopeRating": 117,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4446,
+        "totalMeters": 4064,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_01",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_02",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_03",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_04",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_05",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_06",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_07",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_08",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_09",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_11",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_12",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_13",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_14",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_15",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_MARINA_MOJACAR_18",
+            "yards": 395,
+            "meters": 361
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,918 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_EL_PRAT_YELLOW",
+    "code": "QAS_ESP_EL_PRAT_YELLOW",
+    "name": "Real Club de Golf El Prat - Yellow Course",
+    "city": "Terrassa",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/real-club-de-golf-el-prat-yellow-course",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_01",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_02",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_03",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_04",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_05",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_06",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_07",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_08",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_09",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_10",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_11",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_12",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_13",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_14",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_15",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_16",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_17",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_YELLOW_18",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_BLACK",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.5,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.5,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7299,
+        "totalMeters": 6673,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 466,
+            "meters": 426
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_WHITE",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6937,
+        "totalMeters": 6344,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_YELLOW",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6574,
+        "totalMeters": 6012,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_ORANGE",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 70.5,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6258,
+        "totalMeters": 5723,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 407,
+            "meters": 372
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_BLUE",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 74.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.6,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5962,
+        "totalMeters": 5453,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_RED",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5610,
+        "totalMeters": 5131,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 353,
+            "meters": 323
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_YELLOW_PINK",
+        "code": "QAS_ESP_EL_PRAT_YELLOW_PINK",
+        "type": "PINK",
+        "displayName": "Rose",
+        "courseRating": 70.8,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5286,
+        "totalMeters": 4835,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_02",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_03",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_05",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_08",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_11",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_12",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_13",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_17",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_YELLOW_18",
+            "yards": 329,
+            "meters": 301
+          }
+        ]
+      }
+    ]
+  }
+}

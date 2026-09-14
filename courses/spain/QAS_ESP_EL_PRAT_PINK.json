@@ -1,0 +1,918 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_EL_PRAT_PINK",
+    "code": "QAS_ESP_EL_PRAT_PINK",
+    "name": "Real Club de Golf El Prat - Pink Course",
+    "city": "Terrassa",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/real-club-de-golf-el-prat-pink-course",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_01",
+        "code": "QAS_ESP_EL_PRAT_PINK_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_02",
+        "code": "QAS_ESP_EL_PRAT_PINK_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_03",
+        "code": "QAS_ESP_EL_PRAT_PINK_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_04",
+        "code": "QAS_ESP_EL_PRAT_PINK_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_05",
+        "code": "QAS_ESP_EL_PRAT_PINK_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_06",
+        "code": "QAS_ESP_EL_PRAT_PINK_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_07",
+        "code": "QAS_ESP_EL_PRAT_PINK_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_08",
+        "code": "QAS_ESP_EL_PRAT_PINK_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_09",
+        "code": "QAS_ESP_EL_PRAT_PINK_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_10",
+        "code": "QAS_ESP_EL_PRAT_PINK_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_11",
+        "code": "QAS_ESP_EL_PRAT_PINK_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_12",
+        "code": "QAS_ESP_EL_PRAT_PINK_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_13",
+        "code": "QAS_ESP_EL_PRAT_PINK_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_14",
+        "code": "QAS_ESP_EL_PRAT_PINK_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_15",
+        "code": "QAS_ESP_EL_PRAT_PINK_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_16",
+        "code": "QAS_ESP_EL_PRAT_PINK_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_17",
+        "code": "QAS_ESP_EL_PRAT_PINK_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_PRAT_PINK_18",
+        "code": "QAS_ESP_EL_PRAT_PINK_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 13
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_BLACK",
+        "code": "QAS_ESP_EL_PRAT_PINK_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.7,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7070,
+        "totalMeters": 6465,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 596,
+            "meters": 545
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 542,
+            "meters": 496
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_REDTEE",
+        "code": "QAS_ESP_EL_PRAT_PINK_REDTEE",
+        "type": "RED",
+        "displayName": "Rouge long",
+        "courseRating": 72.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5505,
+        "totalMeters": 5035,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 474,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_WHITE",
+        "code": "QAS_ESP_EL_PRAT_PINK_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.8,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6778,
+        "totalMeters": 6197,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 534,
+            "meters": 488
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_YELLOW",
+        "code": "QAS_ESP_EL_PRAT_PINK_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.9,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6458,
+        "totalMeters": 5906,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 518,
+            "meters": 474
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_ORANGE",
+        "code": "QAS_ESP_EL_PRAT_PINK_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 70.2,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6112,
+        "totalMeters": 5588,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 512,
+            "meters": 468
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_BLUE",
+        "code": "QAS_ESP_EL_PRAT_PINK_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 74.4,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5811,
+        "totalMeters": 5315,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_PRAT_PINK_PINK",
+        "code": "QAS_ESP_EL_PRAT_PINK_PINK",
+        "type": "PINK",
+        "displayName": "Rose",
+        "courseRating": 70.3,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.3,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5156,
+        "totalMeters": 4715,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_02",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_03",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_04",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_06",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_07",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_08",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_09",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_11",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_12",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_14",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_15",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_16",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_17",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_EL_PRAT_PINK_18",
+            "yards": 452,
+            "meters": 413
+          }
+        ]
+      }
+    ]
+  }
+}

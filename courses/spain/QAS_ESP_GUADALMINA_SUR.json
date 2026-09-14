@@ -1,0 +1,581 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GUADALMINA_SUR",
+    "code": "QAS_ESP_GUADALMINA_SUR",
+    "name": "Real Club de Golf Guadalmina - South Course",
+    "city": "Marbella",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/real-club-de-golf-guadalmina-south-course",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_01",
+        "code": "QAS_ESP_GUADALMINA_SUR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_02",
+        "code": "QAS_ESP_GUADALMINA_SUR_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_03",
+        "code": "QAS_ESP_GUADALMINA_SUR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_04",
+        "code": "QAS_ESP_GUADALMINA_SUR_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_05",
+        "code": "QAS_ESP_GUADALMINA_SUR_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_06",
+        "code": "QAS_ESP_GUADALMINA_SUR_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_07",
+        "code": "QAS_ESP_GUADALMINA_SUR_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_08",
+        "code": "QAS_ESP_GUADALMINA_SUR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_09",
+        "code": "QAS_ESP_GUADALMINA_SUR_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_10",
+        "code": "QAS_ESP_GUADALMINA_SUR_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_11",
+        "code": "QAS_ESP_GUADALMINA_SUR_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_12",
+        "code": "QAS_ESP_GUADALMINA_SUR_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_13",
+        "code": "QAS_ESP_GUADALMINA_SUR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_14",
+        "code": "QAS_ESP_GUADALMINA_SUR_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_15",
+        "code": "QAS_ESP_GUADALMINA_SUR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_16",
+        "code": "QAS_ESP_GUADALMINA_SUR_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_17",
+        "code": "QAS_ESP_GUADALMINA_SUR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GUADALMINA_SUR_18",
+        "code": "QAS_ESP_GUADALMINA_SUR_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GUADALMINA_SUR_WHITE",
+        "code": "QAS_ESP_GUADALMINA_SUR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.5,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6125,
+        "totalMeters": 5600,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_01",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_04",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_05",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_06",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_07",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_08",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_10",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_11",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_12",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_14",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_17",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GUADALMINA_SUR_YELLOW",
+        "code": "QAS_ESP_GUADALMINA_SUR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.9,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 119,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5985,
+        "totalMeters": 5470,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_01",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_04",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_05",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_06",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_07",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_08",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_10",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_13",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_14",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_17",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GUADALMINA_SUR_BLUE",
+        "code": "QAS_ESP_GUADALMINA_SUR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5442,
+        "totalMeters": 4975,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_01",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_04",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_05",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_08",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_09",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_10",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_11",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_13",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_14",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_15",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_17",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GUADALMINA_SUR_RED",
+        "code": "QAS_ESP_GUADALMINA_SUR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.0,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5237,
+        "totalMeters": 4790,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_01",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_02",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_06",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_07",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_08",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_09",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_11",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_16",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_17",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_GUADALMINA_SUR_18",
+            "yards": 262,
+            "meters": 240
+          }
+        ]
+      }
+    ]
+  }
+}

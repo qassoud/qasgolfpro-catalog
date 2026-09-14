@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_INFINITUM_HILLS",
+    "code": "QAS_ESP_INFINITUM_HILLS",
+    "name": "Infinitum Golf - Hills Course",
+    "city": "Tarragona",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/infinitum-golf-hills-course",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_01",
+        "code": "QAS_ESP_INFINITUM_HILLS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_02",
+        "code": "QAS_ESP_INFINITUM_HILLS_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_03",
+        "code": "QAS_ESP_INFINITUM_HILLS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_04",
+        "code": "QAS_ESP_INFINITUM_HILLS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_05",
+        "code": "QAS_ESP_INFINITUM_HILLS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_06",
+        "code": "QAS_ESP_INFINITUM_HILLS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_07",
+        "code": "QAS_ESP_INFINITUM_HILLS_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_08",
+        "code": "QAS_ESP_INFINITUM_HILLS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_09",
+        "code": "QAS_ESP_INFINITUM_HILLS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_10",
+        "code": "QAS_ESP_INFINITUM_HILLS_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_11",
+        "code": "QAS_ESP_INFINITUM_HILLS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_12",
+        "code": "QAS_ESP_INFINITUM_HILLS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_13",
+        "code": "QAS_ESP_INFINITUM_HILLS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_14",
+        "code": "QAS_ESP_INFINITUM_HILLS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_15",
+        "code": "QAS_ESP_INFINITUM_HILLS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_16",
+        "code": "QAS_ESP_INFINITUM_HILLS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_17",
+        "code": "QAS_ESP_INFINITUM_HILLS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_INFINITUM_HILLS_18",
+        "code": "QAS_ESP_INFINITUM_HILLS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_INFINITUM_HILLS_WHITE",
+        "code": "QAS_ESP_INFINITUM_HILLS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.2,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6975,
+        "totalMeters": 6378,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_01",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_02",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_03",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_05",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_06",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_07",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_08",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_09",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_10",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_11",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_12",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_13",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_14",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_15",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_16",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_17",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_INFINITUM_HILLS_YELLOW",
+        "code": "QAS_ESP_INFINITUM_HILLS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.2,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6541,
+        "totalMeters": 5982,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_02",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_03",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_04",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_06",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_07",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_08",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_10",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_11",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_12",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_13",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_14",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_15",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_16",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_17",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_INFINITUM_HILLS_BLUE",
+        "code": "QAS_ESP_INFINITUM_HILLS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.8,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.8,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5899,
+        "totalMeters": 5394,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_02",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_03",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_04",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_05",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_06",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_07",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_09",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_10",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_11",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_12",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_15",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_18",
+            "yards": 287,
+            "meters": 262
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_INFINITUM_HILLS_RED",
+        "code": "QAS_ESP_INFINITUM_HILLS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.5,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 66.5,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5394,
+        "totalMeters": 4931,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_02",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_07",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_08",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_09",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_10",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_11",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_12",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_13",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_14",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_16",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_17",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ESP_INFINITUM_HILLS_18",
+            "yards": 265,
+            "meters": 242
+          }
+        ]
+      }
+    ]
+  }
+}

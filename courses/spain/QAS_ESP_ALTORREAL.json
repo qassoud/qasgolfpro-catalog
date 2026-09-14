@@ -1,0 +1,574 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_ALTORREAL",
+    "code": "QAS_ESP_ALTORREAL",
+    "name": "Altorreal Golf Club",
+    "city": "Molina de Segura",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/altorreal-golf-club",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_01",
+        "code": "QAS_ESP_ALTORREAL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_02",
+        "code": "QAS_ESP_ALTORREAL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_03",
+        "code": "QAS_ESP_ALTORREAL_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_04",
+        "code": "QAS_ESP_ALTORREAL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_05",
+        "code": "QAS_ESP_ALTORREAL_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_06",
+        "code": "QAS_ESP_ALTORREAL_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_07",
+        "code": "QAS_ESP_ALTORREAL_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_08",
+        "code": "QAS_ESP_ALTORREAL_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_09",
+        "code": "QAS_ESP_ALTORREAL_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_10",
+        "code": "QAS_ESP_ALTORREAL_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_11",
+        "code": "QAS_ESP_ALTORREAL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_12",
+        "code": "QAS_ESP_ALTORREAL_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_13",
+        "code": "QAS_ESP_ALTORREAL_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_14",
+        "code": "QAS_ESP_ALTORREAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_15",
+        "code": "QAS_ESP_ALTORREAL_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_16",
+        "code": "QAS_ESP_ALTORREAL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_17",
+        "code": "QAS_ESP_ALTORREAL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_ALTORREAL_18",
+        "code": "QAS_ESP_ALTORREAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_ALTORREAL_WHITE",
+        "code": "QAS_ESP_ALTORREAL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6809,
+        "totalMeters": 6227,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_05",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_06",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_08",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_09",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_10",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_11",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_12",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_14",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_15",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_18",
+            "yards": 407,
+            "meters": 372
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALTORREAL_YELLOW",
+        "code": "QAS_ESP_ALTORREAL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.7,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6582,
+        "totalMeters": 6018,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_02",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_03",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_06",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_09",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_10",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_11",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_12",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_13",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_14",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_15",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_16",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALTORREAL_BLUE",
+        "code": "QAS_ESP_ALTORREAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6000,
+        "totalMeters": 5486,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_02",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_05",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_06",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_07",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_09",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_10",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_11",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_14",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_15",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_16",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_ALTORREAL_RED",
+        "code": "QAS_ESP_ALTORREAL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5636,
+        "totalMeters": 5153,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_01",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_02",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_03",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_04",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_05",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_06",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_10",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_11",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_13",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_14",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_17",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ESP_ALTORREAL_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      }
+    ]
+  }
+}
