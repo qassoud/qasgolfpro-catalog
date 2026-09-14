@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LYON_SANGLIERS",
+    "code": "QAS_FRA_LYON_SANGLIERS",
+    "name": "Golf Club de Lyon - Les Sangliers",
+    "city": "Villette-d'Anthon",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Club de Lyon - Les Sangliers — https://www.golfify.io/courses/golf-club-de-lyon-les-sangliers",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_01",
+        "code": "QAS_FRA_LYON_SANGLIERS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_02",
+        "code": "QAS_FRA_LYON_SANGLIERS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_03",
+        "code": "QAS_FRA_LYON_SANGLIERS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_04",
+        "code": "QAS_FRA_LYON_SANGLIERS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_05",
+        "code": "QAS_FRA_LYON_SANGLIERS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_06",
+        "code": "QAS_FRA_LYON_SANGLIERS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_07",
+        "code": "QAS_FRA_LYON_SANGLIERS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_08",
+        "code": "QAS_FRA_LYON_SANGLIERS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_09",
+        "code": "QAS_FRA_LYON_SANGLIERS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_10",
+        "code": "QAS_FRA_LYON_SANGLIERS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_11",
+        "code": "QAS_FRA_LYON_SANGLIERS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_12",
+        "code": "QAS_FRA_LYON_SANGLIERS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_13",
+        "code": "QAS_FRA_LYON_SANGLIERS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_14",
+        "code": "QAS_FRA_LYON_SANGLIERS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_15",
+        "code": "QAS_FRA_LYON_SANGLIERS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_16",
+        "code": "QAS_FRA_LYON_SANGLIERS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_17",
+        "code": "QAS_FRA_LYON_SANGLIERS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_SANGLIERS_18",
+        "code": "QAS_FRA_LYON_SANGLIERS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SANGLIERS_BLACK",
+        "code": "QAS_FRA_LYON_SANGLIERS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7191,
+        "totalMeters": 6575,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_02",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_03",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_05",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_07",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_13",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_14",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_15",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_17",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_18",
+            "yards": 515,
+            "meters": 471
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SANGLIERS_WHITE",
+        "code": "QAS_FRA_LYON_SANGLIERS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6737,
+        "totalMeters": 6159,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_02",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_03",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_07",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_11",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_12",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_13",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_14",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_15",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_16",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_18",
+            "yards": 506,
+            "meters": 463
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SANGLIERS_YELLOW",
+        "code": "QAS_FRA_LYON_SANGLIERS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6397,
+        "totalMeters": 5851,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_02",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_03",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_04",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_05",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_09",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_12",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_15",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_16",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_18",
+            "yards": 457,
+            "meters": 418
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SANGLIERS_BLUE",
+        "code": "QAS_FRA_LYON_SANGLIERS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5811,
+        "totalMeters": 5314,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_04",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_07",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_10",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_14",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_16",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_SANGLIERS_RED",
+        "code": "QAS_FRA_LYON_SANGLIERS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5358,
+        "totalMeters": 4899,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_02",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_03",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_05",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_06",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_08",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_09",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_13",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_14",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_15",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_16",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_SANGLIERS_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_NANTES",
+    "code": "QAS_FRA_NANTES",
+    "name": "Golf de Nantes",
+    "city": "Vigneux-de-Bretagne",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Nantes — https://www.golfify.io/courses/golf-de-nantes",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_01",
+        "code": "QAS_FRA_NANTES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_02",
+        "code": "QAS_FRA_NANTES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_03",
+        "code": "QAS_FRA_NANTES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_04",
+        "code": "QAS_FRA_NANTES_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_05",
+        "code": "QAS_FRA_NANTES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_06",
+        "code": "QAS_FRA_NANTES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_07",
+        "code": "QAS_FRA_NANTES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_08",
+        "code": "QAS_FRA_NANTES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_09",
+        "code": "QAS_FRA_NANTES_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_10",
+        "code": "QAS_FRA_NANTES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_11",
+        "code": "QAS_FRA_NANTES_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_12",
+        "code": "QAS_FRA_NANTES_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_13",
+        "code": "QAS_FRA_NANTES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_14",
+        "code": "QAS_FRA_NANTES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_15",
+        "code": "QAS_FRA_NANTES_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_16",
+        "code": "QAS_FRA_NANTES_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_17",
+        "code": "QAS_FRA_NANTES_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_NANTES_18",
+        "code": "QAS_FRA_NANTES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_NANTES_WHITE",
+        "code": "QAS_FRA_NANTES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.1,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6400,
+        "totalMeters": 5851,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_NANTES_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_02",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_03",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_04",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_06",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_07",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_08",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_09",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_11",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_13",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_15",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_16",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_18",
+            "yards": 463,
+            "meters": 423
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_NANTES_YELLOW",
+        "code": "QAS_FRA_NANTES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6020,
+        "totalMeters": 5503,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_NANTES_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_02",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_03",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_04",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_06",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_07",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_09",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_10",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_11",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_12",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_13",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_15",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_17",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_18",
+            "yards": 463,
+            "meters": 423
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_NANTES_BLUE",
+        "code": "QAS_FRA_NANTES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5544,
+        "totalMeters": 5067,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_NANTES_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_03",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_04",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_06",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_07",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_10",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_11",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_12",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_14",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_15",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_16",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_18",
+            "yards": 442,
+            "meters": 404
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_NANTES_RED",
+        "code": "QAS_FRA_NANTES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.8,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5298,
+        "totalMeters": 4844,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_NANTES_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_03",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_04",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_05",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_06",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_07",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_10",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_12",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_14",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_15",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_17",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_NANTES_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      }
+    ]
+  }
+}

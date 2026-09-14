@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_PORNIC",
+    "code": "QAS_FRA_PORNIC",
+    "name": "Golf de Pornic",
+    "city": "Pornic",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Pornic — https://www.golfify.io/courses/golf-de-pornic",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_01",
+        "code": "QAS_FRA_PORNIC_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_02",
+        "code": "QAS_FRA_PORNIC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_03",
+        "code": "QAS_FRA_PORNIC_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_04",
+        "code": "QAS_FRA_PORNIC_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_05",
+        "code": "QAS_FRA_PORNIC_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_06",
+        "code": "QAS_FRA_PORNIC_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_07",
+        "code": "QAS_FRA_PORNIC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_08",
+        "code": "QAS_FRA_PORNIC_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_09",
+        "code": "QAS_FRA_PORNIC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_10",
+        "code": "QAS_FRA_PORNIC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_11",
+        "code": "QAS_FRA_PORNIC_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_12",
+        "code": "QAS_FRA_PORNIC_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_13",
+        "code": "QAS_FRA_PORNIC_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_14",
+        "code": "QAS_FRA_PORNIC_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_15",
+        "code": "QAS_FRA_PORNIC_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_16",
+        "code": "QAS_FRA_PORNIC_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_17",
+        "code": "QAS_FRA_PORNIC_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_PORNIC_18",
+        "code": "QAS_FRA_PORNIC_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_PORNIC_WHITE",
+        "code": "QAS_FRA_PORNIC_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6652,
+        "totalMeters": 6082,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PORNIC_01",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_04",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_05",
+            "yards": 601,
+            "meters": 550
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_06",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_07",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_08",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_11",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_12",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_14",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_16",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_17",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_18",
+            "yards": 500,
+            "meters": 457
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PORNIC_YELLOW",
+        "code": "QAS_FRA_PORNIC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6032,
+        "totalMeters": 5515,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PORNIC_01",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_05",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_06",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_09",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_10",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_12",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_13",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_15",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_16",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_17",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_18",
+            "yards": 453,
+            "meters": 414
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PORNIC_BLUE",
+        "code": "QAS_FRA_PORNIC_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5448,
+        "totalMeters": 4982,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PORNIC_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_02",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_03",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_04",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_05",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_06",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_07",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_08",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_10",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_11",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_12",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_13",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_16",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_18",
+            "yards": 412,
+            "meters": 377
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_PORNIC_RED",
+        "code": "QAS_FRA_PORNIC_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4887,
+        "totalMeters": 4469,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_PORNIC_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_02",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_04",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_05",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_06",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_07",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_09",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_10",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_11",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_12",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_13",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_15",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_16",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_17",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_PORNIC_18",
+            "yards": 386,
+            "meters": 353
+          }
+        ]
+      }
+    ]
+  }
+}

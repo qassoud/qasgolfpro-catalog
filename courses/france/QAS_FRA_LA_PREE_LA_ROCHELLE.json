@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LA_PREE_LA_ROCHELLE",
+    "code": "QAS_FRA_LA_PREE_LA_ROCHELLE",
+    "name": "Golf de la Prée La Rochelle",
+    "city": "Marsilly",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de la Prée La Rochelle — https://www.golfify.io/courses/golf-de-la-pree-la-rochelle",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LA_PREE_LA_ROCHELLE_WHITE",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6514,
+        "totalMeters": 5956,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PREE_LA_ROCHELLE_YELLOW",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6233,
+        "totalMeters": 5701,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PREE_LA_ROCHELLE_BLUE",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5566,
+        "totalMeters": 5091,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LA_PREE_LA_ROCHELLE_RED",
+        "code": "QAS_FRA_LA_PREE_LA_ROCHELLE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5236,
+        "totalMeters": 4788,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_02",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_03",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_04",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_05",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_08",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_11",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_14",
+            "yards": 83,
+            "meters": 76
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_16",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_17",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_FRA_LA_PREE_LA_ROCHELLE_18",
+            "yards": 302,
+            "meters": 276
+          }
+        ]
+      }
+    ]
+  }
+}

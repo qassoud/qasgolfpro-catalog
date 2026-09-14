@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_ORMESSON",
+    "code": "QAS_FRA_ORMESSON",
+    "name": "Golf d'Ormesson",
+    "city": "Chennevières-sur-Marne",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf d'Ormesson — https://www.golfify.io/courses/golf-d-ormesson",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_01",
+        "code": "QAS_FRA_ORMESSON_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_02",
+        "code": "QAS_FRA_ORMESSON_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_03",
+        "code": "QAS_FRA_ORMESSON_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_04",
+        "code": "QAS_FRA_ORMESSON_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_05",
+        "code": "QAS_FRA_ORMESSON_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_06",
+        "code": "QAS_FRA_ORMESSON_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_07",
+        "code": "QAS_FRA_ORMESSON_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_08",
+        "code": "QAS_FRA_ORMESSON_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_09",
+        "code": "QAS_FRA_ORMESSON_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_10",
+        "code": "QAS_FRA_ORMESSON_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_11",
+        "code": "QAS_FRA_ORMESSON_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_12",
+        "code": "QAS_FRA_ORMESSON_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_13",
+        "code": "QAS_FRA_ORMESSON_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_14",
+        "code": "QAS_FRA_ORMESSON_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_15",
+        "code": "QAS_FRA_ORMESSON_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_16",
+        "code": "QAS_FRA_ORMESSON_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_17",
+        "code": "QAS_FRA_ORMESSON_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ORMESSON_18",
+        "code": "QAS_FRA_ORMESSON_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_ORMESSON_WHITE",
+        "code": "QAS_FRA_ORMESSON_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6707,
+        "totalMeters": 6132,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ORMESSON_01",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_02",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_03",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_08",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_09",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_11",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_12",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_13",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_14",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_16",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_17",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ORMESSON_YELLOW",
+        "code": "QAS_FRA_ORMESSON_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6429,
+        "totalMeters": 5878,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ORMESSON_01",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_02",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_04",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_05",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_08",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_09",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_11",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_12",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_13",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_16",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_17",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ORMESSON_BLUE",
+        "code": "QAS_FRA_ORMESSON_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5659,
+        "totalMeters": 5173,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ORMESSON_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_05",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_07",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_08",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_09",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_16",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_17",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ORMESSON_RED",
+        "code": "QAS_FRA_ORMESSON_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5423,
+        "totalMeters": 4957,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ORMESSON_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_04",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_05",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_07",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_09",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_12",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_14",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_16",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_17",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_ORMESSON_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MONTPELLIER_MASSANE",
+    "code": "QAS_FRA_MONTPELLIER_MASSANE",
+    "name": "Golf de Montpellier Massane",
+    "city": "Baillargues",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Montpellier Massane — https://www.golfify.io/courses/golf-de-montpellier-massane-montpellier-massane",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_01",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_02",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_03",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_04",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_05",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_06",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_07",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_08",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_09",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_10",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_11",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_12",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_13",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_14",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_15",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_16",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_17",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTPELLIER_MASSANE_18",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MONTPELLIER_MASSANE_WHITE",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6748,
+        "totalMeters": 6169,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_03",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_04",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_05",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_06",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_07",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_09",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_10",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_11",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_13",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_14",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_15",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_17",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTPELLIER_MASSANE_YELLOW",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6227,
+        "totalMeters": 5696,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_03",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_06",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_07",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_08",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_09",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_11",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_12",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_13",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_14",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_17",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_18",
+            "yards": 387,
+            "meters": 354
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTPELLIER_MASSANE_BLUE",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5717,
+        "totalMeters": 5230,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_05",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_06",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_07",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_08",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_09",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_11",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_12",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_13",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_14",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_15",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_18",
+            "yards": 362,
+            "meters": 331
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTPELLIER_MASSANE_RED",
+        "code": "QAS_FRA_MONTPELLIER_MASSANE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5544,
+        "totalMeters": 5071,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_05",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_06",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_07",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_08",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_09",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_11",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_13",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_14",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_MONTPELLIER_MASSANE_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      }
+    ]
+  }
+}

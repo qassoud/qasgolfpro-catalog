@@ -1,0 +1,606 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_ROYAN_MAINE_GAUDIN",
+    "code": "QAS_FRA_ROYAN_MAINE_GAUDIN",
+    "name": "Golf de Royan Maine Gaudin",
+    "city": "Saint-Palais-sur-Mer",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Royan Maine Gaudin — https://www.golfify.io/courses/golf-de-royan-maine-gaudin",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_ROYAN_MAINE_GAUDIN_WHITE",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.2,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6480,
+        "totalMeters": 5927,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ROYAN_MAINE_GAUDIN_YELLOW",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.8,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 135,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6016,
+        "totalMeters": 5501,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ROYAN_MAINE_GAUDIN_BLUE",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.8,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5582,
+        "totalMeters": 5105,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_ROYAN_MAINE_GAUDIN_RED",
+        "code": "QAS_FRA_ROYAN_MAINE_GAUDIN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.4,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5268,
+        "totalMeters": 4817,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_02",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_04",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_06",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_07",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_09",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_10",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_11",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_12",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_14",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_15",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_17",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_ROYAN_MAINE_GAUDIN_18",
+            "yards": 252,
+            "meters": 230
+          }
+        ]
+      }
+    ]
+  }
+}

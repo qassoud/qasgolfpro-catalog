@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MONTAUBAN_LESTANG",
+    "code": "QAS_FRA_MONTAUBAN_LESTANG",
+    "name": "Golf de Montauban L'Estang",
+    "city": "Montauban",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Montauban L'Estang — https://www.golfify.io/courses/golf-de-montauban-l-estang",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_01",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_02",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_03",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_04",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_05",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_06",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_07",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_08",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_09",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_10",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_11",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_12",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_13",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_14",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_15",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_16",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_17",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MONTAUBAN_LESTANG_18",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MONTAUBAN_LESTANG_WHITE",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6769,
+        "totalMeters": 6188,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_01",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_02",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_03",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_04",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_05",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_06",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_08",
+            "yards": 588,
+            "meters": 538
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_11",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_12",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_13",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_15",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_17",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_18",
+            "yards": 541,
+            "meters": 495
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTAUBAN_LESTANG_YELLOW",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6564,
+        "totalMeters": 6003,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_06",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_08",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_11",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_12",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_13",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_14",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_18",
+            "yards": 518,
+            "meters": 474
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTAUBAN_LESTANG_BLUE",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5957,
+        "totalMeters": 5448,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_01",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_03",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_06",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_08",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_11",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_12",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_16",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_18",
+            "yards": 484,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MONTAUBAN_LESTANG_RED",
+        "code": "QAS_FRA_MONTAUBAN_LESTANG_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5470,
+        "totalMeters": 5000,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_01",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_04",
+            "yards": 82,
+            "meters": 75
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_05",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_06",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_07",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_08",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_09",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_11",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_12",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_15",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_16",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_17",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_MONTAUBAN_LESTANG_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      }
+    ]
+  }
+}

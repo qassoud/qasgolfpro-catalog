@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LAC_ANNECY",
+    "code": "QAS_FRA_LAC_ANNECY",
+    "name": "Golf du Lac d'Annecy",
+    "city": "Talloires-Montmin",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 69,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf du Lac d'Annecy — https://www.golfify.io/courses/golf-du-lac-d-annecy",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_01",
+        "code": "QAS_FRA_LAC_ANNECY_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_02",
+        "code": "QAS_FRA_LAC_ANNECY_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_03",
+        "code": "QAS_FRA_LAC_ANNECY_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_04",
+        "code": "QAS_FRA_LAC_ANNECY_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_05",
+        "code": "QAS_FRA_LAC_ANNECY_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_06",
+        "code": "QAS_FRA_LAC_ANNECY_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_07",
+        "code": "QAS_FRA_LAC_ANNECY_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_08",
+        "code": "QAS_FRA_LAC_ANNECY_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_09",
+        "code": "QAS_FRA_LAC_ANNECY_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_10",
+        "code": "QAS_FRA_LAC_ANNECY_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_11",
+        "code": "QAS_FRA_LAC_ANNECY_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_12",
+        "code": "QAS_FRA_LAC_ANNECY_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_13",
+        "code": "QAS_FRA_LAC_ANNECY_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_14",
+        "code": "QAS_FRA_LAC_ANNECY_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_15",
+        "code": "QAS_FRA_LAC_ANNECY_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_16",
+        "code": "QAS_FRA_LAC_ANNECY_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_17",
+        "code": "QAS_FRA_LAC_ANNECY_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LAC_ANNECY_18",
+        "code": "QAS_FRA_LAC_ANNECY_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LAC_ANNECY_WHITE",
+        "code": "QAS_FRA_LAC_ANNECY_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 66.9,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 119,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5386,
+        "totalMeters": 4926,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_02",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_03",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_04",
+            "yards": 238,
+            "meters": 218
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_06",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_09",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_10",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_11",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_12",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_13",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_15",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_17",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LAC_ANNECY_YELLOW",
+        "code": "QAS_FRA_LAC_ANNECY_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 65.7,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 117,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5139,
+        "totalMeters": 4698,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_02",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_03",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_04",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_05",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_06",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_07",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_09",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_10",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_11",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_13",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_14",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_15",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LAC_ANNECY_BLUE",
+        "code": "QAS_FRA_LAC_ANNECY_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.8,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.8,
+            "slopeRating": 117,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4725,
+        "totalMeters": 4318,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_01",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_02",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_03",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_05",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_06",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_07",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_09",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_10",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_11",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_12",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_13",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_15",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_16",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_17",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_18",
+            "yards": 334,
+            "meters": 305
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LAC_ANNECY_RED",
+        "code": "QAS_FRA_LAC_ANNECY_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.5,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 66.5,
+            "slopeRating": 113,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4453,
+        "totalMeters": 4071,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_01",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_02",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_03",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_06",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_07",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_09",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_10",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_11",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_13",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_15",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_16",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_17",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_LAC_ANNECY_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      }
+    ]
+  }
+}

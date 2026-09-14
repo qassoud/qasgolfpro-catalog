@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_YVELINES_CHENES",
+    "code": "QAS_FRA_YVELINES_CHENES",
+    "name": "Golf des Yvelines - Les Chênes",
+    "city": "La Queue-les-Yvelines",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf des Yvelines - Les Chênes — https://www.golfify.io/courses/golf-des-yvelines-les-chenes",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_01",
+        "code": "QAS_FRA_YVELINES_CHENES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_02",
+        "code": "QAS_FRA_YVELINES_CHENES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_03",
+        "code": "QAS_FRA_YVELINES_CHENES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_04",
+        "code": "QAS_FRA_YVELINES_CHENES_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_05",
+        "code": "QAS_FRA_YVELINES_CHENES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_06",
+        "code": "QAS_FRA_YVELINES_CHENES_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_07",
+        "code": "QAS_FRA_YVELINES_CHENES_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_08",
+        "code": "QAS_FRA_YVELINES_CHENES_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_09",
+        "code": "QAS_FRA_YVELINES_CHENES_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_10",
+        "code": "QAS_FRA_YVELINES_CHENES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_11",
+        "code": "QAS_FRA_YVELINES_CHENES_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_12",
+        "code": "QAS_FRA_YVELINES_CHENES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_13",
+        "code": "QAS_FRA_YVELINES_CHENES_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_14",
+        "code": "QAS_FRA_YVELINES_CHENES_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_15",
+        "code": "QAS_FRA_YVELINES_CHENES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_16",
+        "code": "QAS_FRA_YVELINES_CHENES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_17",
+        "code": "QAS_FRA_YVELINES_CHENES_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_YVELINES_CHENES_18",
+        "code": "QAS_FRA_YVELINES_CHENES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_YVELINES_CHENES_WHITE",
+        "code": "QAS_FRA_YVELINES_CHENES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6939,
+        "totalMeters": 6344,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_02",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_03",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_04",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_06",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_07",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_08",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_09",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_11",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_12",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_13",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_14",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_15",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_17",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_18",
+            "yards": 573,
+            "meters": 524
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_YVELINES_CHENES_YELLOW",
+        "code": "QAS_FRA_YVELINES_CHENES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6534,
+        "totalMeters": 5974,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_01",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_02",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_03",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_06",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_08",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_09",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_10",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_13",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_14",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_17",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_18",
+            "yards": 539,
+            "meters": 493
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_YVELINES_CHENES_BLUE",
+        "code": "QAS_FRA_YVELINES_CHENES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5772,
+        "totalMeters": 5278,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_04",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_06",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_07",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_08",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_09",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_11",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_12",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_13",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_16",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_17",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_YVELINES_CHENES_RED",
+        "code": "QAS_FRA_YVELINES_CHENES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5485,
+        "totalMeters": 5015,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_04",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_06",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_07",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_08",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_09",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_11",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_13",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_16",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_YVELINES_CHENES_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      }
+    ]
+  }
+}

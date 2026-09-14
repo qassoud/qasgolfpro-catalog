@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BUSSY_GUERMANTES",
+    "code": "QAS_FRA_BUSSY_GUERMANTES",
+    "name": "Golf de Bussy-Guermantes - La Jonchère",
+    "city": "Bussy-Saint-Georges",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Bussy-Guermantes - La Jonchère — https://www.golfify.io/courses/golf-de-bussy-guermantes-marne-la-vallee-la-jonchere",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_01",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_02",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_03",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_04",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_05",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_06",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_07",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_08",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_09",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_10",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_11",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_12",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_13",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_14",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_15",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_16",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_17",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BUSSY_GUERMANTES_18",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BUSSY_GUERMANTES_WHITE",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.5,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6684,
+        "totalMeters": 6111,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_02",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_04",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_05",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_08",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_10",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_11",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_13",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_14",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_18",
+            "yards": 530,
+            "meters": 485
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BUSSY_GUERMANTES_YELLOW",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6047,
+        "totalMeters": 5529,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_02",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_04",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_05",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_06",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_07",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_10",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_15",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_18",
+            "yards": 491,
+            "meters": 449
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BUSSY_GUERMANTES_BLUE",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5533,
+        "totalMeters": 5059,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_04",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_05",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_07",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_09",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_10",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_12",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_13",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_15",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BUSSY_GUERMANTES_RED",
+        "code": "QAS_FRA_BUSSY_GUERMANTES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5092,
+        "totalMeters": 4654,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_03",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_05",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_06",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_07",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_08",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_09",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_12",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_13",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_14",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_15",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_BUSSY_GUERMANTES_18",
+            "yards": 428,
+            "meters": 391
+          }
+        ]
+      }
+    ]
+  }
+}

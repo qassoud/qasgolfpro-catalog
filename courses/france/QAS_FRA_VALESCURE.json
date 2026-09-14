@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VALESCURE",
+    "code": "QAS_FRA_VALESCURE",
+    "name": "Golf de Valescure - Old Course",
+    "city": "Valescure",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 68,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Valescure - Old Course — https://www.golfify.io/courses/golf-de-valescure",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_01",
+        "code": "QAS_FRA_VALESCURE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_02",
+        "code": "QAS_FRA_VALESCURE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_03",
+        "code": "QAS_FRA_VALESCURE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_04",
+        "code": "QAS_FRA_VALESCURE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_05",
+        "code": "QAS_FRA_VALESCURE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_06",
+        "code": "QAS_FRA_VALESCURE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_07",
+        "code": "QAS_FRA_VALESCURE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_08",
+        "code": "QAS_FRA_VALESCURE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_09",
+        "code": "QAS_FRA_VALESCURE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_10",
+        "code": "QAS_FRA_VALESCURE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_11",
+        "code": "QAS_FRA_VALESCURE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_12",
+        "code": "QAS_FRA_VALESCURE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_13",
+        "code": "QAS_FRA_VALESCURE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_14",
+        "code": "QAS_FRA_VALESCURE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_15",
+        "code": "QAS_FRA_VALESCURE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_16",
+        "code": "QAS_FRA_VALESCURE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_17",
+        "code": "QAS_FRA_VALESCURE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VALESCURE_18",
+        "code": "QAS_FRA_VALESCURE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VALESCURE_WHITE",
+        "code": "QAS_FRA_VALESCURE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.2,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 135,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 5501,
+        "totalMeters": 5030,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VALESCURE_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_02",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_03",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_04",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_05",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_06",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_07",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_08",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_09",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_10",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_11",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_13",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_14",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_17",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_18",
+            "yards": 302,
+            "meters": 276
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VALESCURE_YELLOW",
+        "code": "QAS_FRA_VALESCURE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 66.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 131,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 5187,
+        "totalMeters": 4742,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VALESCURE_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_03",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_04",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_05",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_09",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_11",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_12",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_13",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_14",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_17",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_18",
+            "yards": 271,
+            "meters": 248
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VALESCURE_BLUE",
+        "code": "QAS_FRA_VALESCURE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 135,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 4926,
+        "totalMeters": 4503,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VALESCURE_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_02",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_03",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_04",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_05",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_09",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_13",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_14",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_17",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_18",
+            "yards": 252,
+            "meters": 230
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VALESCURE_RED",
+        "code": "QAS_FRA_VALESCURE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 69.1,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.1,
+            "slopeRating": 129,
+            "ratingPar": 68
+          }
+        ],
+        "totalYards": 4703,
+        "totalMeters": 4302,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VALESCURE_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_02",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_03",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_04",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_05",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_08",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_09",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_10",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_11",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_13",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_14",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_15",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_16",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_17",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VALESCURE_18",
+            "yards": 234,
+            "meters": 214
+          }
+        ]
+      }
+    ]
+  }
+}

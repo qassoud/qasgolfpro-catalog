@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_FRESLONNIERE",
+    "code": "QAS_FRA_FRESLONNIERE",
+    "name": "Golf de la Freslonnière",
+    "city": "Le Rheu",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de la Freslonnière — https://www.golfify.io/courses/golf-de-la-freslonniere",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_01",
+        "code": "QAS_FRA_FRESLONNIERE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_02",
+        "code": "QAS_FRA_FRESLONNIERE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_03",
+        "code": "QAS_FRA_FRESLONNIERE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_04",
+        "code": "QAS_FRA_FRESLONNIERE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_05",
+        "code": "QAS_FRA_FRESLONNIERE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_06",
+        "code": "QAS_FRA_FRESLONNIERE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_07",
+        "code": "QAS_FRA_FRESLONNIERE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_08",
+        "code": "QAS_FRA_FRESLONNIERE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_09",
+        "code": "QAS_FRA_FRESLONNIERE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_10",
+        "code": "QAS_FRA_FRESLONNIERE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_11",
+        "code": "QAS_FRA_FRESLONNIERE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_12",
+        "code": "QAS_FRA_FRESLONNIERE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_13",
+        "code": "QAS_FRA_FRESLONNIERE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_14",
+        "code": "QAS_FRA_FRESLONNIERE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_15",
+        "code": "QAS_FRA_FRESLONNIERE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_16",
+        "code": "QAS_FRA_FRESLONNIERE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_17",
+        "code": "QAS_FRA_FRESLONNIERE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FRESLONNIERE_18",
+        "code": "QAS_FRA_FRESLONNIERE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_FRESLONNIERE_BLACK",
+        "code": "QAS_FRA_FRESLONNIERE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6187,
+        "totalMeters": 5657,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_01",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_02",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_07",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_08",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_10",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_11",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_12",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_14",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_15",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_17",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FRESLONNIERE_WHITE",
+        "code": "QAS_FRA_FRESLONNIERE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6187,
+        "totalMeters": 5657,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_01",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_02",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_07",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_08",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_10",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_11",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_12",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_14",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_15",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_17",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FRESLONNIERE_YELLOW",
+        "code": "QAS_FRA_FRESLONNIERE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5874,
+        "totalMeters": 5370,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_01",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_03",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_04",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_07",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_08",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_10",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_11",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_12",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_14",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_15",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_16",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FRESLONNIERE_BLUE",
+        "code": "QAS_FRA_FRESLONNIERE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5414,
+        "totalMeters": 4949,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_03",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_06",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_07",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_08",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_11",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_12",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_13",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_14",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_15",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_17",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_18",
+            "yards": 278,
+            "meters": 254
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FRESLONNIERE_RED",
+        "code": "QAS_FRA_FRESLONNIERE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5020,
+        "totalMeters": 4590,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_01",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_03",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_04",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_05",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_07",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_08",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_09",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_10",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_12",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_13",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_14",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_15",
+            "yards": 81,
+            "meters": 74
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_16",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_FRESLONNIERE_18",
+            "yards": 257,
+            "meters": 235
+          }
+        ]
+      }
+    ]
+  }
+}

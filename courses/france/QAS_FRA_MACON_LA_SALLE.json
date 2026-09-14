@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_MACON_LA_SALLE",
+    "code": "QAS_FRA_MACON_LA_SALLE",
+    "name": "Golf de Mâcon la Salle",
+    "city": "La Salle",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Mâcon la Salle — https://www.golfify.io/courses/golf-de-macon-la-salle",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_01",
+        "code": "QAS_FRA_MACON_LA_SALLE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_02",
+        "code": "QAS_FRA_MACON_LA_SALLE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_03",
+        "code": "QAS_FRA_MACON_LA_SALLE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_04",
+        "code": "QAS_FRA_MACON_LA_SALLE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_05",
+        "code": "QAS_FRA_MACON_LA_SALLE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_06",
+        "code": "QAS_FRA_MACON_LA_SALLE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_07",
+        "code": "QAS_FRA_MACON_LA_SALLE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_08",
+        "code": "QAS_FRA_MACON_LA_SALLE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_09",
+        "code": "QAS_FRA_MACON_LA_SALLE_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_10",
+        "code": "QAS_FRA_MACON_LA_SALLE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_11",
+        "code": "QAS_FRA_MACON_LA_SALLE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_12",
+        "code": "QAS_FRA_MACON_LA_SALLE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_13",
+        "code": "QAS_FRA_MACON_LA_SALLE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_14",
+        "code": "QAS_FRA_MACON_LA_SALLE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_15",
+        "code": "QAS_FRA_MACON_LA_SALLE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_16",
+        "code": "QAS_FRA_MACON_LA_SALLE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_17",
+        "code": "QAS_FRA_MACON_LA_SALLE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_MACON_LA_SALLE_18",
+        "code": "QAS_FRA_MACON_LA_SALLE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_MACON_LA_SALLE_BLACK",
+        "code": "QAS_FRA_MACON_LA_SALLE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6588,
+        "totalMeters": 6022,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_02",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_05",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_08",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_09",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_11",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_16",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_17",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MACON_LA_SALLE_WHITE",
+        "code": "QAS_FRA_MACON_LA_SALLE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6588,
+        "totalMeters": 6022,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_02",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_05",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_08",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_09",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_11",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_16",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_17",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MACON_LA_SALLE_YELLOW",
+        "code": "QAS_FRA_MACON_LA_SALLE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6275,
+        "totalMeters": 5739,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_02",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_03",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_05",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_08",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_09",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_14",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_15",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MACON_LA_SALLE_BLUE",
+        "code": "QAS_FRA_MACON_LA_SALLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5503,
+        "totalMeters": 5030,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_02",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_05",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_08",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_09",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_12",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_13",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_15",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_16",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_17",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_18",
+            "yards": 446,
+            "meters": 408
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_MACON_LA_SALLE_RED",
+        "code": "QAS_FRA_MACON_LA_SALLE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5290,
+        "totalMeters": 4837,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_02",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_03",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_07",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_08",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_09",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_10",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_11",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_12",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_13",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_16",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_17",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_MACON_LA_SALLE_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_COUDRAY",
+    "code": "QAS_FRA_COUDRAY",
+    "name": "Golf du Coudray - Coudray",
+    "city": "Le Coudray-Montceaux",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf du Coudray - Coudray — https://www.golfify.io/courses/golf-du-coudray-coudray",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_01",
+        "code": "QAS_FRA_COUDRAY_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_02",
+        "code": "QAS_FRA_COUDRAY_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_03",
+        "code": "QAS_FRA_COUDRAY_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_04",
+        "code": "QAS_FRA_COUDRAY_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_05",
+        "code": "QAS_FRA_COUDRAY_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_06",
+        "code": "QAS_FRA_COUDRAY_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_07",
+        "code": "QAS_FRA_COUDRAY_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_08",
+        "code": "QAS_FRA_COUDRAY_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_09",
+        "code": "QAS_FRA_COUDRAY_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_10",
+        "code": "QAS_FRA_COUDRAY_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_11",
+        "code": "QAS_FRA_COUDRAY_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_12",
+        "code": "QAS_FRA_COUDRAY_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_13",
+        "code": "QAS_FRA_COUDRAY_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_14",
+        "code": "QAS_FRA_COUDRAY_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_15",
+        "code": "QAS_FRA_COUDRAY_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_16",
+        "code": "QAS_FRA_COUDRAY_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_17",
+        "code": "QAS_FRA_COUDRAY_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COUDRAY_18",
+        "code": "QAS_FRA_COUDRAY_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_COUDRAY_WHITE",
+        "code": "QAS_FRA_COUDRAY_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.2,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 120,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6299,
+        "totalMeters": 5761,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COUDRAY_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_04",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_05",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_06",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_07",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_08",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_09",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_10",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_12",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_14",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_15",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_18",
+            "yards": 374,
+            "meters": 342
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COUDRAY_YELLOW",
+        "code": "QAS_FRA_COUDRAY_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.2,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 117,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6078,
+        "totalMeters": 5559,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COUDRAY_01",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_02",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_03",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_04",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_08",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_09",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_11",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_12",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_15",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_16",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COUDRAY_BLUE",
+        "code": "QAS_FRA_COUDRAY_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.3,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 118,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5488,
+        "totalMeters": 5018,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COUDRAY_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_03",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_05",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_06",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_07",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_08",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_09",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_10",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_12",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_13",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_14",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_15",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_16",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_18",
+            "yards": 327,
+            "meters": 299
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COUDRAY_RED",
+        "code": "QAS_FRA_COUDRAY_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.5,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 116,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5342,
+        "totalMeters": 4884,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COUDRAY_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_03",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_04",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_05",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_06",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_07",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_09",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_10",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_11",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_13",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_14",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_15",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_17",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_COUDRAY_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      }
+    ]
+  }
+}

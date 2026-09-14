@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_GIEZ_BELVEDERE",
+    "code": "QAS_FRA_GIEZ_BELVEDERE",
+    "name": "Golf de Giez - Le Belvédère",
+    "city": "Giez",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Giez - Le Belvédère — https://www.golfify.io/courses/golf-de-giez-le-belvedere",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_01",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_02",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_03",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_04",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_05",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_06",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_07",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_08",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_09",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_10",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_11",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_12",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_13",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_14",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_15",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_16",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_17",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GIEZ_BELVEDERE_18",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_GIEZ_BELVEDERE_BLACK",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6363,
+        "totalMeters": 5820,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_01",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_02",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_08",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_10",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_11",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_16",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_17",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GIEZ_BELVEDERE_WHITE",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6298,
+        "totalMeters": 5760,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_01",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_02",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_08",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_10",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_11",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_16",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_17",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GIEZ_BELVEDERE_YELLOW",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5949,
+        "totalMeters": 5439,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_01",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_02",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_04",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_06",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_07",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_08",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_10",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_11",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_12",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_16",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_17",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_18",
+            "yards": 467,
+            "meters": 427
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GIEZ_BELVEDERE_BLUE",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5306,
+        "totalMeters": 4852,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_02",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_03",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_04",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_05",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_06",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_07",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_08",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_12",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_14",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_16",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_17",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_18",
+            "yards": 424,
+            "meters": 388
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GIEZ_BELVEDERE_RED",
+        "code": "QAS_FRA_GIEZ_BELVEDERE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5039,
+        "totalMeters": 4610,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_01",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_02",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_03",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_04",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_05",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_06",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_07",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_08",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_12",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_13",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_14",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_15",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_16",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_17",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_GIEZ_BELVEDERE_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VOLCANS_BRUYERES",
+    "code": "QAS_FRA_VOLCANS_BRUYERES",
+    "name": "Golf des Volcans - Les Bruyères",
+    "city": "Orcines",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf des Volcans - Les Bruyères — https://www.golfify.io/courses/golf-des-volcans-les-bruyeres",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_01",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_02",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_03",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_04",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_05",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_06",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_07",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_08",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_09",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_10",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_11",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_12",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_13",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_14",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_15",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_16",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_17",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VOLCANS_BRUYERES_18",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VOLCANS_BRUYERES_BLACK",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6491,
+        "totalMeters": 5937,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_02",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_03",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_05",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_06",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_08",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_10",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_13",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_14",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_15",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_16",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VOLCANS_BRUYERES_WHITE",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6134,
+        "totalMeters": 5609,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_02",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_13",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_14",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_16",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VOLCANS_BRUYERES_YELLOW",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5892,
+        "totalMeters": 5386,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_02",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_06",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_09",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_16",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_18",
+            "yards": 360,
+            "meters": 329
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VOLCANS_BRUYERES_BLUE",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5176,
+        "totalMeters": 4734,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_03",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_04",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_05",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_07",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_08",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_10",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_11",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_14",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_16",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_17",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_18",
+            "yards": 308,
+            "meters": 282
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VOLCANS_BRUYERES_RED",
+        "code": "QAS_FRA_VOLCANS_BRUYERES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4949,
+        "totalMeters": 4526,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_01",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_03",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_04",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_05",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_09",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_11",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_12",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_13",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_15",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_17",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_VOLCANS_BRUYERES_18",
+            "yards": 300,
+            "meters": 274
+          }
+        ]
+      }
+    ]
+  }
+}

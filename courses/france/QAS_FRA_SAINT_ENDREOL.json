@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_ENDREOL",
+    "code": "QAS_FRA_SAINT_ENDREOL",
+    "name": "Golf de Saint-Endréol",
+    "city": "La Motte-en-Provence",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Saint-Endréol — https://www.golfify.io/courses/golf-de-saint-endreol",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_01",
+        "code": "QAS_FRA_SAINT_ENDREOL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_02",
+        "code": "QAS_FRA_SAINT_ENDREOL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_03",
+        "code": "QAS_FRA_SAINT_ENDREOL_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_04",
+        "code": "QAS_FRA_SAINT_ENDREOL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_05",
+        "code": "QAS_FRA_SAINT_ENDREOL_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_06",
+        "code": "QAS_FRA_SAINT_ENDREOL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_07",
+        "code": "QAS_FRA_SAINT_ENDREOL_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_08",
+        "code": "QAS_FRA_SAINT_ENDREOL_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_09",
+        "code": "QAS_FRA_SAINT_ENDREOL_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_10",
+        "code": "QAS_FRA_SAINT_ENDREOL_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_11",
+        "code": "QAS_FRA_SAINT_ENDREOL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_12",
+        "code": "QAS_FRA_SAINT_ENDREOL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_13",
+        "code": "QAS_FRA_SAINT_ENDREOL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_14",
+        "code": "QAS_FRA_SAINT_ENDREOL_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_15",
+        "code": "QAS_FRA_SAINT_ENDREOL_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_16",
+        "code": "QAS_FRA_SAINT_ENDREOL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_17",
+        "code": "QAS_FRA_SAINT_ENDREOL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_ENDREOL_18",
+        "code": "QAS_FRA_SAINT_ENDREOL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ENDREOL_BLACK",
+        "code": "QAS_FRA_SAINT_ENDREOL_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.8,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6747,
+        "totalMeters": 6169,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_02",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_04",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_05",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_08",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_09",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_10",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_11",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_13",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_14",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_15",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_16",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_17",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ENDREOL_WHITE",
+        "code": "QAS_FRA_SAINT_ENDREOL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.5,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6426,
+        "totalMeters": 5878,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_04",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_05",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_07",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_08",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_09",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_11",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_13",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_14",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_15",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_16",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_17",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ENDREOL_YELLOW",
+        "code": "QAS_FRA_SAINT_ENDREOL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.7,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 147,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5903,
+        "totalMeters": 5398,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_02",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_03",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_05",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_07",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_09",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_11",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_14",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_15",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_16",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ENDREOL_BLUE",
+        "code": "QAS_FRA_SAINT_ENDREOL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.8,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.8,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 147,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5470,
+        "totalMeters": 5000,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_02",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_03",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_04",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_05",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_06",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_07",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_10",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_14",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_15",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_ENDREOL_RED",
+        "code": "QAS_FRA_SAINT_ENDREOL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.8,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.0,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5045,
+        "totalMeters": 4613,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_01",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_02",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_03",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_04",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_05",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_06",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_10",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_12",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_13",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_15",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_16",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_ENDREOL_18",
+            "yards": 299,
+            "meters": 273
+          }
+        ]
+      }
+    ]
+  }
+}

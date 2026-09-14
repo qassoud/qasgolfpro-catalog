@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CHANTILLY_LONGERES",
+    "code": "QAS_FRA_CHANTILLY_LONGERES",
+    "name": "Golf de Chantilly - Longères",
+    "city": "Vineuil-Saint-Firmin",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Chantilly - Longères — https://www.golfify.io/courses/golf-de-chantilly-longeres",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_01",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_02",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_03",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_04",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_05",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_06",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_07",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_08",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_09",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_10",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_11",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_12",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_13",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_14",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_15",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_16",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_17",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHANTILLY_LONGERES_18",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CHANTILLY_LONGERES_BLACK",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6913,
+        "totalMeters": 6320,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_04",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_05",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_06",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_07",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_08",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_09",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_10",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_12",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_17",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_18",
+            "yards": 544,
+            "meters": 497
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANTILLY_LONGERES_WHITE",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6748,
+        "totalMeters": 6169,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_02",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_05",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_06",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_07",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_08",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_09",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_10",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_12",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_13",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_15",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_18",
+            "yards": 513,
+            "meters": 469
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANTILLY_LONGERES_YELLOW",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6253,
+        "totalMeters": 5718,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_03",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_05",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_06",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_07",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_10",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_12",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_15",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_16",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_17",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANTILLY_LONGERES_BLUE",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5707,
+        "totalMeters": 5218,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_03",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_05",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_06",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_07",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_09",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_10",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_11",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_12",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_15",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_17",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHANTILLY_LONGERES_RED",
+        "code": "QAS_FRA_CHANTILLY_LONGERES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5227,
+        "totalMeters": 4780,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_01",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_02",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_04",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_05",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_06",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_07",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_08",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_09",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_10",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_11",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_13",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_14",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_15",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_16",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_17",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_CHANTILLY_LONGERES_18",
+            "yards": 449,
+            "meters": 411
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_LYON_BROCARDS",
+    "code": "QAS_FRA_LYON_BROCARDS",
+    "name": "Golf Club de Lyon - Les Brocards",
+    "city": "Villette-d'Anthon",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Club de Lyon - Les Brocards — https://www.golfify.io/courses/golf-club-de-lyon-les-brocards",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_01",
+        "code": "QAS_FRA_LYON_BROCARDS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_02",
+        "code": "QAS_FRA_LYON_BROCARDS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_03",
+        "code": "QAS_FRA_LYON_BROCARDS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_04",
+        "code": "QAS_FRA_LYON_BROCARDS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_05",
+        "code": "QAS_FRA_LYON_BROCARDS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_06",
+        "code": "QAS_FRA_LYON_BROCARDS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_07",
+        "code": "QAS_FRA_LYON_BROCARDS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_08",
+        "code": "QAS_FRA_LYON_BROCARDS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_09",
+        "code": "QAS_FRA_LYON_BROCARDS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_10",
+        "code": "QAS_FRA_LYON_BROCARDS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_11",
+        "code": "QAS_FRA_LYON_BROCARDS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_12",
+        "code": "QAS_FRA_LYON_BROCARDS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_13",
+        "code": "QAS_FRA_LYON_BROCARDS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_14",
+        "code": "QAS_FRA_LYON_BROCARDS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_15",
+        "code": "QAS_FRA_LYON_BROCARDS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_16",
+        "code": "QAS_FRA_LYON_BROCARDS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_17",
+        "code": "QAS_FRA_LYON_BROCARDS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_LYON_BROCARDS_18",
+        "code": "QAS_FRA_LYON_BROCARDS_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_LYON_BROCARDS_WHITE",
+        "code": "QAS_FRA_LYON_BROCARDS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6677,
+        "totalMeters": 6105,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_01",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_02",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_03",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_04",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_05",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_06",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_07",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_08",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_09",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_11",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_12",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_14",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_15",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_16",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_18",
+            "yards": 208,
+            "meters": 190
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_BROCARDS_YELLOW",
+        "code": "QAS_FRA_LYON_BROCARDS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6209,
+        "totalMeters": 5677,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_01",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_05",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_08",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_12",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_13",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_14",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_15",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_16",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_17",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_18",
+            "yards": 192,
+            "meters": 176
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_BROCARDS_BLUE",
+        "code": "QAS_FRA_LYON_BROCARDS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5758,
+        "totalMeters": 5266,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_01",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_03",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_04",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_10",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_11",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_12",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_13",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_15",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_16",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_17",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_18",
+            "yards": 168,
+            "meters": 154
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_LYON_BROCARDS_RED",
+        "code": "QAS_FRA_LYON_BROCARDS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5374,
+        "totalMeters": 4914,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_01",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_02",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_04",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_06",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_07",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_08",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_09",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_13",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_16",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_LYON_BROCARDS_18",
+            "yards": 154,
+            "meters": 141
+          }
+        ]
+      }
+    ]
+  }
+}

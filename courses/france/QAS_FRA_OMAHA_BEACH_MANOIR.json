@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_OMAHA_BEACH_MANOIR",
+    "code": "QAS_FRA_OMAHA_BEACH_MANOIR",
+    "name": "Golf d'Omaha Beach - Le Manoir",
+    "city": "Port-en-Bessin-Huppain",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf d'Omaha Beach - Le Manoir — https://www.golfify.io/courses/golf-d-omaha-beach-le-manoir",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_01",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_02",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_03",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_04",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_05",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_06",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_07",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_08",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_09",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_10",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_11",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_12",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_13",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_14",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_15",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_16",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_17",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_OMAHA_BEACH_MANOIR_18",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_OMAHA_BEACH_MANOIR_BLACK",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6667,
+        "totalMeters": 6097,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+            "yards": 476,
+            "meters": 435
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_OMAHA_BEACH_MANOIR_WHITE",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6412,
+        "totalMeters": 5863,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_OMAHA_BEACH_MANOIR_YELLOW",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6091,
+        "totalMeters": 5571,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_OMAHA_BEACH_MANOIR_BLUE",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5573,
+        "totalMeters": 5097,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_OMAHA_BEACH_MANOIR_RED",
+        "code": "QAS_FRA_OMAHA_BEACH_MANOIR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5363,
+        "totalMeters": 4905,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_05",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_06",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_07",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_08",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_10",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_13",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_14",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_15",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_16",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_17",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_OMAHA_BEACH_MANOIR_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      }
+    ]
+  }
+}

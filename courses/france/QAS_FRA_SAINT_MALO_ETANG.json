@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_MALO_ETANG",
+    "code": "QAS_FRA_SAINT_MALO_ETANG",
+    "name": "Saint-Malo Golf Resort - L'Étang",
+    "city": "Le Tronchet",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Saint-Malo Golf Resort - L'Étang — https://www.golfify.io/courses/saint-malo-golf-resort-l-etang",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_01",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_02",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_03",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_04",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_05",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_06",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_07",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_08",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_09",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_10",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_11",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_12",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_13",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_14",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_15",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_16",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_17",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MALO_ETANG_18",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MALO_ETANG_BLACK",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.8,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6673,
+        "totalMeters": 6101,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_01",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_04",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_05",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_06",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_08",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_09",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_11",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_14",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_15",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_18",
+            "yards": 526,
+            "meters": 481
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MALO_ETANG_WHITE",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.1,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6515,
+        "totalMeters": 5957,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_01",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_04",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_05",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_06",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_08",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_09",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_11",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_13",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_14",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_15",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_18",
+            "yards": 515,
+            "meters": 471
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MALO_ETANG_YELLOW",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6102,
+        "totalMeters": 5578,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_01",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_04",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_05",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_08",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_14",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_15",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_16",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MALO_ETANG_BLUE",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5507,
+        "totalMeters": 5035,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_01",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_02",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_06",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_08",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_12",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_14",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_16",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_17",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MALO_ETANG_RED",
+        "code": "QAS_FRA_SAINT_MALO_ETANG_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.1,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5165,
+        "totalMeters": 4722,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_02",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_03",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_06",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_08",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_09",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_10",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_11",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_12",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_14",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_15",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_17",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MALO_ETANG_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      }
+    ]
+  }
+}

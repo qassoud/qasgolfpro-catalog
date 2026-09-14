@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BEAUVALLON",
+    "code": "QAS_FRA_BEAUVALLON",
+    "name": "Golf de Beauvallon",
+    "city": "Grimaud",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf de Beauvallon — https://www.golfify.io/courses/golf-de-beauvallon",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_01",
+        "code": "QAS_FRA_BEAUVALLON_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_02",
+        "code": "QAS_FRA_BEAUVALLON_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_03",
+        "code": "QAS_FRA_BEAUVALLON_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_04",
+        "code": "QAS_FRA_BEAUVALLON_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_05",
+        "code": "QAS_FRA_BEAUVALLON_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_06",
+        "code": "QAS_FRA_BEAUVALLON_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_07",
+        "code": "QAS_FRA_BEAUVALLON_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_08",
+        "code": "QAS_FRA_BEAUVALLON_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_09",
+        "code": "QAS_FRA_BEAUVALLON_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_10",
+        "code": "QAS_FRA_BEAUVALLON_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_11",
+        "code": "QAS_FRA_BEAUVALLON_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_12",
+        "code": "QAS_FRA_BEAUVALLON_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_13",
+        "code": "QAS_FRA_BEAUVALLON_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_14",
+        "code": "QAS_FRA_BEAUVALLON_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_15",
+        "code": "QAS_FRA_BEAUVALLON_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_16",
+        "code": "QAS_FRA_BEAUVALLON_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_17",
+        "code": "QAS_FRA_BEAUVALLON_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BEAUVALLON_18",
+        "code": "QAS_FRA_BEAUVALLON_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BEAUVALLON_WHITE",
+        "code": "QAS_FRA_BEAUVALLON_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6093,
+        "totalMeters": 5570,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_02",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_04",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_06",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_07",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_09",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_10",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_11",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_13",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_16",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_18",
+            "yards": 327,
+            "meters": 299
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUVALLON_YELLOW",
+        "code": "QAS_FRA_BEAUVALLON_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5842,
+        "totalMeters": 5340,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_04",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_06",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_08",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_09",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_10",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_11",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_12",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_13",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_14",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_16",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_18",
+            "yards": 327,
+            "meters": 299
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUVALLON_BLUE",
+        "code": "QAS_FRA_BEAUVALLON_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5303,
+        "totalMeters": 4850,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_02",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_04",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_05",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_06",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_09",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_11",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_14",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_15",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_16",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_17",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_18",
+            "yards": 302,
+            "meters": 276
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BEAUVALLON_RED",
+        "code": "QAS_FRA_BEAUVALLON_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5041,
+        "totalMeters": 4609,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_04",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_05",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_06",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_07",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_09",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_14",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_15",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_16",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_BEAUVALLON_18",
+            "yards": 302,
+            "meters": 276
+          }
+        ]
+      }
+    ]
+  }
+}
