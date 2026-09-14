@@ -1,0 +1,354 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_COSTA_AZAHAR",
+    "code": "QAS_ESP_COSTA_AZAHAR",
+    "name": "Club de Golf Costa de Azahar - 9 trous x2",
+    "city": "Grau de Castelló",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta officielle et guide officiel, control 2026-09-14 — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_01",
+        "code": "QAS_ESP_COSTA_AZAHAR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_02",
+        "code": "QAS_ESP_COSTA_AZAHAR_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_03",
+        "code": "QAS_ESP_COSTA_AZAHAR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_04",
+        "code": "QAS_ESP_COSTA_AZAHAR_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_05",
+        "code": "QAS_ESP_COSTA_AZAHAR_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_06",
+        "code": "QAS_ESP_COSTA_AZAHAR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_07",
+        "code": "QAS_ESP_COSTA_AZAHAR_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_08",
+        "code": "QAS_ESP_COSTA_AZAHAR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_09",
+        "code": "QAS_ESP_COSTA_AZAHAR_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_10",
+        "code": "QAS_ESP_COSTA_AZAHAR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_11",
+        "code": "QAS_ESP_COSTA_AZAHAR_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_12",
+        "code": "QAS_ESP_COSTA_AZAHAR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_13",
+        "code": "QAS_ESP_COSTA_AZAHAR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_14",
+        "code": "QAS_ESP_COSTA_AZAHAR_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_15",
+        "code": "QAS_ESP_COSTA_AZAHAR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_16",
+        "code": "QAS_ESP_COSTA_AZAHAR_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_17",
+        "code": "QAS_ESP_COSTA_AZAHAR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_COSTA_AZAHAR_18",
+        "code": "QAS_ESP_COSTA_AZAHAR_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_COSTA_AZAHAR_YELLOW",
+        "code": "QAS_ESP_COSTA_AZAHAR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6184,
+        "totalMeters": 5658,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_02",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_03",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_05",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_09",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_10",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_11",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_12",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_14",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_18",
+            "yards": 121,
+            "meters": 111
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_COSTA_AZAHAR_RED",
+        "code": "QAS_ESP_COSTA_AZAHAR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5522,
+        "totalMeters": 5048,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_02",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_03",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_07",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_08",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_09",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_11",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_12",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_14",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_15",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_16",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_17",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_COSTA_AZAHAR_18",
+            "yards": 109,
+            "meters": 100
+          }
+        ]
+      }
+    ]
+  }
+}

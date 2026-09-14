@@ -1,0 +1,354 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_EL_ESPINAR",
+    "code": "QAS_ESP_EL_ESPINAR",
+    "name": "Club de Golf El Espinar - 9 trous x2",
+    "city": "El Espinar",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG microsite — barras Amarillas/Rojas; 9 hoyos répétées selon Règle 1, control 2026-09-14 — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_01",
+        "code": "QAS_ESP_EL_ESPINAR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_02",
+        "code": "QAS_ESP_EL_ESPINAR_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_03",
+        "code": "QAS_ESP_EL_ESPINAR_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_04",
+        "code": "QAS_ESP_EL_ESPINAR_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_05",
+        "code": "QAS_ESP_EL_ESPINAR_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_06",
+        "code": "QAS_ESP_EL_ESPINAR_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_07",
+        "code": "QAS_ESP_EL_ESPINAR_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_08",
+        "code": "QAS_ESP_EL_ESPINAR_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_09",
+        "code": "QAS_ESP_EL_ESPINAR_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_10",
+        "code": "QAS_ESP_EL_ESPINAR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_11",
+        "code": "QAS_ESP_EL_ESPINAR_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_12",
+        "code": "QAS_ESP_EL_ESPINAR_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_13",
+        "code": "QAS_ESP_EL_ESPINAR_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_14",
+        "code": "QAS_ESP_EL_ESPINAR_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_15",
+        "code": "QAS_ESP_EL_ESPINAR_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_16",
+        "code": "QAS_ESP_EL_ESPINAR_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_17",
+        "code": "QAS_ESP_EL_ESPINAR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_EL_ESPINAR_18",
+        "code": "QAS_ESP_EL_ESPINAR_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_EL_ESPINAR_YELLOW",
+        "code": "QAS_ESP_EL_ESPINAR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6682,
+        "totalMeters": 6110,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_04",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_07",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_08",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_10",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_11",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_12",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_13",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_15",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_16",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_17",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_EL_ESPINAR_RED",
+        "code": "QAS_ESP_EL_ESPINAR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5770,
+        "totalMeters": 5278,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_01",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_02",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_04",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_06",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_07",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_09",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_11",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_13",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_16",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_EL_ESPINAR_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      }
+    ]
+  }
+}

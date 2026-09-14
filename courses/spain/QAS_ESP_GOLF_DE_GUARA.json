@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOLF_DE_GUARA",
+    "code": "QAS_ESP_GOLF_DE_GUARA",
+    "name": "Golf de Guara - 9 trous x2",
+    "city": "Arascués-Nueno",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG Club de Golf de Guara (ClubId 290 / id 177) — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_01",
+        "code": "QAS_ESP_GOLF_DE_GUARA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_02",
+        "code": "QAS_ESP_GOLF_DE_GUARA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_03",
+        "code": "QAS_ESP_GOLF_DE_GUARA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_04",
+        "code": "QAS_ESP_GOLF_DE_GUARA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_05",
+        "code": "QAS_ESP_GOLF_DE_GUARA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_06",
+        "code": "QAS_ESP_GOLF_DE_GUARA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_07",
+        "code": "QAS_ESP_GOLF_DE_GUARA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_08",
+        "code": "QAS_ESP_GOLF_DE_GUARA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_09",
+        "code": "QAS_ESP_GOLF_DE_GUARA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_10",
+        "code": "QAS_ESP_GOLF_DE_GUARA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_11",
+        "code": "QAS_ESP_GOLF_DE_GUARA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_12",
+        "code": "QAS_ESP_GOLF_DE_GUARA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_13",
+        "code": "QAS_ESP_GOLF_DE_GUARA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_14",
+        "code": "QAS_ESP_GOLF_DE_GUARA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_15",
+        "code": "QAS_ESP_GOLF_DE_GUARA_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_16",
+        "code": "QAS_ESP_GOLF_DE_GUARA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_17",
+        "code": "QAS_ESP_GOLF_DE_GUARA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOLF_DE_GUARA_18",
+        "code": "QAS_ESP_GOLF_DE_GUARA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_GUARA_WHITE",
+        "code": "QAS_ESP_GOLF_DE_GUARA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6682,
+        "totalMeters": 6108,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_02",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_05",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_06",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_08",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_09",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_11",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_14",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_15",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_16",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_18",
+            "yards": 454,
+            "meters": 415
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_GUARA_YELLOW",
+        "code": "QAS_ESP_GOLF_DE_GUARA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6416,
+        "totalMeters": 5870,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_02",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_04",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_05",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_06",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_08",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_10",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_11",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_13",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_14",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_15",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_17",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_GUARA_BLUE",
+        "code": "QAS_ESP_GOLF_DE_GUARA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5808,
+        "totalMeters": 5310,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_01",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_02",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_03",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_05",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_07",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_08",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_09",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_11",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_13",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_16",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_17",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOLF_DE_GUARA_RED",
+        "code": "QAS_ESP_GOLF_DE_GUARA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5504,
+        "totalMeters": 5034,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_01",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_02",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_03",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_04",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_05",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_06",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_08",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_10",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_11",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_13",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_14",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_16",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_17",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_GOLF_DE_GUARA_18",
+            "yards": 392,
+            "meters": 358
+          }
+        ]
+      }
+    ]
+  }
+}

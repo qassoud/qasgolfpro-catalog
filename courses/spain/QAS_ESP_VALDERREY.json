@@ -1,0 +1,457 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_VALDERREY",
+    "code": "QAS_ESP_VALDERREY",
+    "name": "Club de Golf Zamora Valderrey",
+    "city": "Zamora",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, 18 hoyos, control 2026-09-14",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_01",
+        "code": "QAS_ESP_VALDERREY_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_02",
+        "code": "QAS_ESP_VALDERREY_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_03",
+        "code": "QAS_ESP_VALDERREY_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_04",
+        "code": "QAS_ESP_VALDERREY_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_05",
+        "code": "QAS_ESP_VALDERREY_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_06",
+        "code": "QAS_ESP_VALDERREY_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_07",
+        "code": "QAS_ESP_VALDERREY_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_08",
+        "code": "QAS_ESP_VALDERREY_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_09",
+        "code": "QAS_ESP_VALDERREY_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_10",
+        "code": "QAS_ESP_VALDERREY_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_11",
+        "code": "QAS_ESP_VALDERREY_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_12",
+        "code": "QAS_ESP_VALDERREY_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_13",
+        "code": "QAS_ESP_VALDERREY_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_14",
+        "code": "QAS_ESP_VALDERREY_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_15",
+        "code": "QAS_ESP_VALDERREY_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_16",
+        "code": "QAS_ESP_VALDERREY_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_17",
+        "code": "QAS_ESP_VALDERREY_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_VALDERREY_18",
+        "code": "QAS_ESP_VALDERREY_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_VALDERREY_YELLOW",
+        "code": "QAS_ESP_VALDERREY_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6494,
+        "totalMeters": 5937,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDERREY_01",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_02",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_03",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_06",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_08",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_10",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_11",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_12",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_13",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_14",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_15",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALDERREY_BLUE",
+        "code": "QAS_ESP_VALDERREY_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5911,
+        "totalMeters": 5405,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDERREY_01",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_06",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_08",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_10",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_11",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_12",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_13",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_14",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_15",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_16",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_17",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_18",
+            "yards": 308,
+            "meters": 282
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_VALDERREY_RED",
+        "code": "QAS_ESP_VALDERREY_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5447,
+        "totalMeters": 4982,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_VALDERREY_01",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_02",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_04",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_06",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_07",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_08",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_09",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_10",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_11",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_13",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_14",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_15",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_16",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_17",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_ESP_VALDERREY_18",
+            "yards": 308,
+            "meters": 282
+          }
+        ]
+      }
+    ]
+  }
+}

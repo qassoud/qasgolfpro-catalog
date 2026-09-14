@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_GOIBURU",
+    "code": "QAS_ESP_GOIBURU",
+    "name": "Goiburu Golf - 9 trous x2",
+    "city": "Andoain",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG Goiburu Golf (ClubId 920 / id 805) — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_01",
+        "code": "QAS_ESP_GOIBURU_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_02",
+        "code": "QAS_ESP_GOIBURU_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_03",
+        "code": "QAS_ESP_GOIBURU_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_04",
+        "code": "QAS_ESP_GOIBURU_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_05",
+        "code": "QAS_ESP_GOIBURU_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_06",
+        "code": "QAS_ESP_GOIBURU_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_07",
+        "code": "QAS_ESP_GOIBURU_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_08",
+        "code": "QAS_ESP_GOIBURU_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_09",
+        "code": "QAS_ESP_GOIBURU_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_10",
+        "code": "QAS_ESP_GOIBURU_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_11",
+        "code": "QAS_ESP_GOIBURU_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_12",
+        "code": "QAS_ESP_GOIBURU_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_13",
+        "code": "QAS_ESP_GOIBURU_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_14",
+        "code": "QAS_ESP_GOIBURU_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_15",
+        "code": "QAS_ESP_GOIBURU_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_16",
+        "code": "QAS_ESP_GOIBURU_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_17",
+        "code": "QAS_ESP_GOIBURU_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_GOIBURU_18",
+        "code": "QAS_ESP_GOIBURU_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_GOIBURU_WHITE",
+        "code": "QAS_ESP_GOIBURU_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5510,
+        "totalMeters": 5040,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOIBURU_01",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_02",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_04",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_05",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_07",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_09",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_10",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_11",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_12",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_13",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_14",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_15",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_17",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_18",
+            "yards": 272,
+            "meters": 249
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOIBURU_YELLOW",
+        "code": "QAS_ESP_GOIBURU_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5354,
+        "totalMeters": 4894,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOIBURU_01",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_03",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_05",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_07",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_08",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_09",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_10",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_11",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_12",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_14",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_16",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_17",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_18",
+            "yards": 265,
+            "meters": 242
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOIBURU_BLUE",
+        "code": "QAS_ESP_GOIBURU_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5008,
+        "totalMeters": 4580,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOIBURU_01",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_02",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_03",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_04",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_05",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_07",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_09",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_10",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_12",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_14",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_16",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_17",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_18",
+            "yards": 252,
+            "meters": 230
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_GOIBURU_RED",
+        "code": "QAS_ESP_GOIBURU_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4764,
+        "totalMeters": 4356,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_GOIBURU_01",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_03",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_05",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_07",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_08",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_09",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_10",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_11",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_12",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_13",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_14",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_15",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_16",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_17",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_ESP_GOIBURU_18",
+            "yards": 244,
+            "meters": 223
+          }
+        ]
+      }
+    ]
+  }
+}

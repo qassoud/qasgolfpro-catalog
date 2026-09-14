@@ -1,0 +1,354 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_TORRIJOS_GOLF",
+    "code": "QAS_ESP_TORRIJOS_GOLF",
+    "name": "Club Deportivo Torrijos Golf",
+    "city": "Novés",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, 18 hoyos, control 2026-09-14",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_01",
+        "code": "QAS_ESP_TORRIJOS_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_02",
+        "code": "QAS_ESP_TORRIJOS_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_03",
+        "code": "QAS_ESP_TORRIJOS_GOLF_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_04",
+        "code": "QAS_ESP_TORRIJOS_GOLF_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_05",
+        "code": "QAS_ESP_TORRIJOS_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_06",
+        "code": "QAS_ESP_TORRIJOS_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_07",
+        "code": "QAS_ESP_TORRIJOS_GOLF_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_08",
+        "code": "QAS_ESP_TORRIJOS_GOLF_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_09",
+        "code": "QAS_ESP_TORRIJOS_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_10",
+        "code": "QAS_ESP_TORRIJOS_GOLF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_11",
+        "code": "QAS_ESP_TORRIJOS_GOLF_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_12",
+        "code": "QAS_ESP_TORRIJOS_GOLF_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_13",
+        "code": "QAS_ESP_TORRIJOS_GOLF_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_14",
+        "code": "QAS_ESP_TORRIJOS_GOLF_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_15",
+        "code": "QAS_ESP_TORRIJOS_GOLF_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_16",
+        "code": "QAS_ESP_TORRIJOS_GOLF_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_17",
+        "code": "QAS_ESP_TORRIJOS_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_TORRIJOS_GOLF_18",
+        "code": "QAS_ESP_TORRIJOS_GOLF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_TORRIJOS_GOLF_YELLOW",
+        "code": "QAS_ESP_TORRIJOS_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5562,
+        "totalMeters": 5087,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_02",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_03",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_04",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_05",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_06",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_07",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_08",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_09",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_10",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_11",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_13",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_14",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_15",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_16",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_17",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_18",
+            "yards": 259,
+            "meters": 237
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_TORRIJOS_GOLF_RED",
+        "code": "QAS_ESP_TORRIJOS_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4505,
+        "totalMeters": 4118,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_02",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_06",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_07",
+            "yards": 78,
+            "meters": 71
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_08",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_09",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_13",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_15",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_16",
+            "yards": 78,
+            "meters": 71
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_17",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ESP_TORRIJOS_GOLF_18",
+            "yards": 233,
+            "meters": 213
+          }
+        ]
+      }
+    ]
+  }
+}

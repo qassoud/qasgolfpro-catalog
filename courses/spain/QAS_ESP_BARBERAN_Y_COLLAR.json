@@ -1,0 +1,457 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_BARBERAN_Y_COLLAR",
+    "code": "QAS_ESP_BARBERAN_Y_COLLAR",
+    "name": "C.D.S.C.E.A. Barberán y Collar - 9 trous x2",
+    "city": "Madrid",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG C.D.S.C.E.A. Barberán y Collar (ClubId 550 / id 435) — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_01",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_02",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_03",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_04",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_05",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_06",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_07",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_08",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_09",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_10",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_11",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_12",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_13",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_14",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_15",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_16",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_17",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BARBERAN_Y_COLLAR_18",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_BARBERAN_Y_COLLAR_YELLOW",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6510,
+        "totalMeters": 5952,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_02",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_03",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_04",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_05",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_07",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_11",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_16",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BARBERAN_Y_COLLAR_BLUE",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5706,
+        "totalMeters": 5218,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_02",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_05",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_06",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_10",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_11",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_13",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_14",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_15",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BARBERAN_Y_COLLAR_RED",
+        "code": "QAS_ESP_BARBERAN_Y_COLLAR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4966,
+        "totalMeters": 4540,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_01",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_02",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_03",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_04",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_06",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_09",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_10",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_11",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_12",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_13",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_14",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_15",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_16",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_17",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ESP_BARBERAN_Y_COLLAR_18",
+            "yards": 292,
+            "meters": 267
+          }
+        ]
+      }
+    ]
+  }
+}

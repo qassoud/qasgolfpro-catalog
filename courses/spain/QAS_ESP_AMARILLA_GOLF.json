@@ -1,0 +1,457 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_AMARILLA_GOLF",
+    "code": "QAS_ESP_AMARILLA_GOLF",
+    "name": "Amarilla Golf Club",
+    "city": "San Miguel de Abona",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, 18 hoyos, control 2026-09-14",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_01",
+        "code": "QAS_ESP_AMARILLA_GOLF_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_02",
+        "code": "QAS_ESP_AMARILLA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_03",
+        "code": "QAS_ESP_AMARILLA_GOLF_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_04",
+        "code": "QAS_ESP_AMARILLA_GOLF_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_05",
+        "code": "QAS_ESP_AMARILLA_GOLF_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_06",
+        "code": "QAS_ESP_AMARILLA_GOLF_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_07",
+        "code": "QAS_ESP_AMARILLA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_08",
+        "code": "QAS_ESP_AMARILLA_GOLF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_09",
+        "code": "QAS_ESP_AMARILLA_GOLF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_10",
+        "code": "QAS_ESP_AMARILLA_GOLF_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_11",
+        "code": "QAS_ESP_AMARILLA_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_12",
+        "code": "QAS_ESP_AMARILLA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_13",
+        "code": "QAS_ESP_AMARILLA_GOLF_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_14",
+        "code": "QAS_ESP_AMARILLA_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_15",
+        "code": "QAS_ESP_AMARILLA_GOLF_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_16",
+        "code": "QAS_ESP_AMARILLA_GOLF_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_17",
+        "code": "QAS_ESP_AMARILLA_GOLF_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AMARILLA_GOLF_18",
+        "code": "QAS_ESP_AMARILLA_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_AMARILLA_GOLF_WHITE",
+        "code": "QAS_ESP_AMARILLA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6538,
+        "totalMeters": 5979,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_01",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_04",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_05",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_06",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_08",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_10",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_12",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_13",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_14",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_15",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_17",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_18",
+            "yards": 505,
+            "meters": 462
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AMARILLA_GOLF_YELLOW",
+        "code": "QAS_ESP_AMARILLA_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6110,
+        "totalMeters": 5588,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_01",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_02",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_04",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_05",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_06",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_07",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_08",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_10",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_11",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_12",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_13",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_14",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_18",
+            "yards": 492,
+            "meters": 450
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AMARILLA_GOLF_RED",
+        "code": "QAS_ESP_AMARILLA_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5311,
+        "totalMeters": 4856,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_01",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_02",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_03",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_04",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_05",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_06",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_07",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_08",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_09",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_13",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_17",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_AMARILLA_GOLF_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      }
+    ]
+  }
+}

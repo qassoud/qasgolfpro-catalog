@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_AZATA_GOLF",
+    "code": "QAS_ESP_AZATA_GOLF",
+    "name": "Azata Golf",
+    "city": "Estepona",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, 18 hoyos, control 2026-09-14",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_01",
+        "code": "QAS_ESP_AZATA_GOLF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_02",
+        "code": "QAS_ESP_AZATA_GOLF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_03",
+        "code": "QAS_ESP_AZATA_GOLF_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_04",
+        "code": "QAS_ESP_AZATA_GOLF_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_05",
+        "code": "QAS_ESP_AZATA_GOLF_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_06",
+        "code": "QAS_ESP_AZATA_GOLF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_07",
+        "code": "QAS_ESP_AZATA_GOLF_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_08",
+        "code": "QAS_ESP_AZATA_GOLF_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_09",
+        "code": "QAS_ESP_AZATA_GOLF_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_10",
+        "code": "QAS_ESP_AZATA_GOLF_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_11",
+        "code": "QAS_ESP_AZATA_GOLF_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_12",
+        "code": "QAS_ESP_AZATA_GOLF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_13",
+        "code": "QAS_ESP_AZATA_GOLF_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_14",
+        "code": "QAS_ESP_AZATA_GOLF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_15",
+        "code": "QAS_ESP_AZATA_GOLF_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_16",
+        "code": "QAS_ESP_AZATA_GOLF_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_17",
+        "code": "QAS_ESP_AZATA_GOLF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_AZATA_GOLF_18",
+        "code": "QAS_ESP_AZATA_GOLF_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_AZATA_GOLF_WHITE",
+        "code": "QAS_ESP_AZATA_GOLF_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6237,
+        "totalMeters": 5703,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_01",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_02",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_03",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_07",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_08",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_09",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_10",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_11",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_12",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_13",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_15",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_16",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_17",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_18",
+            "yards": 593,
+            "meters": 542
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AZATA_GOLF_YELLOW",
+        "code": "QAS_ESP_AZATA_GOLF_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5830,
+        "totalMeters": 5332,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_02",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_04",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_07",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_08",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_09",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_10",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_11",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_15",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_16",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_17",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_18",
+            "yards": 531,
+            "meters": 486
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AZATA_GOLF_BLUE",
+        "code": "QAS_ESP_AZATA_GOLF_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5243,
+        "totalMeters": 4795,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_02",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_05",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_07",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_08",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_09",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_10",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_11",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_12",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_13",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_14",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_15",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_16",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_17",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_18",
+            "yards": 449,
+            "meters": 411
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_AZATA_GOLF_RED",
+        "code": "QAS_ESP_AZATA_GOLF_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4772,
+        "totalMeters": 4362,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_06",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_07",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_08",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_09",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_10",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_11",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_12",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_13",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_14",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_15",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_16",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_17",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_ESP_AZATA_GOLF_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      }
+    ]
+  }
+}

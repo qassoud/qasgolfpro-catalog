@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_BONMONT",
+    "code": "QAS_ESP_BONMONT",
+    "name": "Club de Golf Bonmont Terres Noves",
+    "city": "Mont-roig del Camp",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, 18 hoyos, control 2026-09-14",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_01",
+        "code": "QAS_ESP_BONMONT_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_02",
+        "code": "QAS_ESP_BONMONT_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_03",
+        "code": "QAS_ESP_BONMONT_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_04",
+        "code": "QAS_ESP_BONMONT_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_05",
+        "code": "QAS_ESP_BONMONT_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_06",
+        "code": "QAS_ESP_BONMONT_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_07",
+        "code": "QAS_ESP_BONMONT_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_08",
+        "code": "QAS_ESP_BONMONT_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_09",
+        "code": "QAS_ESP_BONMONT_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_10",
+        "code": "QAS_ESP_BONMONT_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_11",
+        "code": "QAS_ESP_BONMONT_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_12",
+        "code": "QAS_ESP_BONMONT_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_13",
+        "code": "QAS_ESP_BONMONT_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_14",
+        "code": "QAS_ESP_BONMONT_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_15",
+        "code": "QAS_ESP_BONMONT_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_16",
+        "code": "QAS_ESP_BONMONT_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_17",
+        "code": "QAS_ESP_BONMONT_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_BONMONT_18",
+        "code": "QAS_ESP_BONMONT_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_BONMONT_WHITE",
+        "code": "QAS_ESP_BONMONT_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6975,
+        "totalMeters": 6379,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BONMONT_01",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_05",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_06",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_07",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_08",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_12",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_13",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_14",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_17",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BONMONT_YELLOW",
+        "code": "QAS_ESP_BONMONT_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6647,
+        "totalMeters": 6080,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BONMONT_01",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_06",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_07",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_13",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_14",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_16",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_17",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_18",
+            "yards": 402,
+            "meters": 368
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BONMONT_BLUE",
+        "code": "QAS_ESP_BONMONT_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6034,
+        "totalMeters": 5518,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BONMONT_01",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_02",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_07",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_08",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_09",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_10",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_11",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_13",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_14",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_15",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_16",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_17",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_BONMONT_RED",
+        "code": "QAS_ESP_BONMONT_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5672,
+        "totalMeters": 5186,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_BONMONT_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_02",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_05",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_09",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_11",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_13",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_14",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_15",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_16",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_17",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_BONMONT_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      }
+    ]
+  }
+}

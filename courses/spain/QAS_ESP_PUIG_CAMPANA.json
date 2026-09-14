@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_PUIG_CAMPANA",
+    "code": "QAS_ESP_PUIG_CAMPANA",
+    "name": "Puig Campana Golf - 9 trous x2",
+    "city": "Finestrat",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG — tarjeta oficial, control 2026-09-14 — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_01",
+        "code": "QAS_ESP_PUIG_CAMPANA_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_02",
+        "code": "QAS_ESP_PUIG_CAMPANA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_03",
+        "code": "QAS_ESP_PUIG_CAMPANA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_04",
+        "code": "QAS_ESP_PUIG_CAMPANA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_05",
+        "code": "QAS_ESP_PUIG_CAMPANA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_06",
+        "code": "QAS_ESP_PUIG_CAMPANA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_07",
+        "code": "QAS_ESP_PUIG_CAMPANA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_08",
+        "code": "QAS_ESP_PUIG_CAMPANA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_09",
+        "code": "QAS_ESP_PUIG_CAMPANA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_10",
+        "code": "QAS_ESP_PUIG_CAMPANA_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_11",
+        "code": "QAS_ESP_PUIG_CAMPANA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_12",
+        "code": "QAS_ESP_PUIG_CAMPANA_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_13",
+        "code": "QAS_ESP_PUIG_CAMPANA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_14",
+        "code": "QAS_ESP_PUIG_CAMPANA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_15",
+        "code": "QAS_ESP_PUIG_CAMPANA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_16",
+        "code": "QAS_ESP_PUIG_CAMPANA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_17",
+        "code": "QAS_ESP_PUIG_CAMPANA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_PUIG_CAMPANA_18",
+        "code": "QAS_ESP_PUIG_CAMPANA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_PUIG_CAMPANA_WHITE",
+        "code": "QAS_ESP_PUIG_CAMPANA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6854,
+        "totalMeters": 6266,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_01",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_03",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_05",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_08",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_09",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_10",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_12",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_13",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_14",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_15",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_17",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_18",
+            "yards": 502,
+            "meters": 459
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUIG_CAMPANA_YELLOW",
+        "code": "QAS_ESP_PUIG_CAMPANA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6288,
+        "totalMeters": 5748,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_01",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_02",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_03",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_04",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_05",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_06",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_07",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_08",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_09",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_10",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_12",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_13",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_15",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_16",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_18",
+            "yards": 470,
+            "meters": 430
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUIG_CAMPANA_BLUE",
+        "code": "QAS_ESP_PUIG_CAMPANA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5784,
+        "totalMeters": 5288,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_01",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_02",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_03",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_04",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_07",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_08",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_09",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_10",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_11",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_12",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_15",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_16",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_17",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_18",
+            "yards": 467,
+            "meters": 427
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_PUIG_CAMPANA_RED",
+        "code": "QAS_ESP_PUIG_CAMPANA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5382,
+        "totalMeters": 4922,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_01",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_02",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_03",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_04",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_07",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_08",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_10",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_11",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_12",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_13",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_15",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_16",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_17",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ESP_PUIG_CAMPANA_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      }
+    ]
+  }
+}

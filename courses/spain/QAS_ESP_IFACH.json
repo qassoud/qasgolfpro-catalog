@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ESP_IFACH",
+    "code": "QAS_ESP_IFACH",
+    "name": "Club de Golf Ifach - 9 trous x2",
+    "city": "Benissa",
+    "countryCode": "ESP",
+    "numberOfHoles": 18,
+    "totalPar": 60,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "RFEG Club de Golf Ifach (ClubId 626 / id 511) — conversion QasGolfPro Règle 1 (9 trous x2)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_01",
+        "code": "QAS_ESP_IFACH_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_02",
+        "code": "QAS_ESP_IFACH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_03",
+        "code": "QAS_ESP_IFACH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_04",
+        "code": "QAS_ESP_IFACH_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_05",
+        "code": "QAS_ESP_IFACH_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_06",
+        "code": "QAS_ESP_IFACH_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_07",
+        "code": "QAS_ESP_IFACH_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_08",
+        "code": "QAS_ESP_IFACH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_09",
+        "code": "QAS_ESP_IFACH_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_10",
+        "code": "QAS_ESP_IFACH_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_11",
+        "code": "QAS_ESP_IFACH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_12",
+        "code": "QAS_ESP_IFACH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_13",
+        "code": "QAS_ESP_IFACH_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_14",
+        "code": "QAS_ESP_IFACH_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_15",
+        "code": "QAS_ESP_IFACH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_16",
+        "code": "QAS_ESP_IFACH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_17",
+        "code": "QAS_ESP_IFACH_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ESP_IFACH_18",
+        "code": "QAS_ESP_IFACH_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ESP_IFACH_WHITE",
+        "code": "QAS_ESP_IFACH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 3540,
+        "totalMeters": 3236,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IFACH_01",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_02",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_03",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_04",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_05",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_08",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_09",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_10",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_11",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_12",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_13",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_14",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_16",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_18",
+            "yards": 136,
+            "meters": 124
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IFACH_YELLOW",
+        "code": "QAS_ESP_IFACH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 3214,
+        "totalMeters": 2940,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IFACH_01",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_02",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_03",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_05",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_06",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_07",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_08",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_09",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_10",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_11",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_14",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_16",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_18",
+            "yards": 132,
+            "meters": 121
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IFACH_BLUE",
+        "code": "QAS_ESP_IFACH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 3038,
+        "totalMeters": 2776,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IFACH_01",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_02",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_03",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_04",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_06",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_08",
+            "yards": 80,
+            "meters": 73
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_09",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_10",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_11",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_13",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_14",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_16",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_17",
+            "yards": 80,
+            "meters": 73
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_18",
+            "yards": 104,
+            "meters": 95
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ESP_IFACH_RED",
+        "code": "QAS_ESP_IFACH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 2660,
+        "totalMeters": 2432,
+        "distances": [
+          {
+            "holeCode": "QAS_ESP_IFACH_01",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_02",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_03",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_04",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_05",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_07",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_08",
+            "yards": 66,
+            "meters": 60
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_09",
+            "yards": 78,
+            "meters": 71
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_10",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_11",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_12",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_13",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_14",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_15",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_16",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_17",
+            "yards": 66,
+            "meters": 60
+          },
+          {
+            "holeCode": "QAS_ESP_IFACH_18",
+            "yards": 78,
+            "meters": 71
+          }
+        ]
+      }
+    ]
+  }
+}
