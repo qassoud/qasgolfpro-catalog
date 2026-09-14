@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SOLOGNE",
+    "code": "QAS_FRA_SOLOGNE",
+    "name": "Golf de Sologne",
+    "city": "La Ferté-Saint-Aubin",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=565&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_01",
+        "code": "QAS_FRA_SOLOGNE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_02",
+        "code": "QAS_FRA_SOLOGNE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_03",
+        "code": "QAS_FRA_SOLOGNE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_04",
+        "code": "QAS_FRA_SOLOGNE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_05",
+        "code": "QAS_FRA_SOLOGNE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_06",
+        "code": "QAS_FRA_SOLOGNE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_07",
+        "code": "QAS_FRA_SOLOGNE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_08",
+        "code": "QAS_FRA_SOLOGNE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_09",
+        "code": "QAS_FRA_SOLOGNE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_10",
+        "code": "QAS_FRA_SOLOGNE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_11",
+        "code": "QAS_FRA_SOLOGNE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_12",
+        "code": "QAS_FRA_SOLOGNE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_13",
+        "code": "QAS_FRA_SOLOGNE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_14",
+        "code": "QAS_FRA_SOLOGNE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_15",
+        "code": "QAS_FRA_SOLOGNE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_16",
+        "code": "QAS_FRA_SOLOGNE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_17",
+        "code": "QAS_FRA_SOLOGNE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SOLOGNE_18",
+        "code": "QAS_FRA_SOLOGNE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SOLOGNE_BLACK",
+        "code": "QAS_FRA_SOLOGNE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6486,
+        "totalMeters": 5929,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_02",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_03",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_04",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_07",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_09",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_10",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_12",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_13",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_14",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_15",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_16",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_17",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_18",
+            "yards": 518,
+            "meters": 474
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SOLOGNE_WHITE",
+        "code": "QAS_FRA_SOLOGNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6486,
+        "totalMeters": 5929,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_02",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_03",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_04",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_07",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_09",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_10",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_12",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_13",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_14",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_15",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_16",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_17",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_18",
+            "yards": 518,
+            "meters": 474
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SOLOGNE_YELLOW",
+        "code": "QAS_FRA_SOLOGNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 129,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 139,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6067,
+        "totalMeters": 5550,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_04",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_06",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_08",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_09",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_10",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_13",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_14",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_15",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_17",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_18",
+            "yards": 471,
+            "meters": 431
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SOLOGNE_BLUE",
+        "code": "QAS_FRA_SOLOGNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.6,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 124,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5541,
+        "totalMeters": 5066,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_02",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_05",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_06",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_10",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_13",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_14",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_17",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SOLOGNE_RED",
+        "code": "QAS_FRA_SOLOGNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64.9,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.9,
+            "slopeRating": 119,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.6,
+            "slopeRating": 114,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4938,
+        "totalMeters": 4514,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_02",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_03",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_06",
+            "yards": 65,
+            "meters": 59
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_07",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_10",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_11",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_12",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_13",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_15",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_16",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_SOLOGNE_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      }
+    ]
+  }
+}

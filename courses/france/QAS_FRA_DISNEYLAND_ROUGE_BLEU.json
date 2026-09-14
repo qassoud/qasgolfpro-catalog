@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_DISNEYLAND_ROUGE_BLEU",
+    "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU",
+    "name": "Golf Disneyland - Rouge/Bleu",
+    "city": "Magny-le-Hongre",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=507&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 7
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_BLACK",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.6,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6598,
+        "totalMeters": 6033,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+            "yards": 526,
+            "meters": 481
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_WHITE",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.6,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6598,
+        "totalMeters": 6033,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+            "yards": 526,
+            "meters": 481
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_YELLOW",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.1,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6116,
+        "totalMeters": 5593,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+            "yards": 501,
+            "meters": 458
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_BLUE",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.0,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.0,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5659,
+        "totalMeters": 5175,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+            "yards": 474,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_DISNEYLAND_ROUGE_BLEU_RED",
+        "code": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.1,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5255,
+        "totalMeters": 4805,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_02",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_05",
+            "yards": 82,
+            "meters": 75
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_10",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_11",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_14",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_15",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_16",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_DISNEYLAND_ROUGE_BLEU_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      }
+    ]
+  }
+}

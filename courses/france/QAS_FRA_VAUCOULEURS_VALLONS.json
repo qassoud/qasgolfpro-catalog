@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VAUCOULEURS_VALLONS",
+    "code": "QAS_FRA_VAUCOULEURS_VALLONS",
+    "name": "La Vaucouleurs Golf Club - Les Vallons",
+    "city": "Civry-la-Forêt",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=534&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_01",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_02",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_03",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_04",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_05",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_06",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_07",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_08",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_09",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_10",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_11",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_12",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_13",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_14",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_15",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_16",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_17",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VAUCOULEURS_VALLONS_18",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VAUCOULEURS_VALLONS_BLACK",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 136,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.3,
+            "slopeRating": 144,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6137,
+        "totalMeters": 5612,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+            "yards": 210,
+            "meters": 192
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAUCOULEURS_VALLONS_WHITE",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 136,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.3,
+            "slopeRating": 144,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6137,
+        "totalMeters": 5612,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+            "yards": 210,
+            "meters": 192
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAUCOULEURS_VALLONS_YELLOW",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 126,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5583,
+        "totalMeters": 5104,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+            "yards": 184,
+            "meters": 168
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAUCOULEURS_VALLONS_BLUE",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.5,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.5,
+            "slopeRating": 124,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 134,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5299,
+        "totalMeters": 4845,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+            "yards": 178,
+            "meters": 163
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VAUCOULEURS_VALLONS_RED",
+        "code": "QAS_FRA_VAUCOULEURS_VALLONS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63.6,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.6,
+            "slopeRating": 118,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.9,
+            "slopeRating": 120,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4653,
+        "totalMeters": 4255,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_01",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_04",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_06",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_07",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_08",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_09",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_10",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_11",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_12",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_13",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_14",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_15",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_16",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_VAUCOULEURS_VALLONS_18",
+            "yards": 125,
+            "meters": 114
+          }
+        ]
+      }
+    ]
+  }
+}

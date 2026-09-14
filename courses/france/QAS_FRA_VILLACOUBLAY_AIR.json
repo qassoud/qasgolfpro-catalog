@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VILLACOUBLAY_AIR",
+    "code": "QAS_FRA_VILLACOUBLAY_AIR",
+    "name": "Golf de Villacoublay-Air",
+    "city": "Vélizy-Villacoublay",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=495&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_01",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_02",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_03",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_04",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_05",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_06",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_07",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_08",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_09",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_10",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_11",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_12",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_13",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_14",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_15",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_16",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_17",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLACOUBLAY_AIR_18",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VILLACOUBLAY_AIR_BLACK",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6528,
+        "totalMeters": 5968,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_01",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_03",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_04",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_05",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_09",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_12",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_13",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_14",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_15",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_16",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLACOUBLAY_AIR_WHITE",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6528,
+        "totalMeters": 5968,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_01",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_02",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_03",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_04",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_05",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_09",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_12",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_13",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_14",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_15",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_16",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLACOUBLAY_AIR_YELLOW",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6250,
+        "totalMeters": 5719,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_02",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_03",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_04",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_08",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_09",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_12",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_14",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_15",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_16",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLACOUBLAY_AIR_BLUE",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5521,
+        "totalMeters": 5050,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_04",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_06",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_08",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_09",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_10",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_13",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_15",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_16",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_17",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLACOUBLAY_AIR_RED",
+        "code": "QAS_FRA_VILLACOUBLAY_AIR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5243,
+        "totalMeters": 4794,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_01",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_02",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_03",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_04",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_05",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_06",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_07",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_08",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_09",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_10",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_12",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_14",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_15",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_16",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_17",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_VILLACOUBLAY_AIR_18",
+            "yards": 317,
+            "meters": 290
+          }
+        ]
+      }
+    ]
+  }
+}

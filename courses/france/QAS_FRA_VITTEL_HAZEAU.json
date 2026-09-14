@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VITTEL_HAZEAU",
+    "code": "QAS_FRA_VITTEL_HAZEAU",
+    "name": "Golf Club de Vittel Hazeau",
+    "city": "Vittel",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=661&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_01",
+        "code": "QAS_FRA_VITTEL_HAZEAU_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_02",
+        "code": "QAS_FRA_VITTEL_HAZEAU_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_03",
+        "code": "QAS_FRA_VITTEL_HAZEAU_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_04",
+        "code": "QAS_FRA_VITTEL_HAZEAU_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_05",
+        "code": "QAS_FRA_VITTEL_HAZEAU_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_06",
+        "code": "QAS_FRA_VITTEL_HAZEAU_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_07",
+        "code": "QAS_FRA_VITTEL_HAZEAU_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_08",
+        "code": "QAS_FRA_VITTEL_HAZEAU_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_09",
+        "code": "QAS_FRA_VITTEL_HAZEAU_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_10",
+        "code": "QAS_FRA_VITTEL_HAZEAU_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_11",
+        "code": "QAS_FRA_VITTEL_HAZEAU_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_12",
+        "code": "QAS_FRA_VITTEL_HAZEAU_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_13",
+        "code": "QAS_FRA_VITTEL_HAZEAU_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_14",
+        "code": "QAS_FRA_VITTEL_HAZEAU_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_15",
+        "code": "QAS_FRA_VITTEL_HAZEAU_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_16",
+        "code": "QAS_FRA_VITTEL_HAZEAU_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_17",
+        "code": "QAS_FRA_VITTEL_HAZEAU_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VITTEL_HAZEAU_18",
+        "code": "QAS_FRA_VITTEL_HAZEAU_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VITTEL_HAZEAU_BLACK",
+        "code": "QAS_FRA_VITTEL_HAZEAU_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 70.1,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 126,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.0,
+            "slopeRating": 135,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6092,
+        "totalMeters": 5572,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_02",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_06",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_08",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_12",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_14",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_18",
+            "yards": 540,
+            "meters": 494
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VITTEL_HAZEAU_WHITE",
+        "code": "QAS_FRA_VITTEL_HAZEAU_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 70.1,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 126,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.0,
+            "slopeRating": 135,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6092,
+        "totalMeters": 5572,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_02",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_06",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_08",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_12",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_14",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_18",
+            "yards": 540,
+            "meters": 494
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VITTEL_HAZEAU_YELLOW",
+        "code": "QAS_FRA_VITTEL_HAZEAU_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 68.3,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 120,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.0,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5744,
+        "totalMeters": 5251,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_03",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_04",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_06",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_07",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_08",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_09",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_12",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_16",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_18",
+            "yards": 521,
+            "meters": 476
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VITTEL_HAZEAU_BLUE",
+        "code": "QAS_FRA_VITTEL_HAZEAU_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.7,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 115,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.9,
+            "slopeRating": 124,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5178,
+        "totalMeters": 4735,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_02",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_03",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_05",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_08",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_14",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_16",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_17",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VITTEL_HAZEAU_RED",
+        "code": "QAS_FRA_VITTEL_HAZEAU_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 64.5,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.5,
+            "slopeRating": 113,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.3,
+            "slopeRating": 118,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4905,
+        "totalMeters": 4485,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_02",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_03",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_05",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_06",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_07",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_08",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_10",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_14",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_15",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_16",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_17",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_VITTEL_HAZEAU_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      }
+    ]
+  }
+}

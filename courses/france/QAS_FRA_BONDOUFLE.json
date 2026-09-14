@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BONDOUFLE",
+    "code": "QAS_FRA_BONDOUFLE",
+    "name": "Golf de Bondoufle",
+    "city": "Bondoufle",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=494&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_01",
+        "code": "QAS_FRA_BONDOUFLE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_02",
+        "code": "QAS_FRA_BONDOUFLE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_03",
+        "code": "QAS_FRA_BONDOUFLE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_04",
+        "code": "QAS_FRA_BONDOUFLE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_05",
+        "code": "QAS_FRA_BONDOUFLE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_06",
+        "code": "QAS_FRA_BONDOUFLE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_07",
+        "code": "QAS_FRA_BONDOUFLE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_08",
+        "code": "QAS_FRA_BONDOUFLE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_09",
+        "code": "QAS_FRA_BONDOUFLE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_10",
+        "code": "QAS_FRA_BONDOUFLE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_11",
+        "code": "QAS_FRA_BONDOUFLE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_12",
+        "code": "QAS_FRA_BONDOUFLE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_13",
+        "code": "QAS_FRA_BONDOUFLE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_14",
+        "code": "QAS_FRA_BONDOUFLE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_15",
+        "code": "QAS_FRA_BONDOUFLE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_16",
+        "code": "QAS_FRA_BONDOUFLE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_17",
+        "code": "QAS_FRA_BONDOUFLE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BONDOUFLE_18",
+        "code": "QAS_FRA_BONDOUFLE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BONDOUFLE_BLACK",
+        "code": "QAS_FRA_BONDOUFLE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6445,
+        "totalMeters": 5893,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_01",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_02",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_05",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_07",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_10",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_11",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_14",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_16",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BONDOUFLE_WHITE",
+        "code": "QAS_FRA_BONDOUFLE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6445,
+        "totalMeters": 5893,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_01",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_02",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_05",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_07",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_10",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_11",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_14",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_16",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BONDOUFLE_YELLOW",
+        "code": "QAS_FRA_BONDOUFLE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5794,
+        "totalMeters": 5299,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_01",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_03",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_05",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_06",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_07",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_10",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_11",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_13",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_14",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_16",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BONDOUFLE_BLUE",
+        "code": "QAS_FRA_BONDOUFLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5364,
+        "totalMeters": 4903,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_01",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_03",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_06",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_07",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_09",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_10",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_11",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_12",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_13",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_15",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_18",
+            "yards": 314,
+            "meters": 287
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BONDOUFLE_RED",
+        "code": "QAS_FRA_BONDOUFLE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4836,
+        "totalMeters": 4421,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_02",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_03",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_04",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_05",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_06",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_07",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_08",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_09",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_10",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_12",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_13",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_15",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_17",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_FRA_BONDOUFLE_18",
+            "yards": 308,
+            "meters": 282
+          }
+        ]
+      }
+    ]
+  }
+}

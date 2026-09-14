@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_COURSON_VERT_NOIR",
+    "code": "QAS_FRA_COURSON_VERT_NOIR",
+    "name": "Golf de Courson - Vert/Noir",
+    "city": "Courson-Monteloup",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=435&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_01",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_02",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_03",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_04",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_05",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_06",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_07",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_08",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_09",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_10",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_11",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_12",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_13",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_14",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_15",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_16",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_17",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_COURSON_VERT_NOIR_18",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_COURSON_VERT_NOIR_BLACK",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7172,
+        "totalMeters": 6557,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_01",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_02",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_03",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_05",
+            "yards": 599,
+            "meters": 548
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_06",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_09",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_10",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_11",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_13",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_14",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_18",
+            "yards": 575,
+            "meters": 526
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COURSON_VERT_NOIR_WHITE",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 75.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7172,
+        "totalMeters": 6557,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_01",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_02",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_03",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_05",
+            "yards": 599,
+            "meters": 548
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_06",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_09",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_10",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_11",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_13",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_14",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_18",
+            "yards": 575,
+            "meters": 526
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COURSON_VERT_NOIR_YELLOW",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.3,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6601,
+        "totalMeters": 6036,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_01",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_02",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_03",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_05",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_09",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_11",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_13",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_18",
+            "yards": 504,
+            "meters": 461
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COURSON_VERT_NOIR_BLUE",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.2,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5796,
+        "totalMeters": 5301,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_06",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_07",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_09",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_13",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_14",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_16",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_17",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_COURSON_VERT_NOIR_RED",
+        "code": "QAS_FRA_COURSON_VERT_NOIR_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.8,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 114,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5255,
+        "totalMeters": 4803,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_01",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_02",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_05",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_07",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_10",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_11",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_12",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_13",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_14",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_15",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_16",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_17",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_FRA_COURSON_VERT_NOIR_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CHATEAU_PREISCH",
+    "code": "QAS_FRA_CHATEAU_PREISCH",
+    "name": "Golf Château de Preisch",
+    "city": "Basse-Rentgen",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=624&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_01",
+        "code": "QAS_FRA_CHATEAU_PREISCH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_02",
+        "code": "QAS_FRA_CHATEAU_PREISCH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_03",
+        "code": "QAS_FRA_CHATEAU_PREISCH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_04",
+        "code": "QAS_FRA_CHATEAU_PREISCH_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_05",
+        "code": "QAS_FRA_CHATEAU_PREISCH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_06",
+        "code": "QAS_FRA_CHATEAU_PREISCH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_07",
+        "code": "QAS_FRA_CHATEAU_PREISCH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_08",
+        "code": "QAS_FRA_CHATEAU_PREISCH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_09",
+        "code": "QAS_FRA_CHATEAU_PREISCH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_10",
+        "code": "QAS_FRA_CHATEAU_PREISCH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_11",
+        "code": "QAS_FRA_CHATEAU_PREISCH_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_12",
+        "code": "QAS_FRA_CHATEAU_PREISCH_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_13",
+        "code": "QAS_FRA_CHATEAU_PREISCH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_14",
+        "code": "QAS_FRA_CHATEAU_PREISCH_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_15",
+        "code": "QAS_FRA_CHATEAU_PREISCH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_16",
+        "code": "QAS_FRA_CHATEAU_PREISCH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_17",
+        "code": "QAS_FRA_CHATEAU_PREISCH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CHATEAU_PREISCH_18",
+        "code": "QAS_FRA_CHATEAU_PREISCH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 7
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CHATEAU_PREISCH_BLACK",
+        "code": "QAS_FRA_CHATEAU_PREISCH_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7058,
+        "totalMeters": 6456,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_01",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_02",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_04",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_07",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_08",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_10",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_11",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_12",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_14",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_16",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHATEAU_PREISCH_WHITE",
+        "code": "QAS_FRA_CHATEAU_PREISCH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7058,
+        "totalMeters": 6456,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_01",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_02",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_04",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_07",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_08",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_10",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_11",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_12",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_14",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_16",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHATEAU_PREISCH_YELLOW",
+        "code": "QAS_FRA_CHATEAU_PREISCH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.3,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.5,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6659,
+        "totalMeters": 6090,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_04",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_07",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_10",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_11",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_12",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_13",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_14",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHATEAU_PREISCH_BLUE",
+        "code": "QAS_FRA_CHATEAU_PREISCH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.6,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6063,
+        "totalMeters": 5545,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_04",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_05",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_06",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_07",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_09",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_10",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_11",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_12",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_13",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_14",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_15",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_17",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CHATEAU_PREISCH_RED",
+        "code": "QAS_FRA_CHATEAU_PREISCH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.4,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5576,
+        "totalMeters": 5098,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_02",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_03",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_06",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_09",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_12",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_13",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_15",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_16",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_17",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_CHATEAU_PREISCH_18",
+            "yards": 287,
+            "meters": 262
+          }
+        ]
+      }
+    ]
+  }
+}

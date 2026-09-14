@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_CLEMENT_ADER",
+    "code": "QAS_FRA_CLEMENT_ADER",
+    "name": "Golf Clément Ader",
+    "city": "Gretz-Armainvilliers",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=652&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_01",
+        "code": "QAS_FRA_CLEMENT_ADER_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_02",
+        "code": "QAS_FRA_CLEMENT_ADER_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_03",
+        "code": "QAS_FRA_CLEMENT_ADER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_04",
+        "code": "QAS_FRA_CLEMENT_ADER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_05",
+        "code": "QAS_FRA_CLEMENT_ADER_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_06",
+        "code": "QAS_FRA_CLEMENT_ADER_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_07",
+        "code": "QAS_FRA_CLEMENT_ADER_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_08",
+        "code": "QAS_FRA_CLEMENT_ADER_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_09",
+        "code": "QAS_FRA_CLEMENT_ADER_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_10",
+        "code": "QAS_FRA_CLEMENT_ADER_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_11",
+        "code": "QAS_FRA_CLEMENT_ADER_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_12",
+        "code": "QAS_FRA_CLEMENT_ADER_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_13",
+        "code": "QAS_FRA_CLEMENT_ADER_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_14",
+        "code": "QAS_FRA_CLEMENT_ADER_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_15",
+        "code": "QAS_FRA_CLEMENT_ADER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_16",
+        "code": "QAS_FRA_CLEMENT_ADER_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_17",
+        "code": "QAS_FRA_CLEMENT_ADER_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_CLEMENT_ADER_18",
+        "code": "QAS_FRA_CLEMENT_ADER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_CLEMENT_ADER_BLACK",
+        "code": "QAS_FRA_CLEMENT_ADER_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.2,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6626,
+        "totalMeters": 6059,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_01",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_06",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_07",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_08",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_11",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_14",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_16",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CLEMENT_ADER_WHITE",
+        "code": "QAS_FRA_CLEMENT_ADER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.2,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6626,
+        "totalMeters": 6059,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_01",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_02",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_06",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_07",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_08",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_11",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_14",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_16",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CLEMENT_ADER_YELLOW",
+        "code": "QAS_FRA_CLEMENT_ADER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.7,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6286,
+        "totalMeters": 5749,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_01",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_03",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_04",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_07",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_08",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_11",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_13",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_14",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_15",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_16",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_17",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_18",
+            "yards": 392,
+            "meters": 358
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CLEMENT_ADER_BLUE",
+        "code": "QAS_FRA_CLEMENT_ADER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5792,
+        "totalMeters": 5298,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_01",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_05",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_07",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_08",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_09",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_12",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_13",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_14",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_15",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_16",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_CLEMENT_ADER_RED",
+        "code": "QAS_FRA_CLEMENT_ADER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.4,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5323,
+        "totalMeters": 4868,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_02",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_03",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_04",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_05",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_06",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_07",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_08",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_09",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_10",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_11",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_12",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_14",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_15",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_16",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_17",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_CLEMENT_ADER_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_GREENPARC_CYGNES",
+    "code": "QAS_FRA_GREENPARC_CYGNES",
+    "name": "Golf de Greenparc - Les Cygnes",
+    "city": "Saint-Pierre-du-Perray",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=446&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_01",
+        "code": "QAS_FRA_GREENPARC_CYGNES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_02",
+        "code": "QAS_FRA_GREENPARC_CYGNES_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_03",
+        "code": "QAS_FRA_GREENPARC_CYGNES_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_04",
+        "code": "QAS_FRA_GREENPARC_CYGNES_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_05",
+        "code": "QAS_FRA_GREENPARC_CYGNES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_06",
+        "code": "QAS_FRA_GREENPARC_CYGNES_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_07",
+        "code": "QAS_FRA_GREENPARC_CYGNES_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_08",
+        "code": "QAS_FRA_GREENPARC_CYGNES_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_09",
+        "code": "QAS_FRA_GREENPARC_CYGNES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_10",
+        "code": "QAS_FRA_GREENPARC_CYGNES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_11",
+        "code": "QAS_FRA_GREENPARC_CYGNES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_12",
+        "code": "QAS_FRA_GREENPARC_CYGNES_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_13",
+        "code": "QAS_FRA_GREENPARC_CYGNES_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_14",
+        "code": "QAS_FRA_GREENPARC_CYGNES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_15",
+        "code": "QAS_FRA_GREENPARC_CYGNES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_16",
+        "code": "QAS_FRA_GREENPARC_CYGNES_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_17",
+        "code": "QAS_FRA_GREENPARC_CYGNES_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_GREENPARC_CYGNES_18",
+        "code": "QAS_FRA_GREENPARC_CYGNES_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_GREENPARC_CYGNES_BLACK",
+        "code": "QAS_FRA_GREENPARC_CYGNES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 69.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 125,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 125,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6207,
+        "totalMeters": 5676,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_02",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_04",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_05",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_06",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_07",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_11",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_13",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_15",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_17",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_18",
+            "yards": 183,
+            "meters": 167
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GREENPARC_CYGNES_WHITE",
+        "code": "QAS_FRA_GREENPARC_CYGNES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 125,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 125,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6207,
+        "totalMeters": 5676,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_02",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_04",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_05",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_06",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_07",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_11",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_13",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_15",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_17",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_18",
+            "yards": 183,
+            "meters": 167
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GREENPARC_CYGNES_YELLOW",
+        "code": "QAS_FRA_GREENPARC_CYGNES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 66.9,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 119,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 120,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5642,
+        "totalMeters": 5159,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_02",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_06",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_08",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_12",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_13",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_15",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_18",
+            "yards": 149,
+            "meters": 136
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GREENPARC_CYGNES_BLUE",
+        "code": "QAS_FRA_GREENPARC_CYGNES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.0,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.0,
+            "slopeRating": 115,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.7,
+            "slopeRating": 115,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5225,
+        "totalMeters": 4777,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_02",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_04",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_05",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_06",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_08",
+            "yards": 81,
+            "meters": 74
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_11",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_12",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_13",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_17",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_18",
+            "yards": 119,
+            "meters": 109
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_GREENPARC_CYGNES_RED",
+        "code": "QAS_FRA_GREENPARC_CYGNES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 62.2,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.2,
+            "slopeRating": 111,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 66.0,
+            "slopeRating": 112,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4611,
+        "totalMeters": 4217,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_02",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_04",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_06",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_07",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_08",
+            "yards": 81,
+            "meters": 74
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_09",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_10",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_11",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_12",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_13",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_14",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_15",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_GREENPARC_CYGNES_18",
+            "yards": 107,
+            "meters": 98
+          }
+        ]
+      }
+    ]
+  }
+}

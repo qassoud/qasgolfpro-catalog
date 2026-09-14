@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_SAINT_MARC",
+    "code": "QAS_FRA_SAINT_MARC",
+    "name": "Golf de Saint-Marc",
+    "city": "Jouy-en-Josas",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=476&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_01",
+        "code": "QAS_FRA_SAINT_MARC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_02",
+        "code": "QAS_FRA_SAINT_MARC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_03",
+        "code": "QAS_FRA_SAINT_MARC_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_04",
+        "code": "QAS_FRA_SAINT_MARC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_05",
+        "code": "QAS_FRA_SAINT_MARC_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_06",
+        "code": "QAS_FRA_SAINT_MARC_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_07",
+        "code": "QAS_FRA_SAINT_MARC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_08",
+        "code": "QAS_FRA_SAINT_MARC_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_09",
+        "code": "QAS_FRA_SAINT_MARC_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_10",
+        "code": "QAS_FRA_SAINT_MARC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_11",
+        "code": "QAS_FRA_SAINT_MARC_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_12",
+        "code": "QAS_FRA_SAINT_MARC_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_13",
+        "code": "QAS_FRA_SAINT_MARC_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_14",
+        "code": "QAS_FRA_SAINT_MARC_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_15",
+        "code": "QAS_FRA_SAINT_MARC_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_16",
+        "code": "QAS_FRA_SAINT_MARC_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_17",
+        "code": "QAS_FRA_SAINT_MARC_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_SAINT_MARC_18",
+        "code": "QAS_FRA_SAINT_MARC_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MARC_BLACK",
+        "code": "QAS_FRA_SAINT_MARC_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.7,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6294,
+        "totalMeters": 5756,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_02",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_03",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_05",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_08",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_09",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_13",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_16",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MARC_WHITE",
+        "code": "QAS_FRA_SAINT_MARC_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.7,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6294,
+        "totalMeters": 5756,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_02",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_03",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_05",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_08",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_09",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_13",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_16",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MARC_YELLOW",
+        "code": "QAS_FRA_SAINT_MARC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 130,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.9,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5970,
+        "totalMeters": 5459,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_01",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_02",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_03",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_05",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_08",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_09",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_13",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_16",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_17",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_18",
+            "yards": 318,
+            "meters": 291
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MARC_BLUE",
+        "code": "QAS_FRA_SAINT_MARC_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 67.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5493,
+        "totalMeters": 5024,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_01",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_03",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_04",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_05",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_07",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_08",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_09",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_11",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_12",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_13",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_18",
+            "yards": 296,
+            "meters": 271
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_SAINT_MARC_RED",
+        "code": "QAS_FRA_SAINT_MARC_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.0,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.0,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.6,
+            "slopeRating": 127,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5106,
+        "totalMeters": 4667,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_01",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_02",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_03",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_05",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_06",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_08",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_09",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_11",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_12",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_13",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_14",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_SAINT_MARC_18",
+            "yards": 277,
+            "meters": 253
+          }
+        ]
+      }
+    ]
+  }
+}

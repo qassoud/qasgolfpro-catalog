@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_FEUCHEROLLES",
+    "code": "QAS_FRA_FEUCHEROLLES",
+    "name": "Golf de Feucherolles",
+    "city": "Feucherolles",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=425&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_01",
+        "code": "QAS_FRA_FEUCHEROLLES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_02",
+        "code": "QAS_FRA_FEUCHEROLLES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_03",
+        "code": "QAS_FRA_FEUCHEROLLES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_04",
+        "code": "QAS_FRA_FEUCHEROLLES_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_05",
+        "code": "QAS_FRA_FEUCHEROLLES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_06",
+        "code": "QAS_FRA_FEUCHEROLLES_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_07",
+        "code": "QAS_FRA_FEUCHEROLLES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_08",
+        "code": "QAS_FRA_FEUCHEROLLES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_09",
+        "code": "QAS_FRA_FEUCHEROLLES_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_10",
+        "code": "QAS_FRA_FEUCHEROLLES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_11",
+        "code": "QAS_FRA_FEUCHEROLLES_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_12",
+        "code": "QAS_FRA_FEUCHEROLLES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_13",
+        "code": "QAS_FRA_FEUCHEROLLES_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_14",
+        "code": "QAS_FRA_FEUCHEROLLES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_15",
+        "code": "QAS_FRA_FEUCHEROLLES_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_16",
+        "code": "QAS_FRA_FEUCHEROLLES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_17",
+        "code": "QAS_FRA_FEUCHEROLLES_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_FEUCHEROLLES_18",
+        "code": "QAS_FRA_FEUCHEROLLES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 13
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_FEUCHEROLLES_BLACK",
+        "code": "QAS_FRA_FEUCHEROLLES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.6,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6942,
+        "totalMeters": 6348,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_01",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_02",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_04",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_05",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_06",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_07",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_09",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_11",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_13",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_15",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_17",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_18",
+            "yards": 540,
+            "meters": 494
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FEUCHEROLLES_WHITE",
+        "code": "QAS_FRA_FEUCHEROLLES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.6,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6942,
+        "totalMeters": 6348,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_01",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_02",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_04",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_05",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_06",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_07",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_09",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_11",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_13",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_15",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_17",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_18",
+            "yards": 540,
+            "meters": 494
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FEUCHEROLLES_YELLOW",
+        "code": "QAS_FRA_FEUCHEROLLES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.1,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 138,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.3,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6427,
+        "totalMeters": 5877,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_02",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_04",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_05",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_06",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_07",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_09",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_11",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_12",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_13",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_14",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_17",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_18",
+            "yards": 514,
+            "meters": 470
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FEUCHEROLLES_BLUE",
+        "code": "QAS_FRA_FEUCHEROLLES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.0,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5967,
+        "totalMeters": 5456,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_02",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_03",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_04",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_05",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_06",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_08",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_09",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_11",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_13",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_15",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_18",
+            "yards": 478,
+            "meters": 437
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_FEUCHEROLLES_RED",
+        "code": "QAS_FRA_FEUCHEROLLES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.5,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.5,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.2,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5427,
+        "totalMeters": 4960,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_01",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_03",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_04",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_05",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_06",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_07",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_08",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_09",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_10",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_11",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_12",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_13",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_15",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_16",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_17",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_FEUCHEROLLES_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      }
+    ]
+  }
+}

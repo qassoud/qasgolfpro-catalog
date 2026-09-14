@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_STRASBOURG",
+    "code": "QAS_FRA_STRASBOURG",
+    "name": "Golf de Strasbourg",
+    "city": "Illkirch-Graffenstaden",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=297&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_01",
+        "code": "QAS_FRA_STRASBOURG_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_02",
+        "code": "QAS_FRA_STRASBOURG_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_03",
+        "code": "QAS_FRA_STRASBOURG_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_04",
+        "code": "QAS_FRA_STRASBOURG_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_05",
+        "code": "QAS_FRA_STRASBOURG_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_06",
+        "code": "QAS_FRA_STRASBOURG_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_07",
+        "code": "QAS_FRA_STRASBOURG_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_08",
+        "code": "QAS_FRA_STRASBOURG_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_09",
+        "code": "QAS_FRA_STRASBOURG_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_10",
+        "code": "QAS_FRA_STRASBOURG_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_11",
+        "code": "QAS_FRA_STRASBOURG_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_12",
+        "code": "QAS_FRA_STRASBOURG_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_13",
+        "code": "QAS_FRA_STRASBOURG_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_14",
+        "code": "QAS_FRA_STRASBOURG_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_15",
+        "code": "QAS_FRA_STRASBOURG_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_16",
+        "code": "QAS_FRA_STRASBOURG_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_17",
+        "code": "QAS_FRA_STRASBOURG_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_STRASBOURG_18",
+        "code": "QAS_FRA_STRASBOURG_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_STRASBOURG_BLACK",
+        "code": "QAS_FRA_STRASBOURG_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.3,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6380,
+        "totalMeters": 5834,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_03",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_04",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_06",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_07",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_08",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_14",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_15",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_17",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_STRASBOURG_WHITE",
+        "code": "QAS_FRA_STRASBOURG_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.3,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6380,
+        "totalMeters": 5834,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_03",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_04",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_05",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_06",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_07",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_08",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_14",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_15",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_17",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_STRASBOURG_YELLOW",
+        "code": "QAS_FRA_STRASBOURG_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.5,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6075,
+        "totalMeters": 5555,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_01",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_04",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_07",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_10",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_13",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_14",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_15",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_16",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_17",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_STRASBOURG_BLUE",
+        "code": "QAS_FRA_STRASBOURG_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 66.8,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 127,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5485,
+        "totalMeters": 5015,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_02",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_06",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_10",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_13",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_15",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_16",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_17",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_STRASBOURG_RED",
+        "code": "QAS_FRA_STRASBOURG_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.2,
+            "slopeRating": 124,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.0,
+            "slopeRating": 124,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5139,
+        "totalMeters": 4700,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_02",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_03",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_04",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_05",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_06",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_07",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_09",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_11",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_12",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_14",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_15",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_16",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_17",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_STRASBOURG_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BETHEMONT_LANGER",
+    "code": "QAS_FRA_BETHEMONT_LANGER",
+    "name": "Golf de Béthemont - Langer",
+    "city": "Poissy",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=422&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_01",
+        "code": "QAS_FRA_BETHEMONT_LANGER_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_02",
+        "code": "QAS_FRA_BETHEMONT_LANGER_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_03",
+        "code": "QAS_FRA_BETHEMONT_LANGER_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_04",
+        "code": "QAS_FRA_BETHEMONT_LANGER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_05",
+        "code": "QAS_FRA_BETHEMONT_LANGER_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_06",
+        "code": "QAS_FRA_BETHEMONT_LANGER_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_07",
+        "code": "QAS_FRA_BETHEMONT_LANGER_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_08",
+        "code": "QAS_FRA_BETHEMONT_LANGER_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_09",
+        "code": "QAS_FRA_BETHEMONT_LANGER_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_10",
+        "code": "QAS_FRA_BETHEMONT_LANGER_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_11",
+        "code": "QAS_FRA_BETHEMONT_LANGER_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_12",
+        "code": "QAS_FRA_BETHEMONT_LANGER_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_13",
+        "code": "QAS_FRA_BETHEMONT_LANGER_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_14",
+        "code": "QAS_FRA_BETHEMONT_LANGER_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_15",
+        "code": "QAS_FRA_BETHEMONT_LANGER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_16",
+        "code": "QAS_FRA_BETHEMONT_LANGER_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_17",
+        "code": "QAS_FRA_BETHEMONT_LANGER_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BETHEMONT_LANGER_18",
+        "code": "QAS_FRA_BETHEMONT_LANGER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BETHEMONT_LANGER_BLACK",
+        "code": "QAS_FRA_BETHEMONT_LANGER_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 72.8,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6480,
+        "totalMeters": 5926,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_02",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_03",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_04",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_06",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_08",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_09",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_11",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_14",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_15",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BETHEMONT_LANGER_WHITE",
+        "code": "QAS_FRA_BETHEMONT_LANGER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.8,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6480,
+        "totalMeters": 5926,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_02",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_03",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_04",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_05",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_06",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_08",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_09",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_11",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_14",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_15",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BETHEMONT_LANGER_YELLOW",
+        "code": "QAS_FRA_BETHEMONT_LANGER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.0,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6062,
+        "totalMeters": 5544,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_04",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_05",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_06",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_07",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_08",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_09",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_11",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_14",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_16",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BETHEMONT_LANGER_BLUE",
+        "code": "QAS_FRA_BETHEMONT_LANGER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.9,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 118,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5666,
+        "totalMeters": 5179,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_02",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_04",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_07",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_08",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_11",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_12",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_13",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_14",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_18",
+            "yards": 300,
+            "meters": 274
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BETHEMONT_LANGER_RED",
+        "code": "QAS_FRA_BETHEMONT_LANGER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.1,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.1,
+            "slopeRating": 114,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5212,
+        "totalMeters": 4764,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_02",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_04",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_05",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_06",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_07",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_10",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_12",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_13",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_14",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_17",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_FRA_BETHEMONT_LANGER_18",
+            "yards": 295,
+            "meters": 270
+          }
+        ]
+      }
+    ]
+  }
+}

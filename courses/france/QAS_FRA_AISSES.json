@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_AISSES",
+    "code": "QAS_FRA_AISSES",
+    "name": "Les Aisses Golf",
+    "city": "La Ferté-Saint-Aubin",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=647&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_01",
+        "code": "QAS_FRA_AISSES_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_02",
+        "code": "QAS_FRA_AISSES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_03",
+        "code": "QAS_FRA_AISSES_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_04",
+        "code": "QAS_FRA_AISSES_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_05",
+        "code": "QAS_FRA_AISSES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_06",
+        "code": "QAS_FRA_AISSES_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_07",
+        "code": "QAS_FRA_AISSES_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_08",
+        "code": "QAS_FRA_AISSES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_09",
+        "code": "QAS_FRA_AISSES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_10",
+        "code": "QAS_FRA_AISSES_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_11",
+        "code": "QAS_FRA_AISSES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_12",
+        "code": "QAS_FRA_AISSES_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_13",
+        "code": "QAS_FRA_AISSES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_14",
+        "code": "QAS_FRA_AISSES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_15",
+        "code": "QAS_FRA_AISSES_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_16",
+        "code": "QAS_FRA_AISSES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_17",
+        "code": "QAS_FRA_AISSES_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_AISSES_18",
+        "code": "QAS_FRA_AISSES_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_AISSES_BLACK",
+        "code": "QAS_FRA_AISSES_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.8,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.8,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7270,
+        "totalMeters": 6648,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AISSES_01",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_02",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_03",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_04",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_05",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_07",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_08",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_09",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_10",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_11",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_12",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_13",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_16",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_17",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AISSES_WHITE",
+        "code": "QAS_FRA_AISSES_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.4,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6777,
+        "totalMeters": 6197,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AISSES_01",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_03",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_06",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_07",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_08",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_10",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_11",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_12",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_13",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_15",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_17",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_18",
+            "yards": 402,
+            "meters": 368
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AISSES_YELLOW",
+        "code": "QAS_FRA_AISSES_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6367,
+        "totalMeters": 5821,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AISSES_01",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_02",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_03",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_04",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_06",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_07",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_08",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_11",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_12",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_13",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_15",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AISSES_BLUE",
+        "code": "QAS_FRA_AISSES_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.3,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5880,
+        "totalMeters": 5377,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AISSES_01",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_02",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_03",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_04",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_06",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_07",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_08",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_11",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_12",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_13",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_15",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_16",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_AISSES_RED",
+        "code": "QAS_FRA_AISSES_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.0,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.0,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5373,
+        "totalMeters": 4914,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_AISSES_01",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_02",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_03",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_06",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_08",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_10",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_11",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_12",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_13",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_14",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_15",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_FRA_AISSES_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      }
+    ]
+  }
+}

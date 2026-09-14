@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_VILLENNES_18",
+    "code": "QAS_FRA_VILLENNES_18",
+    "name": "Golf de Villennes - 18 trous",
+    "city": "Villennes-sur-Seine",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=498&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_01",
+        "code": "QAS_FRA_VILLENNES_18_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_02",
+        "code": "QAS_FRA_VILLENNES_18_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_03",
+        "code": "QAS_FRA_VILLENNES_18_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_04",
+        "code": "QAS_FRA_VILLENNES_18_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_05",
+        "code": "QAS_FRA_VILLENNES_18_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_06",
+        "code": "QAS_FRA_VILLENNES_18_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_07",
+        "code": "QAS_FRA_VILLENNES_18_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_08",
+        "code": "QAS_FRA_VILLENNES_18_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_09",
+        "code": "QAS_FRA_VILLENNES_18_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_10",
+        "code": "QAS_FRA_VILLENNES_18_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_11",
+        "code": "QAS_FRA_VILLENNES_18_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_12",
+        "code": "QAS_FRA_VILLENNES_18_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_13",
+        "code": "QAS_FRA_VILLENNES_18_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_14",
+        "code": "QAS_FRA_VILLENNES_18_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_15",
+        "code": "QAS_FRA_VILLENNES_18_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_16",
+        "code": "QAS_FRA_VILLENNES_18_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_17",
+        "code": "QAS_FRA_VILLENNES_18_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_VILLENNES_18_18",
+        "code": "QAS_FRA_VILLENNES_18_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_VILLENNES_18_BLACK",
+        "code": "QAS_FRA_VILLENNES_18_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 68.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 123,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 129,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6152,
+        "totalMeters": 5625,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_04",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_06",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_08",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_10",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_12",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_13",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_17",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_18",
+            "yards": 362,
+            "meters": 331
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLENNES_18_WHITE",
+        "code": "QAS_FRA_VILLENNES_18_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 68.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.6,
+            "slopeRating": 123,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 129,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5901,
+        "totalMeters": 5395,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_02",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_04",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_05",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_06",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_08",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_10",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_13",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_17",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLENNES_18_YELLOW",
+        "code": "QAS_FRA_VILLENNES_18_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.3,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 123,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5507,
+        "totalMeters": 5034,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_02",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_04",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_05",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_06",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_10",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_11",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_13",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_15",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_17",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_18",
+            "yards": 337,
+            "meters": 308
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLENNES_18_BLUE",
+        "code": "QAS_FRA_VILLENNES_18_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 65.5,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 119,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 121,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5148,
+        "totalMeters": 4708,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_02",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_03",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_04",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_06",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_08",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_09",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_11",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_12",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_13",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_15",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_VILLENNES_18_RED",
+        "code": "QAS_FRA_VILLENNES_18_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 63.8,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.8,
+            "slopeRating": 116,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.6,
+            "slopeRating": 116,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5148,
+        "totalMeters": 4708,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_02",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_03",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_04",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_06",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_08",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_09",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_11",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_12",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_13",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_15",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_FRA_VILLENNES_18_18",
+            "yards": 309,
+            "meters": 283
+          }
+        ]
+      }
+    ]
+  }
+}

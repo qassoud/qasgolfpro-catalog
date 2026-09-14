@@ -1,0 +1,728 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_BOUCLES_SEINE",
+    "code": "QAS_FRA_BOUCLES_SEINE",
+    "name": "Golf des Boucles de Seine",
+    "city": "Moisson",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=500&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_01",
+        "code": "QAS_FRA_BOUCLES_SEINE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_02",
+        "code": "QAS_FRA_BOUCLES_SEINE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_03",
+        "code": "QAS_FRA_BOUCLES_SEINE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_04",
+        "code": "QAS_FRA_BOUCLES_SEINE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_05",
+        "code": "QAS_FRA_BOUCLES_SEINE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_06",
+        "code": "QAS_FRA_BOUCLES_SEINE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_07",
+        "code": "QAS_FRA_BOUCLES_SEINE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_08",
+        "code": "QAS_FRA_BOUCLES_SEINE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_09",
+        "code": "QAS_FRA_BOUCLES_SEINE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_10",
+        "code": "QAS_FRA_BOUCLES_SEINE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_11",
+        "code": "QAS_FRA_BOUCLES_SEINE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_12",
+        "code": "QAS_FRA_BOUCLES_SEINE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_13",
+        "code": "QAS_FRA_BOUCLES_SEINE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_14",
+        "code": "QAS_FRA_BOUCLES_SEINE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_15",
+        "code": "QAS_FRA_BOUCLES_SEINE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_16",
+        "code": "QAS_FRA_BOUCLES_SEINE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_17",
+        "code": "QAS_FRA_BOUCLES_SEINE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_BOUCLES_SEINE_18",
+        "code": "QAS_FRA_BOUCLES_SEINE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_BOUCLES_SEINE_BLACK",
+        "code": "QAS_FRA_BOUCLES_SEINE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 69.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 130,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 138,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6010,
+        "totalMeters": 5497,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_04",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_05",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_08",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_11",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_15",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_16",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_18",
+            "yards": 511,
+            "meters": 467
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BOUCLES_SEINE_WHITE",
+        "code": "QAS_FRA_BOUCLES_SEINE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 69.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 130,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 138,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6010,
+        "totalMeters": 5497,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_04",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_05",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_08",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_11",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_14",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_15",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_16",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_18",
+            "yards": 511,
+            "meters": 467
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BOUCLES_SEINE_YELLOW",
+        "code": "QAS_FRA_BOUCLES_SEINE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 67.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.2,
+            "slopeRating": 124,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 133,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5595,
+        "totalMeters": 5116,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_01",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_02",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_04",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_05",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_07",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_08",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_12",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_15",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_18",
+            "yards": 482,
+            "meters": 441
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BOUCLES_SEINE_BLUE",
+        "code": "QAS_FRA_BOUCLES_SEINE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 64.2,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.2,
+            "slopeRating": 118,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.9,
+            "slopeRating": 125,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4937,
+        "totalMeters": 4513,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_01",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_02",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_07",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_08",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_10",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_11",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_12",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_13",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_14",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_15",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_16",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_17",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_18",
+            "yards": 428,
+            "meters": 391
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_BOUCLES_SEINE_RED",
+        "code": "QAS_FRA_BOUCLES_SEINE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 62.9,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.9,
+            "slopeRating": 116,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.0,
+            "slopeRating": 125,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4658,
+        "totalMeters": 4260,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_01",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_02",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_05",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_06",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_07",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_08",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_09",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_11",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_12",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_13",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_14",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_15",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_16",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_17",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_FRA_BOUCLES_SEINE_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_FRA_HOMBOURG_DOMAINE",
+    "code": "QAS_FRA_HOMBOURG_DOMAINE",
+    "name": "Golf du Château de Hombourg - Domaine",
+    "city": "Hombourg",
+    "countryCode": "FRA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "SousLePar — https://souslepar.com/fiche_parcours.php?id=299&r=5",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_01",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_02",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_03",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_04",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_05",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_06",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_07",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_08",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_09",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_10",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_11",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_12",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_13",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_14",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_15",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_16",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_17",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_FRA_HOMBOURG_DOMAINE_18",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_FRA_HOMBOURG_DOMAINE_BLACK",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 71.4,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6417,
+        "totalMeters": 5869,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_06",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_07",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_08",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_09",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_10",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_11",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_12",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_15",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_17",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_18",
+            "yards": 141,
+            "meters": 129
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HOMBOURG_DOMAINE_WHITE",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.4,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6417,
+        "totalMeters": 5869,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_06",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_07",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_08",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_09",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_10",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_11",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_12",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_14",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_15",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_17",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_18",
+            "yards": 141,
+            "meters": 129
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HOMBOURG_DOMAINE_YELLOW",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.7,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6242,
+        "totalMeters": 5708,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_01",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_02",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_03",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_04",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_07",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_08",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_10",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_11",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_12",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_15",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_16",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_18",
+            "yards": 141,
+            "meters": 129
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HOMBOURG_DOMAINE_BLUE",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.1,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.3,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5668,
+        "totalMeters": 5183,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_01",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_04",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_06",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_07",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_09",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_10",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_11",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_12",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_14",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_16",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_17",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_18",
+            "yards": 127,
+            "meters": 116
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_FRA_HOMBOURG_DOMAINE_RED",
+        "code": "QAS_FRA_HOMBOURG_DOMAINE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.3,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.3,
+            "slopeRating": 118,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5276,
+        "totalMeters": 4823,
+        "distances": [
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_01",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_03",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_04",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_06",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_09",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_10",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_11",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_12",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_14",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_15",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_16",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_17",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_FRA_HOMBOURG_DOMAINE_18",
+            "yards": 127,
+            "meters": 116
+          }
+        ]
+      }
+    ]
+  }
+}
