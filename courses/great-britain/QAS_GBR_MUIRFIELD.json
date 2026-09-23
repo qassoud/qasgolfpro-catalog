@@ -1,0 +1,457 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_MUIRFIELD",
+    "code": "QAS_GBR_MUIRFIELD",
+    "name": "Muirfield",
+    "city": "Gullane",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Muirfield full scorecard and ratings; ratings omitted from QasGolfPro because published player category is not explicit; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_01",
+        "code": "QAS_GBR_MUIRFIELD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_02",
+        "code": "QAS_GBR_MUIRFIELD_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_03",
+        "code": "QAS_GBR_MUIRFIELD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_04",
+        "code": "QAS_GBR_MUIRFIELD_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_05",
+        "code": "QAS_GBR_MUIRFIELD_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_06",
+        "code": "QAS_GBR_MUIRFIELD_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_07",
+        "code": "QAS_GBR_MUIRFIELD_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_08",
+        "code": "QAS_GBR_MUIRFIELD_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_09",
+        "code": "QAS_GBR_MUIRFIELD_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_10",
+        "code": "QAS_GBR_MUIRFIELD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_11",
+        "code": "QAS_GBR_MUIRFIELD_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_12",
+        "code": "QAS_GBR_MUIRFIELD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_13",
+        "code": "QAS_GBR_MUIRFIELD_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_14",
+        "code": "QAS_GBR_MUIRFIELD_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_15",
+        "code": "QAS_GBR_MUIRFIELD_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_16",
+        "code": "QAS_GBR_MUIRFIELD_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_17",
+        "code": "QAS_GBR_MUIRFIELD_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_MUIRFIELD_18",
+        "code": "QAS_GBR_MUIRFIELD_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_MUIRFIELD_BLACK",
+        "code": "QAS_GBR_MUIRFIELD_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7209,
+        "totalMeters": 6593,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_01",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_04",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_05",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_06",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_08",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_09",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_10",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_12",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_13",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_15",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_17",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_18",
+            "yards": 471,
+            "meters": 431
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_MUIRFIELD_WHITE",
+        "code": "QAS_GBR_MUIRFIELD_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6728,
+        "totalMeters": 6152,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_05",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_08",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_09",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_10",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_12",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_13",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_17",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_MUIRFIELD_BLUE",
+        "code": "QAS_GBR_MUIRFIELD_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5978,
+        "totalMeters": 5465,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_01",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_04",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_08",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_09",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_10",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_12",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_13",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_14",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_15",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_16",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_17",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_GBR_MUIRFIELD_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      }
+    ]
+  }
+}

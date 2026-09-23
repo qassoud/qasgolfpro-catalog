@@ -1,0 +1,484 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_ST_ANDREWS_OLD_COURSE",
+    "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE",
+    "name": "St Andrews Links - Old Course",
+    "city": "St Andrews",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "St Andrews Links Old Course scorecard; Golfify Old Course scorecard; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_01",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_02",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_03",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_04",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_05",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_06",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_07",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_08",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_09",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_10",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_11",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_12",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_13",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_14",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_15",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_16",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_17",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ST_ANDREWS_OLD_COURSE_18",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_ST_ANDREWS_OLD_COURSE_BLACK",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.1,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6721,
+        "totalMeters": 6145,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_03",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_04",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_05",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_06",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_07",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_10",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_11",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_14",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_15",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_17",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_18",
+            "yards": 357,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ST_ANDREWS_OLD_COURSE_BLUE",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.4,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6387,
+        "totalMeters": 5840,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_02",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_03",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_05",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_07",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_09",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_11",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_13",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_14",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_15",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_16",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_17",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ST_ANDREWS_OLD_COURSE_GREEN",
+        "code": "QAS_GBR_ST_ANDREWS_OLD_COURSE_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 69.9,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 138,
+            "ratingPar": 76
+          }
+        ],
+        "totalYards": 6032,
+        "totalMeters": 5517,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_02",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_03",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_05",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_06",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_09",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_10",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_11",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_14",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_16",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_17",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_ST_ANDREWS_OLD_COURSE_18",
+            "yards": 342,
+            "meters": 313
+          }
+        ]
+      }
+    ]
+  }
+}

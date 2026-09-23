@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP",
+    "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP",
+    "name": "Royal Dornoch Golf Club - Championship Course",
+    "city": "Dornoch",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Royal Dornoch Championship full scorecard; ratings omitted because player category is not explicit; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_BLUE",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6711,
+        "totalMeters": 6138,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+            "yards": 456,
+            "meters": 417
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_WHITE",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6626,
+        "totalMeters": 6060,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+            "yards": 456,
+            "meters": 417
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_ORANGE",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6299,
+        "totalMeters": 5760,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+            "yards": 446,
+            "meters": 408
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_RED",
+        "code": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5934,
+        "totalMeters": 5427,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_01",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_04",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_05",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_06",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_07",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_08",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_09",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_10",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_11",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_12",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_13",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_14",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_15",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_16",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_17",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_DORNOCH_CHAMPIONSHIP_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      }
+    ]
+  }
+}

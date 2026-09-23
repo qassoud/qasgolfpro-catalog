@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_KINGSBARNS_GOLF_LINKS",
+    "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS",
+    "name": "Kingsbarns Golf Links",
+    "city": "Kingsbarns",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "GolfVenues — Kingsbarns current scorecard and sex-specific WHS ratings; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_KINGSBARNS_GOLF_LINKS_BLACK",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.6,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.6,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7227,
+        "totalMeters": 6609,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+            "yards": 606,
+            "meters": 554
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_KINGSBARNS_GOLF_LINKS_WHITE",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.6,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.6,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6853,
+        "totalMeters": 6268,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_KINGSBARNS_GOLF_LINKS_GREEN",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 71.3,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 133,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.4,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6408,
+        "totalMeters": 5860,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+            "yards": 383,
+            "meters": 350
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_KINGSBARNS_GOLF_LINKS_BLUE",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.0,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6057,
+        "totalMeters": 5538,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+            "yards": 337,
+            "meters": 308
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_KINGSBARNS_GOLF_LINKS_RED",
+        "code": "QAS_GBR_KINGSBARNS_GOLF_LINKS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.1,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5238,
+        "totalMeters": 4789,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_01",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_02",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_03",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_04",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_05",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_06",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_08",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_09",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_12",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_13",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_14",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_15",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_16",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_GBR_KINGSBARNS_GOLF_LINKS_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      }
+    ]
+  }
+}

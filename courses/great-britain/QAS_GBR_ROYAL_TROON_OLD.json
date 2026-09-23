@@ -1,0 +1,930 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_ROYAL_TROON_OLD",
+    "code": "QAS_GBR_ROYAL_TROON_OLD",
+    "name": "Royal Troon Golf Club - Old Course",
+    "city": "Troon",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "GolfVenues + Golfify — Royal Troon Old current scorecards; all published physical tee sets consolidated; sex-specific WHS ratings only where matched to the same tee distance; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_01",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_02",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_03",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_04",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_05",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_06",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_07",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_08",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_09",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_10",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_11",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_12",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_13",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_14",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_15",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_16",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_17",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_TROON_OLD_18",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 17
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_BLACK",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 76.9,
+        "slope": 147,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.9,
+            "slopeRating": 147,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7402,
+        "totalMeters": 6768,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 599,
+            "meters": 548
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 623,
+            "meters": 570
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 464,
+            "meters": 424
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_BLUE",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 77.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7175,
+        "totalMeters": 6563,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 601,
+            "meters": 550
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 457,
+            "meters": 418
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_WHITE",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 75.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6632,
+        "totalMeters": 6061,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 374,
+            "meters": 342
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_YELLOW",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 73.0,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 125,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6201,
+        "totalMeters": 5671,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_RED",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 125,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6135,
+        "totalMeters": 5610,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_WINTER",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_WINTER",
+        "type": "WINTER",
+        "displayName": "Winter",
+        "courseRating": 70.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 133,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 139,
+            "ratingPar": 74
+          }
+        ],
+        "totalYards": 5903,
+        "totalMeters": 5400,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 318,
+            "meters": 291
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_TROON_OLD_GREEN",
+        "code": "QAS_GBR_ROYAL_TROON_OLD_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 69.3,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 138,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5738,
+        "totalMeters": 5246,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_02",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_04",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_05",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_06",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_07",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_10",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_12",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_14",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_16",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_TROON_OLD_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      }
+    ]
+  }
+}

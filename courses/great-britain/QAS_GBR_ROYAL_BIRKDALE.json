@@ -1,0 +1,464 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_ROYAL_BIRKDALE",
+    "code": "QAS_GBR_ROYAL_BIRKDALE",
+    "name": "Royal Birkdale Golf Club",
+    "city": "Southport",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Royal Birkdale full scorecard; Ladies rating explicitly published on Red/Ladies tee; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_01",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_02",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_03",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_04",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_05",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_06",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_07",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_08",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_09",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_10",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_11",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_12",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_13",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_14",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_15",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_16",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_17",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_BIRKDALE_18",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_BIRKDALE_WHITE",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6817,
+        "totalMeters": 6234,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_03",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_04",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_05",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_06",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_09",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_10",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_11",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_12",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_13",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_14",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_15",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_17",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_18",
+            "yards": 472,
+            "meters": 432
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_BIRKDALE_YELLOW",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6381,
+        "totalMeters": 5834,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_01",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_02",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_03",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_08",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_13",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_14",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_15",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_16",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_17",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_18",
+            "yards": 465,
+            "meters": 425
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_BIRKDALE_RED",
+        "code": "QAS_GBR_ROYAL_BIRKDALE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 74.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 130,
+            "ratingPar": 75
+          }
+        ],
+        "totalYards": 5793,
+        "totalMeters": 5296,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_02",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_03",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_04",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_05",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_07",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_08",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_09",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_11",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_12",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_13",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_14",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_15",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_17",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_BIRKDALE_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      }
+    ]
+  }
+}

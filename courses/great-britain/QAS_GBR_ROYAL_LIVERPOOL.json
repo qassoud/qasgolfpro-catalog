@@ -1,0 +1,464 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_GBR_ROYAL_LIVERPOOL",
+    "code": "QAS_GBR_ROYAL_LIVERPOOL",
+    "name": "Royal Liverpool Golf Club",
+    "city": "Hoylake",
+    "countryCode": "GBR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Royal Liverpool full scorecard; Open tournament routing intentionally excluded; Ladies CR/Slope explicitly published; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_01",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_02",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_03",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_04",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_05",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_06",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_07",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_08",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_09",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_10",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_11",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_12",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_13",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_14",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_15",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_16",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_17",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_GBR_ROYAL_LIVERPOOL_18",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_LIVERPOOL_LONG",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_LONG",
+        "type": "LONG",
+        "displayName": "Long",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6907,
+        "totalMeters": 6316,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_01",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_02",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_03",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_04",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_05",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_06",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_07",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_08",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_11",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_13",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_14",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_16",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_LIVERPOOL_SHORT",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_SHORT",
+        "type": "SHORT",
+        "displayName": "Short",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6481,
+        "totalMeters": 5927,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_02",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_03",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_04",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_06",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_14",
+            "yards": 496,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_15",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_16",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_17",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_GBR_ROYAL_LIVERPOOL_LADIES",
+        "code": "QAS_GBR_ROYAL_LIVERPOOL_LADIES",
+        "type": "LADIES",
+        "displayName": "Ladies",
+        "courseRating": 74.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 134,
+            "ratingPar": 74
+          }
+        ],
+        "totalYards": 5878,
+        "totalMeters": 5375,
+        "distances": [
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_03",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_04",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_06",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_09",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_11",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_13",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_14",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_15",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_16",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_17",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_GBR_ROYAL_LIVERPOOL_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      }
+    ]
+  }
+}
