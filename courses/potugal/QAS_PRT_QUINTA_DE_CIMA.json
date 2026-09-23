@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_QUINTA_DE_CIMA",
+    "code": "QAS_PRT_QUINTA_DE_CIMA",
+    "name": "Quinta de Cima Golf Course",
+    "city": "Vila Nova de Cacela",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Quinta de Cima; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_01",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_02",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_03",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_04",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_05",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_06",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_07",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_08",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_09",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_10",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_11",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_12",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_13",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_14",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_15",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_16",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_17",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DE_CIMA_18",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DE_CIMA_WHITE",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 74.0,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7057,
+        "totalMeters": 6454,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_01",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_05",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_06",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_07",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_11",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_13",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_14",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_15",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_16",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_18",
+            "yards": 445,
+            "meters": 407
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DE_CIMA_YELLOW",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 72.0,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6617,
+        "totalMeters": 6051,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_01",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_05",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_06",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_07",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_12",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_13",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_16",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DE_CIMA_BLUE",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 69.3,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.5,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6016,
+        "totalMeters": 5500,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_01",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_03",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_05",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_06",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_08",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_11",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_12",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_13",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_14",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_16",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_17",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_18",
+            "yards": 327,
+            "meters": 299
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DE_CIMA_RED",
+        "code": "QAS_PRT_QUINTA_DE_CIMA_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 66.7,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 114,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5447,
+        "totalMeters": 4982,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_01",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_03",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_04",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_11",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_12",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_13",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_15",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_16",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_17",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DE_CIMA_18",
+            "yards": 319,
+            "meters": 292
+          }
+        ]
+      }
+    ]
+  }
+}

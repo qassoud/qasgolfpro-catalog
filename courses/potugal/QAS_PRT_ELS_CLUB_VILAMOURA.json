@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_ELS_CLUB_VILAMOURA",
+    "code": "QAS_PRT_ELS_CLUB_VILAMOURA",
+    "name": "The Els Club Vilamoura",
+    "city": "Vilamoura",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — The Els Club Vilamoura; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_01",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_02",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_03",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_04",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_05",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_06",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_07",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_08",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_09",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_10",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_11",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_12",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_13",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_14",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_15",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_16",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_17",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ELS_CLUB_VILAMOURA_18",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_ELS_CLUB_VILAMOURA_BLACK",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 75.5,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.5,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7335,
+        "totalMeters": 6707,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+            "yards": 474,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ELS_CLUB_VILAMOURA_WHITE",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 73.0,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6718,
+        "totalMeters": 6143,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ELS_CLUB_VILAMOURA_YELLOW",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 71.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6265,
+        "totalMeters": 5728,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ELS_CLUB_VILAMOURA_BLUE",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 69.2,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5781,
+        "totalMeters": 5288,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+            "yards": 383,
+            "meters": 350
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ELS_CLUB_VILAMOURA_RED",
+        "code": "QAS_PRT_ELS_CLUB_VILAMOURA_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 65.7,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.2,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5085,
+        "totalMeters": 4648,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_04",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_05",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_06",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_08",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_09",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_12",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_13",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_14",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_15",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_17",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_PRT_ELS_CLUB_VILAMOURA_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      }
+    ]
+  }
+}

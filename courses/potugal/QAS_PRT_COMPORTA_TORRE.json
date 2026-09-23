@@ -1,0 +1,832 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_COMPORTA_TORRE",
+    "code": "QAS_PRT_COMPORTA_TORRE",
+    "name": "Terras da Comporta - Torre Course",
+    "city": "Carvalhal",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Terras da Comporta Torre; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_01",
+        "code": "QAS_PRT_COMPORTA_TORRE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_02",
+        "code": "QAS_PRT_COMPORTA_TORRE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_03",
+        "code": "QAS_PRT_COMPORTA_TORRE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_04",
+        "code": "QAS_PRT_COMPORTA_TORRE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_05",
+        "code": "QAS_PRT_COMPORTA_TORRE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_06",
+        "code": "QAS_PRT_COMPORTA_TORRE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_07",
+        "code": "QAS_PRT_COMPORTA_TORRE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_08",
+        "code": "QAS_PRT_COMPORTA_TORRE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_09",
+        "code": "QAS_PRT_COMPORTA_TORRE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_10",
+        "code": "QAS_PRT_COMPORTA_TORRE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_11",
+        "code": "QAS_PRT_COMPORTA_TORRE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_12",
+        "code": "QAS_PRT_COMPORTA_TORRE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_13",
+        "code": "QAS_PRT_COMPORTA_TORRE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_14",
+        "code": "QAS_PRT_COMPORTA_TORRE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_15",
+        "code": "QAS_PRT_COMPORTA_TORRE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_16",
+        "code": "QAS_PRT_COMPORTA_TORRE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_17",
+        "code": "QAS_PRT_COMPORTA_TORRE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_TORRE_18",
+        "code": "QAS_PRT_COMPORTA_TORRE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_66",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_66",
+        "type": "TEE_66",
+        "displayName": "Tee 66",
+        "courseRating": 75.3,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7296,
+        "totalMeters": 6670,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 465,
+            "meters": 425
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_62",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_62",
+        "type": "TEE_62",
+        "displayName": "Tee 62",
+        "courseRating": 73.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6799,
+        "totalMeters": 6215,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 435,
+            "meters": 398
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_58",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_58",
+        "type": "TEE_58",
+        "displayName": "Tee 58",
+        "courseRating": 71.0,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.1,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6343,
+        "totalMeters": 5800,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_53",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_53",
+        "type": "TEE_53",
+        "displayName": "Tee 53",
+        "courseRating": 68.7,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5824,
+        "totalMeters": 5327,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_48",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_48",
+        "type": "TEE_48",
+        "displayName": "Tee 48",
+        "courseRating": 66.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5277,
+        "totalMeters": 4827,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 352,
+            "meters": 322
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_TORRE_TEE_38",
+        "code": "QAS_PRT_COMPORTA_TORRE_TEE_38",
+        "type": "TEE_38",
+        "displayName": "Tee 38",
+        "courseRating": 61.9,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 61.9,
+            "slopeRating": 113,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 65.0,
+            "slopeRating": 113,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4180,
+        "totalMeters": 3825,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_01",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_02",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_03",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_04",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_05",
+            "yards": 69,
+            "meters": 63
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_06",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_07",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_08",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_10",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_11",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_12",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_13",
+            "yards": 74,
+            "meters": 68
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_14",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_16",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_17",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_TORRE_18",
+            "yards": 274,
+            "meters": 251
+          }
+        ]
+      }
+    ]
+  }
+}

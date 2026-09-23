@@ -1,0 +1,698 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_PENHA_LONGA_ATLANTIC",
+    "code": "QAS_PRT_PENHA_LONGA_ATLANTIC",
+    "name": "Penha Longa Resort - Atlantic Championship",
+    "city": "Sintra",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Penha Longa Atlantic published scorecard / Golfify; ratings preserved only as explicitly published; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_PENHA_LONGA_ATLANTIC_BRONZE",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_BRONZE",
+        "type": "BRONZE",
+        "displayName": "Bronze",
+        "courseRating": 73.0,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6904,
+        "totalMeters": 6313,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+            "yards": 554,
+            "meters": 507
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PENHA_LONGA_ATLANTIC_WHITE",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6500,
+        "totalMeters": 5944,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+            "yards": 526,
+            "meters": 481
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PENHA_LONGA_ATLANTIC_YELLOW",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 69.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6041,
+        "totalMeters": 5524,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+            "yards": 468,
+            "meters": 428
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PENHA_LONGA_ATLANTIC_BLUE",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 74.4,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5921,
+        "totalMeters": 5414,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+            "yards": 468,
+            "meters": 428
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PENHA_LONGA_ATLANTIC_RED",
+        "code": "QAS_PRT_PENHA_LONGA_ATLANTIC_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 67.7,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.7,
+            "slopeRating": 119,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5568,
+        "totalMeters": 5092,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_03",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_05",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_06",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_08",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_12",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_13",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_15",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_16",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_PRT_PENHA_LONGA_ATLANTIC_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      }
+    ]
+  }
+}

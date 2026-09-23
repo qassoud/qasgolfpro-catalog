@@ -1,0 +1,942 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_MONTADO",
+    "code": "QAS_PRT_MONTADO",
+    "name": "Montado Hotel & Golf Resort",
+    "city": "Palmela",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Montado; all published distance sets retained; tee names normalized by total distance where graphical marker labels are unavailable in source text; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_01",
+        "code": "QAS_PRT_MONTADO_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_02",
+        "code": "QAS_PRT_MONTADO_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_03",
+        "code": "QAS_PRT_MONTADO_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_04",
+        "code": "QAS_PRT_MONTADO_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_05",
+        "code": "QAS_PRT_MONTADO_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_06",
+        "code": "QAS_PRT_MONTADO_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_07",
+        "code": "QAS_PRT_MONTADO_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_08",
+        "code": "QAS_PRT_MONTADO_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_09",
+        "code": "QAS_PRT_MONTADO_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_10",
+        "code": "QAS_PRT_MONTADO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_11",
+        "code": "QAS_PRT_MONTADO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_12",
+        "code": "QAS_PRT_MONTADO_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_13",
+        "code": "QAS_PRT_MONTADO_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_14",
+        "code": "QAS_PRT_MONTADO_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_15",
+        "code": "QAS_PRT_MONTADO_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_16",
+        "code": "QAS_PRT_MONTADO_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_17",
+        "code": "QAS_PRT_MONTADO_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_MONTADO_18",
+        "code": "QAS_PRT_MONTADO_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_64",
+        "code": "QAS_PRT_MONTADO_TEE_64",
+        "type": "TEE_64",
+        "displayName": "Tee 64",
+        "courseRating": 73.2,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6977,
+        "totalMeters": 6380,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 170,
+            "meters": 155
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_59",
+        "code": "QAS_PRT_MONTADO_TEE_59",
+        "type": "TEE_59",
+        "displayName": "Tee 59",
+        "courseRating": 70.9,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6470,
+        "totalMeters": 5916,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 151,
+            "meters": 138
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_56",
+        "code": "QAS_PRT_MONTADO_TEE_56",
+        "type": "TEE_56",
+        "displayName": "Tee 56",
+        "courseRating": 74.9,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6159,
+        "totalMeters": 5631,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 136,
+            "meters": 124
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_55",
+        "code": "QAS_PRT_MONTADO_TEE_55",
+        "type": "TEE_55",
+        "displayName": "Tee 55",
+        "courseRating": 69.0,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.0,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6016,
+        "totalMeters": 5501,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 136,
+            "meters": 124
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_49",
+        "code": "QAS_PRT_MONTADO_TEE_49",
+        "type": "TEE_49",
+        "displayName": "Tee 49",
+        "courseRating": 65.9,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.9,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5355,
+        "totalMeters": 4898,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 116,
+            "meters": 106
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_35",
+        "code": "QAS_PRT_MONTADO_TEE_35",
+        "type": "TEE_35",
+        "displayName": "Tee 35",
+        "courseRating": 60.8,
+        "slope": 107,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 60.8,
+            "slopeRating": 107,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 63.2,
+            "slopeRating": 108,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3803,
+        "totalMeters": 3477,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 98,
+            "meters": 90
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_MONTADO_TEE_30",
+        "code": "QAS_PRT_MONTADO_TEE_30",
+        "type": "TEE_30",
+        "displayName": "Tee 30",
+        "courseRating": 59.1,
+        "slope": 103,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 59.1,
+            "slopeRating": 103,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 60.9,
+            "slopeRating": 105,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3236,
+        "totalMeters": 2961,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_MONTADO_01",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_02",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_03",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_04",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_06",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_07",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_08",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_09",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_10",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_11",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_12",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_14",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_15",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_17",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_PRT_MONTADO_18",
+            "yards": 98,
+            "meters": 90
+          }
+        ]
+      }
+    ]
+  }
+}

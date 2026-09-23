@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_PALMARES_ALVOR_X2",
+    "code": "QAS_PRT_PALMARES_ALVOR_X2",
+    "name": "Palmares Ocean Living & Golf - Alvor 9 ×2",
+    "city": "Lagos",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Palmares published Alvor 9-hole scorecard / Golfify; QasGolfPro 27-hole rule: Alvor 9 duplicated to 18; 18-hole ratings omitted because no reliable 18-hole CR/Slope is published for the doubled routing; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_01",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_02",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_03",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_04",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_05",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_06",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_07",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_08",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_09",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_10",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_11",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_12",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_13",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_14",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_15",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_16",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_17",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_PALMARES_ALVOR_X2_18",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_PALMARES_ALVOR_X2_WHITE",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7332,
+        "totalMeters": 6704,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_01",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_02",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_03",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_04",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_05",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_07",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_08",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_09",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_10",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_11",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_12",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_13",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_14",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_15",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_16",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_17",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PALMARES_ALVOR_X2_YELLOW",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6814,
+        "totalMeters": 6230,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_02",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_03",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_04",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_05",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_08",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_11",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_13",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_14",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_17",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PALMARES_ALVOR_X2_BLUE",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6274,
+        "totalMeters": 5736,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_01",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_04",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_05",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_07",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_08",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_09",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_11",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_12",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_13",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_14",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_PALMARES_ALVOR_X2_RED",
+        "code": "QAS_PRT_PALMARES_ALVOR_X2_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5312,
+        "totalMeters": 4856,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_04",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_07",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_08",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_09",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_11",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_12",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_15",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_16",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_PRT_PALMARES_ALVOR_X2_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      }
+    ]
+  }
+}

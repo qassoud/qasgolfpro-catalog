@@ -1,0 +1,844 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_QUINTA_DO_PERU",
+    "code": "QAS_PRT_QUINTA_DO_PERU",
+    "name": "Quinta do Peru Golf & Country Club",
+    "city": "Azeitão",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Quinta do Peru; tee names normalized by published total distance where marker colors are not exposed in source text; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_01",
+        "code": "QAS_PRT_QUINTA_DO_PERU_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_02",
+        "code": "QAS_PRT_QUINTA_DO_PERU_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_03",
+        "code": "QAS_PRT_QUINTA_DO_PERU_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_04",
+        "code": "QAS_PRT_QUINTA_DO_PERU_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_05",
+        "code": "QAS_PRT_QUINTA_DO_PERU_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_06",
+        "code": "QAS_PRT_QUINTA_DO_PERU_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_07",
+        "code": "QAS_PRT_QUINTA_DO_PERU_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_08",
+        "code": "QAS_PRT_QUINTA_DO_PERU_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_09",
+        "code": "QAS_PRT_QUINTA_DO_PERU_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_10",
+        "code": "QAS_PRT_QUINTA_DO_PERU_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_11",
+        "code": "QAS_PRT_QUINTA_DO_PERU_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_12",
+        "code": "QAS_PRT_QUINTA_DO_PERU_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_13",
+        "code": "QAS_PRT_QUINTA_DO_PERU_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_14",
+        "code": "QAS_PRT_QUINTA_DO_PERU_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_15",
+        "code": "QAS_PRT_QUINTA_DO_PERU_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_16",
+        "code": "QAS_PRT_QUINTA_DO_PERU_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_17",
+        "code": "QAS_PRT_QUINTA_DO_PERU_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_PERU_18",
+        "code": "QAS_PRT_QUINTA_DO_PERU_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 1
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_60",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_60",
+        "type": "TEE_60",
+        "displayName": "Tee 60",
+        "courseRating": 71.9,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.3,
+            "slopeRating": 149,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6539,
+        "totalMeters": 5979,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_56",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_56",
+        "type": "TEE_56",
+        "displayName": "Tee 56",
+        "courseRating": 69.8,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6085,
+        "totalMeters": 5564,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_54",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_54",
+        "type": "TEE_54",
+        "displayName": "Tee 54",
+        "courseRating": 69.0,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5880,
+        "totalMeters": 5377,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 396,
+            "meters": 362
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_45",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_45",
+        "type": "TEE_45",
+        "displayName": "Tee 45",
+        "courseRating": 64.6,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.6,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.5,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4954,
+        "totalMeters": 4529,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_38",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_38",
+        "type": "TEE_38",
+        "displayName": "Tee 38",
+        "courseRating": 61.7,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 61.7,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 64.8,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4104,
+        "totalMeters": 3752,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 262,
+            "meters": 240
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_PERU_TEE_29",
+        "code": "QAS_PRT_QUINTA_DO_PERU_TEE_29",
+        "type": "TEE_29",
+        "displayName": "Tee 29",
+        "courseRating": 58.5,
+        "slope": 112,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 58.5,
+            "slopeRating": 112,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 60.5,
+            "slopeRating": 111,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3148,
+        "totalMeters": 2880,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_02",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_03",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_04",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_05",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_07",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_08",
+            "yards": 77,
+            "meters": 70
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_09",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_10",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_11",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_13",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_16",
+            "yards": 71,
+            "meters": 65
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_PERU_18",
+            "yards": 224,
+            "meters": 205
+          }
+        ]
+      }
+    ]
+  }
+}

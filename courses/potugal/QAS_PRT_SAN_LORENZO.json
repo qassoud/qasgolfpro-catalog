@@ -1,0 +1,484 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_SAN_LORENZO",
+    "code": "QAS_PRT_SAN_LORENZO",
+    "name": "San Lorenzo Golf Course",
+    "city": "Quinta do Lago",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "San Lorenzo published scorecard / Golfify; physical tees consolidated and sex-specific ratings retained only where explicit; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_01",
+        "code": "QAS_PRT_SAN_LORENZO_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_02",
+        "code": "QAS_PRT_SAN_LORENZO_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_03",
+        "code": "QAS_PRT_SAN_LORENZO_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_04",
+        "code": "QAS_PRT_SAN_LORENZO_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_05",
+        "code": "QAS_PRT_SAN_LORENZO_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_06",
+        "code": "QAS_PRT_SAN_LORENZO_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_07",
+        "code": "QAS_PRT_SAN_LORENZO_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_08",
+        "code": "QAS_PRT_SAN_LORENZO_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_09",
+        "code": "QAS_PRT_SAN_LORENZO_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_10",
+        "code": "QAS_PRT_SAN_LORENZO_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_11",
+        "code": "QAS_PRT_SAN_LORENZO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_12",
+        "code": "QAS_PRT_SAN_LORENZO_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_13",
+        "code": "QAS_PRT_SAN_LORENZO_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_14",
+        "code": "QAS_PRT_SAN_LORENZO_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_15",
+        "code": "QAS_PRT_SAN_LORENZO_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_16",
+        "code": "QAS_PRT_SAN_LORENZO_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_17",
+        "code": "QAS_PRT_SAN_LORENZO_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_SAN_LORENZO_18",
+        "code": "QAS_PRT_SAN_LORENZO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_SAN_LORENZO_WHITE",
+        "code": "QAS_PRT_SAN_LORENZO_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 73.0,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6832,
+        "totalMeters": 6247,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_01",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_04",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_06",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_07",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_08",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_10",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_13",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_14",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_15",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_16",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_SAN_LORENZO_YELLOW",
+        "code": "QAS_PRT_SAN_LORENZO_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 70.3,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.3,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.2,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6401,
+        "totalMeters": 5854,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_01",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_02",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_03",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_05",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_07",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_08",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_09",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_10",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_12",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_13",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_14",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_15",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_16",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_17",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_18",
+            "yards": 382,
+            "meters": 349
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_SAN_LORENZO_RED",
+        "code": "QAS_PRT_SAN_LORENZO_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 73.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5655,
+        "totalMeters": 5171,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_01",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_02",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_03",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_05",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_07",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_08",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_09",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_11",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_12",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_14",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_15",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_16",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_17",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_PRT_SAN_LORENZO_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      }
+    ]
+  }
+}

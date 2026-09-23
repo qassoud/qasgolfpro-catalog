@@ -1,0 +1,832 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_COMPORTA_DUNAS",
+    "code": "QAS_PRT_COMPORTA_DUNAS",
+    "name": "Terras da Comporta - Dunas Course",
+    "city": "Carvalhal",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Terras da Comporta Dunas; distances and WHS ratings verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_01",
+        "code": "QAS_PRT_COMPORTA_DUNAS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_02",
+        "code": "QAS_PRT_COMPORTA_DUNAS_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_03",
+        "code": "QAS_PRT_COMPORTA_DUNAS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_04",
+        "code": "QAS_PRT_COMPORTA_DUNAS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_05",
+        "code": "QAS_PRT_COMPORTA_DUNAS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_06",
+        "code": "QAS_PRT_COMPORTA_DUNAS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_07",
+        "code": "QAS_PRT_COMPORTA_DUNAS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_08",
+        "code": "QAS_PRT_COMPORTA_DUNAS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_09",
+        "code": "QAS_PRT_COMPORTA_DUNAS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_10",
+        "code": "QAS_PRT_COMPORTA_DUNAS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_11",
+        "code": "QAS_PRT_COMPORTA_DUNAS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_12",
+        "code": "QAS_PRT_COMPORTA_DUNAS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_13",
+        "code": "QAS_PRT_COMPORTA_DUNAS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_14",
+        "code": "QAS_PRT_COMPORTA_DUNAS_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_15",
+        "code": "QAS_PRT_COMPORTA_DUNAS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_16",
+        "code": "QAS_PRT_COMPORTA_DUNAS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_17",
+        "code": "QAS_PRT_COMPORTA_DUNAS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_COMPORTA_DUNAS_18",
+        "code": "QAS_PRT_COMPORTA_DUNAS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_66",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_66",
+        "type": "TEE_66",
+        "displayName": "Tee 66",
+        "courseRating": 74.4,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.4,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7268,
+        "totalMeters": 6646,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 609,
+            "meters": 557
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 459,
+            "meters": 420
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_62",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_62",
+        "type": "TEE_62",
+        "displayName": "Tee 62",
+        "courseRating": 72.7,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6817,
+        "totalMeters": 6236,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_57",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_57",
+        "type": "TEE_57",
+        "displayName": "Tee 57",
+        "courseRating": 70.2,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 131,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6286,
+        "totalMeters": 5746,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_50",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_50",
+        "type": "TEE_50",
+        "displayName": "Tee 50",
+        "courseRating": 66.7,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 123,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 127,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5506,
+        "totalMeters": 5034,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_44",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_44",
+        "type": "TEE_44",
+        "displayName": "Tee 44",
+        "courseRating": 63.7,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.7,
+            "slopeRating": 116,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.3,
+            "slopeRating": 118,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4916,
+        "totalMeters": 4496,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_COMPORTA_DUNAS_TEE_38",
+        "code": "QAS_PRT_COMPORTA_DUNAS_TEE_38",
+        "type": "TEE_38",
+        "displayName": "Tee 38",
+        "courseRating": 61.6,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 61.6,
+            "slopeRating": 111,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 64.7,
+            "slopeRating": 111,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4206,
+        "totalMeters": 3847,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_01",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_03",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_04",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_05",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_06",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_07",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_08",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_09",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_10",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_11",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_12",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_13",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_14",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_15",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_17",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_PRT_COMPORTA_DUNAS_18",
+            "yards": 283,
+            "meters": 259
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_VILAMOURA_OLD_COURSE",
+    "code": "QAS_PRT_VILAMOURA_OLD_COURSE",
+    "name": "Vilamoura - Old Course",
+    "city": "Vilamoura",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Vilamoura Old Course; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_01",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_02",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_03",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_04",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_05",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_06",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_07",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_08",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_09",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_10",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_11",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_12",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_13",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_14",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_15",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_16",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_17",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_VILAMOURA_OLD_COURSE_18",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_VILAMOURA_OLD_COURSE_WHITE",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 73.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 136,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6840,
+        "totalMeters": 6254,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_02",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_03",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_04",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_05",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_06",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_07",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_08",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_09",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_10",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_11",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_12",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_13",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_14",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_15",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_16",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_17",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_18",
+            "yards": 530,
+            "meters": 485
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_VILAMOURA_OLD_COURSE_YELLOW",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 71.4,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 133,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6466,
+        "totalMeters": 5913,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_02",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_04",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_05",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_06",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_07",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_08",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_09",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_10",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_11",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_12",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_14",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_16",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_18",
+            "yards": 491,
+            "meters": 449
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_VILAMOURA_OLD_COURSE_BLUE",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 70.4,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.4,
+            "slopeRating": 131,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 135,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6253,
+        "totalMeters": 5718,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_02",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_04",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_06",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_09",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_10",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_11",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_14",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_16",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_17",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_18",
+            "yards": 481,
+            "meters": 440
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_VILAMOURA_OLD_COURSE_RED",
+        "code": "QAS_PRT_VILAMOURA_OLD_COURSE_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 67.3,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 125,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 127,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5562,
+        "totalMeters": 5086,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_02",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_03",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_04",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_05",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_06",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_07",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_08",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_09",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_10",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_13",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_15",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_VILAMOURA_OLD_COURSE_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      }
+    ]
+  }
+}

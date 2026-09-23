@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_ESTELA_GOLF_CLUB",
+    "code": "QAS_PRT_ESTELA_GOLF_CLUB",
+    "name": "Estela Golf Club",
+    "city": "Póvoa de Varzim",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Estela Golf Club; tee names normalized by published total distance where source marker colors are graphical; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_01",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_02",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_03",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_04",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_05",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_06",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_07",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_08",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_09",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_10",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_11",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_12",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_13",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_14",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_15",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_16",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_17",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_ESTELA_GOLF_CLUB_18",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_ESTELA_GOLF_CLUB_TEE_60",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_TEE_60",
+        "type": "TEE_60",
+        "displayName": "Tee 60",
+        "courseRating": 72.9,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.9,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6593,
+        "totalMeters": 6029,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+            "yards": 383,
+            "meters": 350
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ESTELA_GOLF_CLUB_TEE_57",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_TEE_57",
+        "type": "TEE_57",
+        "displayName": "Tee 57",
+        "courseRating": 71.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.2,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6238,
+        "totalMeters": 5705,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+            "yards": 363,
+            "meters": 332
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ESTELA_GOLF_CLUB_TEE_51",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_TEE_51",
+        "type": "TEE_51",
+        "displayName": "Tee 51",
+        "courseRating": 68.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5582,
+        "totalMeters": 5105,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+            "yards": 308,
+            "meters": 282
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ESTELA_GOLF_CLUB_TEE_34",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_TEE_34",
+        "type": "TEE_34",
+        "displayName": "Tee 34",
+        "courseRating": 61.4,
+        "slope": 106,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 61.4,
+            "slopeRating": 106,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 63.2,
+            "slopeRating": 106,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3739,
+        "totalMeters": 3417,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+            "yards": 222,
+            "meters": 203
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_ESTELA_GOLF_CLUB_TEE_29",
+        "code": "QAS_PRT_ESTELA_GOLF_CLUB_TEE_29",
+        "type": "TEE_29",
+        "displayName": "Tee 29",
+        "courseRating": 59.9,
+        "slope": 102,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 59.9,
+            "slopeRating": 102,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 60.9,
+            "slopeRating": 102,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3210,
+        "totalMeters": 2936,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_01",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_02",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_04",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_05",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_06",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_07",
+            "yards": 236,
+            "meters": 216
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_09",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_10",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_11",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_12",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_13",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_14",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_15",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_16",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_17",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_PRT_ESTELA_GOLF_CLUB_18",
+            "yards": 175,
+            "meters": 160
+          }
+        ]
+      }
+    ]
+  }
+}

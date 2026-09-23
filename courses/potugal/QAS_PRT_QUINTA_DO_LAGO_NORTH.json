@@ -1,0 +1,606 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_PRT_QUINTA_DO_LAGO_NORTH",
+    "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH",
+    "name": "Quinta do Lago - North Course",
+    "city": "Almancil",
+    "countryCode": "PRT",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Federação Portuguesa de Golfe / DataGolf — Quinta do Lago North; verified 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_LAGO_NORTH_BLACK",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 72.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6715,
+        "totalMeters": 6140,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+            "yards": 487,
+            "meters": 445
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_LAGO_NORTH_GOLD",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 70.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6192,
+        "totalMeters": 5661,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+            "yards": 448,
+            "meters": 410
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_LAGO_NORTH_WHITE",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 66.0,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.0,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5328,
+        "totalMeters": 4873,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_PRT_QUINTA_DO_LAGO_NORTH_GREEN",
+        "code": "QAS_PRT_QUINTA_DO_LAGO_NORTH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 64.6,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.6,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4984,
+        "totalMeters": 4557,
+        "distances": [
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_01",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_02",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_03",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_05",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_06",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_07",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_08",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_09",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_10",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_13",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_14",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_15",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_16",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_17",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_PRT_QUINTA_DO_LAGO_NORTH_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      }
+    ]
+  }
+}
