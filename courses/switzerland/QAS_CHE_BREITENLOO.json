@@ -1,0 +1,581 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_BREITENLOO",
+    "code": "QAS_CHE_BREITENLOO",
+    "name": "Golfclub Breitenloo",
+    "city": "Nürensdorf",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify + GolfTraxx — Breitenloo scorecard. MEN rating retained only where explicitly published; 59 rating omitted due source conflict; Lady tees explicitly labelled; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_01",
+        "code": "QAS_CHE_BREITENLOO_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_02",
+        "code": "QAS_CHE_BREITENLOO_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_03",
+        "code": "QAS_CHE_BREITENLOO_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_04",
+        "code": "QAS_CHE_BREITENLOO_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_05",
+        "code": "QAS_CHE_BREITENLOO_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_06",
+        "code": "QAS_CHE_BREITENLOO_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_07",
+        "code": "QAS_CHE_BREITENLOO_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_08",
+        "code": "QAS_CHE_BREITENLOO_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_09",
+        "code": "QAS_CHE_BREITENLOO_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_10",
+        "code": "QAS_CHE_BREITENLOO_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_11",
+        "code": "QAS_CHE_BREITENLOO_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_12",
+        "code": "QAS_CHE_BREITENLOO_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_13",
+        "code": "QAS_CHE_BREITENLOO_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_14",
+        "code": "QAS_CHE_BREITENLOO_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_15",
+        "code": "QAS_CHE_BREITENLOO_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_16",
+        "code": "QAS_CHE_BREITENLOO_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_17",
+        "code": "QAS_CHE_BREITENLOO_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BREITENLOO_18",
+        "code": "QAS_CHE_BREITENLOO_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_BREITENLOO_TEE_62",
+        "code": "QAS_CHE_BREITENLOO_TEE_62",
+        "type": "TEE_62",
+        "displayName": "62",
+        "courseRating": 73.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6770,
+        "totalMeters": 6191,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_01",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_02",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_03",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_04",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_05",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_06",
+            "yards": 596,
+            "meters": 545
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_07",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_08",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_09",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_10",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_12",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_13",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_15",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_16",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BREITENLOO_TEE_59",
+        "code": "QAS_CHE_BREITENLOO_TEE_59",
+        "type": "TEE_59",
+        "displayName": "59",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6434,
+        "totalMeters": 5885,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_01",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_02",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_03",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_04",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_05",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_06",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_08",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_11",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_12",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_16",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_17",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_18",
+            "yards": 404,
+            "meters": 369
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BREITENLOO_TEE_54_LADY",
+        "code": "QAS_CHE_BREITENLOO_TEE_54_LADY",
+        "type": "TEE_54_LADY",
+        "displayName": "54 Lady",
+        "courseRating": 75.6,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5939,
+        "totalMeters": 5429,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_01",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_03",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_06",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_11",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_12",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_13",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_14",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_15",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_17",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BREITENLOO_TEE_51_LADY",
+        "code": "QAS_CHE_BREITENLOO_TEE_51_LADY",
+        "type": "TEE_51_LADY",
+        "displayName": "51 Lady",
+        "courseRating": 73.9,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.9,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5564,
+        "totalMeters": 5089,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_01",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_06",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_07",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_08",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_11",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_12",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_13",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_14",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_16",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_17",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_CHE_BREITENLOO_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      }
+    ]
+  }
+}

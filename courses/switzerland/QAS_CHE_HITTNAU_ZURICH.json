@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_HITTNAU_ZURICH",
+    "code": "QAS_CHE_HITTNAU_ZURICH",
+    "name": "Golf & Country Club Hittnau-Zürich",
+    "city": "Hittnau",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Hittnau-Zürich full scorecard; category-specific ratings not inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_01",
+        "code": "QAS_CHE_HITTNAU_ZURICH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_02",
+        "code": "QAS_CHE_HITTNAU_ZURICH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_03",
+        "code": "QAS_CHE_HITTNAU_ZURICH_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_04",
+        "code": "QAS_CHE_HITTNAU_ZURICH_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_05",
+        "code": "QAS_CHE_HITTNAU_ZURICH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_06",
+        "code": "QAS_CHE_HITTNAU_ZURICH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_07",
+        "code": "QAS_CHE_HITTNAU_ZURICH_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_08",
+        "code": "QAS_CHE_HITTNAU_ZURICH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_09",
+        "code": "QAS_CHE_HITTNAU_ZURICH_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_10",
+        "code": "QAS_CHE_HITTNAU_ZURICH_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_11",
+        "code": "QAS_CHE_HITTNAU_ZURICH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_12",
+        "code": "QAS_CHE_HITTNAU_ZURICH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_13",
+        "code": "QAS_CHE_HITTNAU_ZURICH_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_14",
+        "code": "QAS_CHE_HITTNAU_ZURICH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_15",
+        "code": "QAS_CHE_HITTNAU_ZURICH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_16",
+        "code": "QAS_CHE_HITTNAU_ZURICH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_17",
+        "code": "QAS_CHE_HITTNAU_ZURICH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_HITTNAU_ZURICH_18",
+        "code": "QAS_CHE_HITTNAU_ZURICH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_HITTNAU_ZURICH_WHITE",
+        "code": "QAS_CHE_HITTNAU_ZURICH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6295,
+        "totalMeters": 5756,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_01",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_02",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_03",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_04",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_06",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_07",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_08",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_09",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_10",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_13",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_14",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_15",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_18",
+            "yards": 517,
+            "meters": 473
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_HITTNAU_ZURICH_YELLOW",
+        "code": "QAS_CHE_HITTNAU_ZURICH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5559,
+        "totalMeters": 5083,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_01",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_02",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_03",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_04",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_06",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_07",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_08",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_09",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_10",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_11",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_12",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_15",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_16",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_17",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_18",
+            "yards": 470,
+            "meters": 430
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_HITTNAU_ZURICH_BLUE",
+        "code": "QAS_CHE_HITTNAU_ZURICH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5979,
+        "totalMeters": 5467,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_01",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_02",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_03",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_04",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_05",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_06",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_09",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_10",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_11",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_13",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_16",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_HITTNAU_ZURICH_RED",
+        "code": "QAS_CHE_HITTNAU_ZURICH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5193,
+        "totalMeters": 4750,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_01",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_03",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_04",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_05",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_06",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_07",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_08",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_09",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_10",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_11",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_13",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_14",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_15",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_16",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_17",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_CHE_HITTNAU_ZURICH_18",
+            "yards": 458,
+            "meters": 419
+          }
+        ]
+      }
+    ]
+  }
+}

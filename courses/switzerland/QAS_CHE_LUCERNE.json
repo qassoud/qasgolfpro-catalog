@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_LUCERNE",
+    "code": "QAS_CHE_LUCERNE",
+    "name": "Lucerne Golf Club",
+    "city": "Lucerne",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Lucerne full scorecard. Published ladies' SI differs on some holes; QasGolfPro stores one SI row, so White/main SI is used; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_01",
+        "code": "QAS_CHE_LUCERNE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_02",
+        "code": "QAS_CHE_LUCERNE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_03",
+        "code": "QAS_CHE_LUCERNE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_04",
+        "code": "QAS_CHE_LUCERNE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_05",
+        "code": "QAS_CHE_LUCERNE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_06",
+        "code": "QAS_CHE_LUCERNE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_07",
+        "code": "QAS_CHE_LUCERNE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_08",
+        "code": "QAS_CHE_LUCERNE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_09",
+        "code": "QAS_CHE_LUCERNE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_10",
+        "code": "QAS_CHE_LUCERNE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_11",
+        "code": "QAS_CHE_LUCERNE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_12",
+        "code": "QAS_CHE_LUCERNE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_13",
+        "code": "QAS_CHE_LUCERNE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_14",
+        "code": "QAS_CHE_LUCERNE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_15",
+        "code": "QAS_CHE_LUCERNE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_16",
+        "code": "QAS_CHE_LUCERNE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_17",
+        "code": "QAS_CHE_LUCERNE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LUCERNE_18",
+        "code": "QAS_CHE_LUCERNE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_LUCERNE_WHITE",
+        "code": "QAS_CHE_LUCERNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6648,
+        "totalMeters": 6078,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LUCERNE_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_02",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_03",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_04",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_05",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_06",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_08",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_09",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_10",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_11",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_12",
+            "yards": 593,
+            "meters": 542
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_16",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_17",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LUCERNE_YELLOW",
+        "code": "QAS_CHE_LUCERNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6301,
+        "totalMeters": 5761,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LUCERNE_01",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_02",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_04",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_07",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_08",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_11",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_12",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_13",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_15",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_16",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_17",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LUCERNE_BLUE",
+        "code": "QAS_CHE_LUCERNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5828,
+        "totalMeters": 5328,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LUCERNE_01",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_02",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_08",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_11",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_12",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_13",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_14",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_15",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_16",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_17",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LUCERNE_RED",
+        "code": "QAS_CHE_LUCERNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5374,
+        "totalMeters": 4914,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LUCERNE_01",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_02",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_03",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_05",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_08",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_10",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_12",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_13",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_15",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_16",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_17",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_CHE_LUCERNE_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      }
+    ]
+  }
+}

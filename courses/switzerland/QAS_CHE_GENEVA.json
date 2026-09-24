@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_GENEVA",
+    "code": "QAS_CHE_GENEVA",
+    "name": "Golf Club de Genève",
+    "city": "Cologny",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf Club Geneva full scorecard and CR/Slope; category mapping not explicit in source, so no MEN/WOMEN rating was inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_01",
+        "code": "QAS_CHE_GENEVA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_02",
+        "code": "QAS_CHE_GENEVA_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_03",
+        "code": "QAS_CHE_GENEVA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_04",
+        "code": "QAS_CHE_GENEVA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_05",
+        "code": "QAS_CHE_GENEVA_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_06",
+        "code": "QAS_CHE_GENEVA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_07",
+        "code": "QAS_CHE_GENEVA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_08",
+        "code": "QAS_CHE_GENEVA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_09",
+        "code": "QAS_CHE_GENEVA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_10",
+        "code": "QAS_CHE_GENEVA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_11",
+        "code": "QAS_CHE_GENEVA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_12",
+        "code": "QAS_CHE_GENEVA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_13",
+        "code": "QAS_CHE_GENEVA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_14",
+        "code": "QAS_CHE_GENEVA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_15",
+        "code": "QAS_CHE_GENEVA_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_16",
+        "code": "QAS_CHE_GENEVA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_17",
+        "code": "QAS_CHE_GENEVA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GENEVA_18",
+        "code": "QAS_CHE_GENEVA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_GENEVA_WHITE",
+        "code": "QAS_CHE_GENEVA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6810,
+        "totalMeters": 6228,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GENEVA_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_03",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_05",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_07",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_08",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_11",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_13",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_15",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GENEVA_YELLOW",
+        "code": "QAS_CHE_GENEVA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6462,
+        "totalMeters": 5910,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GENEVA_01",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_02",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_03",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_04",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_05",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_07",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_08",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_13",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_14",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_15",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_16",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GENEVA_BLUE",
+        "code": "QAS_CHE_GENEVA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5987,
+        "totalMeters": 5475,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GENEVA_01",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_04",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_05",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_06",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_08",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_09",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_10",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_11",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_16",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GENEVA_RED",
+        "code": "QAS_CHE_GENEVA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5692,
+        "totalMeters": 5205,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GENEVA_01",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_03",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_04",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_05",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_07",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_09",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_11",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_13",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_15",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_16",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_CHE_GENEVA_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ]
+  }
+}

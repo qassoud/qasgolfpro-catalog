@@ -1,0 +1,561 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_LES_BOIS",
+    "code": "QAS_CHE_LES_BOIS",
+    "name": "Golf Club Les Bois",
+    "city": "Les Bois",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify + Golf Club Les Bois documents page — full scorecard and current course-rating documentation; player category not inferred from colour; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_01",
+        "code": "QAS_CHE_LES_BOIS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_02",
+        "code": "QAS_CHE_LES_BOIS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_03",
+        "code": "QAS_CHE_LES_BOIS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_04",
+        "code": "QAS_CHE_LES_BOIS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_05",
+        "code": "QAS_CHE_LES_BOIS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_06",
+        "code": "QAS_CHE_LES_BOIS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_07",
+        "code": "QAS_CHE_LES_BOIS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_08",
+        "code": "QAS_CHE_LES_BOIS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_09",
+        "code": "QAS_CHE_LES_BOIS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_10",
+        "code": "QAS_CHE_LES_BOIS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_11",
+        "code": "QAS_CHE_LES_BOIS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_12",
+        "code": "QAS_CHE_LES_BOIS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_13",
+        "code": "QAS_CHE_LES_BOIS_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_14",
+        "code": "QAS_CHE_LES_BOIS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_15",
+        "code": "QAS_CHE_LES_BOIS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_16",
+        "code": "QAS_CHE_LES_BOIS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_17",
+        "code": "QAS_CHE_LES_BOIS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LES_BOIS_18",
+        "code": "QAS_CHE_LES_BOIS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_LES_BOIS_WHITE",
+        "code": "QAS_CHE_LES_BOIS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6622,
+        "totalMeters": 6053,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_01",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_02",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_03",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_04",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_05",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_07",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_08",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_11",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_13",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_14",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_18",
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LES_BOIS_YELLOW",
+        "code": "QAS_CHE_LES_BOIS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6290,
+        "totalMeters": 5752,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_03",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_05",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_06",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_07",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_08",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_09",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_11",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_13",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_14",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_17",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_18",
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LES_BOIS_BLUE",
+        "code": "QAS_CHE_LES_BOIS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5631,
+        "totalMeters": 5150,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_02",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_03",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_05",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_08",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_11",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_13",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_14",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_15",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_16",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LES_BOIS_RED",
+        "code": "QAS_CHE_LES_BOIS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5338,
+        "totalMeters": 4882,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_02",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_03",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_05",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_06",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_07",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_08",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_10",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_11",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_13",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_14",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_15",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_16",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_17",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_CHE_LES_BOIS_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      }
+    ],
+    "dataNote": "Top100GolfCourses lists Basel at #15, but the physical course is in France. To fulfil '20 meilleurs en Suisse', Basel is excluded and Les Bois (#21) is included as the 20th physical Swiss course."
+  }
+}

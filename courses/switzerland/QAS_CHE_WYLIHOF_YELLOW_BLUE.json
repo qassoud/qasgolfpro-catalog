@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_WYLIHOF_YELLOW_BLUE",
+    "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE",
+    "name": "Golfclub Wylihof - Yellow & Blue",
+    "city": "Luterbach",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify + Golfclub Wylihof official course data — default Yellow/Blue 18-hole combination; CR/Slope category not inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_WYLIHOF_YELLOW_BLUE_WHITE",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7202,
+        "totalMeters": 6584,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_WYLIHOF_YELLOW_BLUE_YELLOW",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6662,
+        "totalMeters": 6093,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+            "yards": 387,
+            "meters": 354
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_WYLIHOF_YELLOW_BLUE_BLUE",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6066,
+        "totalMeters": 5548,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+            "yards": 354,
+            "meters": 324
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_WYLIHOF_YELLOW_BLUE_RED",
+        "code": "QAS_CHE_WYLIHOF_YELLOW_BLUE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5781,
+        "totalMeters": 5286,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_02",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_03",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_04",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_05",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_06",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_08",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_11",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_13",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_14",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_15",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_16",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_17",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_CHE_WYLIHOF_YELLOW_BLUE_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      }
+    ]
+  }
+}

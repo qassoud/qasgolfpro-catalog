@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_GOLFPARK_ZURICHSEE",
+    "code": "QAS_CHE_GOLFPARK_ZURICHSEE",
+    "name": "Golfpark Zürichsee - 18-Hole Course",
+    "city": "Wangen SZ",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfpark Zürichsee official scorecard + Albrecht/AllSquare cross-check; CR/Slope currently not published by the verified scorecard source; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_01",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_02",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_03",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_04",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_05",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_06",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_07",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_08",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_09",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_10",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_11",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_12",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_13",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_14",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_15",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_16",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_17",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GOLFPARK_ZURICHSEE_18",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_GOLFPARK_ZURICHSEE_WHITE",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6782,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_01",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_02",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_03",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_04",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_07",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_08",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_09",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_10",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_14",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_15",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_16",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_17",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GOLFPARK_ZURICHSEE_YELLOW",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6435,
+        "totalMeters": 5884,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_04",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_09",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_12",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_13",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_16",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_17",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_18",
+            "yards": 374,
+            "meters": 342
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GOLFPARK_ZURICHSEE_BLUE",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5935,
+        "totalMeters": 5428,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_03",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_06",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_07",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_09",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_11",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_15",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_16",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_17",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_18",
+            "yards": 341,
+            "meters": 312
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GOLFPARK_ZURICHSEE_RED",
+        "code": "QAS_CHE_GOLFPARK_ZURICHSEE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5591,
+        "totalMeters": 5111,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_03",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_05",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_06",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_09",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_11",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_15",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_16",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_CHE_GOLFPARK_ZURICHSEE_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      }
+    ]
+  }
+}

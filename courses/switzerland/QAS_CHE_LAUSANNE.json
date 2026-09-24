@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_LAUSANNE",
+    "code": "QAS_CHE_LAUSANNE",
+    "name": "Golf Club de Lausanne",
+    "city": "Lausanne",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Lausanne full scorecard and published CR/Slope; no sex/category inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_01",
+        "code": "QAS_CHE_LAUSANNE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_02",
+        "code": "QAS_CHE_LAUSANNE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_03",
+        "code": "QAS_CHE_LAUSANNE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_04",
+        "code": "QAS_CHE_LAUSANNE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_05",
+        "code": "QAS_CHE_LAUSANNE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_06",
+        "code": "QAS_CHE_LAUSANNE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_07",
+        "code": "QAS_CHE_LAUSANNE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_08",
+        "code": "QAS_CHE_LAUSANNE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_09",
+        "code": "QAS_CHE_LAUSANNE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_10",
+        "code": "QAS_CHE_LAUSANNE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_11",
+        "code": "QAS_CHE_LAUSANNE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_12",
+        "code": "QAS_CHE_LAUSANNE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_13",
+        "code": "QAS_CHE_LAUSANNE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_14",
+        "code": "QAS_CHE_LAUSANNE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_15",
+        "code": "QAS_CHE_LAUSANNE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_16",
+        "code": "QAS_CHE_LAUSANNE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_17",
+        "code": "QAS_CHE_LAUSANNE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_LAUSANNE_18",
+        "code": "QAS_CHE_LAUSANNE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_LAUSANNE_WHITE",
+        "code": "QAS_CHE_LAUSANNE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6777,
+        "totalMeters": 6197,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_02",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_03",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_04",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_05",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_08",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_09",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_13",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_14",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_16",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_18",
+            "yards": 544,
+            "meters": 497
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LAUSANNE_YELLOW",
+        "code": "QAS_CHE_LAUSANNE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6335,
+        "totalMeters": 5793,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_01",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_02",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_03",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_05",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_06",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_07",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_08",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_09",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_10",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_11",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_14",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_15",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_16",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_17",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_18",
+            "yards": 503,
+            "meters": 460
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LAUSANNE_BLUE",
+        "code": "QAS_CHE_LAUSANNE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5932,
+        "totalMeters": 5425,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_02",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_03",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_06",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_07",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_08",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_09",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_15",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_18",
+            "yards": 466,
+            "meters": 426
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_LAUSANNE_RED",
+        "code": "QAS_CHE_LAUSANNE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5621,
+        "totalMeters": 5139,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_02",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_03",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_05",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_07",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_11",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_14",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_15",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_CHE_LAUSANNE_18",
+            "yards": 459,
+            "meters": 420
+          }
+        ]
+      }
+    ]
+  }
+}

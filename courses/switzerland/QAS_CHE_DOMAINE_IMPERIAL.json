@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_DOMAINE_IMPERIAL",
+    "code": "QAS_CHE_DOMAINE_IMPERIAL",
+    "name": "Golf Club du Domaine Impérial",
+    "city": "Gland",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Domaine Impérial full scorecard and published CR/Slope; player category not explicit in source, so ratings array intentionally left empty; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_01",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_02",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_03",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_04",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_05",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_06",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_07",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_08",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_09",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_10",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_11",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_12",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_13",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_14",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_15",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_16",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_17",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_DOMAINE_IMPERIAL_18",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_DOMAINE_IMPERIAL_WHITE",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6932,
+        "totalMeters": 6339,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_01",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_03",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_04",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_05",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_06",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_07",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_08",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_09",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_11",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_12",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_13",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_14",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_15",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_16",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_17",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_DOMAINE_IMPERIAL_YELLOW",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6468,
+        "totalMeters": 5913,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_01",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_04",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_05",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_07",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_08",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_11",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_13",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_15",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_16",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_DOMAINE_IMPERIAL_BLUE",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6046,
+        "totalMeters": 5527,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_01",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_03",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_04",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_05",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_07",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_08",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_11",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_12",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_13",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_15",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_16",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_DOMAINE_IMPERIAL_RED",
+        "code": "QAS_CHE_DOMAINE_IMPERIAL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5492,
+        "totalMeters": 5023,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_04",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_05",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_07",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_08",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_11",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_12",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_13",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_14",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_15",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_16",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_17",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_CHE_DOMAINE_IMPERIAL_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_ASCONA",
+    "code": "QAS_CHE_ASCONA",
+    "name": "Golf Club Patriziale Ascona",
+    "city": "Ascona",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Ascona full scorecard; published CR/Slope retained only as source metadata, no player category inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_01",
+        "code": "QAS_CHE_ASCONA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_02",
+        "code": "QAS_CHE_ASCONA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_03",
+        "code": "QAS_CHE_ASCONA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_04",
+        "code": "QAS_CHE_ASCONA_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_05",
+        "code": "QAS_CHE_ASCONA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_06",
+        "code": "QAS_CHE_ASCONA_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_07",
+        "code": "QAS_CHE_ASCONA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_08",
+        "code": "QAS_CHE_ASCONA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_09",
+        "code": "QAS_CHE_ASCONA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_10",
+        "code": "QAS_CHE_ASCONA_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_11",
+        "code": "QAS_CHE_ASCONA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_12",
+        "code": "QAS_CHE_ASCONA_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_13",
+        "code": "QAS_CHE_ASCONA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_14",
+        "code": "QAS_CHE_ASCONA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_15",
+        "code": "QAS_CHE_ASCONA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_16",
+        "code": "QAS_CHE_ASCONA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_17",
+        "code": "QAS_CHE_ASCONA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_ASCONA_18",
+        "code": "QAS_CHE_ASCONA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_ASCONA_WHITE",
+        "code": "QAS_CHE_ASCONA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6506,
+        "totalMeters": 5948,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_ASCONA_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_02",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_03",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_04",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_05",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_06",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_07",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_08",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_10",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_11",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_12",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_13",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_15",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_ASCONA_YELLOW",
+        "code": "QAS_CHE_ASCONA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6101,
+        "totalMeters": 5578,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_ASCONA_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_02",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_03",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_04",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_06",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_08",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_09",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_10",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_11",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_12",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_13",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_15",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_ASCONA_BLUE",
+        "code": "QAS_CHE_ASCONA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5715,
+        "totalMeters": 5225,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_ASCONA_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_04",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_05",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_06",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_07",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_08",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_10",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_11",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_12",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_13",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_16",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_17",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_ASCONA_RED",
+        "code": "QAS_CHE_ASCONA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5384,
+        "totalMeters": 4923,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_ASCONA_01",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_02",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_03",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_04",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_05",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_06",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_07",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_08",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_10",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_12",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_13",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_16",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_CHE_ASCONA_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      }
+    ]
+  }
+}

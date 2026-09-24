@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_VUISSENS",
+    "code": "QAS_CHE_VUISSENS",
+    "name": "Golf Club Vuissens",
+    "city": "Vuissens",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify + official Vuissens scoring page — complete scorecard; category-specific CR/Slope not inferred; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_01",
+        "code": "QAS_CHE_VUISSENS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_02",
+        "code": "QAS_CHE_VUISSENS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_03",
+        "code": "QAS_CHE_VUISSENS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_04",
+        "code": "QAS_CHE_VUISSENS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_05",
+        "code": "QAS_CHE_VUISSENS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_06",
+        "code": "QAS_CHE_VUISSENS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_07",
+        "code": "QAS_CHE_VUISSENS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_08",
+        "code": "QAS_CHE_VUISSENS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_09",
+        "code": "QAS_CHE_VUISSENS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_10",
+        "code": "QAS_CHE_VUISSENS_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_11",
+        "code": "QAS_CHE_VUISSENS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_12",
+        "code": "QAS_CHE_VUISSENS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_13",
+        "code": "QAS_CHE_VUISSENS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_14",
+        "code": "QAS_CHE_VUISSENS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_15",
+        "code": "QAS_CHE_VUISSENS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_16",
+        "code": "QAS_CHE_VUISSENS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_17",
+        "code": "QAS_CHE_VUISSENS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_VUISSENS_18",
+        "code": "QAS_CHE_VUISSENS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 15
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_VUISSENS_WHITE",
+        "code": "QAS_CHE_VUISSENS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6726,
+        "totalMeters": 6150,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_VUISSENS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_02",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_03",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_04",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_06",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_07",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_08",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_09",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_10",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_11",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_12",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_13",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_15",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_VUISSENS_YELLOW",
+        "code": "QAS_CHE_VUISSENS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6179,
+        "totalMeters": 5651,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_VUISSENS_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_02",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_03",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_04",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_06",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_07",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_09",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_10",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_11",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_14",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_15",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_VUISSENS_BLUE",
+        "code": "QAS_CHE_VUISSENS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5699,
+        "totalMeters": 5212,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_VUISSENS_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_02",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_03",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_05",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_09",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_11",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_12",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_13",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_16",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_17",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_VUISSENS_RED",
+        "code": "QAS_CHE_VUISSENS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5239,
+        "totalMeters": 4791,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_VUISSENS_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_05",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_06",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_09",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_10",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_11",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_12",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_14",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_16",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_17",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_VUISSENS_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      }
+    ]
+  }
+}

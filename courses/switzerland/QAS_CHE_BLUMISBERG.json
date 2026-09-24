@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_BLUMISBERG",
+    "code": "QAS_CHE_BLUMISBERG",
+    "name": "Golf & Country Club Blumisberg",
+    "city": "Wünnewil-Flamatt",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Blumisberg full scorecard; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_01",
+        "code": "QAS_CHE_BLUMISBERG_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_02",
+        "code": "QAS_CHE_BLUMISBERG_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_03",
+        "code": "QAS_CHE_BLUMISBERG_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_04",
+        "code": "QAS_CHE_BLUMISBERG_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_05",
+        "code": "QAS_CHE_BLUMISBERG_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_06",
+        "code": "QAS_CHE_BLUMISBERG_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_07",
+        "code": "QAS_CHE_BLUMISBERG_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_08",
+        "code": "QAS_CHE_BLUMISBERG_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_09",
+        "code": "QAS_CHE_BLUMISBERG_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_10",
+        "code": "QAS_CHE_BLUMISBERG_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_11",
+        "code": "QAS_CHE_BLUMISBERG_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_12",
+        "code": "QAS_CHE_BLUMISBERG_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_13",
+        "code": "QAS_CHE_BLUMISBERG_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_14",
+        "code": "QAS_CHE_BLUMISBERG_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_15",
+        "code": "QAS_CHE_BLUMISBERG_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_16",
+        "code": "QAS_CHE_BLUMISBERG_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_17",
+        "code": "QAS_CHE_BLUMISBERG_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_BLUMISBERG_18",
+        "code": "QAS_CHE_BLUMISBERG_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_BLUMISBERG_WHITE",
+        "code": "QAS_CHE_BLUMISBERG_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6635,
+        "totalMeters": 6069,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_02",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_03",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_06",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_07",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_09",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_10",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_13",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_14",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_16",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BLUMISBERG_YELLOW",
+        "code": "QAS_CHE_BLUMISBERG_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6188,
+        "totalMeters": 5658,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_01",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_03",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_05",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_06",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_08",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_13",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_14",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_15",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BLUMISBERG_BLUE",
+        "code": "QAS_CHE_BLUMISBERG_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5932,
+        "totalMeters": 5425,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_03",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_05",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_06",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_07",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_08",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_12",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_13",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_14",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_15",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_18",
+            "yards": 414,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_BLUMISBERG_RED",
+        "code": "QAS_CHE_BLUMISBERG_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5328,
+        "totalMeters": 4871,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_02",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_03",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_04",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_06",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_08",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_10",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_11",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_12",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_13",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_14",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_16",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_CHE_BLUMISBERG_18",
+            "yards": 362,
+            "meters": 331
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_CHE_GERRE_LOSONE",
+    "code": "QAS_CHE_GERRE_LOSONE",
+    "name": "Golf Gerre Losone",
+    "city": "Losone",
+    "countryCode": "CHE",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Gerre Losone full scorecard; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_01",
+        "code": "QAS_CHE_GERRE_LOSONE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_02",
+        "code": "QAS_CHE_GERRE_LOSONE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_03",
+        "code": "QAS_CHE_GERRE_LOSONE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_04",
+        "code": "QAS_CHE_GERRE_LOSONE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_05",
+        "code": "QAS_CHE_GERRE_LOSONE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_06",
+        "code": "QAS_CHE_GERRE_LOSONE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_07",
+        "code": "QAS_CHE_GERRE_LOSONE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_08",
+        "code": "QAS_CHE_GERRE_LOSONE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_09",
+        "code": "QAS_CHE_GERRE_LOSONE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_10",
+        "code": "QAS_CHE_GERRE_LOSONE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_11",
+        "code": "QAS_CHE_GERRE_LOSONE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_12",
+        "code": "QAS_CHE_GERRE_LOSONE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_13",
+        "code": "QAS_CHE_GERRE_LOSONE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_14",
+        "code": "QAS_CHE_GERRE_LOSONE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_15",
+        "code": "QAS_CHE_GERRE_LOSONE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_16",
+        "code": "QAS_CHE_GERRE_LOSONE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_17",
+        "code": "QAS_CHE_GERRE_LOSONE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_CHE_GERRE_LOSONE_18",
+        "code": "QAS_CHE_GERRE_LOSONE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_CHE_GERRE_LOSONE_WHITE",
+        "code": "QAS_CHE_GERRE_LOSONE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6835,
+        "totalMeters": 6250,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_01",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_02",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_03",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_04",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_07",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_08",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_09",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_11",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_12",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_13",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_15",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_16",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GERRE_LOSONE_YELLOW",
+        "code": "QAS_CHE_GERRE_LOSONE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6290,
+        "totalMeters": 5751,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_01",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_03",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_04",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_05",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_06",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_07",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_11",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_13",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_15",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_16",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GERRE_LOSONE_BLUE",
+        "code": "QAS_CHE_GERRE_LOSONE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5882,
+        "totalMeters": 5378,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_03",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_04",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_05",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_06",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_08",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_09",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_11",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_12",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_13",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_14",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_15",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_16",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_17",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_CHE_GERRE_LOSONE_RED",
+        "code": "QAS_CHE_GERRE_LOSONE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5500,
+        "totalMeters": 5029,
+        "distances": [
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_02",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_03",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_05",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_07",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_08",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_10",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_11",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_12",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_14",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_16",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_17",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_CHE_GERRE_LOSONE_18",
+            "yards": 369,
+            "meters": 337
+          }
+        ]
+      }
+    ]
+  }
+}
