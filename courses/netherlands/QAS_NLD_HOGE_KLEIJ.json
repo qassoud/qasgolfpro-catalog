@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_HOGE_KLEIJ",
+    "code": "QAS_NLD_HOGE_KLEIJ",
+    "name": "Golfclub De Hoge Kleij",
+    "city": "Leusden",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Hoge Kleij full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_01",
+        "code": "QAS_NLD_HOGE_KLEIJ_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_02",
+        "code": "QAS_NLD_HOGE_KLEIJ_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_03",
+        "code": "QAS_NLD_HOGE_KLEIJ_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_04",
+        "code": "QAS_NLD_HOGE_KLEIJ_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_05",
+        "code": "QAS_NLD_HOGE_KLEIJ_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_06",
+        "code": "QAS_NLD_HOGE_KLEIJ_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_07",
+        "code": "QAS_NLD_HOGE_KLEIJ_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_08",
+        "code": "QAS_NLD_HOGE_KLEIJ_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_09",
+        "code": "QAS_NLD_HOGE_KLEIJ_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_10",
+        "code": "QAS_NLD_HOGE_KLEIJ_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_11",
+        "code": "QAS_NLD_HOGE_KLEIJ_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_12",
+        "code": "QAS_NLD_HOGE_KLEIJ_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_13",
+        "code": "QAS_NLD_HOGE_KLEIJ_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_14",
+        "code": "QAS_NLD_HOGE_KLEIJ_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_15",
+        "code": "QAS_NLD_HOGE_KLEIJ_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_16",
+        "code": "QAS_NLD_HOGE_KLEIJ_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_17",
+        "code": "QAS_NLD_HOGE_KLEIJ_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HOGE_KLEIJ_18",
+        "code": "QAS_NLD_HOGE_KLEIJ_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_HOGE_KLEIJ_WHITE",
+        "code": "QAS_NLD_HOGE_KLEIJ_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.4,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6932,
+        "totalMeters": 6340,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_01",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_02",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_03",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_04",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_05",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_07",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_08",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_09",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_10",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_12",
+            "yards": 604,
+            "meters": 552
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_14",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_15",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_16",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_17",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_18",
+            "yards": 462,
+            "meters": 422
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HOGE_KLEIJ_YELLOW",
+        "code": "QAS_NLD_HOGE_KLEIJ_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.6,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6539,
+        "totalMeters": 5979,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_01",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_02",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_05",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_07",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_08",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_09",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_11",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_12",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_13",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_14",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_16",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_17",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HOGE_KLEIJ_BLUE",
+        "code": "QAS_NLD_HOGE_KLEIJ_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.6,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.3,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6051,
+        "totalMeters": 5534,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_01",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_02",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_03",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_05",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_07",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_09",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_11",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_14",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_15",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_16",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_17",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_18",
+            "yards": 396,
+            "meters": 362
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HOGE_KLEIJ_RED",
+        "code": "QAS_NLD_HOGE_KLEIJ_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.8,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.7,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5680,
+        "totalMeters": 5194,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_02",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_03",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_05",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_06",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_08",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_09",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_11",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_12",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_13",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_14",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_16",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_17",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_18",
+            "yards": 369,
+            "meters": 337
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HOGE_KLEIJ_ORANGE",
+        "code": "QAS_NLD_HOGE_KLEIJ_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 62.7,
+        "slope": 104,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.7,
+            "slopeRating": 104,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67,
+            "slopeRating": 115,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4561,
+        "totalMeters": 4171,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_01",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_02",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_03",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_04",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_05",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_06",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_08",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_09",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_10",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_11",
+            "yards": 238,
+            "meters": 218
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_12",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_13",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_14",
+            "yards": 82,
+            "meters": 75
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_16",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_17",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_NLD_HOGE_KLEIJ_18",
+            "yards": 294,
+            "meters": 269
+          }
+        ]
+      }
+    ]
+  }
+}

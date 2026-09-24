@@ -1,0 +1,606 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_LAGE_VUURSCHE",
+    "code": "QAS_NLD_LAGE_VUURSCHE",
+    "name": "Golfclub De Lage Vuursche",
+    "city": "Den Dolder",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Lage Vuursche full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_01",
+        "code": "QAS_NLD_LAGE_VUURSCHE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_02",
+        "code": "QAS_NLD_LAGE_VUURSCHE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_03",
+        "code": "QAS_NLD_LAGE_VUURSCHE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_04",
+        "code": "QAS_NLD_LAGE_VUURSCHE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_05",
+        "code": "QAS_NLD_LAGE_VUURSCHE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_06",
+        "code": "QAS_NLD_LAGE_VUURSCHE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_07",
+        "code": "QAS_NLD_LAGE_VUURSCHE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_08",
+        "code": "QAS_NLD_LAGE_VUURSCHE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_09",
+        "code": "QAS_NLD_LAGE_VUURSCHE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_10",
+        "code": "QAS_NLD_LAGE_VUURSCHE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_11",
+        "code": "QAS_NLD_LAGE_VUURSCHE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_12",
+        "code": "QAS_NLD_LAGE_VUURSCHE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_13",
+        "code": "QAS_NLD_LAGE_VUURSCHE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_14",
+        "code": "QAS_NLD_LAGE_VUURSCHE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_15",
+        "code": "QAS_NLD_LAGE_VUURSCHE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_16",
+        "code": "QAS_NLD_LAGE_VUURSCHE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_17",
+        "code": "QAS_NLD_LAGE_VUURSCHE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_LAGE_VUURSCHE_18",
+        "code": "QAS_NLD_LAGE_VUURSCHE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_LAGE_VUURSCHE_WHITE",
+        "code": "QAS_NLD_LAGE_VUURSCHE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.8,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 142,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6874,
+        "totalMeters": 6287,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_01",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_02",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_03",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_04",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_05",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_07",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_08",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_10",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_11",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_12",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_13",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_14",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_15",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_16",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_LAGE_VUURSCHE_YELLOW",
+        "code": "QAS_NLD_LAGE_VUURSCHE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.4,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 138,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.2,
+            "slopeRating": 152,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6603,
+        "totalMeters": 6038,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_01",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_04",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_06",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_07",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_08",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_11",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_12",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_15",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_16",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_LAGE_VUURSCHE_BLUE",
+        "code": "QAS_NLD_LAGE_VUURSCHE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.2,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 132,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 147,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6168,
+        "totalMeters": 5640,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_03",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_04",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_05",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_06",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_08",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_10",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_12",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_13",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_14",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_16",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_LAGE_VUURSCHE_RED",
+        "code": "QAS_NLD_LAGE_VUURSCHE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.8,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.8,
+            "slopeRating": 121,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5451,
+        "totalMeters": 4983,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_02",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_03",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_05",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_06",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_08",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_11",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_12",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_13",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_14",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_16",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_17",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_NLD_LAGE_VUURSCHE_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      }
+    ]
+  }
+}

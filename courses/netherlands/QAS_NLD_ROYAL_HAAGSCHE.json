@@ -1,0 +1,766 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_ROYAL_HAAGSCHE",
+    "code": "QAS_NLD_ROYAL_HAAGSCHE",
+    "name": "Koninklijke Haagsche Golf & Country Club",
+    "city": "Wassenaar",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Royal Hague full scorecard; CR/Slope omitted where current MEN/WOMEN mapping was not explicit; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_01",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_02",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_03",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_04",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_05",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_06",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_07",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_08",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_09",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_10",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_11",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_12",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_13",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_14",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_15",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_16",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_17",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROYAL_HAAGSCHE_18",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_WHITE",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6836,
+        "totalMeters": 6251,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 547,
+            "meters": 500
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_YELLOW",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6245,
+        "totalMeters": 5710,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 509,
+            "meters": 465
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_BLACK",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5270,
+        "totalMeters": 4820,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 91,
+            "meters": 83
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_BLUE",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5760,
+        "totalMeters": 5267,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 474,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_RED",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5495,
+        "totalMeters": 5025,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROYAL_HAAGSCHE_ORANGE",
+        "code": "QAS_NLD_ROYAL_HAAGSCHE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4945,
+        "totalMeters": 4521,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_03",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_04",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_06",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_07",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_09",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_11",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_12",
+            "yards": 91,
+            "meters": 83
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_13",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_15",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_16",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_ROYAL_HAAGSCHE_18",
+            "yards": 443,
+            "meters": 405
+          }
+        ]
+      }
+    ]
+  }
+}

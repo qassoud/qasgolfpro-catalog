@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_UTRECHT_DE_PAN",
+    "code": "QAS_NLD_UTRECHT_DE_PAN",
+    "name": "Utrechtse Golfclub De Pan",
+    "city": "Bosch en Duin",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify / published De Pan scorecard and sex-specific WHS ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_01",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_02",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_03",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_04",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_05",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_06",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_07",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_08",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_09",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_10",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_11",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_12",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_13",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_14",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_15",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_16",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_17",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_UTRECHT_DE_PAN_18",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_UTRECHT_DE_PAN_WHITE",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.3,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6666,
+        "totalMeters": 6097,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_01",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_02",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_03",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_04",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_05",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_06",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_08",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_11",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_12",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_13",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_14",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_15",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_16",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_17",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_18",
+            "yards": 514,
+            "meters": 470
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_UTRECHT_DE_PAN_YELLOW",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.9,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6251,
+        "totalMeters": 5716,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_02",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_03",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_04",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_05",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_06",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_08",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_11",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_12",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_14",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_15",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_16",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_17",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_18",
+            "yards": 491,
+            "meters": 449
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_UTRECHT_DE_PAN_BLUE",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5848,
+        "totalMeters": 5347,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_01",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_03",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_04",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_05",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_06",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_07",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_08",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_09",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_11",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_13",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_15",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_17",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_18",
+            "yards": 457,
+            "meters": 418
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_UTRECHT_DE_PAN_RED",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67,
+            "slopeRating": 114,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5404,
+        "totalMeters": 4941,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_07",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_13",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_15",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_17",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_UTRECHT_DE_PAN_ORANGE",
+        "code": "QAS_NLD_UTRECHT_DE_PAN_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 65.7,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5224,
+        "totalMeters": 4777,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_07",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_10",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_12",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_13",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_15",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_17",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_NLD_UTRECHT_DE_PAN_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      }
+    ]
+  }
+}

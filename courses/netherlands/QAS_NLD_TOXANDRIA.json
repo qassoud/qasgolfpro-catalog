@@ -1,0 +1,723 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_TOXANDRIA",
+    "code": "QAS_NLD_TOXANDRIA",
+    "name": "Noord-Brabantsche Golfclub Toxandria",
+    "city": "Molenschot",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Toxandria official 2026 scorecard plus published rating table; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_01",
+        "code": "QAS_NLD_TOXANDRIA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_02",
+        "code": "QAS_NLD_TOXANDRIA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_03",
+        "code": "QAS_NLD_TOXANDRIA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_04",
+        "code": "QAS_NLD_TOXANDRIA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_05",
+        "code": "QAS_NLD_TOXANDRIA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_06",
+        "code": "QAS_NLD_TOXANDRIA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_07",
+        "code": "QAS_NLD_TOXANDRIA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_08",
+        "code": "QAS_NLD_TOXANDRIA_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_09",
+        "code": "QAS_NLD_TOXANDRIA_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_10",
+        "code": "QAS_NLD_TOXANDRIA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_11",
+        "code": "QAS_NLD_TOXANDRIA_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_12",
+        "code": "QAS_NLD_TOXANDRIA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_13",
+        "code": "QAS_NLD_TOXANDRIA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_14",
+        "code": "QAS_NLD_TOXANDRIA_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_15",
+        "code": "QAS_NLD_TOXANDRIA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_16",
+        "code": "QAS_NLD_TOXANDRIA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_17",
+        "code": "QAS_NLD_TOXANDRIA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_TOXANDRIA_18",
+        "code": "QAS_NLD_TOXANDRIA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_TOXANDRIA_WHITE",
+        "code": "QAS_NLD_TOXANDRIA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.4,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6647,
+        "totalMeters": 6077,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_03",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_04",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_06",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_07",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_08",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_09",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_10",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_11",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_13",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_14",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_15",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_17",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_TOXANDRIA_YELLOW",
+        "code": "QAS_NLD_TOXANDRIA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.8,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 137,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.5,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6320,
+        "totalMeters": 5779,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_04",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_06",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_08",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_09",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_11",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_12",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_14",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_15",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_16",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_17",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_TOXANDRIA_BLUE",
+        "code": "QAS_NLD_TOXANDRIA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.2,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5942,
+        "totalMeters": 5433,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_02",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_04",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_05",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_06",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_07",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_08",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_09",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_12",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_14",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_15",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_17",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_18",
+            "yards": 320,
+            "meters": 293
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_TOXANDRIA_RED",
+        "code": "QAS_NLD_TOXANDRIA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.1,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.4,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5495,
+        "totalMeters": 5024,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_02",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_03",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_04",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_05",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_06",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_07",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_08",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_09",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_10",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_11",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_14",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_15",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_17",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_18",
+            "yards": 307,
+            "meters": 281
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_TOXANDRIA_ORANGE",
+        "code": "QAS_NLD_TOXANDRIA_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 65.2,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.2,
+            "slopeRating": 111,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4930,
+        "totalMeters": 4510,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_01",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_03",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_04",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_05",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_07",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_09",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_12",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_13",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_15",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_16",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_NLD_TOXANDRIA_18",
+            "yards": 277,
+            "meters": 253
+          }
+        ]
+      }
+    ],
+    "dataNote": "Secondary sources mention a Black rating, but the official 2026 scorecard has no complete Black 18-hole distance row, so none was fabricated."
+  }
+}

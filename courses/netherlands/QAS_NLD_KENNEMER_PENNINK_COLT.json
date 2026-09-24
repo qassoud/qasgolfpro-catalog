@@ -1,0 +1,606 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_KENNEMER_PENNINK_COLT",
+    "code": "QAS_NLD_KENNEMER_PENNINK_COLT",
+    "name": "Kennemer Golf & Country Club - Pennink & Colt",
+    "city": "Zandvoort",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Kennemer Pennink + Colt full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_01",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_02",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_03",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_04",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_05",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_06",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_07",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_08",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_09",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_10",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_11",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_12",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_13",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_14",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_15",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_16",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_17",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_KENNEMER_PENNINK_COLT_18",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_KENNEMER_PENNINK_COLT_WHITE",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.7,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6572,
+        "totalMeters": 6010,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_01",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_02",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_03",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_04",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_05",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_06",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_09",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_11",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_12",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_13",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_14",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_16",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_18",
+            "yards": 400,
+            "meters": 366
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_KENNEMER_PENNINK_COLT_YELLOW",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.9,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6201,
+        "totalMeters": 5670,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_03",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_06",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_07",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_11",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_12",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_14",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_16",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_KENNEMER_PENNINK_COLT_BLUE",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.3,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.1,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5872,
+        "totalMeters": 5370,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_03",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_05",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_06",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_07",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_10",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_11",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_12",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_16",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_KENNEMER_PENNINK_COLT_RED",
+        "code": "QAS_NLD_KENNEMER_PENNINK_COLT_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.4,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 117,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5419,
+        "totalMeters": 4956,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_04",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_05",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_07",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_09",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_10",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_12",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_13",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_15",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_16",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_17",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_KENNEMER_PENNINK_COLT_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_NOORDWIJKSE",
+    "code": "QAS_NLD_NOORDWIJKSE",
+    "name": "Noordwijkse Golfclub",
+    "city": "Noordwijk",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Albrecht / published Noordwijkse scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_01",
+        "code": "QAS_NLD_NOORDWIJKSE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_02",
+        "code": "QAS_NLD_NOORDWIJKSE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_03",
+        "code": "QAS_NLD_NOORDWIJKSE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_04",
+        "code": "QAS_NLD_NOORDWIJKSE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_05",
+        "code": "QAS_NLD_NOORDWIJKSE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_06",
+        "code": "QAS_NLD_NOORDWIJKSE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_07",
+        "code": "QAS_NLD_NOORDWIJKSE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_08",
+        "code": "QAS_NLD_NOORDWIJKSE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_09",
+        "code": "QAS_NLD_NOORDWIJKSE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_10",
+        "code": "QAS_NLD_NOORDWIJKSE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_11",
+        "code": "QAS_NLD_NOORDWIJKSE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_12",
+        "code": "QAS_NLD_NOORDWIJKSE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_13",
+        "code": "QAS_NLD_NOORDWIJKSE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_14",
+        "code": "QAS_NLD_NOORDWIJKSE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_15",
+        "code": "QAS_NLD_NOORDWIJKSE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_16",
+        "code": "QAS_NLD_NOORDWIJKSE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_17",
+        "code": "QAS_NLD_NOORDWIJKSE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_NOORDWIJKSE_18",
+        "code": "QAS_NLD_NOORDWIJKSE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_NOORDWIJKSE_WHITE",
+        "code": "QAS_NLD_NOORDWIJKSE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 75.1,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.1,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6955,
+        "totalMeters": 6359,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_02",
+            "yards": 598,
+            "meters": 547
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_03",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_04",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_05",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_06",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_07",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_08",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_09",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_10",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_11",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_12",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_14",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_17",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_NOORDWIJKSE_YELLOW",
+        "code": "QAS_NLD_NOORDWIJKSE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.8,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 137,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.1,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6433,
+        "totalMeters": 5883,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_02",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_04",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_06",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_07",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_09",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_11",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_12",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_13",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_14",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_17",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_NOORDWIJKSE_BLUE",
+        "code": "QAS_NLD_NOORDWIJKSE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5886,
+        "totalMeters": 5380,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_02",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_04",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_05",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_06",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_11",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_12",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_14",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_18",
+            "yards": 354,
+            "meters": 324
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_NOORDWIJKSE_RED",
+        "code": "QAS_NLD_NOORDWIJKSE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.5,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.5,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5465,
+        "totalMeters": 4998,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_02",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_03",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_06",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_07",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_08",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_11",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_12",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_14",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_15",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_17",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_NOORDWIJKSE_ORANGE",
+        "code": "QAS_NLD_NOORDWIJKSE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 66.5,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.5,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5249,
+        "totalMeters": 4802,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_01",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_02",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_03",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_06",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_07",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_08",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_11",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_12",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_13",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_14",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_15",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_16",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_17",
+            "yards": 84,
+            "meters": 77
+          },
+          {
+            "holeCode": "QAS_NLD_NOORDWIJKSE_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      }
+    ]
+  }
+}

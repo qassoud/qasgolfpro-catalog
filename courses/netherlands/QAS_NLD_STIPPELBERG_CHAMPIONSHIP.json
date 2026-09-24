@@ -1,0 +1,606 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP",
+    "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP",
+    "name": "Golfbaan Stippelberg - Championship Course",
+    "city": "Bakel",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify / Stippelberg published Championship scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_WHITE",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.6,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.6,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6684,
+        "totalMeters": 6114,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_YELLOW",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 133,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.6,
+            "slopeRating": 145,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6316,
+        "totalMeters": 5776,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_BLUE",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.7,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 128,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 132,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5722,
+        "totalMeters": 5233,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_STIPPELBERG_CHAMPIONSHIP_RED",
+        "code": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 65.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 126,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 130,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5198,
+        "totalMeters": 4754,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_01",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_02",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_03",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_04",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_06",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_07",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_08",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_09",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_10",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_11",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_13",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_14",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_15",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_16",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_17",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_NLD_STIPPELBERG_CHAMPIONSHIP_18",
+            "yards": 323,
+            "meters": 295
+          }
+        ]
+      }
+    ]
+  }
+}

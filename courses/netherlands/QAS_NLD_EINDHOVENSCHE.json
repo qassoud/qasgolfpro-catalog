@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_EINDHOVENSCHE",
+    "code": "QAS_NLD_EINDHOVENSCHE",
+    "name": "Eindhovensche Golf",
+    "city": "Valkenswaard",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Eindhovensche full scorecard and sex-specific ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_01",
+        "code": "QAS_NLD_EINDHOVENSCHE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_02",
+        "code": "QAS_NLD_EINDHOVENSCHE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_03",
+        "code": "QAS_NLD_EINDHOVENSCHE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_04",
+        "code": "QAS_NLD_EINDHOVENSCHE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_05",
+        "code": "QAS_NLD_EINDHOVENSCHE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_06",
+        "code": "QAS_NLD_EINDHOVENSCHE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_07",
+        "code": "QAS_NLD_EINDHOVENSCHE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_08",
+        "code": "QAS_NLD_EINDHOVENSCHE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_09",
+        "code": "QAS_NLD_EINDHOVENSCHE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_10",
+        "code": "QAS_NLD_EINDHOVENSCHE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_11",
+        "code": "QAS_NLD_EINDHOVENSCHE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_12",
+        "code": "QAS_NLD_EINDHOVENSCHE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_13",
+        "code": "QAS_NLD_EINDHOVENSCHE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_14",
+        "code": "QAS_NLD_EINDHOVENSCHE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_15",
+        "code": "QAS_NLD_EINDHOVENSCHE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_16",
+        "code": "QAS_NLD_EINDHOVENSCHE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_17",
+        "code": "QAS_NLD_EINDHOVENSCHE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_EINDHOVENSCHE_18",
+        "code": "QAS_NLD_EINDHOVENSCHE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 7
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_EINDHOVENSCHE_WHITE",
+        "code": "QAS_NLD_EINDHOVENSCHE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6901,
+        "totalMeters": 6311,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_01",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_02",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_03",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_04",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_06",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_07",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_09",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_10",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_11",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_15",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_16",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_17",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_EINDHOVENSCHE_YELLOW",
+        "code": "QAS_NLD_EINDHOVENSCHE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.9,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6470,
+        "totalMeters": 5916,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_02",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_04",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_06",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_07",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_08",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_09",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_11",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_15",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_17",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_EINDHOVENSCHE_BLUE",
+        "code": "QAS_NLD_EINDHOVENSCHE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.5,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.5,
+            "slopeRating": 120,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5965,
+        "totalMeters": 5456,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_02",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_04",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_05",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_06",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_08",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_13",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_15",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_17",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_EINDHOVENSCHE_RED",
+        "code": "QAS_NLD_EINDHOVENSCHE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 66.9,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 113,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5554,
+        "totalMeters": 5079,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_02",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_03",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_04",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_05",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_08",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_09",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_10",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_13",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_15",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_EINDHOVENSCHE_ORANGE",
+        "code": "QAS_NLD_EINDHOVENSCHE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 63.8,
+        "slope": 109,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.8,
+            "slopeRating": 109,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.6,
+            "slopeRating": 116,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5035,
+        "totalMeters": 4604,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_02",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_05",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_06",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_08",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_09",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_10",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_11",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_12",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_13",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_NLD_EINDHOVENSCHE_18",
+            "yards": 282,
+            "meters": 258
+          }
+        ]
+      }
+    ]
+  }
+}

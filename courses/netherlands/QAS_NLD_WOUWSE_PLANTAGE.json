@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_WOUWSE_PLANTAGE",
+    "code": "QAS_NLD_WOUWSE_PLANTAGE",
+    "name": "Golfclub Wouwse Plantage",
+    "city": "Bergen op Zoom",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Official Wouwse Plantage handicap tables + Baanboekje complete five-tee distances; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_01",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_02",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_03",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_04",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_05",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_06",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_07",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_08",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_09",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_10",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_11",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_12",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_13",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_14",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_15",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_16",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_17",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_WOUWSE_PLANTAGE_18",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_WOUWSE_PLANTAGE_TEE_63_WHITE",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_TEE_63_WHITE",
+        "type": "TEE_63_WHITE",
+        "displayName": "63 Blanc",
+        "courseRating": 74.1,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6895,
+        "totalMeters": 6302,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_02",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_04",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_05",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_06",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_07",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_08",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_09",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_11",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_12",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_13",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_15",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_16",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_WOUWSE_PLANTAGE_TEE_59_YELLOW",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_TEE_59_YELLOW",
+        "type": "TEE_59_YELLOW",
+        "displayName": "59 Jaune",
+        "courseRating": 72,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.3,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6444,
+        "totalMeters": 5892,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_02",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_03",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_04",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_05",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_07",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_10",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_11",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_12",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_13",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_14",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_15",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_17",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_18",
+            "yards": 382,
+            "meters": 349
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_WOUWSE_PLANTAGE_TEE_56_BLUE",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_TEE_56_BLUE",
+        "type": "TEE_56_BLUE",
+        "displayName": "56 Bleu",
+        "courseRating": 70.4,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.4,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6156,
+        "totalMeters": 5629,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_02",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_03",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_04",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_05",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_06",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_07",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_08",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_10",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_15",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_17",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_WOUWSE_PLANTAGE_TEE_51_RED",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_TEE_51_RED",
+        "type": "TEE_51_RED",
+        "displayName": "51 Rouge",
+        "courseRating": 68.1,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 118,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.1,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5575,
+        "totalMeters": 5096,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_01",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_02",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_04",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_05",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_07",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_08",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_10",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_12",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_13",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_17",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_18",
+            "yards": 316,
+            "meters": 289
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_WOUWSE_PLANTAGE_TEE_45_ORANGE",
+        "code": "QAS_NLD_WOUWSE_PLANTAGE_TEE_45_ORANGE",
+        "type": "TEE_45_ORANGE",
+        "displayName": "45 Orange",
+        "courseRating": 64.8,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 64.8,
+            "slopeRating": 113,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.5,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4957,
+        "totalMeters": 4533,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_01",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_02",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_03",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_05",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_07",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_08",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_09",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_10",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_11",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_12",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_16",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_17",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_NLD_WOUWSE_PLANTAGE_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      }
+    ]
+  }
+}

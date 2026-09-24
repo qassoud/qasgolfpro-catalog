@@ -1,0 +1,722 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_GELPENBERG",
+    "code": "QAS_NLD_GELPENBERG",
+    "name": "Drentse Golfclub De Gelpenberg",
+    "city": "Aalden",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Gelpenberg full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_01",
+        "code": "QAS_NLD_GELPENBERG_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_02",
+        "code": "QAS_NLD_GELPENBERG_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_03",
+        "code": "QAS_NLD_GELPENBERG_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_04",
+        "code": "QAS_NLD_GELPENBERG_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_05",
+        "code": "QAS_NLD_GELPENBERG_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_06",
+        "code": "QAS_NLD_GELPENBERG_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_07",
+        "code": "QAS_NLD_GELPENBERG_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_08",
+        "code": "QAS_NLD_GELPENBERG_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_09",
+        "code": "QAS_NLD_GELPENBERG_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_10",
+        "code": "QAS_NLD_GELPENBERG_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_11",
+        "code": "QAS_NLD_GELPENBERG_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_12",
+        "code": "QAS_NLD_GELPENBERG_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_13",
+        "code": "QAS_NLD_GELPENBERG_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_14",
+        "code": "QAS_NLD_GELPENBERG_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_15",
+        "code": "QAS_NLD_GELPENBERG_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_16",
+        "code": "QAS_NLD_GELPENBERG_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_17",
+        "code": "QAS_NLD_GELPENBERG_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GELPENBERG_18",
+        "code": "QAS_NLD_GELPENBERG_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_GELPENBERG_WHITE",
+        "code": "QAS_NLD_GELPENBERG_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6912,
+        "totalMeters": 6321,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_01",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_02",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_03",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_04",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_05",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_06",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_07",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_09",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_11",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_12",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_13",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_14",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_16",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_17",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GELPENBERG_YELLOW",
+        "code": "QAS_NLD_GELPENBERG_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.4,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6596,
+        "totalMeters": 6031,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_01",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_02",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_03",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_04",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_05",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_06",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_07",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_08",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_11",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_12",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_13",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_16",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GELPENBERG_BLUE",
+        "code": "QAS_NLD_GELPENBERG_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70,
+            "slopeRating": 121,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.3,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6029,
+        "totalMeters": 5513,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_01",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_02",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_06",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_07",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_12",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_13",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_16",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_17",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GELPENBERG_RED",
+        "code": "QAS_NLD_GELPENBERG_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 68.4,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.4,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5680,
+        "totalMeters": 5194,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_03",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_04",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_05",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_06",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_07",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_09",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_10",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_11",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_12",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_16",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GELPENBERG_ORANGE",
+        "code": "QAS_NLD_GELPENBERG_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 65.5,
+        "slope": 105,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 105,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.1,
+            "slopeRating": 116,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4996,
+        "totalMeters": 4568,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_01",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_03",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_04",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_05",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_06",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_07",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_08",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_09",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_10",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_12",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_16",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_NLD_GELPENBERG_18",
+            "yards": 304,
+            "meters": 278
+          }
+        ]
+      }
+    ]
+  }
+}

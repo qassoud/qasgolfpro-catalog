@@ -1,0 +1,832 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_ROSENDAELSCHE",
+    "code": "QAS_NLD_ROSENDAELSCHE",
+    "name": "Rosendaelsche Golfclub",
+    "city": "Arnhem",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Rosendaelsche full scorecard and explicit ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_01",
+        "code": "QAS_NLD_ROSENDAELSCHE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_02",
+        "code": "QAS_NLD_ROSENDAELSCHE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_03",
+        "code": "QAS_NLD_ROSENDAELSCHE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_04",
+        "code": "QAS_NLD_ROSENDAELSCHE_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_05",
+        "code": "QAS_NLD_ROSENDAELSCHE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_06",
+        "code": "QAS_NLD_ROSENDAELSCHE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_07",
+        "code": "QAS_NLD_ROSENDAELSCHE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_08",
+        "code": "QAS_NLD_ROSENDAELSCHE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_09",
+        "code": "QAS_NLD_ROSENDAELSCHE_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_10",
+        "code": "QAS_NLD_ROSENDAELSCHE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_11",
+        "code": "QAS_NLD_ROSENDAELSCHE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_12",
+        "code": "QAS_NLD_ROSENDAELSCHE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_13",
+        "code": "QAS_NLD_ROSENDAELSCHE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_14",
+        "code": "QAS_NLD_ROSENDAELSCHE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_15",
+        "code": "QAS_NLD_ROSENDAELSCHE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_16",
+        "code": "QAS_NLD_ROSENDAELSCHE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_17",
+        "code": "QAS_NLD_ROSENDAELSCHE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_ROSENDAELSCHE_18",
+        "code": "QAS_NLD_ROSENDAELSCHE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_BLACK",
+        "code": "QAS_NLD_ROSENDAELSCHE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 73.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7058,
+        "totalMeters": 6455,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 218,
+            "meters": 199
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_WHITE",
+        "code": "QAS_NLD_ROSENDAELSCHE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6912,
+        "totalMeters": 6321,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_YELLOW",
+        "code": "QAS_NLD_ROSENDAELSCHE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.1,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.9,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6607,
+        "totalMeters": 6042,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_BLUE",
+        "code": "QAS_NLD_ROSENDAELSCHE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.5,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.5,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5918,
+        "totalMeters": 5410,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 362,
+            "meters": 331
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_RED",
+        "code": "QAS_NLD_ROSENDAELSCHE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.3,
+        "slope": 110,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 110,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 121,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5640,
+        "totalMeters": 5156,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 313,
+            "meters": 286
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_ROSENDAELSCHE_ORANGE",
+        "code": "QAS_NLD_ROSENDAELSCHE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 65.1,
+        "slope": 103,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.1,
+            "slopeRating": 103,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.5,
+            "slopeRating": 116,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5145,
+        "totalMeters": 4704,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_01",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_02",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_03",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_04",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_05",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_07",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_08",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_09",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_11",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_13",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_14",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_15",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_16",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_17",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_NLD_ROSENDAELSCHE_18",
+            "yards": 313,
+            "meters": 286
+          }
+        ]
+      }
+    ]
+  }
+}

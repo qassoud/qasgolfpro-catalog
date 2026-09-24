@@ -1,0 +1,561 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_GOYER_NORTH",
+    "code": "QAS_NLD_GOYER_NORTH",
+    "name": "Goyer Golf & Country Club - North Course",
+    "city": "Eemnes",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Goyer North full scorecard; Golf.nl confirms 18-hole main course plus separate 6-hole Executive; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_01",
+        "code": "QAS_NLD_GOYER_NORTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_02",
+        "code": "QAS_NLD_GOYER_NORTH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_03",
+        "code": "QAS_NLD_GOYER_NORTH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_04",
+        "code": "QAS_NLD_GOYER_NORTH_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_05",
+        "code": "QAS_NLD_GOYER_NORTH_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_06",
+        "code": "QAS_NLD_GOYER_NORTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_07",
+        "code": "QAS_NLD_GOYER_NORTH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_08",
+        "code": "QAS_NLD_GOYER_NORTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_09",
+        "code": "QAS_NLD_GOYER_NORTH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_10",
+        "code": "QAS_NLD_GOYER_NORTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_11",
+        "code": "QAS_NLD_GOYER_NORTH_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_12",
+        "code": "QAS_NLD_GOYER_NORTH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_13",
+        "code": "QAS_NLD_GOYER_NORTH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_14",
+        "code": "QAS_NLD_GOYER_NORTH_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_15",
+        "code": "QAS_NLD_GOYER_NORTH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_16",
+        "code": "QAS_NLD_GOYER_NORTH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_17",
+        "code": "QAS_NLD_GOYER_NORTH_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_GOYER_NORTH_18",
+        "code": "QAS_NLD_GOYER_NORTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_GOYER_NORTH_WHITE",
+        "code": "QAS_NLD_GOYER_NORTH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6762,
+        "totalMeters": 6182,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_01",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_02",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_03",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_04",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_05",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_07",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_08",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_11",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_13",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_14",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_15",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_17",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_18",
+            "yards": 410,
+            "meters": 375
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GOYER_NORTH_YELLOW",
+        "code": "QAS_NLD_GOYER_NORTH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6460,
+        "totalMeters": 5908,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_02",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_05",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_07",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_08",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_09",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_11",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_13",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_14",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_15",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_17",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_18",
+            "yards": 406,
+            "meters": 371
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GOYER_NORTH_BLUE",
+        "code": "QAS_NLD_GOYER_NORTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5727,
+        "totalMeters": 5236,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_01",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_07",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_08",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_10",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_11",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_12",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_13",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_14",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_15",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_16",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_17",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_GOYER_NORTH_RED",
+        "code": "QAS_NLD_GOYER_NORTH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5454,
+        "totalMeters": 4987,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_01",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_03",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_04",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_05",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_06",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_08",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_09",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_10",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_11",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_12",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_13",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_14",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_15",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_16",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_17",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_NLD_GOYER_NORTH_18",
+            "yards": 328,
+            "meters": 300
+          }
+        ]
+      }
+    ],
+    "dataNote": "QasGolfPro 27-hole rule does not apply because the club has 18 + 6 holes."
+  }
+}

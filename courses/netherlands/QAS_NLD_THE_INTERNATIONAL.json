@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_THE_INTERNATIONAL",
+    "code": "QAS_NLD_THE_INTERNATIONAL",
+    "name": "The International - Amsterdam",
+    "city": "Badhoevedorp",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — The International full scorecard; ratings omitted because player-category mapping was not explicit; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_01",
+        "code": "QAS_NLD_THE_INTERNATIONAL_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_02",
+        "code": "QAS_NLD_THE_INTERNATIONAL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_03",
+        "code": "QAS_NLD_THE_INTERNATIONAL_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_04",
+        "code": "QAS_NLD_THE_INTERNATIONAL_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_05",
+        "code": "QAS_NLD_THE_INTERNATIONAL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_06",
+        "code": "QAS_NLD_THE_INTERNATIONAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_07",
+        "code": "QAS_NLD_THE_INTERNATIONAL_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_08",
+        "code": "QAS_NLD_THE_INTERNATIONAL_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_09",
+        "code": "QAS_NLD_THE_INTERNATIONAL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_10",
+        "code": "QAS_NLD_THE_INTERNATIONAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_11",
+        "code": "QAS_NLD_THE_INTERNATIONAL_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_12",
+        "code": "QAS_NLD_THE_INTERNATIONAL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_13",
+        "code": "QAS_NLD_THE_INTERNATIONAL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_14",
+        "code": "QAS_NLD_THE_INTERNATIONAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_15",
+        "code": "QAS_NLD_THE_INTERNATIONAL_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_16",
+        "code": "QAS_NLD_THE_INTERNATIONAL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_17",
+        "code": "QAS_NLD_THE_INTERNATIONAL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_THE_INTERNATIONAL_18",
+        "code": "QAS_NLD_THE_INTERNATIONAL_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_THE_INTERNATIONAL_BLACK",
+        "code": "QAS_NLD_THE_INTERNATIONAL_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7912,
+        "totalMeters": 7237,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_01",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_02",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_03",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_04",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_05",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_07",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_08",
+            "yards": 644,
+            "meters": 589
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_09",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_12",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_13",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_14",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_15",
+            "yards": 634,
+            "meters": 580
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_16",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_17",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_18",
+            "yards": 576,
+            "meters": 527
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_THE_INTERNATIONAL_WHITE",
+        "code": "QAS_NLD_THE_INTERNATIONAL_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7626,
+        "totalMeters": 6974,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_01",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_03",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_04",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_06",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_07",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_08",
+            "yards": 612,
+            "meters": 560
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_09",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_10",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_12",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_13",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_14",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_15",
+            "yards": 605,
+            "meters": 553
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_17",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_18",
+            "yards": 573,
+            "meters": 524
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_THE_INTERNATIONAL_YELLOW_61",
+        "code": "QAS_NLD_THE_INTERNATIONAL_YELLOW_61",
+        "type": "YELLOW_61",
+        "displayName": "Jaune 61",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6688,
+        "totalMeters": 6115,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_01",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_02",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_03",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_05",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_06",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_07",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_08",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_09",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_13",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_14",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_15",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_16",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_17",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_18",
+            "yards": 506,
+            "meters": 463
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_THE_INTERNATIONAL_BLUE",
+        "code": "QAS_NLD_THE_INTERNATIONAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6468,
+        "totalMeters": 5914,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_01",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_02",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_03",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_04",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_05",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_06",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_08",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_12",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_13",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_15",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_16",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_18",
+            "yards": 464,
+            "meters": 424
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_THE_INTERNATIONAL_RED",
+        "code": "QAS_NLD_THE_INTERNATIONAL_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5988,
+        "totalMeters": 5477,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_01",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_04",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_05",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_06",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_08",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_11",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_12",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_15",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_17",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_NLD_THE_INTERNATIONAL_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_NLD_HILVERSUMSCHE",
+    "code": "QAS_NLD_HILVERSUMSCHE",
+    "name": "Hilversumsche Golf Club",
+    "city": "Hilversum",
+    "countryCode": "NLD",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Hilversumsche full scorecard; ratings omitted where sex mapping was not reliable; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_01",
+        "code": "QAS_NLD_HILVERSUMSCHE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_02",
+        "code": "QAS_NLD_HILVERSUMSCHE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_03",
+        "code": "QAS_NLD_HILVERSUMSCHE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_04",
+        "code": "QAS_NLD_HILVERSUMSCHE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_05",
+        "code": "QAS_NLD_HILVERSUMSCHE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_06",
+        "code": "QAS_NLD_HILVERSUMSCHE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_07",
+        "code": "QAS_NLD_HILVERSUMSCHE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_08",
+        "code": "QAS_NLD_HILVERSUMSCHE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_09",
+        "code": "QAS_NLD_HILVERSUMSCHE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_10",
+        "code": "QAS_NLD_HILVERSUMSCHE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_11",
+        "code": "QAS_NLD_HILVERSUMSCHE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_12",
+        "code": "QAS_NLD_HILVERSUMSCHE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_13",
+        "code": "QAS_NLD_HILVERSUMSCHE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_14",
+        "code": "QAS_NLD_HILVERSUMSCHE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_15",
+        "code": "QAS_NLD_HILVERSUMSCHE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_16",
+        "code": "QAS_NLD_HILVERSUMSCHE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_17",
+        "code": "QAS_NLD_HILVERSUMSCHE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_NLD_HILVERSUMSCHE_18",
+        "code": "QAS_NLD_HILVERSUMSCHE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_NLD_HILVERSUMSCHE_WHITE",
+        "code": "QAS_NLD_HILVERSUMSCHE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6893,
+        "totalMeters": 6303,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_01",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_02",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_03",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_05",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_06",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_07",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_10",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_11",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_13",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_14",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_15",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_16",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HILVERSUMSCHE_YELLOW",
+        "code": "QAS_NLD_HILVERSUMSCHE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6397,
+        "totalMeters": 5848,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_01",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_02",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_03",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_04",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_05",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_06",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_07",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_10",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_13",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_14",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_15",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_16",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HILVERSUMSCHE_BLUE",
+        "code": "QAS_NLD_HILVERSUMSCHE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5896,
+        "totalMeters": 5391,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_02",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_03",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_05",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_06",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_07",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_10",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_12",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_13",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_14",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_16",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_17",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_18",
+            "yards": 448,
+            "meters": 410
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HILVERSUMSCHE_RED",
+        "code": "QAS_NLD_HILVERSUMSCHE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5553,
+        "totalMeters": 5080,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_01",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_02",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_07",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_09",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_10",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_12",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_14",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_15",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_16",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_17",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_NLD_HILVERSUMSCHE_ORANGE",
+        "code": "QAS_NLD_HILVERSUMSCHE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4981,
+        "totalMeters": 4554,
+        "distances": [
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_02",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_03",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_04",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_05",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_06",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_08",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_09",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_10",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_11",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_12",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_13",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_14",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_15",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_16",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_17",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_NLD_HILVERSUMSCHE_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      }
+    ]
+  }
+}
