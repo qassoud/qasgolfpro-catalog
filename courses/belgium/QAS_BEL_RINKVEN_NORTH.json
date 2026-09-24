@@ -1,0 +1,561 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_RINKVEN_NORTH",
+    "code": "QAS_BEL_RINKVEN_NORTH",
+    "name": "Rinkven Golf Club - North Course",
+    "city": "'s-Gravenwezel",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Rinkven Golf Club official current North Course scorecard; current hole-by-hole card preferred over older rating cards; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_01",
+        "code": "QAS_BEL_RINKVEN_NORTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_02",
+        "code": "QAS_BEL_RINKVEN_NORTH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_03",
+        "code": "QAS_BEL_RINKVEN_NORTH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_04",
+        "code": "QAS_BEL_RINKVEN_NORTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_05",
+        "code": "QAS_BEL_RINKVEN_NORTH_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_06",
+        "code": "QAS_BEL_RINKVEN_NORTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_07",
+        "code": "QAS_BEL_RINKVEN_NORTH_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_08",
+        "code": "QAS_BEL_RINKVEN_NORTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_09",
+        "code": "QAS_BEL_RINKVEN_NORTH_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_10",
+        "code": "QAS_BEL_RINKVEN_NORTH_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_11",
+        "code": "QAS_BEL_RINKVEN_NORTH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_12",
+        "code": "QAS_BEL_RINKVEN_NORTH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_13",
+        "code": "QAS_BEL_RINKVEN_NORTH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_14",
+        "code": "QAS_BEL_RINKVEN_NORTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_15",
+        "code": "QAS_BEL_RINKVEN_NORTH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_16",
+        "code": "QAS_BEL_RINKVEN_NORTH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_17",
+        "code": "QAS_BEL_RINKVEN_NORTH_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RINKVEN_NORTH_18",
+        "code": "QAS_BEL_RINKVEN_NORTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_RINKVEN_NORTH_WHITE",
+        "code": "QAS_BEL_RINKVEN_NORTH_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6559,
+        "totalMeters": 5997,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_03",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_05",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_06",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_07",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_09",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_10",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_12",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_13",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_15",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_16",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_17",
+            "yards": 539,
+            "meters": 493
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_RINKVEN_NORTH_YELLOW",
+        "code": "QAS_BEL_RINKVEN_NORTH_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6197,
+        "totalMeters": 5667,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_01",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_03",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_05",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_08",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_09",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_10",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_12",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_13",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_15",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_17",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_18",
+            "yards": 407,
+            "meters": 372
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_RINKVEN_NORTH_BLUE",
+        "code": "QAS_BEL_RINKVEN_NORTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5699,
+        "totalMeters": 5212,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_02",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_03",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_04",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_05",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_07",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_08",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_10",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_12",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_15",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_16",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_17",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_RINKVEN_NORTH_RED",
+        "code": "QAS_BEL_RINKVEN_NORTH_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5440,
+        "totalMeters": 4975,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_04",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_05",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_07",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_08",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_09",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_10",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_11",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_12",
+            "yards": 87,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_13",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_15",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_16",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_17",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_BEL_RINKVEN_NORTH_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      }
+    ],
+    "dataNote": "The club publishes extra forward tee systems in handicap tables, but the current public hole-by-hole scorecard exposes complete per-hole distances for White/Yellow/Blue/Red. No unverified hole distances were invented."
+  }
+}

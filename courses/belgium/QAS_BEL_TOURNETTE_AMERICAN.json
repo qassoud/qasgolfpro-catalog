@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_TOURNETTE_AMERICAN",
+    "code": "QAS_BEL_TOURNETTE_AMERICAN",
+    "name": "Golf Château de la Tournette - L'Américain",
+    "city": "Nivelles",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golf Château de la Tournette L'Américain published scorecard with explicit BTM/FTM/BTL/FTL ratings; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_01",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_02",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_03",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_04",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_05",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_06",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_07",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_08",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_09",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_10",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_11",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_12",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_13",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_14",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_15",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_16",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_17",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_TOURNETTE_AMERICAN_18",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_TOURNETTE_AMERICAN_BTM",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_BTM",
+        "type": "BTM",
+        "displayName": "Back Tee Men",
+        "courseRating": 73.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6778,
+        "totalMeters": 6198,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_02",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_03",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_04",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_05",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_06",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_07",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_08",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_12",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_13",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_15",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_16",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_18",
+            "yards": 497,
+            "meters": 454
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_TOURNETTE_AMERICAN_FTM",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_FTM",
+        "type": "FTM",
+        "displayName": "Front Tee Men",
+        "courseRating": 71.4,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6272,
+        "totalMeters": 5736,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_04",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_05",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_06",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_07",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_08",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_12",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_13",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_14",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_15",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_16",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_17",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_TOURNETTE_AMERICAN_BTL",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_BTL",
+        "type": "BTL",
+        "displayName": "Back Tee Ladies",
+        "courseRating": 74.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5889,
+        "totalMeters": 5384,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_02",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_03",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_04",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_05",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_06",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_07",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_08",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_11",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_13",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_15",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_16",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_17",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_18",
+            "yards": 428,
+            "meters": 391
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_TOURNETTE_AMERICAN_FTL",
+        "code": "QAS_BEL_TOURNETTE_AMERICAN_FTL",
+        "type": "FTL",
+        "displayName": "Front Tee Ladies",
+        "courseRating": 72.4,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.4,
+            "slopeRating": 117,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5283,
+        "totalMeters": 4831,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_02",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_03",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_04",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_06",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_07",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_08",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_09",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_11",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_12",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_13",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_15",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_16",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_17",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_BEL_TOURNETTE_AMERICAN_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      }
+    ]
+  }
+}

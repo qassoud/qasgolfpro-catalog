@@ -1,0 +1,354 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_RAVENSTEIN_NEW_X2",
+    "code": "QAS_BEL_RAVENSTEIN_NEW_X2",
+    "name": "Royal Golf Club of Belgium - Ravenstein New 9 ×2",
+    "city": "Tervuren",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 64,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Royal Golf Club of Belgium New 9-hole published scorecard; QasGolfPro rule: 9 holes repeated as holes 10–18; 9-hole ratings are not transformed into invented 18-hole ratings; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_01",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_02",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_03",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_04",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_05",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_06",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_07",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_08",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_09",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_10",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_11",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_12",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_13",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_14",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_15",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_16",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_17",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_RAVENSTEIN_NEW_X2_18",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_RAVENSTEIN_NEW_X2_MBT",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_MBT",
+        "type": "MBT",
+        "displayName": "Men Back Tee",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 4206,
+        "totalMeters": 3846,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_01",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_03",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_04",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_05",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_06",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_08",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_09",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_10",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_12",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_13",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_14",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_18",
+            "yards": 175,
+            "meters": 160
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_RAVENSTEIN_NEW_X2_WBT",
+        "code": "QAS_BEL_RAVENSTEIN_NEW_X2_WBT",
+        "type": "WBT",
+        "displayName": "Women Back Tee",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 3886,
+        "totalMeters": 3554,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_01",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_02",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_03",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_04",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_05",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_06",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_07",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_08",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_09",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_10",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_11",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_12",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_13",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_14",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_15",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_16",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_17",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_BEL_RAVENSTEIN_NEW_X2_18",
+            "yards": 160,
+            "meters": 146
+          }
+        ]
+      }
+    ]
+  }
+}

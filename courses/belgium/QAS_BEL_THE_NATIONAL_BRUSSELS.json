@@ -1,0 +1,567 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_THE_NATIONAL_BRUSSELS",
+    "code": "QAS_BEL_THE_NATIONAL_BRUSSELS",
+    "name": "The National Golf Brussels - Championship Course",
+    "city": "Sterrebeek",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "The National Golf Brussels published Championship scorecard; WOMEN rating retained only on the explicitly labelled Ladies tee; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_63",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_63",
+        "type": "TEE_63",
+        "displayName": "63",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6875,
+        "totalMeters": 6285,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+            "yards": 556,
+            "meters": 508
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_59",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_59",
+        "type": "TEE_59",
+        "displayName": "59",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6478,
+        "totalMeters": 5921,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+            "yards": 500,
+            "meters": 457
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_56",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_56",
+        "type": "TEE_56",
+        "displayName": "56",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6116,
+        "totalMeters": 5592,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+            "yards": 480,
+            "meters": 439
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_50",
+        "code": "QAS_BEL_THE_NATIONAL_BRUSSELS_TEE_50",
+        "type": "TEE_50",
+        "displayName": "50 Ladies",
+        "courseRating": 73.0,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.0,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5521,
+        "totalMeters": 5048,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_01",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_02",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_03",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_05",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_06",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_08",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_09",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_11",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_14",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_15",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_16",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_17",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_BEL_THE_NATIONAL_BRUSSELS_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      }
+    ]
+  }
+}

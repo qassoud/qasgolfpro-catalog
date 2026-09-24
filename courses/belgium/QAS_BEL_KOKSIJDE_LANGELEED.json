@@ -1,0 +1,716 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_KOKSIJDE_LANGELEED",
+    "code": "QAS_BEL_KOKSIJDE_LANGELEED",
+    "name": "Koksijde Golf ter Hille - Langeleed Course",
+    "city": "Koksijde",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Koksijde Golf ter Hille official Langeleed scorecard / handicap tables; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_01",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_02",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_03",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_04",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_05",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_06",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_07",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_08",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_09",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_10",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_11",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_12",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_13",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_14",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_15",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_16",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_17",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_KOKSIJDE_LANGELEED_18",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_KOKSIJDE_LANGELEED_BLACK",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.1,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.1,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6980,
+        "totalMeters": 6384,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+            "yards": 551,
+            "meters": 504
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_KOKSIJDE_LANGELEED_WHITE",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6584,
+        "totalMeters": 6020,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+            "yards": 517,
+            "meters": 473
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_KOKSIJDE_LANGELEED_YELLOW",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.9,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6057,
+        "totalMeters": 5538,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+            "yards": 474,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_KOKSIJDE_LANGELEED_BLUE",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.1,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.1,
+            "slopeRating": 128,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5616,
+        "totalMeters": 5138,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_KOKSIJDE_LANGELEED_RED",
+        "code": "QAS_BEL_KOKSIJDE_LANGELEED_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 67.3,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 126,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.4,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5289,
+        "totalMeters": 4838,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_01",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_02",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_04",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_05",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_06",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_07",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_10",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_12",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_13",
+            "yards": 244,
+            "meters": 223
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_15",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_16",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_BEL_KOKSIJDE_LANGELEED_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      }
+    ]
+  }
+}

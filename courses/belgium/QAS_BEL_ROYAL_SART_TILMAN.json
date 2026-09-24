@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_BEL_ROYAL_SART_TILMAN",
+    "code": "QAS_BEL_ROYAL_SART_TILMAN",
+    "name": "Royal Golf Club du Sart Tilman",
+    "city": "Angleur",
+    "countryCode": "BEL",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Royal Sart Tilman full published scorecard; sex-specific CR/Slope omitted because the available card does not explicitly map ratings to MEN/WOMEN; checked 2026-09-23",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_01",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_02",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_03",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_04",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_05",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_06",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_07",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_08",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_09",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_10",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_11",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_12",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_13",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_14",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_15",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_16",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_17",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_BEL_ROYAL_SART_TILMAN_18",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_BEL_ROYAL_SART_TILMAN_WHITE",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6480,
+        "totalMeters": 5923,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_01",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_03",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_06",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_08",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_09",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_10",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_11",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_12",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_13",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_14",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_15",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_16",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_18",
+            "yards": 477,
+            "meters": 436
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_ROYAL_SART_TILMAN_YELLOW",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6154,
+        "totalMeters": 5626,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_01",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_02",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_03",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_04",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_05",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_07",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_08",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_09",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_10",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_13",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_14",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_15",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_16",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_17",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_18",
+            "yards": 463,
+            "meters": 423
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_ROYAL_SART_TILMAN_BLUE",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5735,
+        "totalMeters": 5242,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_02",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_06",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_08",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_10",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_12",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_13",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_14",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_15",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_16",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_17",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_18",
+            "yards": 447,
+            "meters": 409
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_BEL_ROYAL_SART_TILMAN_RED",
+        "code": "QAS_BEL_ROYAL_SART_TILMAN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5322,
+        "totalMeters": 4865,
+        "distances": [
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_01",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_02",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_03",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_05",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_06",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_07",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_10",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_13",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_16",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_17",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_BEL_ROYAL_SART_TILMAN_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      }
+    ]
+  }
+}
