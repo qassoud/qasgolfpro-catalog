@@ -1,0 +1,704 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_VERDURA_EAST_LINKS",
+    "code": "QAS_ITA_VERDURA_EAST_LINKS",
+    "name": "Verdura Resort - East Links",
+    "city": "Sciacca",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Verdura Resort / AllSquare scorecard; Yellow MEN rating cross-checked against official resort publication; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_01",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_02",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_03",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_04",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_05",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_06",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_07",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_08",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_09",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_10",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_11",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_12",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_13",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_14",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_15",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_16",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_17",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_EAST_LINKS_18",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_EAST_LINKS_BLACK",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.9,
+            "slopeRating": 133,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 7397,
+        "totalMeters": 6763,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_02",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_03",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_04",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_05",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_06",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_08",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_11",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_12",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_13",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_14",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_15",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_17",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_EAST_LINKS_WHITE",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.1,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 125,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6975,
+        "totalMeters": 6377,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_02",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_03",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_04",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_08",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_09",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_13",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_14",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_15",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_17",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_18",
+            "yards": 448,
+            "meters": 410
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_EAST_LINKS_YELLOW",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.4,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 132,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6573,
+        "totalMeters": 6009,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_03",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_04",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_06",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_07",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_08",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_10",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_11",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_12",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_13",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_15",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_16",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_17",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_18",
+            "yards": 402,
+            "meters": 368
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_EAST_LINKS_BLUE",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.7,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 123,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 125,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6150,
+        "totalMeters": 5624,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_01",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_03",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_04",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_07",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_08",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_10",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_11",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_13",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_14",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_15",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_16",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_17",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_18",
+            "yards": 381,
+            "meters": 348
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_EAST_LINKS_RED",
+        "code": "QAS_ITA_VERDURA_EAST_LINKS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.2,
+        "slope": 121,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 121,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5398,
+        "totalMeters": 4935,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_01",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_02",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_03",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_05",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_06",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_07",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_08",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_10",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_11",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_13",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_14",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_15",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_16",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_EAST_LINKS_18",
+            "yards": 349,
+            "meters": 319
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,766 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_OLGIATA_WEST",
+    "code": "QAS_ITA_OLGIATA_WEST",
+    "name": "Olgiata Golf Club - West Course",
+    "city": "Roma",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Olgiata official/Albrecht/Golfify — West course physical tee sets; CR/Slope deliberately omitted here because current rating rows and the public hole-by-hole card use different course configurations; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_01",
+        "code": "QAS_ITA_OLGIATA_WEST_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_02",
+        "code": "QAS_ITA_OLGIATA_WEST_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_03",
+        "code": "QAS_ITA_OLGIATA_WEST_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_04",
+        "code": "QAS_ITA_OLGIATA_WEST_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_05",
+        "code": "QAS_ITA_OLGIATA_WEST_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_06",
+        "code": "QAS_ITA_OLGIATA_WEST_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_07",
+        "code": "QAS_ITA_OLGIATA_WEST_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_08",
+        "code": "QAS_ITA_OLGIATA_WEST_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_09",
+        "code": "QAS_ITA_OLGIATA_WEST_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_10",
+        "code": "QAS_ITA_OLGIATA_WEST_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_11",
+        "code": "QAS_ITA_OLGIATA_WEST_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_12",
+        "code": "QAS_ITA_OLGIATA_WEST_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_13",
+        "code": "QAS_ITA_OLGIATA_WEST_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_14",
+        "code": "QAS_ITA_OLGIATA_WEST_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_15",
+        "code": "QAS_ITA_OLGIATA_WEST_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_16",
+        "code": "QAS_ITA_OLGIATA_WEST_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_17",
+        "code": "QAS_ITA_OLGIATA_WEST_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_WEST_18",
+        "code": "QAS_ITA_OLGIATA_WEST_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_WHITE",
+        "code": "QAS_ITA_OLGIATA_WEST_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6882,
+        "totalMeters": 6292,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_YELLOW",
+        "code": "QAS_ITA_OLGIATA_WEST_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6668,
+        "totalMeters": 6097,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_GREEN",
+        "code": "QAS_ITA_OLGIATA_WEST_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6025,
+        "totalMeters": 5509,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 367,
+            "meters": 336
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_BLUE",
+        "code": "QAS_ITA_OLGIATA_WEST_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6185,
+        "totalMeters": 5655,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_RED",
+        "code": "QAS_ITA_OLGIATA_WEST_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5826,
+        "totalMeters": 5327,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_WEST_ORANGE",
+        "code": "QAS_ITA_OLGIATA_WEST_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5239,
+        "totalMeters": 4790,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_01",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_02",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_03",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_04",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_06",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_08",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_09",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_11",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_14",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_15",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_WEST_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      }
+    ]
+  }
+}

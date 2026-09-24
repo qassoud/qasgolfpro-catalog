@@ -1,0 +1,663 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_VERDURA_WEST_SHORE",
+    "code": "QAS_ITA_VERDURA_WEST_SHORE",
+    "name": "Verdura Resort - West Shore",
+    "city": "Sciacca",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Verdura Resort / AllSquare published West Shore scorecard; CR/Slope omitted where sources conflict on current tee/rating configuration; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_01",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_02",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_03",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_04",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_05",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_06",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_07",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_08",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_09",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_10",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_11",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_12",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_13",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_14",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_15",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_16",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_17",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VERDURA_WEST_SHORE_18",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_WEST_SHORE_BLACK",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7160,
+        "totalMeters": 6547,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_01",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_02",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_03",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_04",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_05",
+            "yards": 617,
+            "meters": 564
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_07",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_08",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_09",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_10",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_11",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_12",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_13",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_14",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_15",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_17",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_18",
+            "yards": 435,
+            "meters": 398
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_WEST_SHORE_WHITE",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6817,
+        "totalMeters": 6232,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_01",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_02",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_04",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_05",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_07",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_08",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_09",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_10",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_12",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_13",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_14",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_15",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_16",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_18",
+            "yards": 424,
+            "meters": 388
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_WEST_SHORE_YELLOW",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6501,
+        "totalMeters": 5945,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_02",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_03",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_05",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_06",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_07",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_08",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_10",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_12",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_13",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_14",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_16",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_18",
+            "yards": 412,
+            "meters": 377
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_WEST_SHORE_BLUE",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6055,
+        "totalMeters": 5538,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_02",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_03",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_04",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_05",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_06",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_07",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_08",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_10",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_11",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_12",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_13",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_15",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_17",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VERDURA_WEST_SHORE_RED",
+        "code": "QAS_ITA_VERDURA_WEST_SHORE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5380,
+        "totalMeters": 4919,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_03",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_04",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_05",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_06",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_07",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_08",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_12",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_13",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_14",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_15",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_16",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_17",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_ITA_VERDURA_WEST_SHORE_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      }
+    ]
+  }
+}

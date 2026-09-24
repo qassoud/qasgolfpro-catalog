@@ -1,0 +1,355 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_OLGIATA_EAST_X2",
+    "code": "QAS_ITA_OLGIATA_EAST_X2",
+    "name": "Olgiata Golf Club - East 9 ×2",
+    "city": "Roma",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Olgiata East official/Albrecht + Golfify/Hole19 scorecards; QasGolfPro 27-hole rule: East 9 repeated to 18; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_01",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_02",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_03",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_04",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_05",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_06",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_07",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_08",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_09",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_10",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_11",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_12",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_13",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_14",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_15",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_16",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_17",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_OLGIATA_EAST_X2_18",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_EAST_X2_YELLOW",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6398,
+        "totalMeters": 5854,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_02",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_03",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_04",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_05",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_07",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_08",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_12",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_15",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_16",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_17",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_OLGIATA_EAST_X2_RED",
+        "code": "QAS_ITA_OLGIATA_EAST_X2_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5672,
+        "totalMeters": 5186,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_01",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_02",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_03",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_05",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_11",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_12",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_13",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_14",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_15",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_16",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_17",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ITA_OLGIATA_EAST_X2_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      }
+    ],
+    "dataNote": "Public current scorecards expose Yellow and Red as the two physical distance rows for the East 9. No 9-hole rating is converted into an 18-hole rating."
+  }
+}

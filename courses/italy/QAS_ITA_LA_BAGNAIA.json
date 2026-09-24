@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_LA_BAGNAIA",
+    "code": "QAS_ITA_LA_BAGNAIA",
+    "name": "Royal Golf La Bagnaia",
+    "city": "Murlo",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Published La Bagnaia scorecard with explicit MEN/WOMEN ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_01",
+        "code": "QAS_ITA_LA_BAGNAIA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_02",
+        "code": "QAS_ITA_LA_BAGNAIA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_03",
+        "code": "QAS_ITA_LA_BAGNAIA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_04",
+        "code": "QAS_ITA_LA_BAGNAIA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_05",
+        "code": "QAS_ITA_LA_BAGNAIA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_06",
+        "code": "QAS_ITA_LA_BAGNAIA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_07",
+        "code": "QAS_ITA_LA_BAGNAIA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_08",
+        "code": "QAS_ITA_LA_BAGNAIA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_09",
+        "code": "QAS_ITA_LA_BAGNAIA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_10",
+        "code": "QAS_ITA_LA_BAGNAIA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_11",
+        "code": "QAS_ITA_LA_BAGNAIA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_12",
+        "code": "QAS_ITA_LA_BAGNAIA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_13",
+        "code": "QAS_ITA_LA_BAGNAIA_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_14",
+        "code": "QAS_ITA_LA_BAGNAIA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_15",
+        "code": "QAS_ITA_LA_BAGNAIA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_16",
+        "code": "QAS_ITA_LA_BAGNAIA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_17",
+        "code": "QAS_ITA_LA_BAGNAIA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_LA_BAGNAIA_18",
+        "code": "QAS_ITA_LA_BAGNAIA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_LA_BAGNAIA_WHITE",
+        "code": "QAS_ITA_LA_BAGNAIA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.1,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6671,
+        "totalMeters": 6101,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_02",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_03",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_04",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_05",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_06",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_07",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_10",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_11",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_12",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_13",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_14",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_16",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_17",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_18",
+            "yards": 570,
+            "meters": 521
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_LA_BAGNAIA_YELLOW",
+        "code": "QAS_ITA_LA_BAGNAIA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6130,
+        "totalMeters": 5606,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_02",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_03",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_04",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_05",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_06",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_07",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_08",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_12",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_13",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_14",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_15",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_16",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_17",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_18",
+            "yards": 538,
+            "meters": 492
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_LA_BAGNAIA_BLUE",
+        "code": "QAS_ITA_LA_BAGNAIA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 73.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5726,
+        "totalMeters": 5236,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_02",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_03",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_04",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_07",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_08",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_10",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_11",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_13",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_14",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_15",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_17",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_18",
+            "yards": 510,
+            "meters": 466
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_LA_BAGNAIA_RED",
+        "code": "QAS_ITA_LA_BAGNAIA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 70.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 125,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5244,
+        "totalMeters": 4794,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_01",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_02",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_03",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_04",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_05",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_06",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_07",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_08",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_11",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_13",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_14",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_15",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_16",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_17",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_ITA_LA_BAGNAIA_18",
+            "yards": 482,
+            "meters": 441
+          }
+        ]
+      }
+    ]
+  }
+}

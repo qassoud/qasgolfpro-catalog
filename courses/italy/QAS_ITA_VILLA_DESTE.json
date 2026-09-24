@@ -1,0 +1,808 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_VILLA_DESTE",
+    "code": "QAS_ITA_VILLA_DESTE",
+    "name": "Golf Club Villa d'Este",
+    "city": "Montorfano",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 69,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Villa d'Este / Federazione Italiana Golf — scorecard and explicit MEN/WOMEN ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_01",
+        "code": "QAS_ITA_VILLA_DESTE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_02",
+        "code": "QAS_ITA_VILLA_DESTE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_03",
+        "code": "QAS_ITA_VILLA_DESTE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_04",
+        "code": "QAS_ITA_VILLA_DESTE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_05",
+        "code": "QAS_ITA_VILLA_DESTE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_06",
+        "code": "QAS_ITA_VILLA_DESTE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_07",
+        "code": "QAS_ITA_VILLA_DESTE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_08",
+        "code": "QAS_ITA_VILLA_DESTE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_09",
+        "code": "QAS_ITA_VILLA_DESTE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_10",
+        "code": "QAS_ITA_VILLA_DESTE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_11",
+        "code": "QAS_ITA_VILLA_DESTE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_12",
+        "code": "QAS_ITA_VILLA_DESTE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_13",
+        "code": "QAS_ITA_VILLA_DESTE_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_14",
+        "code": "QAS_ITA_VILLA_DESTE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_15",
+        "code": "QAS_ITA_VILLA_DESTE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_16",
+        "code": "QAS_ITA_VILLA_DESTE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_17",
+        "code": "QAS_ITA_VILLA_DESTE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_VILLA_DESTE_18",
+        "code": "QAS_ITA_VILLA_DESTE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 11
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_WHITE",
+        "code": "QAS_ITA_VILLA_DESTE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.0,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 130,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 6267,
+        "totalMeters": 5732,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 343,
+            "meters": 314
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_YELLOW",
+        "code": "QAS_ITA_VILLA_DESTE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.0,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 129,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 6066,
+        "totalMeters": 5548,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 338,
+            "meters": 309
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_GREEN",
+        "code": "QAS_ITA_VILLA_DESTE_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 67.3,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 123,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5472,
+        "totalMeters": 5004,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 311,
+            "meters": 284
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_BLUE",
+        "code": "QAS_ITA_VILLA_DESTE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.2,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.2,
+            "slopeRating": 124,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5514,
+        "totalMeters": 5040,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 304,
+            "meters": 278
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_RED",
+        "code": "QAS_ITA_VILLA_DESTE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.3,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 123,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5345,
+        "totalMeters": 4887,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_VILLA_DESTE_ORANGE",
+        "code": "QAS_ITA_VILLA_DESTE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 68.0,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.0,
+            "slopeRating": 116,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 4831,
+        "totalMeters": 4417,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_01",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_02",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_04",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_05",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_06",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_08",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_09",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_13",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_16",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_17",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ITA_VILLA_DESTE_18",
+            "yards": 276,
+            "meters": 252
+          }
+        ]
+      }
+    ]
+  }
+}

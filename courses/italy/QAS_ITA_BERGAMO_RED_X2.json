@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_BERGAMO_RED_X2",
+    "code": "QAS_ITA_BERGAMO_RED_X2",
+    "name": "Golf Club Bergamo L'Albenza - Red 9 ×2",
+    "city": "Almenno San Bartolomeo",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Published Bergamo Red 9-hole scorecard; QasGolfPro 27-hole rule: repeated to 18; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_01",
+        "code": "QAS_ITA_BERGAMO_RED_X2_01",
+        "number": 1,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_02",
+        "code": "QAS_ITA_BERGAMO_RED_X2_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_03",
+        "code": "QAS_ITA_BERGAMO_RED_X2_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_04",
+        "code": "QAS_ITA_BERGAMO_RED_X2_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_05",
+        "code": "QAS_ITA_BERGAMO_RED_X2_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_06",
+        "code": "QAS_ITA_BERGAMO_RED_X2_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_07",
+        "code": "QAS_ITA_BERGAMO_RED_X2_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_08",
+        "code": "QAS_ITA_BERGAMO_RED_X2_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_09",
+        "code": "QAS_ITA_BERGAMO_RED_X2_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_10",
+        "code": "QAS_ITA_BERGAMO_RED_X2_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_11",
+        "code": "QAS_ITA_BERGAMO_RED_X2_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_12",
+        "code": "QAS_ITA_BERGAMO_RED_X2_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_13",
+        "code": "QAS_ITA_BERGAMO_RED_X2_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_14",
+        "code": "QAS_ITA_BERGAMO_RED_X2_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_15",
+        "code": "QAS_ITA_BERGAMO_RED_X2_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_16",
+        "code": "QAS_ITA_BERGAMO_RED_X2_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_17",
+        "code": "QAS_ITA_BERGAMO_RED_X2_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BERGAMO_RED_X2_18",
+        "code": "QAS_ITA_BERGAMO_RED_X2_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_BERGAMO_RED_X2_WHITE",
+        "code": "QAS_ITA_BERGAMO_RED_X2_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6452,
+        "totalMeters": 5900,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_01",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_03",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_04",
+            "yards": 629,
+            "meters": 575
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_05",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_06",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_08",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_09",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_10",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_11",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_12",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_13",
+            "yards": 629,
+            "meters": 575
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_14",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_15",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_16",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_17",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BERGAMO_RED_X2_YELLOW",
+        "code": "QAS_ITA_BERGAMO_RED_X2_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6092,
+        "totalMeters": 5572,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_01",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_03",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_04",
+            "yards": 598,
+            "meters": 547
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_06",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_07",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_08",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_10",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_11",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_12",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_13",
+            "yards": 598,
+            "meters": 547
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_14",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_17",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_18",
+            "yards": 336,
+            "meters": 307
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BERGAMO_RED_X2_BLACK",
+        "code": "QAS_ITA_BERGAMO_RED_X2_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5704,
+        "totalMeters": 5216,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_01",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_03",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_04",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_05",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_06",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_08",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_09",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_10",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_11",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_12",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_13",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_14",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_15",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_16",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_17",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BERGAMO_RED_X2_RED",
+        "code": "QAS_ITA_BERGAMO_RED_X2_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5468,
+        "totalMeters": 5002,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_01",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_03",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_04",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_06",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_07",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_08",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_09",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_10",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_12",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_13",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_14",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_15",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_16",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_17",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_ITA_BERGAMO_RED_X2_18",
+            "yards": 300,
+            "meters": 274
+          }
+        ]
+      }
+    ]
+  }
+}

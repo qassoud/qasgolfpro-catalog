@@ -1,0 +1,802 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_BOGOGNO_BONORA",
+    "code": "QAS_ITA_BOGOGNO_BONORA",
+    "name": "Bogogno Golf Resort - Bonora Course",
+    "city": "Bogogno",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Bogogno official 2025 Bonora page/PDF + Golfify/GolfTraxx — current coherent hole-by-hole rows and Federazione Italiana Golf ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_01",
+        "code": "QAS_ITA_BOGOGNO_BONORA_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_02",
+        "code": "QAS_ITA_BOGOGNO_BONORA_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_03",
+        "code": "QAS_ITA_BOGOGNO_BONORA_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_04",
+        "code": "QAS_ITA_BOGOGNO_BONORA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_05",
+        "code": "QAS_ITA_BOGOGNO_BONORA_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_06",
+        "code": "QAS_ITA_BOGOGNO_BONORA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_07",
+        "code": "QAS_ITA_BOGOGNO_BONORA_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_08",
+        "code": "QAS_ITA_BOGOGNO_BONORA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_09",
+        "code": "QAS_ITA_BOGOGNO_BONORA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_10",
+        "code": "QAS_ITA_BOGOGNO_BONORA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_11",
+        "code": "QAS_ITA_BOGOGNO_BONORA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_12",
+        "code": "QAS_ITA_BOGOGNO_BONORA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_13",
+        "code": "QAS_ITA_BOGOGNO_BONORA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_14",
+        "code": "QAS_ITA_BOGOGNO_BONORA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_15",
+        "code": "QAS_ITA_BOGOGNO_BONORA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_16",
+        "code": "QAS_ITA_BOGOGNO_BONORA_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_17",
+        "code": "QAS_ITA_BOGOGNO_BONORA_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_BOGOGNO_BONORA_18",
+        "code": "QAS_ITA_BOGOGNO_BONORA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_PROFESSIONAL",
+        "code": "QAS_ITA_BOGOGNO_BONORA_PROFESSIONAL",
+        "type": "PROFESSIONAL",
+        "displayName": "Professionnel",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7095,
+        "totalMeters": 6488,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 579,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_WHITE",
+        "code": "QAS_ITA_BOGOGNO_BONORA_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.4,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.4,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6872,
+        "totalMeters": 6284,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 440,
+            "meters": 402
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_YELLOW",
+        "code": "QAS_ITA_BOGOGNO_BONORA_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6430,
+        "totalMeters": 5880,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_BLUE",
+        "code": "QAS_ITA_BOGOGNO_BONORA_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 74.9,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5913,
+        "totalMeters": 5408,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_RED",
+        "code": "QAS_ITA_BOGOGNO_BONORA_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5367,
+        "totalMeters": 4907,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_BOGOGNO_BONORA_ORANGE",
+        "code": "QAS_ITA_BOGOGNO_BONORA_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 68.8,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4838,
+        "totalMeters": 4425,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_01",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_02",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_03",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_04",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_05",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_06",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_07",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_08",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_09",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_10",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_11",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_12",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_13",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_14",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_15",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_16",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_17",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_ITA_BOGOGNO_BONORA_18",
+            "yards": 306,
+            "meters": 280
+          }
+        ]
+      }
+    ],
+    "dataNote": "The club also lists a physical Green tee of 5,284 m and FIG rates it MEN 69.4/129, but the current public stroke-saver does not provide a coherent 18-hole Green distance row (its displayed Green column duplicates another row and conflicts with the stated total). No Green distances are invented; file remains verified=false pending an authoritative corrected scorecard."
+  }
+}

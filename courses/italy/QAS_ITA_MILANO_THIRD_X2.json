@@ -1,0 +1,355 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_MILANO_THIRD_X2",
+    "code": "QAS_ITA_MILANO_THIRD_X2",
+    "name": "Golf Club Milano - 3rd Course 9 ×2",
+    "city": "Monza",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Milano Blu/3rd Course 9-hole scorecard; QasGolfPro 27-hole rule: repeated to 18; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_01",
+        "code": "QAS_ITA_MILANO_THIRD_X2_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_02",
+        "code": "QAS_ITA_MILANO_THIRD_X2_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_03",
+        "code": "QAS_ITA_MILANO_THIRD_X2_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_04",
+        "code": "QAS_ITA_MILANO_THIRD_X2_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_05",
+        "code": "QAS_ITA_MILANO_THIRD_X2_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_06",
+        "code": "QAS_ITA_MILANO_THIRD_X2_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_07",
+        "code": "QAS_ITA_MILANO_THIRD_X2_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_08",
+        "code": "QAS_ITA_MILANO_THIRD_X2_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_09",
+        "code": "QAS_ITA_MILANO_THIRD_X2_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_10",
+        "code": "QAS_ITA_MILANO_THIRD_X2_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_11",
+        "code": "QAS_ITA_MILANO_THIRD_X2_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_12",
+        "code": "QAS_ITA_MILANO_THIRD_X2_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_13",
+        "code": "QAS_ITA_MILANO_THIRD_X2_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_14",
+        "code": "QAS_ITA_MILANO_THIRD_X2_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_15",
+        "code": "QAS_ITA_MILANO_THIRD_X2_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_16",
+        "code": "QAS_ITA_MILANO_THIRD_X2_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_17",
+        "code": "QAS_ITA_MILANO_THIRD_X2_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_MILANO_THIRD_X2_18",
+        "code": "QAS_ITA_MILANO_THIRD_X2_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_MILANO_THIRD_X2_YELLOW",
+        "code": "QAS_ITA_MILANO_THIRD_X2_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6504,
+        "totalMeters": 5946,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_01",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_02",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_03",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_04",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_05",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_07",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_09",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_10",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_12",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_13",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_14",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_16",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_17",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_18",
+            "yards": 142,
+            "meters": 130
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_MILANO_THIRD_X2_RED",
+        "code": "QAS_ITA_MILANO_THIRD_X2_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5786,
+        "totalMeters": 5292,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_01",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_03",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_04",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_05",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_07",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_08",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_09",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_10",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_11",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_12",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_13",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_15",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_16",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_17",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_ITA_MILANO_THIRD_X2_18",
+            "yards": 115,
+            "meters": 105
+          }
+        ]
+      }
+    ],
+    "dataNote": "Published 9-hole ratings are not converted into synthetic 18-hole ratings."
+  }
+}

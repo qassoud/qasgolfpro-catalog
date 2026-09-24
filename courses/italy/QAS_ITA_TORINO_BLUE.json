@@ -1,0 +1,766 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_ITA_TORINO_BLUE",
+    "code": "QAS_ITA_TORINO_BLUE",
+    "name": "Circolo Golf Torino - Blue Course",
+    "city": "Fiano",
+    "countryCode": "ITA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Circolo Golf Torino published/Golfify Blue Course scorecard; ratings omitted because public rating rows could not be mapped unambiguously to MEN/WOMEN tee labels; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_01",
+        "code": "QAS_ITA_TORINO_BLUE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_02",
+        "code": "QAS_ITA_TORINO_BLUE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_03",
+        "code": "QAS_ITA_TORINO_BLUE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_04",
+        "code": "QAS_ITA_TORINO_BLUE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_05",
+        "code": "QAS_ITA_TORINO_BLUE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_06",
+        "code": "QAS_ITA_TORINO_BLUE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_07",
+        "code": "QAS_ITA_TORINO_BLUE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_08",
+        "code": "QAS_ITA_TORINO_BLUE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_09",
+        "code": "QAS_ITA_TORINO_BLUE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_10",
+        "code": "QAS_ITA_TORINO_BLUE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_11",
+        "code": "QAS_ITA_TORINO_BLUE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_12",
+        "code": "QAS_ITA_TORINO_BLUE_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_13",
+        "code": "QAS_ITA_TORINO_BLUE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_14",
+        "code": "QAS_ITA_TORINO_BLUE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_15",
+        "code": "QAS_ITA_TORINO_BLUE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_16",
+        "code": "QAS_ITA_TORINO_BLUE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_17",
+        "code": "QAS_ITA_TORINO_BLUE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_ITA_TORINO_BLUE_18",
+        "code": "QAS_ITA_TORINO_BLUE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_WHITE",
+        "code": "QAS_ITA_TORINO_BLUE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7211,
+        "totalMeters": 6593,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 593,
+            "meters": 542
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_YELLOW",
+        "code": "QAS_ITA_TORINO_BLUE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6667,
+        "totalMeters": 6097,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_GREEN",
+        "code": "QAS_ITA_TORINO_BLUE_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6105,
+        "totalMeters": 5584,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_BLUE",
+        "code": "QAS_ITA_TORINO_BLUE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6241,
+        "totalMeters": 5709,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_RED",
+        "code": "QAS_ITA_TORINO_BLUE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5859,
+        "totalMeters": 5359,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 344,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_ITA_TORINO_BLUE_ORANGE",
+        "code": "QAS_ITA_TORINO_BLUE_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5385,
+        "totalMeters": 4923,
+        "distances": [
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_01",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_03",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_04",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_05",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_07",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_11",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_12",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_13",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_14",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_15",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_16",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_ITA_TORINO_BLUE_18",
+            "yards": 315,
+            "meters": 288
+          }
+        ]
+      }
+    ]
+  }
+}
