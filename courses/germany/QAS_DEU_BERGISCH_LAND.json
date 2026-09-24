@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_BERGISCH_LAND",
+    "code": "QAS_DEU_BERGISCH_LAND",
+    "name": "Golf-Club Bergisch Land Wuppertal",
+    "city": "Wuppertal",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Offcourse full scorecard and rating table; AllSquare cross-check of SI; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_01",
+        "code": "QAS_DEU_BERGISCH_LAND_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_02",
+        "code": "QAS_DEU_BERGISCH_LAND_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_03",
+        "code": "QAS_DEU_BERGISCH_LAND_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_04",
+        "code": "QAS_DEU_BERGISCH_LAND_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_05",
+        "code": "QAS_DEU_BERGISCH_LAND_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_06",
+        "code": "QAS_DEU_BERGISCH_LAND_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_07",
+        "code": "QAS_DEU_BERGISCH_LAND_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_08",
+        "code": "QAS_DEU_BERGISCH_LAND_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_09",
+        "code": "QAS_DEU_BERGISCH_LAND_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_10",
+        "code": "QAS_DEU_BERGISCH_LAND_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_11",
+        "code": "QAS_DEU_BERGISCH_LAND_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_12",
+        "code": "QAS_DEU_BERGISCH_LAND_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_13",
+        "code": "QAS_DEU_BERGISCH_LAND_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_14",
+        "code": "QAS_DEU_BERGISCH_LAND_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_15",
+        "code": "QAS_DEU_BERGISCH_LAND_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_16",
+        "code": "QAS_DEU_BERGISCH_LAND_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_17",
+        "code": "QAS_DEU_BERGISCH_LAND_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_BERGISCH_LAND_18",
+        "code": "QAS_DEU_BERGISCH_LAND_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_BERGISCH_LAND_YELLOW",
+        "code": "QAS_DEU_BERGISCH_LAND_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.8,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6508,
+        "totalMeters": 5951,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_03",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_05",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_06",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_08",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_09",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_11",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_12",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_13",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_14",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_16",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_17",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_BERGISCH_LAND_BLUE",
+        "code": "QAS_DEU_BERGISCH_LAND_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 70.8,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6055,
+        "totalMeters": 5538,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_01",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_03",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_04",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_05",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_07",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_08",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_09",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_12",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_13",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_15",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_16",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_BERGISCH_LAND_RED",
+        "code": "QAS_DEU_BERGISCH_LAND_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 74.9,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5733,
+        "totalMeters": 5242,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_03",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_04",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_05",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_06",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_07",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_08",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_09",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_11",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_12",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_13",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_14",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_16",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_17",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_BERGISCH_LAND_ORANGE",
+        "code": "QAS_DEU_BERGISCH_LAND_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 72.9,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5362,
+        "totalMeters": 4904,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_02",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_03",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_05",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_06",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_08",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_09",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_11",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_12",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_13",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_16",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_17",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_DEU_BERGISCH_LAND_18",
+            "yards": 365,
+            "meters": 334
+          }
+        ]
+      }
+    ]
+  }
+}

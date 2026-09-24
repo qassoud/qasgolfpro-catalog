@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_HAMBURG_WALDDOERFER",
+    "code": "QAS_DEU_HAMBURG_WALDDOERFER",
+    "name": "Golf-Club Hamburg-Walddörfer",
+    "city": "Ammersbek",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Hamburg-Walddörfer full scorecard and rating rows; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_01",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_02",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_03",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_04",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_05",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_06",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_07",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_08",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_09",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_10",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_11",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_12",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_13",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_14",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_15",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_16",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_17",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURG_WALDDOERFER_18",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURG_WALDDOERFER_WHITE",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.4,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 130,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6661,
+        "totalMeters": 6093,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURG_WALDDOERFER_YELLOW",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 131,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6464,
+        "totalMeters": 5909,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+            "yards": 410,
+            "meters": 375
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURG_WALDDOERFER_BLUE",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 74.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.3,
+            "slopeRating": 131,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5912,
+        "totalMeters": 5406,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURG_WALDDOERFER_RED",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 73.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 131,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5764,
+        "totalMeters": 5272,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURG_WALDDOERFER_RED_LADIES",
+        "code": "QAS_DEU_HAMBURG_WALDDOERFER_RED_LADIES",
+        "type": "RED_LADIES",
+        "displayName": "Rouge Dames",
+        "courseRating": 73.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 131,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5796,
+        "totalMeters": 5301,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_01",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_04",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_05",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_06",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_08",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_09",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_10",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_13",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_14",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_15",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_16",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_17",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURG_WALDDOERFER_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      }
+    ],
+    "dataNote": "The source publishes two distinct Red rows with different hole-9 distance; both rows are preserved rather than merged or altered."
+  }
+}

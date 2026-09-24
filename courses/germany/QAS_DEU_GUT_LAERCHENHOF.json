@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_GUT_LAERCHENHOF",
+    "code": "QAS_DEU_GUT_LAERCHENHOF",
+    "name": "Golf Club Gut Lärchenhof",
+    "city": "Pulheim",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Gut Lärchenhof full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_01",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_02",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_03",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_04",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_05",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_06",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_07",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_08",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_09",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_10",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_11",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_12",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_13",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_14",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_15",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_16",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_17",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GUT_LAERCHENHOF_18",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_GUT_LAERCHENHOF_CHAMPION",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_CHAMPION",
+        "type": "CHAMPION",
+        "displayName": "Champion",
+        "courseRating": 74.6,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6949,
+        "totalMeters": 6356,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_02",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_03",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_04",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_05",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_06",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_07",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_08",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_10",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_12",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_13",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_14",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_15",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_16",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_17",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GUT_LAERCHENHOF_MEN",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_MEN",
+        "type": "MEN",
+        "displayName": "Messieurs",
+        "courseRating": 72.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6578,
+        "totalMeters": 6015,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_02",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_03",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_05",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_07",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_08",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_09",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_11",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_12",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_13",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_14",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_15",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_16",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GUT_LAERCHENHOF_SENIOR",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_SENIOR",
+        "type": "SENIOR",
+        "displayName": "Senior",
+        "courseRating": 70.5,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6161,
+        "totalMeters": 5634,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_01",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_03",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_04",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_05",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_07",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_08",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_11",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_12",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_13",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_14",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_15",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_16",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_17",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GUT_LAERCHENHOF_WOMEN",
+        "code": "QAS_DEU_GUT_LAERCHENHOF_WOMEN",
+        "type": "WOMEN",
+        "displayName": "Dames",
+        "courseRating": 72.9,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5525,
+        "totalMeters": 5052,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_02",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_03",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_04",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_05",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_06",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_07",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_10",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_11",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_12",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_13",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_15",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_16",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_17",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_DEU_GUT_LAERCHENHOF_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ]
+  }
+}

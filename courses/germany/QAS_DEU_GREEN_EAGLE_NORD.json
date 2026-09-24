@@ -1,0 +1,594 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_GREEN_EAGLE_NORD",
+    "code": "QAS_DEU_GREEN_EAGLE_NORD",
+    "name": "Green Eagle Golf Courses - Nord Course",
+    "city": "Winsen (Luhe)",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Green Eagle Nord Course full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_01",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_02",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_03",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_04",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_05",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_06",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_07",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_08",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_09",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_10",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_11",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_12",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_13",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_14",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_15",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_16",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_17",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GREEN_EAGLE_NORD_18",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_GREEN_EAGLE_NORD_WHITE",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 78.5,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 78.5,
+            "slopeRating": 150,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 7844,
+        "totalMeters": 7173,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_01",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_02",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_03",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_04",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_05",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_06",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_07",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_08",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_09",
+            "yards": 647,
+            "meters": 592
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_10",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_11",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_12",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_13",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_14",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_15",
+            "yards": 632,
+            "meters": 578
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_16",
+            "yards": 705,
+            "meters": 645
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_18",
+            "yards": 641,
+            "meters": 586
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GREEN_EAGLE_NORD_YELLOW",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 76.1,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.1,
+            "slopeRating": 138,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 7272,
+        "totalMeters": 6648,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_02",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_03",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_04",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_06",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_07",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_09",
+            "yards": 615,
+            "meters": 562
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_10",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_11",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_12",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_13",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_14",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_15",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_16",
+            "yards": 663,
+            "meters": 606
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_18",
+            "yards": 603,
+            "meters": 551
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GREEN_EAGLE_NORD_BLUE",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.3,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 132,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.9,
+            "slopeRating": 145,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6561,
+        "totalMeters": 5999,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_01",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_02",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_03",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_04",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_09",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_11",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_13",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_14",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_15",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_16",
+            "yards": 614,
+            "meters": 561
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_18",
+            "yards": 517,
+            "meters": 473
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GREEN_EAGLE_NORD_RED",
+        "code": "QAS_DEU_GREEN_EAGLE_NORD_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 75.0,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.0,
+            "slopeRating": 136,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5806,
+        "totalMeters": 5307,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_01",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_02",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_03",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_04",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_05",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_06",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_07",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_08",
+            "yards": 82,
+            "meters": 75
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_09",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_11",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_13",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_14",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_15",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_16",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_17",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_DEU_GREEN_EAGLE_NORD_18",
+            "yards": 480,
+            "meters": 439
+          }
+        ]
+      }
+    ]
+  }
+}

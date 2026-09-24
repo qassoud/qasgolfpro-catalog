@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_GLC_KOELN",
+    "code": "QAS_DEU_GLC_KOELN",
+    "name": "Golf- und Land-Club Köln",
+    "city": "Bergisch Gladbach",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Golf- und Land-Club Köln full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_01",
+        "code": "QAS_DEU_GLC_KOELN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_02",
+        "code": "QAS_DEU_GLC_KOELN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_03",
+        "code": "QAS_DEU_GLC_KOELN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_04",
+        "code": "QAS_DEU_GLC_KOELN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_05",
+        "code": "QAS_DEU_GLC_KOELN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_06",
+        "code": "QAS_DEU_GLC_KOELN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_07",
+        "code": "QAS_DEU_GLC_KOELN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_08",
+        "code": "QAS_DEU_GLC_KOELN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_09",
+        "code": "QAS_DEU_GLC_KOELN_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_10",
+        "code": "QAS_DEU_GLC_KOELN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_11",
+        "code": "QAS_DEU_GLC_KOELN_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_12",
+        "code": "QAS_DEU_GLC_KOELN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_13",
+        "code": "QAS_DEU_GLC_KOELN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_14",
+        "code": "QAS_DEU_GLC_KOELN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_15",
+        "code": "QAS_DEU_GLC_KOELN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_16",
+        "code": "QAS_DEU_GLC_KOELN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_17",
+        "code": "QAS_DEU_GLC_KOELN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_GLC_KOELN_18",
+        "code": "QAS_DEU_GLC_KOELN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_GLC_KOELN_WHITE",
+        "code": "QAS_DEU_GLC_KOELN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6780,
+        "totalMeters": 6199,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_02",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_05",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_07",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_09",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_11",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_13",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_14",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_15",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_16",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_18",
+            "yards": 519,
+            "meters": 475
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GLC_KOELN_YELLOW",
+        "code": "QAS_DEU_GLC_KOELN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 72.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6539,
+        "totalMeters": 5980,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_02",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_04",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_06",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_07",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_09",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_11",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_13",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_14",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_15",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_16",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_17",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_18",
+            "yards": 506,
+            "meters": 463
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GLC_KOELN_BLUE",
+        "code": "QAS_DEU_GLC_KOELN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 75.5,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5963,
+        "totalMeters": 5453,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_05",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_06",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_09",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_10",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_11",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_14",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_15",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_16",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_17",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_18",
+            "yards": 459,
+            "meters": 420
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_GLC_KOELN_RED",
+        "code": "QAS_DEU_GLC_KOELN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 74.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5781,
+        "totalMeters": 5286,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_04",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_05",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_06",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_09",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_11",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_12",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_14",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_15",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_16",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_17",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_GLC_KOELN_18",
+            "yards": 454,
+            "meters": 415
+          }
+        ]
+      }
+    ]
+  }
+}

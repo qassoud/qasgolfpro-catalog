@@ -1,0 +1,560 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_WINSTONLINKS",
+    "code": "QAS_DEU_WINSTONLINKS",
+    "name": "WINSTONgolf - WINSTONlinks",
+    "city": "Gneven",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "WINSTONgolf / Golfify full scorecard; no sex-specific CR/Slope copied because the verified card did not publish them; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_01",
+        "code": "QAS_DEU_WINSTONLINKS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_02",
+        "code": "QAS_DEU_WINSTONLINKS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_03",
+        "code": "QAS_DEU_WINSTONLINKS_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_04",
+        "code": "QAS_DEU_WINSTONLINKS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_05",
+        "code": "QAS_DEU_WINSTONLINKS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_06",
+        "code": "QAS_DEU_WINSTONLINKS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_07",
+        "code": "QAS_DEU_WINSTONLINKS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_08",
+        "code": "QAS_DEU_WINSTONLINKS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_09",
+        "code": "QAS_DEU_WINSTONLINKS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_10",
+        "code": "QAS_DEU_WINSTONLINKS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_11",
+        "code": "QAS_DEU_WINSTONLINKS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_12",
+        "code": "QAS_DEU_WINSTONLINKS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_13",
+        "code": "QAS_DEU_WINSTONLINKS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_14",
+        "code": "QAS_DEU_WINSTONLINKS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_15",
+        "code": "QAS_DEU_WINSTONLINKS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_16",
+        "code": "QAS_DEU_WINSTONLINKS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_17",
+        "code": "QAS_DEU_WINSTONLINKS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_WINSTONLINKS_18",
+        "code": "QAS_DEU_WINSTONLINKS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_WINSTONLINKS_BLACK",
+        "code": "QAS_DEU_WINSTONLINKS_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 7064,
+        "totalMeters": 6459,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_03",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_04",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_06",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_07",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_10",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_11",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_13",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_16",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_18",
+            "yards": 522,
+            "meters": 477
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_WINSTONLINKS_WHITE",
+        "code": "QAS_DEU_WINSTONLINKS_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6980,
+        "totalMeters": 6383,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_02",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_03",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_04",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_06",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_07",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_08",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_10",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_11",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_12",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_13",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_16",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_18",
+            "yards": 522,
+            "meters": 477
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_WINSTONLINKS_YELLOW",
+        "code": "QAS_DEU_WINSTONLINKS_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 6480,
+        "totalMeters": 5925,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_01",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_02",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_03",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_05",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_06",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_07",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_08",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_10",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_11",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_12",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_13",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_15",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_16",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_17",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_18",
+            "yards": 499,
+            "meters": 456
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_WINSTONLINKS_RED",
+        "code": "QAS_DEU_WINSTONLINKS_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": null,
+        "slope": null,
+        "ratings": [],
+        "totalYards": 5313,
+        "totalMeters": 4856,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_01",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_02",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_03",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_04",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_05",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_06",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_07",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_08",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_10",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_11",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_12",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_13",
+            "yards": 89,
+            "meters": 81
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_14",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_16",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_17",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_DEU_WINSTONLINKS_18",
+            "yards": 404,
+            "meters": 369
+          }
+        ]
+      }
+    ]
+  }
+}

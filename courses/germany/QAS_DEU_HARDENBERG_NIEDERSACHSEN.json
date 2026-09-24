@@ -1,0 +1,600 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_HARDENBERG_NIEDERSACHSEN",
+    "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN",
+    "name": "Hardenberg GolfResort - Niedersachsen Course",
+    "city": "Nörten-Hardenberg",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify — Hardenberg Niedersachsen Course full scorecard and ratings; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_WHITE",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7067,
+        "totalMeters": 6461,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+            "yards": 437,
+            "meters": 400
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_YELLOW",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 73.0,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6625,
+        "totalMeters": 6057,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_BLUE",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 71.0,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.0,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6179,
+        "totalMeters": 5649,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HARDENBERG_NIEDERSACHSEN_RED",
+        "code": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 68.1,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 123,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.4,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5615,
+        "totalMeters": 5135,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_03",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_05",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_07",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_09",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_10",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_11",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_12",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_14",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_15",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_16",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_17",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_DEU_HARDENBERG_NIEDERSACHSEN_18",
+            "yards": 361,
+            "meters": 330
+          }
+        ]
+      }
+    ]
+  }
+}

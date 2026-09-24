@@ -1,0 +1,826 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN",
+    "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN",
+    "name": "Hamburger Golf-Club Falkenstein",
+    "city": "Hamburg",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Hamburger Golf-Club official course pages and 2026 WHS rating tables; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_WHITE",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 71.9,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6411,
+        "totalMeters": 5864,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_YELLOW",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6295,
+        "totalMeters": 5759,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_BLUE",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 68.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 128,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.8,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5675,
+        "totalMeters": 5188,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_RED",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 73.2,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5534,
+        "totalMeters": 5060,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 335,
+            "meters": 306
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_ORANGE",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_ORANGE",
+        "type": "ORANGE",
+        "displayName": "Orange",
+        "courseRating": 66.4,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.4,
+            "slopeRating": 123,
+            "ratingPar": 69
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 130,
+            "ratingPar": 69
+          }
+        ],
+        "totalYards": 5316,
+        "totalMeters": 4862,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 297,
+            "meters": 272
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_HAMBURGER_GC_FALKENSTEIN_GREEN",
+        "code": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_GREEN",
+        "type": "GREEN",
+        "displayName": "Vert",
+        "courseRating": 58.7,
+        "slope": 95,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 58.7,
+            "slopeRating": 95,
+            "ratingPar": 64
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 59.4,
+            "slopeRating": 100,
+            "ratingPar": 64
+          }
+        ],
+        "totalYards": 3427,
+        "totalMeters": 3134,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_01",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_02",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_03",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_04",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_05",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_06",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_07",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_08",
+            "yards": 48,
+            "meters": 44
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_09",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_10",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_11",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_12",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_13",
+            "yards": 96,
+            "meters": 88
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_14",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_15",
+            "yards": 66,
+            "meters": 60
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_16",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_17",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_DEU_HAMBURGER_GC_FALKENSTEIN_18",
+            "yards": 145,
+            "meters": 133
+          }
+        ]
+      }
+    ]
+  }
+}

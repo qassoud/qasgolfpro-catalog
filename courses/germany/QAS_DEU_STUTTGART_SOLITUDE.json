@@ -1,0 +1,595 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_DEU_STUTTGART_SOLITUDE",
+    "code": "QAS_DEU_STUTTGART_SOLITUDE",
+    "name": "Stuttgarter Golf-Club Solitude",
+    "city": "Mönsheim",
+    "countryCode": "DEU",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Stuttgarter GC official WHS tables + Golfify/Hole19 complete scorecard; checked 2026-09-24",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_01",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_02",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_03",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_04",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_05",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_06",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_07",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_08",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_09",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_10",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_11",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_12",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_13",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_14",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_15",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_16",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_17",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_DEU_STUTTGART_SOLITUDE_18",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_DEU_STUTTGART_SOLITUDE_WHITE",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 74.6,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6977,
+        "totalMeters": 6380,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_01",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_02",
+            "yards": 557,
+            "meters": 509
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_03",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_04",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_07",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_08",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_09",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_10",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_11",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_12",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_14",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_15",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_17",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_18",
+            "yards": 572,
+            "meters": 523
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_STUTTGART_SOLITUDE_YELLOW",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 71.6,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6419,
+        "totalMeters": 5869,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_02",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_07",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_10",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_11",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_13",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_14",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_15",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_17",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_18",
+            "yards": 515,
+            "meters": 471
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_STUTTGART_SOLITUDE_BLUE",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 131,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5971,
+        "totalMeters": 5460,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_01",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_02",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_03",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_05",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_07",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_08",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_09",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_10",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_11",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_13",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_14",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_15",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_18",
+            "yards": 477,
+            "meters": 436
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_DEU_STUTTGART_SOLITUDE_RED",
+        "code": "QAS_DEU_STUTTGART_SOLITUDE_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 72.3,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5434,
+        "totalMeters": 4970,
+        "distances": [
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_01",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_02",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_03",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_04",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_05",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_07",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_08",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_10",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_11",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_12",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_13",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_14",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_15",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_16",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_17",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_DEU_STUTTGART_SOLITUDE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      }
+    ],
+    "dataNote": "The club publishes an additional Green tee (2928 m; MEN 59.2/92, WOMEN 59.1/100), but no reliable public source accessible in this verification pass exposed its 18 hole-by-hole distances. It is intentionally not fabricated. White/Yellow/Blue/Red rows are complete and source-matched."
+  }
+}
