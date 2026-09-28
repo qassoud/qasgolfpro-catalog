@@ -111,7 +111,7 @@ def main() -> int:
                 orphan_data.get("code")
                 if isinstance(orphan_data, dict)
                 else None
-            )
+            ) or orphan_path.stem
         except (OSError, json.JSONDecodeError):
             orphan_code = None
         errors.append(
