@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_DEERE_RUN",
+    "code": "QAS_USA_TPC_DEERE_RUN",
+    "name": "TPC Deere Run",
+    "city": "Silvis",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "TPC Deere Run official 2026 scorecard; checked 2026-10-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_01",
+        "code": "QAS_USA_TPC_DEERE_RUN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_02",
+        "code": "QAS_USA_TPC_DEERE_RUN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_03",
+        "code": "QAS_USA_TPC_DEERE_RUN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_04",
+        "code": "QAS_USA_TPC_DEERE_RUN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_05",
+        "code": "QAS_USA_TPC_DEERE_RUN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_06",
+        "code": "QAS_USA_TPC_DEERE_RUN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_07",
+        "code": "QAS_USA_TPC_DEERE_RUN_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_08",
+        "code": "QAS_USA_TPC_DEERE_RUN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_09",
+        "code": "QAS_USA_TPC_DEERE_RUN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_10",
+        "code": "QAS_USA_TPC_DEERE_RUN_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_11",
+        "code": "QAS_USA_TPC_DEERE_RUN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_12",
+        "code": "QAS_USA_TPC_DEERE_RUN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_13",
+        "code": "QAS_USA_TPC_DEERE_RUN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_14",
+        "code": "QAS_USA_TPC_DEERE_RUN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_15",
+        "code": "QAS_USA_TPC_DEERE_RUN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_16",
+        "code": "QAS_USA_TPC_DEERE_RUN_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_17",
+        "code": "QAS_USA_TPC_DEERE_RUN_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_DEERE_RUN_18",
+        "code": "QAS_USA_TPC_DEERE_RUN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_DEERE_RUN_BLACK",
+        "code": "QAS_USA_TPC_DEERE_RUN_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 74.7,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7091,
+        "totalMeters": 6481,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_01",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_02",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_04",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_05",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_06",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_07",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_08",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_09",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_10",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_12",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_15",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_16",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_17",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_18",
+            "yards": 463,
+            "meters": 423
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_DEERE_RUN_BLUE",
+        "code": "QAS_USA_TPC_DEERE_RUN_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6502,
+        "totalMeters": 5945,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_02",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_05",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_06",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_07",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_08",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_09",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_10",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_11",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_12",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_13",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_14",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_15",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_16",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_17",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_DEERE_RUN_WHITE",
+        "code": "QAS_USA_TPC_DEERE_RUN_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.0,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 127,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6017,
+        "totalMeters": 5501,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_02",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_03",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_04",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_05",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_06",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_07",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_08",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_09",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_10",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_11",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_12",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_13",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_14",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_16",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_17",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_18",
+            "yards": 382,
+            "meters": 349
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_DEERE_RUN_GOLD",
+        "code": "QAS_USA_TPC_DEERE_RUN_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 65.6,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.6,
+            "slopeRating": 120,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.7,
+            "slopeRating": 120,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5179,
+        "totalMeters": 4735,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_01",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_02",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_03",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_05",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_06",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_07",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_08",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_09",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_10",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_12",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_14",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_15",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_16",
+            "yards": 76,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_17",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_TPC_DEERE_RUN_18",
+            "yards": 324,
+            "meters": 296
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Published combo/blended tee rows are intentionally excluded. Ratings contain only MEN/WOMEN categories explicitly published by the cited source(s). QasGolfPro stores one stroke-index row; the men's/main row is retained."
+  }
+}

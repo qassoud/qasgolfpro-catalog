@@ -1,0 +1,723 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SPYGLASS_HILL",
+    "code": "QAS_USA_SPYGLASS_HILL",
+    "name": "Spyglass Hill Golf Course",
+    "city": "Pebble Beach",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Pebble Beach official 2026 Spyglass Hill scorecard + USGA Course Rating database; checked 2026-10-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_01",
+        "code": "QAS_USA_SPYGLASS_HILL_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_02",
+        "code": "QAS_USA_SPYGLASS_HILL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_03",
+        "code": "QAS_USA_SPYGLASS_HILL_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_04",
+        "code": "QAS_USA_SPYGLASS_HILL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_05",
+        "code": "QAS_USA_SPYGLASS_HILL_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_06",
+        "code": "QAS_USA_SPYGLASS_HILL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_07",
+        "code": "QAS_USA_SPYGLASS_HILL_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_08",
+        "code": "QAS_USA_SPYGLASS_HILL_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_09",
+        "code": "QAS_USA_SPYGLASS_HILL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_10",
+        "code": "QAS_USA_SPYGLASS_HILL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_11",
+        "code": "QAS_USA_SPYGLASS_HILL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_12",
+        "code": "QAS_USA_SPYGLASS_HILL_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_13",
+        "code": "QAS_USA_SPYGLASS_HILL_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_14",
+        "code": "QAS_USA_SPYGLASS_HILL_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_15",
+        "code": "QAS_USA_SPYGLASS_HILL_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_16",
+        "code": "QAS_USA_SPYGLASS_HILL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_17",
+        "code": "QAS_USA_SPYGLASS_HILL_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SPYGLASS_HILL_18",
+        "code": "QAS_USA_SPYGLASS_HILL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SPYGLASS_HILL_BLUE",
+        "code": "QAS_USA_SPYGLASS_HILL_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 75.3,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 145,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7078,
+        "totalMeters": 6471,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_01",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_02",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_04",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_05",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_06",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_07",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_08",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_09",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_11",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_12",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_14",
+            "yards": 593,
+            "meters": 542
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_16",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_17",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_18",
+            "yards": 427,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SPYGLASS_HILL_GOLD",
+        "code": "QAS_USA_SPYGLASS_HILL_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 73.4,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 141,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 79.3,
+            "slopeRating": 149,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6642,
+        "totalMeters": 6073,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_01",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_02",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_04",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_05",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_06",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_07",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_08",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_09",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_10",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_11",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_12",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_13",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_14",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_16",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_17",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SPYGLASS_HILL_WHITE",
+        "code": "QAS_USA_SPYGLASS_HILL_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6192,
+        "totalMeters": 5659,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_01",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_02",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_03",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_07",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_08",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_11",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_12",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_13",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_14",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_15",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_16",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_17",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_18",
+            "yards": 370,
+            "meters": 338
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SPYGLASS_HILL_GREEN",
+        "code": "QAS_USA_SPYGLASS_HILL_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 69.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.3,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5655,
+        "totalMeters": 5170,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_01",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_02",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_03",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_04",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_05",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_06",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_08",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_09",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_10",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_12",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_13",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_14",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_15",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_17",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_18",
+            "yards": 332,
+            "meters": 304
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SPYGLASS_HILL_RED",
+        "code": "QAS_USA_SPYGLASS_HILL_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 65.7,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4953,
+        "totalMeters": 4528,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_01",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_02",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_03",
+            "yards": 83,
+            "meters": 76
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_04",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_05",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_06",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_08",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_09",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_10",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_12",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_13",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_14",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_15",
+            "yards": 83,
+            "meters": 76
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_16",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_17",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_USA_SPYGLASS_HILL_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Published combo/blended tee rows are intentionally excluded. Ratings contain only MEN/WOMEN categories explicitly published by the cited source(s). QasGolfPro stores one stroke-index row; the men's/main row is retained."
+  }
+}

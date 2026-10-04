@@ -1,0 +1,827 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_SAN_ANTONIO_OAKS",
+    "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS",
+    "name": "TPC San Antonio - Oaks Course",
+    "city": "San Antonio",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "TPC San Antonio official Oaks Course scorecard; checked 2026-10-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_TIBURON",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_TIBURON",
+        "type": "TIBURON",
+        "displayName": "Tiburon",
+        "courseRating": 76.1,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.1,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7435,
+        "totalMeters": 6796,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 602,
+            "meters": 550
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 604,
+            "meters": 552
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 567,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 591,
+            "meters": 540
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_TOURNAMENT",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 74.3,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.3,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7034,
+        "totalMeters": 6433,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 550,
+            "meters": 503
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_PLAYERS",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_PLAYERS",
+        "type": "PLAYERS",
+        "displayName": "Players",
+        "courseRating": 72.4,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6624,
+        "totalMeters": 6056,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 530,
+            "meters": 485
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_CLUB",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_CLUB",
+        "type": "CLUB",
+        "displayName": "Club",
+        "courseRating": 70.9,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.9,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.8,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6242,
+        "totalMeters": 5708,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 481,
+            "meters": 440
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_FORWARD",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_FORWARD",
+        "type": "FORWARD",
+        "displayName": "Forward",
+        "courseRating": 67.4,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.4,
+            "slopeRating": 116,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.3,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5514,
+        "totalMeters": 5043,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SAN_ANTONIO_OAKS_FAMILY",
+        "code": "QAS_USA_TPC_SAN_ANTONIO_OAKS_FAMILY",
+        "type": "FAMILY",
+        "displayName": "Family",
+        "courseRating": 60.9,
+        "slope": 107,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 60.9,
+            "slopeRating": 107,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 62.4,
+            "slopeRating": 106,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3807,
+        "totalMeters": 3482,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_01",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_02",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_03",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_04",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_05",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_06",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_07",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_08",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_09",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_10",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_11",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_12",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_13",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_14",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_15",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_16",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_17",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SAN_ANTONIO_OAKS_18",
+            "yards": 325,
+            "meters": 297
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Published combo/blended tee rows are intentionally excluded. Ratings contain only MEN/WOMEN categories explicitly published by the cited source(s). QasGolfPro stores one stroke-index row; the men's/main row is retained."
+  }
+}

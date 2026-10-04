@@ -1,0 +1,821 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_TWIN_CITIES",
+    "code": "QAS_USA_TPC_TWIN_CITIES",
+    "name": "TPC Twin Cities",
+    "city": "Blaine",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "TPC Twin Cities official scorecard; checked 2026-10-04",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_01",
+        "code": "QAS_USA_TPC_TWIN_CITIES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_02",
+        "code": "QAS_USA_TPC_TWIN_CITIES_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_03",
+        "code": "QAS_USA_TPC_TWIN_CITIES_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_04",
+        "code": "QAS_USA_TPC_TWIN_CITIES_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_05",
+        "code": "QAS_USA_TPC_TWIN_CITIES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_06",
+        "code": "QAS_USA_TPC_TWIN_CITIES_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_07",
+        "code": "QAS_USA_TPC_TWIN_CITIES_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_08",
+        "code": "QAS_USA_TPC_TWIN_CITIES_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_09",
+        "code": "QAS_USA_TPC_TWIN_CITIES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_10",
+        "code": "QAS_USA_TPC_TWIN_CITIES_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_11",
+        "code": "QAS_USA_TPC_TWIN_CITIES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_12",
+        "code": "QAS_USA_TPC_TWIN_CITIES_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_13",
+        "code": "QAS_USA_TPC_TWIN_CITIES_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_14",
+        "code": "QAS_USA_TPC_TWIN_CITIES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_15",
+        "code": "QAS_USA_TPC_TWIN_CITIES_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_16",
+        "code": "QAS_USA_TPC_TWIN_CITIES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_17",
+        "code": "QAS_USA_TPC_TWIN_CITIES_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_TWIN_CITIES_18",
+        "code": "QAS_USA_TPC_TWIN_CITIES_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_BLACK",
+        "code": "QAS_USA_TPC_TWIN_CITIES_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 77.2,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.2,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7513,
+        "totalMeters": 6870,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 593,
+            "meters": 542
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 596,
+            "meters": 545
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_GOLD",
+        "code": "QAS_USA_TPC_TWIN_CITIES_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.1,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6971,
+        "totalMeters": 6375,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 561,
+            "meters": 513
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_BLUE",
+        "code": "QAS_USA_TPC_TWIN_CITIES_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 71.6,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6488,
+        "totalMeters": 5932,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 511,
+            "meters": 467
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_WHITE",
+        "code": "QAS_USA_TPC_TWIN_CITIES_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 69.2,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.2,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.5,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6011,
+        "totalMeters": 5497,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 473,
+            "meters": 433
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_RED",
+        "code": "QAS_USA_TPC_TWIN_CITIES_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 69.9,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.9,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5195,
+        "totalMeters": 4749,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 98,
+            "meters": 90
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_TWIN_CITIES_FAMILY",
+        "code": "QAS_USA_TPC_TWIN_CITIES_FAMILY",
+        "type": "FAMILY",
+        "displayName": "Family",
+        "courseRating": 55.6,
+        "slope": 106,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 55.6,
+            "slopeRating": 106,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 57.3,
+            "slopeRating": 99,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3005,
+        "totalMeters": 2747,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_01",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_02",
+            "yards": 45,
+            "meters": 41
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_03",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_04",
+            "yards": 50,
+            "meters": 46
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_05",
+            "yards": 51,
+            "meters": 47
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_06",
+            "yards": 217,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_07",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_09",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_10",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_11",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_12",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_13",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_14",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_15",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_16",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_17",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_TPC_TWIN_CITIES_18",
+            "yards": 254,
+            "meters": 232
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Published combo/blended tee rows are intentionally excluded. Ratings contain only MEN/WOMEN categories explicitly published by the cited source(s). QasGolfPro stores one stroke-index row; the men's/main row is retained."
+  }
+}
