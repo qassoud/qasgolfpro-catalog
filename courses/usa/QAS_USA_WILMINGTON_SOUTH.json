@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_WILMINGTON_SOUTH",
+    "code": "QAS_USA_WILMINGTON_SOUTH",
+    "name": "Wilmington Country Club - South Course",
+    "city": "Wilmington",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_01",
+        "code": "QAS_USA_WILMINGTON_SOUTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_02",
+        "code": "QAS_USA_WILMINGTON_SOUTH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_03",
+        "code": "QAS_USA_WILMINGTON_SOUTH_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_04",
+        "code": "QAS_USA_WILMINGTON_SOUTH_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_05",
+        "code": "QAS_USA_WILMINGTON_SOUTH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_06",
+        "code": "QAS_USA_WILMINGTON_SOUTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_07",
+        "code": "QAS_USA_WILMINGTON_SOUTH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_08",
+        "code": "QAS_USA_WILMINGTON_SOUTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_09",
+        "code": "QAS_USA_WILMINGTON_SOUTH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_10",
+        "code": "QAS_USA_WILMINGTON_SOUTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_11",
+        "code": "QAS_USA_WILMINGTON_SOUTH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_12",
+        "code": "QAS_USA_WILMINGTON_SOUTH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_13",
+        "code": "QAS_USA_WILMINGTON_SOUTH_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_14",
+        "code": "QAS_USA_WILMINGTON_SOUTH_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_15",
+        "code": "QAS_USA_WILMINGTON_SOUTH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_16",
+        "code": "QAS_USA_WILMINGTON_SOUTH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_17",
+        "code": "QAS_USA_WILMINGTON_SOUTH_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WILMINGTON_SOUTH_18",
+        "code": "QAS_USA_WILMINGTON_SOUTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_WILMINGTON_SOUTH_BLACK",
+        "code": "QAS_USA_WILMINGTON_SOUTH_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 76.0,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.0,
+            "slopeRating": 139,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7334,
+        "totalMeters": 6705,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_01",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_03",
+            "yards": 632,
+            "meters": 578
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_05",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_06",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_07",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_08",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_09",
+            "yards": 496,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_12",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_13",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_14",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_16",
+            "yards": 611,
+            "meters": 559
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_17",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_18",
+            "yards": 446,
+            "meters": 408
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WILMINGTON_SOUTH_BLUE",
+        "code": "QAS_USA_WILMINGTON_SOUTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.7,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6721,
+        "totalMeters": 6147,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_01",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_02",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_03",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_04",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_05",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_06",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_08",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_09",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_11",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_12",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_13",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_14",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_15",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_16",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_17",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_18",
+            "yards": 399,
+            "meters": 365
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WILMINGTON_SOUTH_WHITE",
+        "code": "QAS_USA_WILMINGTON_SOUTH_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.1,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 131,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.3,
+            "slopeRating": 144,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6266,
+        "totalMeters": 5731,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_01",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_02",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_03",
+            "yards": 569,
+            "meters": 520
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_04",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_05",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_07",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_08",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_12",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_13",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_14",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_15",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_16",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_17",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_18",
+            "yards": 384,
+            "meters": 351
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WILMINGTON_SOUTH_GREEN",
+        "code": "QAS_USA_WILMINGTON_SOUTH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 66.4,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.4,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5411,
+        "totalMeters": 4946,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_01",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_02",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_03",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_04",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_06",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_08",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_09",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_10",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_11",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_13",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_14",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_15",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_16",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_17",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_WILMINGTON_SOUTH_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

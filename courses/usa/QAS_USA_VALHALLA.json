@@ -1,0 +1,729 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_VALHALLA",
+    "code": "QAS_USA_VALHALLA",
+    "name": "Valhalla Golf Club",
+    "city": "Louisville",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_01",
+        "code": "QAS_USA_VALHALLA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_02",
+        "code": "QAS_USA_VALHALLA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_03",
+        "code": "QAS_USA_VALHALLA_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_04",
+        "code": "QAS_USA_VALHALLA_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_05",
+        "code": "QAS_USA_VALHALLA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_06",
+        "code": "QAS_USA_VALHALLA_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_07",
+        "code": "QAS_USA_VALHALLA_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_08",
+        "code": "QAS_USA_VALHALLA_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_09",
+        "code": "QAS_USA_VALHALLA_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_10",
+        "code": "QAS_USA_VALHALLA_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_11",
+        "code": "QAS_USA_VALHALLA_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_12",
+        "code": "QAS_USA_VALHALLA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_13",
+        "code": "QAS_USA_VALHALLA_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_14",
+        "code": "QAS_USA_VALHALLA_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_15",
+        "code": "QAS_USA_VALHALLA_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_16",
+        "code": "QAS_USA_VALHALLA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_17",
+        "code": "QAS_USA_VALHALLA_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_VALHALLA_18",
+        "code": "QAS_USA_VALHALLA_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_VALHALLA_GOLD",
+        "code": "QAS_USA_VALHALLA_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 76.4,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.4,
+            "slopeRating": 148,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 84.3,
+            "slopeRating": 151,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7540,
+        "totalMeters": 6895,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_VALHALLA_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_02",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_03",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_04",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_05",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_06",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_07",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_09",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_10",
+            "yards": 595,
+            "meters": 544
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_11",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_12",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_14",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_15",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_16",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_17",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_18",
+            "yards": 545,
+            "meters": 498
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_VALHALLA_BLACK",
+        "code": "QAS_USA_VALHALLA_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 74.1,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 143,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 81.2,
+            "slopeRating": 147,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6975,
+        "totalMeters": 6375,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_VALHALLA_01",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_02",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_03",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_07",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_09",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_10",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_11",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_12",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_14",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_15",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_16",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_17",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_VALHALLA_GREEN",
+        "code": "QAS_USA_VALHALLA_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.6,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 138,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.3,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6540,
+        "totalMeters": 5978,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_VALHALLA_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_02",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_06",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_07",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_10",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_11",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_14",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_15",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_16",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_VALHALLA_BLUE",
+        "code": "QAS_USA_VALHALLA_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 69.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.6,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6070,
+        "totalMeters": 5549,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_VALHALLA_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_02",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_03",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_04",
+            "yards": 285,
+            "meters": 261
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_06",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_07",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_10",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_11",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_13",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_14",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_15",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_16",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_17",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_18",
+            "yards": 445,
+            "meters": 407
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_VALHALLA_SILVER",
+        "code": "QAS_USA_VALHALLA_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 66.0,
+        "slope": 119,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.0,
+            "slopeRating": 119,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.8,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5240,
+        "totalMeters": 4790,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_VALHALLA_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_03",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_04",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_05",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_07",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_08",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_09",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_10",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_11",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_13",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_14",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_15",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_16",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_17",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_VALHALLA_18",
+            "yards": 415,
+            "meters": 379
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

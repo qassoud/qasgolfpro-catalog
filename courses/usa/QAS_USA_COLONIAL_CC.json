@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_COLONIAL_CC",
+    "code": "QAS_USA_COLONIAL_CC",
+    "name": "Colonial Country Club",
+    "city": "Fort Worth",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_01",
+        "code": "QAS_USA_COLONIAL_CC_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_02",
+        "code": "QAS_USA_COLONIAL_CC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_03",
+        "code": "QAS_USA_COLONIAL_CC_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_04",
+        "code": "QAS_USA_COLONIAL_CC_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_05",
+        "code": "QAS_USA_COLONIAL_CC_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_06",
+        "code": "QAS_USA_COLONIAL_CC_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_07",
+        "code": "QAS_USA_COLONIAL_CC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_08",
+        "code": "QAS_USA_COLONIAL_CC_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_09",
+        "code": "QAS_USA_COLONIAL_CC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_10",
+        "code": "QAS_USA_COLONIAL_CC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_11",
+        "code": "QAS_USA_COLONIAL_CC_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_12",
+        "code": "QAS_USA_COLONIAL_CC_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_13",
+        "code": "QAS_USA_COLONIAL_CC_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_14",
+        "code": "QAS_USA_COLONIAL_CC_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_15",
+        "code": "QAS_USA_COLONIAL_CC_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_16",
+        "code": "QAS_USA_COLONIAL_CC_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_17",
+        "code": "QAS_USA_COLONIAL_CC_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_COLONIAL_CC_18",
+        "code": "QAS_USA_COLONIAL_CC_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_COLONIAL_CC_BLACK",
+        "code": "QAS_USA_COLONIAL_CC_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 75.1,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.1,
+            "slopeRating": 138,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 7204,
+        "totalMeters": 6588,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_01",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_03",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_04",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_05",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_06",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_07",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_10",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_11",
+            "yards": 635,
+            "meters": 581
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_12",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_13",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_14",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_15",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_16",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_17",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_COLONIAL_CC_CHAMPIONSHIP",
+        "code": "QAS_USA_COLONIAL_CC_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 73.5,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 134,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6837,
+        "totalMeters": 6251,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_01",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_02",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_04",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_06",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_07",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_08",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_09",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_11",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_12",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_13",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_14",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_15",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_COLONIAL_CC_MENS",
+        "code": "QAS_USA_COLONIAL_CC_MENS",
+        "type": "MENS",
+        "displayName": "Mens",
+        "courseRating": 72.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6527,
+        "totalMeters": 5967,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_01",
+            "yards": 546,
+            "meters": 499
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_03",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_04",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_08",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_09",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_10",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_11",
+            "yards": 586,
+            "meters": 536
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_15",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_16",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_18",
+            "yards": 390,
+            "meters": 357
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_COLONIAL_CC_EXECUTIVE",
+        "code": "QAS_USA_COLONIAL_CC_EXECUTIVE",
+        "type": "EXECUTIVE",
+        "displayName": "Executive",
+        "courseRating": 69.7,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6043,
+        "totalMeters": 5524,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_01",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_03",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_06",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_07",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_10",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_11",
+            "yards": 559,
+            "meters": 511
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_12",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_13",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_14",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_15",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_16",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_17",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_18",
+            "yards": 377,
+            "meters": 345
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_COLONIAL_CC_WOMEN",
+        "code": "QAS_USA_COLONIAL_CC_WOMEN",
+        "type": "WOMEN",
+        "displayName": "Women",
+        "courseRating": 74.8,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.8,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5700,
+        "totalMeters": 5213,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_01",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_02",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_03",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_04",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_05",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_06",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_07",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_08",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_09",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_10",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_11",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_12",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_13",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_15",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_16",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_17",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_COLONIAL_CC_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

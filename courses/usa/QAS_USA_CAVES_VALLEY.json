@@ -1,0 +1,705 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CAVES_VALLEY",
+    "code": "QAS_USA_CAVES_VALLEY",
+    "name": "Caves Valley Golf Club",
+    "city": "Owings Mills",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_01",
+        "code": "QAS_USA_CAVES_VALLEY_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_02",
+        "code": "QAS_USA_CAVES_VALLEY_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_03",
+        "code": "QAS_USA_CAVES_VALLEY_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_04",
+        "code": "QAS_USA_CAVES_VALLEY_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_05",
+        "code": "QAS_USA_CAVES_VALLEY_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_06",
+        "code": "QAS_USA_CAVES_VALLEY_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_07",
+        "code": "QAS_USA_CAVES_VALLEY_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_08",
+        "code": "QAS_USA_CAVES_VALLEY_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_09",
+        "code": "QAS_USA_CAVES_VALLEY_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_10",
+        "code": "QAS_USA_CAVES_VALLEY_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_11",
+        "code": "QAS_USA_CAVES_VALLEY_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_12",
+        "code": "QAS_USA_CAVES_VALLEY_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_13",
+        "code": "QAS_USA_CAVES_VALLEY_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_14",
+        "code": "QAS_USA_CAVES_VALLEY_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_15",
+        "code": "QAS_USA_CAVES_VALLEY_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_16",
+        "code": "QAS_USA_CAVES_VALLEY_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_17",
+        "code": "QAS_USA_CAVES_VALLEY_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CAVES_VALLEY_18",
+        "code": "QAS_USA_CAVES_VALLEY_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CAVES_VALLEY_GREEN",
+        "code": "QAS_USA_CAVES_VALLEY_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 75.3,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 142,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7226,
+        "totalMeters": 6609,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_01",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_03",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_04",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_05",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_06",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_07",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_08",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_09",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_11",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_12",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_13",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_15",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_17",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_18",
+            "yards": 460,
+            "meters": 421
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CAVES_VALLEY_BLUE",
+        "code": "QAS_USA_CAVES_VALLEY_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.0,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 137,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6708,
+        "totalMeters": 6135,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_03",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_04",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_05",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_07",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_10",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_11",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_12",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_13",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_14",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_15",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_17",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_18",
+            "yards": 415,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CAVES_VALLEY_WHITE",
+        "code": "QAS_USA_CAVES_VALLEY_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.0,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6228,
+        "totalMeters": 5694,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_01",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_03",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_04",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_07",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_10",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_12",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_13",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_16",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_18",
+            "yards": 375,
+            "meters": 343
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CAVES_VALLEY_GOLD",
+        "code": "QAS_USA_CAVES_VALLEY_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 68.1,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 125,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.2,
+            "slopeRating": 117,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5775,
+        "totalMeters": 5282,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_02",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_03",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_04",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_09",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_11",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_13",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_14",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_16",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_17",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_18",
+            "yards": 345,
+            "meters": 315
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CAVES_VALLEY_RED",
+        "code": "QAS_USA_CAVES_VALLEY_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 66.1,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.1,
+            "slopeRating": 111,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5265,
+        "totalMeters": 4814,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_03",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_04",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_05",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_06",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_07",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_08",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_09",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_10",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_11",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_13",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_14",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_15",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_16",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_17",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_CAVES_VALLEY_18",
+            "yards": 345,
+            "meters": 315
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

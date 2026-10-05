@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_FIRESTONE_SOUTH",
+    "code": "QAS_USA_FIRESTONE_SOUTH",
+    "name": "Firestone Country Club - South Course",
+    "city": "Akron",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_01",
+        "code": "QAS_USA_FIRESTONE_SOUTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_02",
+        "code": "QAS_USA_FIRESTONE_SOUTH_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_03",
+        "code": "QAS_USA_FIRESTONE_SOUTH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_04",
+        "code": "QAS_USA_FIRESTONE_SOUTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_05",
+        "code": "QAS_USA_FIRESTONE_SOUTH_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_06",
+        "code": "QAS_USA_FIRESTONE_SOUTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_07",
+        "code": "QAS_USA_FIRESTONE_SOUTH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_08",
+        "code": "QAS_USA_FIRESTONE_SOUTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_09",
+        "code": "QAS_USA_FIRESTONE_SOUTH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_10",
+        "code": "QAS_USA_FIRESTONE_SOUTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_11",
+        "code": "QAS_USA_FIRESTONE_SOUTH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_12",
+        "code": "QAS_USA_FIRESTONE_SOUTH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_13",
+        "code": "QAS_USA_FIRESTONE_SOUTH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_14",
+        "code": "QAS_USA_FIRESTONE_SOUTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_15",
+        "code": "QAS_USA_FIRESTONE_SOUTH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_16",
+        "code": "QAS_USA_FIRESTONE_SOUTH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_17",
+        "code": "QAS_USA_FIRESTONE_SOUTH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_FIRESTONE_SOUTH_18",
+        "code": "QAS_USA_FIRESTONE_SOUTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_FIRESTONE_SOUTH_BLUE",
+        "code": "QAS_USA_FIRESTONE_SOUTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 76.4,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.4,
+            "slopeRating": 134,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 7400,
+        "totalMeters": 6768,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_02",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_03",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_04",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_05",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_06",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_07",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_08",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_09",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_11",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_12",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_13",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_14",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_15",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_16",
+            "yards": 667,
+            "meters": 610
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_17",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_18",
+            "yards": 464,
+            "meters": 424
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_FIRESTONE_SOUTH_WHITE",
+        "code": "QAS_USA_FIRESTONE_SOUTH_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.8,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 125,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.4,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6454,
+        "totalMeters": 5899,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_03",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_05",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_09",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_11",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_12",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_13",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_15",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_16",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_17",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_18",
+            "yards": 435,
+            "meters": 398
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_FIRESTONE_SOUTH_GREEN",
+        "code": "QAS_USA_FIRESTONE_SOUTH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 69.0,
+        "slope": 118,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.0,
+            "slopeRating": 118,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.2,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5876,
+        "totalMeters": 5371,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_01",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_07",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_08",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_10",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_11",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_16",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_17",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_FIRESTONE_SOUTH_RED",
+        "code": "QAS_USA_FIRESTONE_SOUTH_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 70.7,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 123,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5155,
+        "totalMeters": 4711,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_01",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_02",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_04",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_05",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_06",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_07",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_08",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_09",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_10",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_11",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_12",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_13",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_14",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_16",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_17",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_FIRESTONE_SOUTH_18",
+            "yards": 350,
+            "meters": 320
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

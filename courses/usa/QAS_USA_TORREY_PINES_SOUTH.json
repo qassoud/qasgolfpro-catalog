@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TORREY_PINES_SOUTH",
+    "code": "QAS_USA_TORREY_PINES_SOUTH",
+    "name": "Torrey Pines Golf Course - South Course",
+    "city": "La Jolla",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_01",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_02",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_03",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_04",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_05",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_06",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_07",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_08",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_09",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_10",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_11",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_12",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_13",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_14",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_15",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_16",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_17",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_SOUTH_18",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_SOUTH_BLACK",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 78.2,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 78.2,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7707,
+        "totalMeters": 7046,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_02",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_04",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_05",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_06",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_09",
+            "yards": 614,
+            "meters": 561
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_10",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_11",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_12",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_13",
+            "yards": 619,
+            "meters": 566
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_14",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_15",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_16",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_17",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_18",
+            "yards": 570,
+            "meters": 521
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_SOUTH_TAUPE",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_TAUPE",
+        "type": "TAUPE",
+        "displayName": "Taupe",
+        "courseRating": 75.3,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7051,
+        "totalMeters": 6447,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_01",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_02",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_03",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_04",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_06",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_07",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_08",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_09",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_11",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_13",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_14",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_16",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_17",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_18",
+            "yards": 525,
+            "meters": 480
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_SOUTH_GREEN",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 73.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6628,
+        "totalMeters": 6061,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_02",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_03",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_04",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_05",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_06",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_07",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_08",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_11",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_12",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_13",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_14",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_16",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_17",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_18",
+            "yards": 498,
+            "meters": 455
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_SOUTH_GOLD",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 70.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6153,
+        "totalMeters": 5627,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_02",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_03",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_04",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_06",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_07",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_08",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_11",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_12",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_13",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_16",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_18",
+            "yards": 467,
+            "meters": 427
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_SOUTH_SILVER",
+        "code": "QAS_USA_TORREY_PINES_SOUTH_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 73.6,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5467,
+        "totalMeters": 4998,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_01",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_02",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_03",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_04",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_05",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_06",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_07",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_08",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_09",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_10",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_11",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_13",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_14",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_15",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_16",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_17",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_SOUTH_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

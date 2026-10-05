@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_EAST_LAKE",
+    "code": "QAS_USA_EAST_LAKE",
+    "name": "East Lake Golf Club",
+    "city": "Atlanta",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_01",
+        "code": "QAS_USA_EAST_LAKE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_02",
+        "code": "QAS_USA_EAST_LAKE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_03",
+        "code": "QAS_USA_EAST_LAKE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_04",
+        "code": "QAS_USA_EAST_LAKE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_05",
+        "code": "QAS_USA_EAST_LAKE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_06",
+        "code": "QAS_USA_EAST_LAKE_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_07",
+        "code": "QAS_USA_EAST_LAKE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_08",
+        "code": "QAS_USA_EAST_LAKE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_09",
+        "code": "QAS_USA_EAST_LAKE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_10",
+        "code": "QAS_USA_EAST_LAKE_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_11",
+        "code": "QAS_USA_EAST_LAKE_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_12",
+        "code": "QAS_USA_EAST_LAKE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_13",
+        "code": "QAS_USA_EAST_LAKE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_14",
+        "code": "QAS_USA_EAST_LAKE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_15",
+        "code": "QAS_USA_EAST_LAKE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_16",
+        "code": "QAS_USA_EAST_LAKE_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_17",
+        "code": "QAS_USA_EAST_LAKE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_EAST_LAKE_18",
+        "code": "QAS_USA_EAST_LAKE_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_EAST_LAKE_BLACK",
+        "code": "QAS_USA_EAST_LAKE_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 76.0,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.0,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6891,
+        "totalMeters": 6303,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_01",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_02",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_04",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_05",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_06",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_07",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_08",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_09",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_10",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_11",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_12",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_13",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_15",
+            "yards": 496,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_16",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_18",
+            "yards": 207,
+            "meters": 189
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_EAST_LAKE_BLUE",
+        "code": "QAS_USA_EAST_LAKE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6468,
+        "totalMeters": 5914,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_03",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_04",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_05",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_07",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_08",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_09",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_11",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_12",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_13",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_14",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_15",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_16",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_17",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_18",
+            "yards": 189,
+            "meters": 173
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_EAST_LAKE_GREEN",
+        "code": "QAS_USA_EAST_LAKE_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 73.9,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.9,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5938,
+        "totalMeters": 5429,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_02",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_03",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_05",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_06",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_07",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_08",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_11",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_12",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_15",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_16",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_18",
+            "yards": 167,
+            "meters": 153
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_EAST_LAKE_RED",
+        "code": "QAS_USA_EAST_LAKE_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 72.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5345,
+        "totalMeters": 4887,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_01",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_02",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_03",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_04",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_05",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_06",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_07",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_08",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_09",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_10",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_11",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_12",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_15",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_16",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_17",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_USA_EAST_LAKE_18",
+            "yards": 110,
+            "meters": 101
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

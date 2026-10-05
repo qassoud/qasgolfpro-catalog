@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_RIVER_HIGHLANDS",
+    "code": "QAS_USA_TPC_RIVER_HIGHLANDS",
+    "name": "TPC River Highlands",
+    "city": "Cromwell",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_01",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_02",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_03",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_04",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_05",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_06",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_07",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_08",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_09",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_10",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_11",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_12",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_13",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_14",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_15",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_16",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_17",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_RIVER_HIGHLANDS_18",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_RIVER_HIGHLANDS_TOURNAMENT",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 72.8,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6841,
+        "totalMeters": 6255,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_RIVER_HIGHLANDS_CHAMPIONSHIP",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 71.3,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 127,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6518,
+        "totalMeters": 5959,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_RIVER_HIGHLANDS_CLUB",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_CLUB",
+        "type": "CLUB",
+        "displayName": "Club",
+        "courseRating": 69.4,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.4,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6146,
+        "totalMeters": 5618,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_RIVER_HIGHLANDS_TPC",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_TPC",
+        "type": "TPC",
+        "displayName": "TPC",
+        "courseRating": 68.7,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 124,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.4,
+            "slopeRating": 136,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5873,
+        "totalMeters": 5368,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_RIVER_HIGHLANDS_PLAYERS",
+        "code": "QAS_USA_TPC_RIVER_HIGHLANDS_PLAYERS",
+        "type": "PLAYERS",
+        "displayName": "Players",
+        "courseRating": 63.6,
+        "slope": 112,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.6,
+            "slopeRating": 112,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 68.5,
+            "slopeRating": 121,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 4871,
+        "totalMeters": 4456,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_01",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_02",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_03",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_05",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_06",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_07",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_08",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_10",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_11",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_12",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_13",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_14",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_15",
+            "yards": 226,
+            "meters": 207
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_16",
+            "yards": 86,
+            "meters": 79
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_17",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_USA_TPC_RIVER_HIGHLANDS_18",
+            "yards": 321,
+            "meters": 294
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

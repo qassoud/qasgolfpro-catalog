@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_INNISBROOK_COPPERHEAD",
+    "code": "QAS_USA_INNISBROOK_COPPERHEAD",
+    "name": "Innisbrook Resort - Copperhead Course",
+    "city": "Palm Harbor",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings; hole yardages consistent with Innisbrook course guide; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_01",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_02",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_03",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_04",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_05",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_06",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_07",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_08",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_09",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_10",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_11",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_12",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_13",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_14",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_15",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_16",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_17",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INNISBROOK_COPPERHEAD_18",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_INNISBROOK_COPPERHEAD_BLACK",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 76.8,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.8,
+            "slopeRating": 144,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7340,
+        "totalMeters": 6711,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_01",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_02",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_03",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_04",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_05",
+            "yards": 605,
+            "meters": 553
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_06",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_07",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_08",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_09",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_10",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_11",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_12",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_13",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_14",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_15",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_16",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_17",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_18",
+            "yards": 445,
+            "meters": 407
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INNISBROOK_COPPERHEAD_GREEN",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 73.7,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6725,
+        "totalMeters": 6149,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_01",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_02",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_03",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_04",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_05",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_08",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_10",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_11",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_13",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_14",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_15",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_17",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INNISBROOK_COPPERHEAD_WHITE",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.2,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6243,
+        "totalMeters": 5707,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_01",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_03",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_04",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_05",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_06",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_07",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_11",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_12",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_14",
+            "yards": 532,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_15",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_17",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INNISBROOK_COPPERHEAD_RED",
+        "code": "QAS_USA_INNISBROOK_COPPERHEAD_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 73.6,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.6,
+            "slopeRating": 130,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5605,
+        "totalMeters": 5125,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_04",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_05",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_07",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_08",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_09",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_13",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_14",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_15",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_16",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_INNISBROOK_COPPERHEAD_18",
+            "yards": 325,
+            "meters": 297
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

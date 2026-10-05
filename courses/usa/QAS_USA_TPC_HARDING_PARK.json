@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_HARDING_PARK",
+    "code": "QAS_USA_TPC_HARDING_PARK",
+    "name": "TPC Harding Park",
+    "city": "San Francisco",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_01",
+        "code": "QAS_USA_TPC_HARDING_PARK_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_02",
+        "code": "QAS_USA_TPC_HARDING_PARK_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_03",
+        "code": "QAS_USA_TPC_HARDING_PARK_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_04",
+        "code": "QAS_USA_TPC_HARDING_PARK_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_05",
+        "code": "QAS_USA_TPC_HARDING_PARK_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_06",
+        "code": "QAS_USA_TPC_HARDING_PARK_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_07",
+        "code": "QAS_USA_TPC_HARDING_PARK_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_08",
+        "code": "QAS_USA_TPC_HARDING_PARK_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_09",
+        "code": "QAS_USA_TPC_HARDING_PARK_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_10",
+        "code": "QAS_USA_TPC_HARDING_PARK_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_11",
+        "code": "QAS_USA_TPC_HARDING_PARK_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_12",
+        "code": "QAS_USA_TPC_HARDING_PARK_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_13",
+        "code": "QAS_USA_TPC_HARDING_PARK_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_14",
+        "code": "QAS_USA_TPC_HARDING_PARK_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_15",
+        "code": "QAS_USA_TPC_HARDING_PARK_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_16",
+        "code": "QAS_USA_TPC_HARDING_PARK_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_17",
+        "code": "QAS_USA_TPC_HARDING_PARK_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_HARDING_PARK_18",
+        "code": "QAS_USA_TPC_HARDING_PARK_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_HARDING_PARK_BLUE",
+        "code": "QAS_USA_TPC_HARDING_PARK_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.8,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6845,
+        "totalMeters": 6257,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_02",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_03",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_04",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_05",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_06",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_08",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_09",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_10",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_11",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_12",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_13",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_14",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_15",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_16",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_18",
+            "yards": 440,
+            "meters": 402
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_HARDING_PARK_WHITE",
+        "code": "QAS_USA_TPC_HARDING_PARK_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6405,
+        "totalMeters": 5858,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_02",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_04",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_05",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_06",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_07",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_09",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_10",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_11",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_12",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_13",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_15",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_16",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_17",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_HARDING_PARK_RED",
+        "code": "QAS_USA_TPC_HARDING_PARK_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 73.2,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 123,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5875,
+        "totalMeters": 5369,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_01",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_03",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_04",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_06",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_07",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_10",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_11",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_12",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_13",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_15",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_16",
+            "yards": 280,
+            "meters": 256
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_17",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_18",
+            "yards": 400,
+            "meters": 366
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_HARDING_PARK_GOLD",
+        "code": "QAS_USA_TPC_HARDING_PARK_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 70.4,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.4,
+            "slopeRating": 116,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5375,
+        "totalMeters": 4914,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_01",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_02",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_03",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_04",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_05",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_06",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_07",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_10",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_11",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_12",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_13",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_16",
+            "yards": 250,
+            "meters": 229
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_17",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TPC_HARDING_PARK_18",
+            "yards": 380,
+            "meters": 347
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

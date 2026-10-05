@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_KIAWAH_OCEAN",
+    "code": "QAS_USA_KIAWAH_OCEAN",
+    "name": "Kiawah Island Golf Resort - Ocean Course",
+    "city": "Kiawah Island",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_01",
+        "code": "QAS_USA_KIAWAH_OCEAN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_02",
+        "code": "QAS_USA_KIAWAH_OCEAN_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_03",
+        "code": "QAS_USA_KIAWAH_OCEAN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_04",
+        "code": "QAS_USA_KIAWAH_OCEAN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_05",
+        "code": "QAS_USA_KIAWAH_OCEAN_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_06",
+        "code": "QAS_USA_KIAWAH_OCEAN_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_07",
+        "code": "QAS_USA_KIAWAH_OCEAN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_08",
+        "code": "QAS_USA_KIAWAH_OCEAN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_09",
+        "code": "QAS_USA_KIAWAH_OCEAN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_10",
+        "code": "QAS_USA_KIAWAH_OCEAN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_11",
+        "code": "QAS_USA_KIAWAH_OCEAN_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_12",
+        "code": "QAS_USA_KIAWAH_OCEAN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_13",
+        "code": "QAS_USA_KIAWAH_OCEAN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_14",
+        "code": "QAS_USA_KIAWAH_OCEAN_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_15",
+        "code": "QAS_USA_KIAWAH_OCEAN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_16",
+        "code": "QAS_USA_KIAWAH_OCEAN_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_17",
+        "code": "QAS_USA_KIAWAH_OCEAN_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OCEAN_18",
+        "code": "QAS_USA_KIAWAH_OCEAN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OCEAN_BLACK",
+        "code": "QAS_USA_KIAWAH_OCEAN_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 77.4,
+        "slope": 153,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.4,
+            "slopeRating": 153,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7395,
+        "totalMeters": 6761,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_01",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_02",
+            "yards": 543,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_03",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_05",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_07",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_08",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_09",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_10",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_11",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_12",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_14",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_15",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_16",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_17",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_18",
+            "yards": 484,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OCEAN_GOLD",
+        "code": "QAS_USA_KIAWAH_OCEAN_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.7,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6793,
+        "totalMeters": 6209,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_01",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_02",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_03",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_05",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_06",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_07",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_08",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_09",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_10",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_11",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_13",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_14",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_15",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_16",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_17",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OCEAN_SILVER",
+        "code": "QAS_USA_KIAWAH_OCEAN_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 72.1,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 140,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.9,
+            "slopeRating": 151,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6356,
+        "totalMeters": 5812,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_03",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_04",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_05",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_06",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_07",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_09",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_10",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_11",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_13",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_14",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_15",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_16",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_17",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_18",
+            "yards": 424,
+            "meters": 388
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OCEAN_BLUE",
+        "code": "QAS_USA_KIAWAH_OCEAN_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 70.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.9,
+            "slopeRating": 147,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6005,
+        "totalMeters": 5491,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_02",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_03",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_04",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_05",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_06",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_07",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_08",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_09",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_10",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_11",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_12",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_14",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_16",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_17",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_18",
+            "yards": 396,
+            "meters": 362
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OCEAN_RED",
+        "code": "QAS_USA_KIAWAH_OCEAN_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 72.6,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5226,
+        "totalMeters": 4778,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_01",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_02",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_03",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_04",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_05",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_06",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_07",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_08",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_10",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_12",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_13",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_14",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_15",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_16",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_17",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OCEAN_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

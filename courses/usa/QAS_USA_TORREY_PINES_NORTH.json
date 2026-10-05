@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TORREY_PINES_NORTH",
+    "code": "QAS_USA_TORREY_PINES_NORTH",
+    "name": "Torrey Pines Golf Course - North Course",
+    "city": "La Jolla",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_01",
+        "code": "QAS_USA_TORREY_PINES_NORTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_02",
+        "code": "QAS_USA_TORREY_PINES_NORTH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_03",
+        "code": "QAS_USA_TORREY_PINES_NORTH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_04",
+        "code": "QAS_USA_TORREY_PINES_NORTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_05",
+        "code": "QAS_USA_TORREY_PINES_NORTH_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_06",
+        "code": "QAS_USA_TORREY_PINES_NORTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_07",
+        "code": "QAS_USA_TORREY_PINES_NORTH_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_08",
+        "code": "QAS_USA_TORREY_PINES_NORTH_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_09",
+        "code": "QAS_USA_TORREY_PINES_NORTH_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_10",
+        "code": "QAS_USA_TORREY_PINES_NORTH_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_11",
+        "code": "QAS_USA_TORREY_PINES_NORTH_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_12",
+        "code": "QAS_USA_TORREY_PINES_NORTH_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_13",
+        "code": "QAS_USA_TORREY_PINES_NORTH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_14",
+        "code": "QAS_USA_TORREY_PINES_NORTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_15",
+        "code": "QAS_USA_TORREY_PINES_NORTH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_16",
+        "code": "QAS_USA_TORREY_PINES_NORTH_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_17",
+        "code": "QAS_USA_TORREY_PINES_NORTH_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TORREY_PINES_NORTH_18",
+        "code": "QAS_USA_TORREY_PINES_NORTH_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_NORTH_BLACK",
+        "code": "QAS_USA_TORREY_PINES_NORTH_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 75.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7258,
+        "totalMeters": 6635,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_03",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_04",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_05",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_06",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_07",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_08",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_09",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_10",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_12",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_13",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_14",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_15",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_17",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_NORTH_TAUPE",
+        "code": "QAS_USA_TORREY_PINES_NORTH_TAUPE",
+        "type": "TAUPE",
+        "displayName": "Taupe",
+        "courseRating": 73.2,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.2,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6781,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_02",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_03",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_04",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_05",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_06",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_07",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_09",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_10",
+            "yards": 524,
+            "meters": 479
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_11",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_12",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_13",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_14",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_16",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_17",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_18",
+            "yards": 455,
+            "meters": 416
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_NORTH_GREEN",
+        "code": "QAS_USA_TORREY_PINES_NORTH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6346,
+        "totalMeters": 5804,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_01",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_02",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_04",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_05",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_06",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_07",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_09",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_10",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_11",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_13",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_14",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_15",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_16",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_17",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_NORTH_GOLD",
+        "code": "QAS_USA_TORREY_PINES_NORTH_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.5,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.5,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5851,
+        "totalMeters": 5351,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_04",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_05",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_06",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_07",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_08",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_09",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_10",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_11",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_12",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_13",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_16",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_17",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_18",
+            "yards": 373,
+            "meters": 341
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TORREY_PINES_NORTH_SILVER",
+        "code": "QAS_USA_TORREY_PINES_NORTH_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 71.5,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5197,
+        "totalMeters": 4754,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_02",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_03",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_05",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_06",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_07",
+            "yards": 233,
+            "meters": 213
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_11",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_12",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_13",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_14",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_15",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_16",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_17",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_TORREY_PINES_NORTH_18",
+            "yards": 342,
+            "meters": 313
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}

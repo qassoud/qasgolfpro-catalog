@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_OAKMONT",
+    "code": "QAS_USA_OAKMONT",
+    "name": "Oakmont Country Club",
+    "city": "Oakmont",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published ratings, checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_01",
+        "code": "QAS_USA_OAKMONT_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_02",
+        "code": "QAS_USA_OAKMONT_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_03",
+        "code": "QAS_USA_OAKMONT_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_04",
+        "code": "QAS_USA_OAKMONT_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_05",
+        "code": "QAS_USA_OAKMONT_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_06",
+        "code": "QAS_USA_OAKMONT_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_07",
+        "code": "QAS_USA_OAKMONT_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_08",
+        "code": "QAS_USA_OAKMONT_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_09",
+        "code": "QAS_USA_OAKMONT_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_10",
+        "code": "QAS_USA_OAKMONT_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_11",
+        "code": "QAS_USA_OAKMONT_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_12",
+        "code": "QAS_USA_OAKMONT_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_13",
+        "code": "QAS_USA_OAKMONT_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_14",
+        "code": "QAS_USA_OAKMONT_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_15",
+        "code": "QAS_USA_OAKMONT_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_16",
+        "code": "QAS_USA_OAKMONT_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_17",
+        "code": "QAS_USA_OAKMONT_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAKMONT_18",
+        "code": "QAS_USA_OAKMONT_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_OAKMONT_BLACK",
+        "code": "QAS_USA_OAKMONT_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 76.9,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.9,
+            "slopeRating": 142,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7255,
+        "totalMeters": 6632,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAKMONT_01",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_02",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_03",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_04",
+            "yards": 609,
+            "meters": 557
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_05",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_06",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_07",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_08",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_09",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_10",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_11",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_12",
+            "yards": 667,
+            "meters": 610
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_13",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_14",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_15",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_16",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_17",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_18",
+            "yards": 484,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAKMONT_BLUE",
+        "code": "QAS_USA_OAKMONT_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.3,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.3,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6436,
+        "totalMeters": 5885,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAKMONT_01",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_04",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_05",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_06",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_07",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_08",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_09",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_10",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_11",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_12",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_13",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_14",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_15",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_16",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_17",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAKMONT_WHITE",
+        "code": "QAS_USA_OAKMONT_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.3,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 130,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.9,
+            "slopeRating": 141,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6223,
+        "totalMeters": 5691,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAKMONT_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_02",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_03",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_04",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_05",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_06",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_07",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_08",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_09",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_10",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_11",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_12",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_13",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_14",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_15",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_17",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAKMONT_RED",
+        "code": "QAS_USA_OAKMONT_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 70.1,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 125,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.0,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5692,
+        "totalMeters": 5205,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAKMONT_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_02",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_04",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_05",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_06",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_07",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_08",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_10",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_11",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_12",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_13",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_14",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_16",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_17",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_USA_OAKMONT_18",
+            "yards": 412,
+            "meters": 377
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only physical tee sets are included. Explicit blended/combo/hybrid tee rows are excluded. QasGolfPro stores one main par/stroke-index row; the main/men row is retained where separate women values exist."
+  }
+}
