@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_WHISTLING_STRAITS_STRAITS",
+    "code": "QAS_USA_WHISTLING_STRAITS_STRAITS",
+    "name": "Whistling Straits Golf Club - Straits Course",
+    "city": "Sheboygan",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/whistling-straits-golf-club-straits (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_WHISTLING_STRAITS_STRAITS_BLACK",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 76.7,
+        "slope": 151,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.7,
+            "slopeRating": 151,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7362,
+        "totalMeters": 6732,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+            "yards": 592,
+            "meters": 541
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+            "yards": 584,
+            "meters": 534
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+            "yards": 619,
+            "meters": 566
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+            "yards": 489,
+            "meters": 447
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WHISTLING_STRAITS_STRAITS_BLUE",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 74.2,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.2,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6893,
+        "totalMeters": 6303,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+            "yards": 578,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+            "yards": 216,
+            "meters": 198
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+            "yards": 419,
+            "meters": 383
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WHISTLING_STRAITS_STRAITS_GREEN",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.9,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.9,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6450,
+        "totalMeters": 5898,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+            "yards": 404,
+            "meters": 369
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WHISTLING_STRAITS_STRAITS_WHITE",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.5,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6144,
+        "totalMeters": 5618,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WHISTLING_STRAITS_STRAITS_RED",
+        "code": "QAS_USA_WHISTLING_STRAITS_STRAITS_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 66.9,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 125,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.2,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5381,
+        "totalMeters": 4920,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_03",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_04",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_06",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_07",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_08",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_10",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_11",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_12",
+            "yards": 84,
+            "meters": 77
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_13",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_14",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_15",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_17",
+            "yards": 126,
+            "meters": 115
+          },
+          {
+            "holeCode": "QAS_USA_WHISTLING_STRAITS_STRAITS_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

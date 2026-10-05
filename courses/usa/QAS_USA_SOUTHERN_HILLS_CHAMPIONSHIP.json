@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP",
+    "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP",
+    "name": "Southern Hills Country Club - Championship Course",
+    "city": "Tulsa",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/southern-hills-country-club-front-nine-back-nine (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_BLUE",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.8,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 139,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7184,
+        "totalMeters": 6569,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+            "yards": 655,
+            "meters": 599
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+            "yards": 537,
+            "meters": 491
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+            "yards": 465,
+            "meters": 425
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_WHITE",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.0,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6588,
+        "totalMeters": 6024,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+            "yards": 420,
+            "meters": 384
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_GOLD",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 70.0,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 127,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6179,
+        "totalMeters": 5650,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+            "yards": 391,
+            "meters": 358
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_RED",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 72.0,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 125,
+            "ratingPar": 74
+          }
+        ],
+        "totalYards": 5756,
+        "totalMeters": 5263,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_SILVER",
+        "code": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 70.6,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.6,
+            "slopeRating": 122,
+            "ratingPar": 74
+          }
+        ],
+        "totalYards": 5482,
+        "totalMeters": 5013,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_02",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_04",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_05",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_07",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_08",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_09",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_11",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_12",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_13",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_14",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_17",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_SOUTHERN_HILLS_CHAMPIONSHIP_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

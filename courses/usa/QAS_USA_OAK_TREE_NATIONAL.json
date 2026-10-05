@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_OAK_TREE_NATIONAL",
+    "code": "QAS_USA_OAK_TREE_NATIONAL",
+    "name": "Oak Tree National Golf Club",
+    "city": "Edmond",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/oak-tree-national-golf-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_01",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_02",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_03",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_04",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_05",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_06",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_07",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_08",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_09",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_10",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_11",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_12",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_13",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_14",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_15",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_16",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_17",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OAK_TREE_NATIONAL_18",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_OAK_TREE_NATIONAL_BLACK",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 79.3,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 79.3,
+            "slopeRating": 155,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7410,
+        "totalMeters": 6776,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_01",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_03",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_04",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_05",
+            "yards": 592,
+            "meters": 541
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_06",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_07",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_08",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_09",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_10",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_11",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_12",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_13",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_14",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_15",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_16",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_17",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAK_TREE_NATIONAL_SILVER",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 76.5,
+        "slope": 153,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.5,
+            "slopeRating": 153,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6915,
+        "totalMeters": 6323,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_01",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_03",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_04",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_05",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_07",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_08",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_09",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_10",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_11",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_12",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_13",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_14",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_15",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_16",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_17",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAK_TREE_NATIONAL_BLUE",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.1,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 145,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6424,
+        "totalMeters": 5874,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_02",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_03",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_04",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_06",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_07",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_08",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_10",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_11",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_12",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_14",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_15",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_16",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_18",
+            "yards": 371,
+            "meters": 339
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OAK_TREE_NATIONAL_GREEN",
+        "code": "QAS_USA_OAK_TREE_NATIONAL_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.5,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 138,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6008,
+        "totalMeters": 5494,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_01",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_02",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_03",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_04",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_05",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_06",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_08",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_11",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_12",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_13",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_14",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_15",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_16",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_OAK_TREE_NATIONAL_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

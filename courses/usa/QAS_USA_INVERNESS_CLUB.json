@@ -1,0 +1,833 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_INVERNESS_CLUB",
+    "code": "QAS_USA_INVERNESS_CLUB",
+    "name": "Inverness Club",
+    "city": "Toledo",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/inverness-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_01",
+        "code": "QAS_USA_INVERNESS_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_02",
+        "code": "QAS_USA_INVERNESS_CLUB_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_03",
+        "code": "QAS_USA_INVERNESS_CLUB_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_04",
+        "code": "QAS_USA_INVERNESS_CLUB_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_05",
+        "code": "QAS_USA_INVERNESS_CLUB_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_06",
+        "code": "QAS_USA_INVERNESS_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_07",
+        "code": "QAS_USA_INVERNESS_CLUB_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_08",
+        "code": "QAS_USA_INVERNESS_CLUB_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_09",
+        "code": "QAS_USA_INVERNESS_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_10",
+        "code": "QAS_USA_INVERNESS_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_11",
+        "code": "QAS_USA_INVERNESS_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_12",
+        "code": "QAS_USA_INVERNESS_CLUB_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_13",
+        "code": "QAS_USA_INVERNESS_CLUB_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_14",
+        "code": "QAS_USA_INVERNESS_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_15",
+        "code": "QAS_USA_INVERNESS_CLUB_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_16",
+        "code": "QAS_USA_INVERNESS_CLUB_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_17",
+        "code": "QAS_USA_INVERNESS_CLUB_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_INVERNESS_CLUB_18",
+        "code": "QAS_USA_INVERNESS_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_BLACK",
+        "code": "QAS_USA_INVERNESS_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 78.4,
+        "slope": 151,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 78.4,
+            "slopeRating": 151,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7730,
+        "totalMeters": 7068,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 607,
+            "meters": 555
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_GOLD",
+        "code": "QAS_USA_INVERNESS_CLUB_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.9,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 146,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6990,
+        "totalMeters": 6392,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_SILVER",
+        "code": "QAS_USA_INVERNESS_CLUB_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 72.0,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 137,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.6,
+            "slopeRating": 146,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6540,
+        "totalMeters": 5980,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_BLUE",
+        "code": "QAS_USA_INVERNESS_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 69.9,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 134,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.3,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6103,
+        "totalMeters": 5581,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 305,
+            "meters": 279
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_WHITE",
+        "code": "QAS_USA_INVERNESS_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 65.8,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.8,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.5,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5205,
+        "totalMeters": 4759,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 286,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 111,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 262,
+            "meters": 240
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_INVERNESS_CLUB_GREEN",
+        "code": "QAS_USA_INVERNESS_CLUB_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 62.9,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.9,
+            "slopeRating": 116,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.8,
+            "slopeRating": 119,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4565,
+        "totalMeters": 4174,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_01",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_02",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_03",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_04",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_05",
+            "yards": 243,
+            "meters": 222
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_07",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_08",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_09",
+            "yards": 271,
+            "meters": 248
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_10",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_11",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_12",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_13",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_14",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_15",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_16",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_17",
+            "yards": 252,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_USA_INVERNESS_CLUB_18",
+            "yards": 263,
+            "meters": 240
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

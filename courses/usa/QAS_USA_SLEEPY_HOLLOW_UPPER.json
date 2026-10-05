@@ -1,0 +1,705 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SLEEPY_HOLLOW_UPPER",
+    "code": "QAS_USA_SLEEPY_HOLLOW_UPPER",
+    "name": "Sleepy Hollow Country Club - Upper Course",
+    "city": "Scarborough",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/sleepy-hollow-country-club-upper (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SLEEPY_HOLLOW_UPPER_BLACK",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 74.0,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6902,
+        "totalMeters": 6311,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+            "yards": 488,
+            "meters": 446
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+            "yards": 426,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SLEEPY_HOLLOW_UPPER_BLUE",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.5,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.5,
+            "slopeRating": 135,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6630,
+        "totalMeters": 6062,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+            "yards": 426,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SLEEPY_HOLLOW_UPPER_WHITE",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.4,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 132,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6340,
+        "totalMeters": 5797,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+            "yards": 193,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+            "yards": 395,
+            "meters": 361
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SLEEPY_HOLLOW_UPPER_GREEN",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.4,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 132,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.2,
+            "slopeRating": 136,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5611,
+        "totalMeters": 5131,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SLEEPY_HOLLOW_UPPER_RED",
+        "code": "QAS_USA_SLEEPY_HOLLOW_UPPER_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 72.7,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.7,
+            "slopeRating": 134,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5485,
+        "totalMeters": 5015,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_01",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_02",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_03",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_05",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_06",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_07",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_08",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_09",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_10",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_11",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_13",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_14",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_15",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_16",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_17",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_SLEEPY_HOLLOW_UPPER_18",
+            "yards": 380,
+            "meters": 347
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

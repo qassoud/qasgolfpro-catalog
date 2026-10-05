@@ -4,14 +4,14 @@
   "course": {
     "uuid": "COURSE_QAS_USA_ERIN_HILLS",
     "code": "QAS_USA_ERIN_HILLS",
-    "name": "Erin Hills Golf Club",
-    "city": "Hartford",
+    "name": "Erin Hills Golf Course",
+    "city": "Erin",
     "countryCode": "USA",
     "numberOfHoles": 18,
-    "totalPar": 73,
+    "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "Golfify current full scorecard and ratings; ladies Yellow rating merged onto physical Yellow tee; checked 2026-10-05",
+    "dataSource": "https://www.golfify.io/courses/erin-hills-golf-course (full scorecard and published ratings, checked 2026-10-05)",
     "dataVersion": 1,
     "isVerified": true,
     "holes": [
@@ -20,14 +20,14 @@
         "code": "QAS_USA_ERIN_HILLS_01",
         "number": 1,
         "par": 5,
-        "strokeIndex": 5
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_02",
         "code": "QAS_USA_ERIN_HILLS_02",
         "number": 2,
         "par": 4,
-        "strokeIndex": 15
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_03",
@@ -41,7 +41,7 @@
         "code": "QAS_USA_ERIN_HILLS_04",
         "number": 4,
         "par": 4,
-        "strokeIndex": 13
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_05",
@@ -55,21 +55,21 @@
         "code": "QAS_USA_ERIN_HILLS_06",
         "number": 6,
         "par": 3,
-        "strokeIndex": 11
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_07",
         "code": "QAS_USA_ERIN_HILLS_07",
         "number": 7,
         "par": 5,
-        "strokeIndex": 3
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_08",
         "code": "QAS_USA_ERIN_HILLS_08",
         "number": 8,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_09",
@@ -82,7 +82,7 @@
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_10",
         "code": "QAS_USA_ERIN_HILLS_10",
         "number": 10,
-        "par": 5,
+        "par": 4,
         "strokeIndex": 4
       },
       {
@@ -97,7 +97,7 @@
         "code": "QAS_USA_ERIN_HILLS_12",
         "number": 12,
         "par": 4,
-        "strokeIndex": 8
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_13",
@@ -111,14 +111,14 @@
         "code": "QAS_USA_ERIN_HILLS_14",
         "number": 14,
         "par": 5,
-        "strokeIndex": 12
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_15",
         "code": "QAS_USA_ERIN_HILLS_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_16",
@@ -132,224 +132,114 @@
         "code": "QAS_USA_ERIN_HILLS_17",
         "number": 17,
         "par": 4,
-        "strokeIndex": 6
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_USA_ERIN_HILLS_18",
         "code": "QAS_USA_ERIN_HILLS_18",
         "number": 18,
         "par": 5,
-        "strokeIndex": 2
+        "strokeIndex": 6
       }
     ],
     "tees": [
-      {
-        "uuid": "TEE_QAS_USA_ERIN_HILLS_BACK",
-        "code": "QAS_USA_ERIN_HILLS_BACK",
-        "type": "BACK",
-        "displayName": "Back",
-        "courseRating": 80.5,
-        "slope": 154,
-        "ratings": [
-          {
-            "playerCategory": "MEN",
-            "courseRating": 80.5,
-            "slopeRating": 154,
-            "ratingPar": 73
-          }
-        ],
-        "totalYards": 8348,
-        "totalMeters": 7631,
-        "distances": [
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 655,
-            "meters": 599
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 362,
-            "meters": 331
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 535,
-            "meters": 489
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_04",
-            "yards": 445,
-            "meters": 407
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_05",
-            "yards": 516,
-            "meters": 472
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 242,
-            "meters": 221
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 620,
-            "meters": 567
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 521,
-            "meters": 476
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 164,
-            "meters": 150
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 672,
-            "meters": 614
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 472,
-            "meters": 432
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_12",
-            "yards": 509,
-            "meters": 465
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_13",
-            "yards": 221,
-            "meters": 202
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 650,
-            "meters": 594
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 372,
-            "meters": 340
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_16",
-            "yards": 205,
-            "meters": 187
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_17",
-            "yards": 512,
-            "meters": 468
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_18",
-            "yards": 675,
-            "meters": 617
-          }
-        ]
-      },
       {
         "uuid": "TEE_QAS_USA_ERIN_HILLS_BLACK",
         "code": "QAS_USA_ERIN_HILLS_BLACK",
         "type": "BLACK",
         "displayName": "Black",
-        "courseRating": 77.7,
-        "slope": 141,
+        "courseRating": 77.9,
+        "slope": 145,
         "ratings": [
           {
             "playerCategory": "MEN",
-            "courseRating": 77.7,
-            "slopeRating": 141,
-            "ratingPar": 73
+            "courseRating": 77.9,
+            "slopeRating": 145,
+            "ratingPar": 72
           }
         ],
-        "totalYards": 7945,
-        "totalMeters": 7267,
+        "totalYards": 7800,
+        "totalMeters": 7132,
         "distances": [
           {
             "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 624,
-            "meters": 571
+            "yards": 608,
+            "meters": 556
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 351,
-            "meters": 321
+            "yards": 358,
+            "meters": 327
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 501,
-            "meters": 458
+            "yards": 476,
+            "meters": 435
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_05",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_06",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_07",
+            "yards": 607,
+            "meters": 555
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_08",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_09",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_10",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_11",
             "yards": 403,
             "meters": 369
           },
           {
-            "holeCode": "QAS_USA_ERIN_HILLS_05",
-            "yards": 503,
-            "meters": 460
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 236,
-            "meters": 216
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 605,
-            "meters": 553
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 496,
-            "meters": 454
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 164,
-            "meters": 150
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 652,
-            "meters": 596
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 414,
-            "meters": 379
-          },
-          {
             "holeCode": "QAS_USA_ERIN_HILLS_12",
-            "yards": 468,
-            "meters": 428
+            "yards": 464,
+            "meters": 424
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_13",
-            "yards": 216,
-            "meters": 198
+            "yards": 215,
+            "meters": 197
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 615,
-            "meters": 562
+            "yards": 613,
+            "meters": 561
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 360,
-            "meters": 329
+            "yards": 370,
+            "meters": 338
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_16",
-            "yards": 196,
-            "meters": 179
+            "yards": 200,
+            "meters": 183
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_17",
@@ -358,8 +248,8 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_18",
-            "yards": 660,
-            "meters": 604
+            "yards": 663,
+            "meters": 606
           }
         ]
       },
@@ -368,78 +258,78 @@
         "code": "QAS_USA_ERIN_HILLS_BLUE",
         "type": "BLUE",
         "displayName": "Blue",
-        "courseRating": 74.2,
-        "slope": 135,
+        "courseRating": 75.2,
+        "slope": 140,
         "ratings": [
           {
             "playerCategory": "MEN",
-            "courseRating": 74.2,
-            "slopeRating": 135,
-            "ratingPar": 73
+            "courseRating": 75.2,
+            "slopeRating": 140,
+            "ratingPar": 72
           }
         ],
-        "totalYards": 7258,
-        "totalMeters": 6635,
+        "totalYards": 7316,
+        "totalMeters": 6690,
         "distances": [
           {
             "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 574,
-            "meters": 525
+            "yards": 536,
+            "meters": 490
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 333,
-            "meters": 304
+            "yards": 358,
+            "meters": 327
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 451,
-            "meters": 412
+            "yards": 433,
+            "meters": 396
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_04",
-            "yards": 395,
-            "meters": 361
+            "yards": 437,
+            "meters": 400
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_05",
-            "yards": 443,
-            "meters": 405
+            "yards": 439,
+            "meters": 401
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 188,
-            "meters": 172
+            "yards": 208,
+            "meters": 190
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 587,
-            "meters": 537
+            "yards": 576,
+            "meters": 527
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 450,
-            "meters": 411
+            "yards": 441,
+            "meters": 403
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 157,
-            "meters": 144
+            "yards": 160,
+            "meters": 146
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 624,
-            "meters": 571
+            "yards": 478,
+            "meters": 437
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 315,
-            "meters": 288
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_12",
-            "yards": 432,
-            "meters": 395
+            "yards": 434,
+            "meters": 397
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_13",
@@ -448,23 +338,23 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 505,
-            "meters": 462
+            "yards": 594,
+            "meters": 543
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 345,
-            "meters": 315
+            "yards": 359,
+            "meters": 328
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_16",
-            "yards": 184,
-            "meters": 168
+            "yards": 180,
+            "meters": 165
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_17",
-            "yards": 445,
-            "meters": 407
+            "yards": 447,
+            "meters": 409
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_18",
@@ -478,73 +368,73 @@
         "code": "QAS_USA_ERIN_HILLS_GREEN",
         "type": "GREEN",
         "displayName": "Green",
-        "courseRating": 71.4,
-        "slope": 125,
+        "courseRating": 73.2,
+        "slope": 135,
         "ratings": [
           {
             "playerCategory": "MEN",
-            "courseRating": 71.4,
-            "slopeRating": 125,
-            "ratingPar": 73
+            "courseRating": 73.2,
+            "slopeRating": 135,
+            "ratingPar": 72
           }
         ],
-        "totalYards": 6838,
-        "totalMeters": 6252,
+        "totalYards": 6744,
+        "totalMeters": 6167,
         "distances": [
           {
             "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 549,
-            "meters": 502
+            "yards": 536,
+            "meters": 490
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 314,
-            "meters": 287
+            "yards": 316,
+            "meters": 289
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 422,
-            "meters": 386
+            "yards": 401,
+            "meters": 367
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_04",
-            "yards": 386,
-            "meters": 353
+            "yards": 398,
+            "meters": 364
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_05",
-            "yards": 366,
-            "meters": 335
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 172,
-            "meters": 157
+            "yards": 188,
+            "meters": 172
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 568,
-            "meters": 519
+            "yards": 551,
+            "meters": 504
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 421,
-            "meters": 385
+            "yards": 415,
+            "meters": 379
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 151,
-            "meters": 138
+            "yards": 143,
+            "meters": 131
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 597,
-            "meters": 546
+            "yards": 445,
+            "meters": 407
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 310,
-            "meters": 283
+            "yards": 315,
+            "meters": 288
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_12",
@@ -558,13 +448,13 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 469,
-            "meters": 429
+            "yards": 507,
+            "meters": 464
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 338,
-            "meters": 309
+            "yards": 346,
+            "meters": 316
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_16",
@@ -578,109 +468,109 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_18",
-            "yards": 620,
-            "meters": 567
+            "yards": 622,
+            "meters": 569
           }
         ]
       },
       {
-        "uuid": "TEE_QAS_USA_ERIN_HILLS_YELLOW",
-        "code": "QAS_USA_ERIN_HILLS_YELLOW",
-        "type": "YELLOW",
-        "displayName": "Yellow",
-        "courseRating": 67.3,
-        "slope": 114,
+        "uuid": "TEE_QAS_USA_ERIN_HILLS_WHITE",
+        "code": "QAS_USA_ERIN_HILLS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.5,
+        "slope": 129,
         "ratings": [
           {
             "playerCategory": "MEN",
-            "courseRating": 67.3,
-            "slopeRating": 114,
-            "ratingPar": 73
+            "courseRating": 70.5,
+            "slopeRating": 129,
+            "ratingPar": 72
           },
           {
             "playerCategory": "WOMEN",
-            "courseRating": 72.1,
-            "slopeRating": 123,
-            "ratingPar": 73
+            "courseRating": 75.5,
+            "slopeRating": 131,
+            "ratingPar": 72
           }
         ],
-        "totalYards": 5631,
-        "totalMeters": 5149,
+        "totalYards": 6233,
+        "totalMeters": 5699,
         "distances": [
           {
             "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 404,
-            "meters": 369
+            "yards": 485,
+            "meters": 443
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 221,
-            "meters": 202
+            "yards": 316,
+            "meters": 289
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 314,
-            "meters": 287
+            "yards": 401,
+            "meters": 367
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_04",
-            "yards": 288,
-            "meters": 263
+            "yards": 385,
+            "meters": 352
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_05",
-            "yards": 322,
-            "meters": 294
+            "yards": 359,
+            "meters": 328
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 122,
-            "meters": 112
+            "yards": 176,
+            "meters": 161
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 472,
-            "meters": 432
+            "yards": 487,
+            "meters": 445
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 367,
-            "meters": 336
+            "yards": 361,
+            "meters": 330
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 141,
-            "meters": 129
+            "yards": 138,
+            "meters": 126
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 572,
-            "meters": 523
+            "yards": 421,
+            "meters": 385
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 248,
-            "meters": 227
+            "yards": 315,
+            "meters": 288
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_12",
-            "yards": 318,
-            "meters": 291
+            "yards": 388,
+            "meters": 355
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_13",
-            "yards": 151,
-            "meters": 138
+            "yards": 170,
+            "meters": 155
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 434,
-            "meters": 397
+            "yards": 473,
+            "meters": 433
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 253,
-            "meters": 231
+            "yards": 288,
+            "meters": 263
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_16",
@@ -689,108 +579,108 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_17",
-            "yards": 322,
-            "meters": 294
+            "yards": 385,
+            "meters": 352
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_18",
-            "yards": 539,
-            "meters": 493
+            "yards": 542,
+            "meters": 496
           }
         ]
       },
       {
-        "uuid": "TEE_QAS_USA_ERIN_HILLS_RED",
-        "code": "QAS_USA_ERIN_HILLS_RED",
-        "type": "RED",
-        "displayName": "Red",
+        "uuid": "TEE_QAS_USA_ERIN_HILLS_GOLD",
+        "code": "QAS_USA_ERIN_HILLS_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
         "courseRating": 69.2,
-        "slope": 116,
+        "slope": 118,
         "ratings": [
           {
             "playerCategory": "WOMEN",
             "courseRating": 69.2,
-            "slopeRating": 116,
-            "ratingPar": 73
+            "slopeRating": 118,
+            "ratingPar": 72
           }
         ],
-        "totalYards": 4810,
-        "totalMeters": 4398,
+        "totalYards": 5082,
+        "totalMeters": 4647,
         "distances": [
           {
             "holeCode": "QAS_USA_ERIN_HILLS_01",
-            "yards": 404,
-            "meters": 369
+            "yards": 386,
+            "meters": 353
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_02",
-            "yards": 211,
-            "meters": 193
+            "yards": 223,
+            "meters": 204
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_03",
-            "yards": 305,
-            "meters": 279
+            "yards": 299,
+            "meters": 273
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_04",
-            "yards": 288,
-            "meters": 263
+            "yards": 280,
+            "meters": 256
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_05",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_06",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_07",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_08",
+            "yards": 239,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_09",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_10",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_11",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_ERIN_HILLS_12",
             "yards": 319,
             "meters": 292
           },
           {
-            "holeCode": "QAS_USA_ERIN_HILLS_06",
-            "yards": 97,
-            "meters": 89
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_07",
-            "yards": 353,
-            "meters": 323
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_08",
-            "yards": 205,
-            "meters": 187
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_09",
-            "yards": 137,
-            "meters": 125
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_10",
-            "yards": 410,
-            "meters": 375
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_11",
-            "yards": 245,
-            "meters": 224
-          },
-          {
-            "holeCode": "QAS_USA_ERIN_HILLS_12",
-            "yards": 312,
-            "meters": 285
-          },
-          {
             "holeCode": "QAS_USA_ERIN_HILLS_13",
-            "yards": 94,
-            "meters": 86
+            "yards": 152,
+            "meters": 139
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_14",
-            "yards": 312,
-            "meters": 285
+            "yards": 438,
+            "meters": 401
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_15",
-            "yards": 249,
-            "meters": 228
+            "yards": 252,
+            "meters": 230
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_16",
@@ -799,8 +689,8 @@
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_17",
-            "yards": 237,
-            "meters": 217
+            "yards": 322,
+            "meters": 294
           },
           {
             "holeCode": "QAS_USA_ERIN_HILLS_18",
@@ -810,6 +700,6 @@
         ]
       }
     ],
-    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
   }
 }

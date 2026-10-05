@@ -1,0 +1,809 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS",
+    "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS",
+    "name": "Atlanta Athletic Club - Highlands Course",
+    "city": "Johns Creek",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/atlanta-athletic-club-highlands (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_BLUE",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.9,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6860,
+        "totalMeters": 6273,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 528,
+            "meters": 483
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_GOLD",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 75.9,
+        "slope": 149,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.9,
+            "slopeRating": 149,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7304,
+        "totalMeters": 6679,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 227,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 557,
+            "meters": 509
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_WHITE",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.3,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.3,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6284,
+        "totalMeters": 5746,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 500,
+            "meters": 457
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_GREEN",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 68.8,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.8,
+            "slopeRating": 127,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5715,
+        "totalMeters": 5226,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 462,
+            "meters": 422
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_BLACK",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 71.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5135,
+        "totalMeters": 4695,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_CHAMP",
+        "code": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_CHAMP",
+        "type": "CHAMP",
+        "displayName": "Champ",
+        "courseRating": 77.0,
+        "slope": 152,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.0,
+            "slopeRating": 152,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7613,
+        "totalMeters": 6961,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_01",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_02",
+            "yards": 543,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_03",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_04",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_05",
+            "yards": 567,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_06",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_07",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_08",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_09",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_10",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_12",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_13",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_14",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_15",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_16",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_17",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_ATLANTA_ATHLETIC_HIGHLANDS_18",
+            "yards": 576,
+            "meters": 527
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

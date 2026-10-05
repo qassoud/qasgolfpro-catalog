@@ -1,0 +1,381 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_PINE_VALLEY_NJ",
+    "code": "QAS_USA_PINE_VALLEY_NJ",
+    "name": "Pine Valley Golf Club",
+    "city": "Pine Valley",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/pine-valley-golf-club-pine-valley (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_01",
+        "code": "QAS_USA_PINE_VALLEY_NJ_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_02",
+        "code": "QAS_USA_PINE_VALLEY_NJ_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_03",
+        "code": "QAS_USA_PINE_VALLEY_NJ_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_04",
+        "code": "QAS_USA_PINE_VALLEY_NJ_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_05",
+        "code": "QAS_USA_PINE_VALLEY_NJ_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_06",
+        "code": "QAS_USA_PINE_VALLEY_NJ_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_07",
+        "code": "QAS_USA_PINE_VALLEY_NJ_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_08",
+        "code": "QAS_USA_PINE_VALLEY_NJ_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_09",
+        "code": "QAS_USA_PINE_VALLEY_NJ_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_10",
+        "code": "QAS_USA_PINE_VALLEY_NJ_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_11",
+        "code": "QAS_USA_PINE_VALLEY_NJ_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_12",
+        "code": "QAS_USA_PINE_VALLEY_NJ_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_13",
+        "code": "QAS_USA_PINE_VALLEY_NJ_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_14",
+        "code": "QAS_USA_PINE_VALLEY_NJ_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_15",
+        "code": "QAS_USA_PINE_VALLEY_NJ_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_16",
+        "code": "QAS_USA_PINE_VALLEY_NJ_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_17",
+        "code": "QAS_USA_PINE_VALLEY_NJ_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINE_VALLEY_NJ_18",
+        "code": "QAS_USA_PINE_VALLEY_NJ_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_PINE_VALLEY_NJ_BACK",
+        "code": "QAS_USA_PINE_VALLEY_NJ_BACK",
+        "type": "BACK",
+        "displayName": "Back",
+        "courseRating": 76.2,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.2,
+            "slopeRating": 155,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.9,
+            "slopeRating": 129,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 7009,
+        "totalMeters": 6409,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_02",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_03",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_04",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_05",
+            "yards": 238,
+            "meters": 218
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_07",
+            "yards": 636,
+            "meters": 582
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_08",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_09",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_10",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_11",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_13",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_14",
+            "yards": 220,
+            "meters": 201
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_15",
+            "yards": 615,
+            "meters": 562
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_16",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_17",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PINE_VALLEY_NJ_REGULAR",
+        "code": "QAS_USA_PINE_VALLEY_NJ_REGULAR",
+        "type": "REGULAR",
+        "displayName": "Regular",
+        "courseRating": 73.5,
+        "slope": 153,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 153,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 121,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6532,
+        "totalMeters": 5973,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_03",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_04",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_05",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_06",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_07",
+            "yards": 573,
+            "meters": 524
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_08",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_09",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_10",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_11",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_12",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_13",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_14",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_15",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_16",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_17",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_PINE_VALLEY_NJ_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

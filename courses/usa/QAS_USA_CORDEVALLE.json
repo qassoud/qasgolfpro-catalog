@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CORDEVALLE",
+    "code": "QAS_USA_CORDEVALLE",
+    "name": "CordeValle Golf Club",
+    "city": "San Martin",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/corde-valle-golf-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_01",
+        "code": "QAS_USA_CORDEVALLE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_02",
+        "code": "QAS_USA_CORDEVALLE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_03",
+        "code": "QAS_USA_CORDEVALLE_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_04",
+        "code": "QAS_USA_CORDEVALLE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_05",
+        "code": "QAS_USA_CORDEVALLE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_06",
+        "code": "QAS_USA_CORDEVALLE_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_07",
+        "code": "QAS_USA_CORDEVALLE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_08",
+        "code": "QAS_USA_CORDEVALLE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_09",
+        "code": "QAS_USA_CORDEVALLE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_10",
+        "code": "QAS_USA_CORDEVALLE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_11",
+        "code": "QAS_USA_CORDEVALLE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_12",
+        "code": "QAS_USA_CORDEVALLE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_13",
+        "code": "QAS_USA_CORDEVALLE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_14",
+        "code": "QAS_USA_CORDEVALLE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_15",
+        "code": "QAS_USA_CORDEVALLE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_16",
+        "code": "QAS_USA_CORDEVALLE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_17",
+        "code": "QAS_USA_CORDEVALLE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CORDEVALLE_18",
+        "code": "QAS_USA_CORDEVALLE_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CORDEVALLE_BLACK",
+        "code": "QAS_USA_CORDEVALLE_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 75.9,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.9,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7360,
+        "totalMeters": 6730,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_01",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_02",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_03",
+            "yards": 605,
+            "meters": 553
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_04",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_05",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_06",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_07",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_08",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_11",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_12",
+            "yards": 230,
+            "meters": 210
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_13",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_14",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_15",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_16",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_17",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_18",
+            "yards": 555,
+            "meters": 507
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CORDEVALLE_BLUE",
+        "code": "QAS_USA_CORDEVALLE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.8,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6810,
+        "totalMeters": 6227,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_02",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_03",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_04",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_06",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_08",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_09",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_11",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_12",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_13",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_15",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_16",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_17",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_18",
+            "yards": 526,
+            "meters": 481
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CORDEVALLE_GREEN",
+        "code": "QAS_USA_CORDEVALLE_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 71.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6482,
+        "totalMeters": 5927,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_01",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_02",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_03",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_06",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_07",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_08",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_09",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_10",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_11",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_12",
+            "yards": 193,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_13",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_14",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_15",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_16",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_17",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_18",
+            "yards": 504,
+            "meters": 461
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CORDEVALLE_WHITE",
+        "code": "QAS_USA_CORDEVALLE_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 75.5,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6010,
+        "totalMeters": 5496,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_02",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_03",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_05",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_06",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_07",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_08",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_09",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_10",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_11",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_12",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_13",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_14",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_15",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_16",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_18",
+            "yards": 481,
+            "meters": 440
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CORDEVALLE_RED",
+        "code": "QAS_USA_CORDEVALLE_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 72.1,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5385,
+        "totalMeters": 4924,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_01",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_02",
+            "yards": 92,
+            "meters": 84
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_03",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_05",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_06",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_07",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_08",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_09",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_11",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_12",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_13",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_15",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_16",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_17",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CORDEVALLE_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

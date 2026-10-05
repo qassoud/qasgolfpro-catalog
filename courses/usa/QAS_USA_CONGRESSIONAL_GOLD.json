@@ -1,0 +1,717 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CONGRESSIONAL_GOLD",
+    "code": "QAS_USA_CONGRESSIONAL_GOLD",
+    "name": "Congressional Country Club - Gold Course",
+    "city": "Bethesda",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/congressional-country-club-gold (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_01",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_02",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_03",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_04",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_05",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_06",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_07",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_08",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_09",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_10",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_11",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_12",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_13",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_14",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_15",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_16",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_17",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONGRESSIONAL_GOLD_18",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_18",
+        "number": 18,
+        "par": 3,
+        "strokeIndex": 16
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CONGRESSIONAL_GOLD_BLUE",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 135,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6844,
+        "totalMeters": 6258,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_01",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_02",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_03",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_04",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_05",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_06",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_07",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_08",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_10",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_11",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_12",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_13",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_14",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_15",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_16",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_18",
+            "yards": 204,
+            "meters": 187
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONGRESSIONAL_GOLD_GOLD",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 71.7,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.7,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6483,
+        "totalMeters": 5928,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_01",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_03",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_05",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_06",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_07",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_08",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_10",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_14",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_16",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_17",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_18",
+            "yards": 174,
+            "meters": 159
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONGRESSIONAL_GOLD_WHITE",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 69.8,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 127,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 142,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6050,
+        "totalMeters": 5532,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_01",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_03",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_04",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_05",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_06",
+            "yards": 503,
+            "meters": 460
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_07",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_08",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_09",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_10",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_11",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_12",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_13",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_14",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_15",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_16",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_17",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_18",
+            "yards": 149,
+            "meters": 136
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONGRESSIONAL_GOLD_RED",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 66.9,
+        "slope": 114,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.9,
+            "slopeRating": 114,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.9,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5403,
+        "totalMeters": 4941,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_01",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_04",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_05",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_06",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_09",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_10",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_11",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_13",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_14",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_15",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_16",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_17",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_18",
+            "yards": 102,
+            "meters": 93
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONGRESSIONAL_GOLD_GREEN",
+        "code": "QAS_USA_CONGRESSIONAL_GOLD_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 65.5,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.5,
+            "slopeRating": 111,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.4,
+            "slopeRating": 117,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5045,
+        "totalMeters": 4613,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_01",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_02",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_03",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_04",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_05",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_06",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_07",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_09",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_10",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_11",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_12",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_13",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_14",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_15",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_16",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_17",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_CONGRESSIONAL_GOLD_18",
+            "yards": 80,
+            "meters": 73
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

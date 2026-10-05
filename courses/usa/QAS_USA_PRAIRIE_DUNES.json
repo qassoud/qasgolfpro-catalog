@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_PRAIRIE_DUNES",
+    "code": "QAS_USA_PRAIRIE_DUNES",
+    "name": "Prairie Dunes Country Club",
+    "city": "Hutchinson",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/prairie-dunes-country-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_01",
+        "code": "QAS_USA_PRAIRIE_DUNES_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_02",
+        "code": "QAS_USA_PRAIRIE_DUNES_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_03",
+        "code": "QAS_USA_PRAIRIE_DUNES_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_04",
+        "code": "QAS_USA_PRAIRIE_DUNES_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_05",
+        "code": "QAS_USA_PRAIRIE_DUNES_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_06",
+        "code": "QAS_USA_PRAIRIE_DUNES_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_07",
+        "code": "QAS_USA_PRAIRIE_DUNES_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_08",
+        "code": "QAS_USA_PRAIRIE_DUNES_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_09",
+        "code": "QAS_USA_PRAIRIE_DUNES_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_10",
+        "code": "QAS_USA_PRAIRIE_DUNES_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_11",
+        "code": "QAS_USA_PRAIRIE_DUNES_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_12",
+        "code": "QAS_USA_PRAIRIE_DUNES_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_13",
+        "code": "QAS_USA_PRAIRIE_DUNES_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_14",
+        "code": "QAS_USA_PRAIRIE_DUNES_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_15",
+        "code": "QAS_USA_PRAIRIE_DUNES_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_16",
+        "code": "QAS_USA_PRAIRIE_DUNES_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_17",
+        "code": "QAS_USA_PRAIRIE_DUNES_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PRAIRIE_DUNES_18",
+        "code": "QAS_USA_PRAIRIE_DUNES_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 14
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_PRAIRIE_DUNES_GOLD",
+        "code": "QAS_USA_PRAIRIE_DUNES_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 75.5,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.5,
+            "slopeRating": 148,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6853,
+        "totalMeters": 6266,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_01",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_03",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_04",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_05",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_06",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_07",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_08",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_09",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_10",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_11",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_13",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_14",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_15",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_16",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_17",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_18",
+            "yards": 390,
+            "meters": 357
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PRAIRIE_DUNES_BLUE",
+        "code": "QAS_USA_PRAIRIE_DUNES_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 74.1,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 144,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6535,
+        "totalMeters": 5976,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_01",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_02",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_03",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_04",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_06",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_07",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_08",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_09",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_10",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_11",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_13",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_15",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_16",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_17",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_18",
+            "yards": 382,
+            "meters": 349
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PRAIRIE_DUNES_WHITE",
+        "code": "QAS_USA_PRAIRIE_DUNES_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.3,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.3,
+            "slopeRating": 141,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6119,
+        "totalMeters": 5595,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_01",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_02",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_03",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_04",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_07",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_08",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_10",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_11",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_12",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_15",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_16",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_17",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_18",
+            "yards": 372,
+            "meters": 340
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PRAIRIE_DUNES_SILVER",
+        "code": "QAS_USA_PRAIRIE_DUNES_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 72.9,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.9,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5604,
+        "totalMeters": 5124,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_03",
+            "yards": 272,
+            "meters": 249
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_04",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_05",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_06",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_08",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_09",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_10",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_11",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_12",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_13",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_14",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_15",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_16",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_17",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_18",
+            "yards": 352,
+            "meters": 322
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PRAIRIE_DUNES_BRONZE",
+        "code": "QAS_USA_PRAIRIE_DUNES_BRONZE",
+        "type": "BRONZE",
+        "displayName": "Bronze",
+        "courseRating": 70.5,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.5,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5239,
+        "totalMeters": 4791,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_02",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_03",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_04",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_06",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_07",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_08",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_09",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_10",
+            "yards": 85,
+            "meters": 78
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_11",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_12",
+            "yards": 249,
+            "meters": 228
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_13",
+            "yards": 276,
+            "meters": 252
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_14",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_15",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_16",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_17",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_PRAIRIE_DUNES_18",
+            "yards": 284,
+            "meters": 260
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CHICAGO_GOLF_CLUB",
+    "code": "QAS_USA_CHICAGO_GOLF_CLUB",
+    "name": "Chicago Golf Club",
+    "city": "Wheaton",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/chicago-golf-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_01",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_02",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_03",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_04",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_05",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_06",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_07",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_08",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_09",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_10",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_11",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_12",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_13",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_14",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_15",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_16",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_17",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHICAGO_GOLF_CLUB_18",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CHICAGO_GOLF_CLUB_WHITE",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.1,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 130,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6574,
+        "totalMeters": 6011,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_02",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_03",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_04",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_05",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_06",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_07",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_08",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_09",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_10",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_11",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_13",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_15",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_16",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_17",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHICAGO_GOLF_CLUB_LADIES",
+        "code": "QAS_USA_CHICAGO_GOLF_CLUB_LADIES",
+        "type": "LADIES",
+        "displayName": "Ladies",
+        "courseRating": 75.4,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6062,
+        "totalMeters": 5543,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_01",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_03",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_04",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_05",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_06",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_07",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_09",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_10",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_11",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_12",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_13",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_15",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_16",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_17",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_CHICAGO_GOLF_CLUB_18",
+            "yards": 415,
+            "meters": 379
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

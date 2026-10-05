@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_OLYMPIC_CLUB_LAKE",
+    "code": "QAS_USA_OLYMPIC_CLUB_LAKE",
+    "name": "The Olympic Club - Lake Course",
+    "city": "San Francisco",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/the-olympic-club-lake (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_01",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_02",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_03",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_04",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_05",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_06",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_07",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_08",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_09",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_10",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_11",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_12",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_13",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_14",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_15",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_16",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_17",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_OLYMPIC_CLUB_LAKE_18",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 12
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_OLYMPIC_CLUB_LAKE_BLACK",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 74.7,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 138,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6934,
+        "totalMeters": 6340,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_01",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_02",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_03",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_05",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_07",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_08",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_11",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_12",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_13",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_14",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_15",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_16",
+            "yards": 609,
+            "meters": 557
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_17",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_18",
+            "yards": 347,
+            "meters": 317
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OLYMPIC_CLUB_LAKE_BLUE",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.5,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 133,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6597,
+        "totalMeters": 6032,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_01",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_02",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_03",
+            "yards": 212,
+            "meters": 194
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_04",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_05",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_06",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_07",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_08",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_09",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_10",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_11",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_12",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_13",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_14",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_15",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_16",
+            "yards": 579,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_17",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_18",
+            "yards": 334,
+            "meters": 305
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OLYMPIC_CLUB_LAKE_WHITE",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 131,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6280,
+        "totalMeters": 5742,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_01",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_03",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_04",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_05",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_06",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_07",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_09",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_10",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_12",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_13",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_14",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_15",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_16",
+            "yards": 562,
+            "meters": 514
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_17",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_18",
+            "yards": 322,
+            "meters": 294
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_OLYMPIC_CLUB_LAKE_GREEN",
+        "code": "QAS_USA_OLYMPIC_CLUB_LAKE_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 72.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5589,
+        "totalMeters": 5111,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_01",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_02",
+            "yards": 286,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_03",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_04",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_05",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_06",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_07",
+            "yards": 241,
+            "meters": 220
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_08",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_09",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_11",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_12",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_13",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_15",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_16",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_17",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_OLYMPIC_CLUB_LAKE_18",
+            "yards": 310,
+            "meters": 283
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

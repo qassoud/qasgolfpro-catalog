@@ -1,0 +1,809 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CROOKED_STICK",
+    "code": "QAS_USA_CROOKED_STICK",
+    "name": "Crooked Stick Golf Club",
+    "city": "Carmel",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/crooked-stick-golf-club (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_01",
+        "code": "QAS_USA_CROOKED_STICK_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_02",
+        "code": "QAS_USA_CROOKED_STICK_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_03",
+        "code": "QAS_USA_CROOKED_STICK_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_04",
+        "code": "QAS_USA_CROOKED_STICK_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_05",
+        "code": "QAS_USA_CROOKED_STICK_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_06",
+        "code": "QAS_USA_CROOKED_STICK_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_07",
+        "code": "QAS_USA_CROOKED_STICK_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_08",
+        "code": "QAS_USA_CROOKED_STICK_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_09",
+        "code": "QAS_USA_CROOKED_STICK_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_10",
+        "code": "QAS_USA_CROOKED_STICK_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_11",
+        "code": "QAS_USA_CROOKED_STICK_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_12",
+        "code": "QAS_USA_CROOKED_STICK_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_13",
+        "code": "QAS_USA_CROOKED_STICK_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_14",
+        "code": "QAS_USA_CROOKED_STICK_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_15",
+        "code": "QAS_USA_CROOKED_STICK_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_16",
+        "code": "QAS_USA_CROOKED_STICK_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_17",
+        "code": "QAS_USA_CROOKED_STICK_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CROOKED_STICK_18",
+        "code": "QAS_USA_CROOKED_STICK_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_BLACK",
+        "code": "QAS_USA_CROOKED_STICK_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 77.7,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.7,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7516,
+        "totalMeters": 6873,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 621,
+            "meters": 568
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 523,
+            "meters": 478
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 457,
+            "meters": 418
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_GOLD",
+        "code": "QAS_USA_CROOKED_STICK_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 76.0,
+        "slope": 141,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.0,
+            "slopeRating": 141,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7159,
+        "totalMeters": 6546,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 597,
+            "meters": 546
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_BLUE",
+        "code": "QAS_USA_CROOKED_STICK_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6620,
+        "totalMeters": 6053,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 591,
+            "meters": 540
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 180,
+            "meters": 165
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_WHITE",
+        "code": "QAS_USA_CROOKED_STICK_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6184,
+        "totalMeters": 5655,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 331,
+            "meters": 303
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_GREEN",
+        "code": "QAS_USA_CROOKED_STICK_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 73.8,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5611,
+        "totalMeters": 5131,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 326,
+            "meters": 298
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CROOKED_STICK_RED",
+        "code": "QAS_USA_CROOKED_STICK_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 71.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5201,
+        "totalMeters": 4756,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_01",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_02",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_03",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_04",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_05",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_06",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_07",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_08",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_12",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_13",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_14",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_16",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_17",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_CROOKED_STICK_18",
+            "yards": 293,
+            "meters": 268
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_BETHPAGE_GREEN",
+    "code": "QAS_USA_BETHPAGE_GREEN",
+    "name": "Bethpage State Park Golf Course - Green Course",
+    "city": "Farmingdale",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "https://www.golfify.io/courses/bethpage-state-park-golf-course-green (full scorecard and published ratings, checked 2026-10-05)",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_01",
+        "code": "QAS_USA_BETHPAGE_GREEN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_02",
+        "code": "QAS_USA_BETHPAGE_GREEN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_03",
+        "code": "QAS_USA_BETHPAGE_GREEN_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_04",
+        "code": "QAS_USA_BETHPAGE_GREEN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_05",
+        "code": "QAS_USA_BETHPAGE_GREEN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_06",
+        "code": "QAS_USA_BETHPAGE_GREEN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_07",
+        "code": "QAS_USA_BETHPAGE_GREEN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_08",
+        "code": "QAS_USA_BETHPAGE_GREEN_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_09",
+        "code": "QAS_USA_BETHPAGE_GREEN_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_10",
+        "code": "QAS_USA_BETHPAGE_GREEN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_11",
+        "code": "QAS_USA_BETHPAGE_GREEN_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_12",
+        "code": "QAS_USA_BETHPAGE_GREEN_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_13",
+        "code": "QAS_USA_BETHPAGE_GREEN_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_14",
+        "code": "QAS_USA_BETHPAGE_GREEN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_15",
+        "code": "QAS_USA_BETHPAGE_GREEN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_16",
+        "code": "QAS_USA_BETHPAGE_GREEN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_17",
+        "code": "QAS_USA_BETHPAGE_GREEN_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_BETHPAGE_GREEN_18",
+        "code": "QAS_USA_BETHPAGE_GREEN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_BETHPAGE_GREEN_BLUE",
+        "code": "QAS_USA_BETHPAGE_GREEN_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 70.2,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6378,
+        "totalMeters": 5832,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_01",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_02",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_03",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_04",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_06",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_07",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_08",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_09",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_10",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_11",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_12",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_13",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_15",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_16",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_17",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_BETHPAGE_GREEN_WHITE",
+        "code": "QAS_USA_BETHPAGE_GREEN_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 68.9,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 127,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.3,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6096,
+        "totalMeters": 5574,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_01",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_02",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_03",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_04",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_05",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_06",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_07",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_08",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_09",
+            "yards": 532,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_10",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_12",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_13",
+            "yards": 553,
+            "meters": 506
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_14",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_15",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_16",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_18",
+            "yards": 386,
+            "meters": 353
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_BETHPAGE_GREEN_RED",
+        "code": "QAS_USA_BETHPAGE_GREEN_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 67.6,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.6,
+            "slopeRating": 123,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 126,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5796,
+        "totalMeters": 5300,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_02",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_03",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_04",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_05",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_06",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_07",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_08",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_09",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_10",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_12",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_13",
+            "yards": 494,
+            "meters": 452
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_14",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_15",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_16",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_17",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_BETHPAGE_GREEN_18",
+            "yards": 368,
+            "meters": 336
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only distinct physical tee sets are included. Duplicate women/men rows at the same physical tee are merged into one tee with category-specific ratings; explicit blended/combo tee rows are excluded. QasGolfPro stores one main hole par/stroke-index row; the main/men row is retained where a separate women row exists."
+  }
+}
