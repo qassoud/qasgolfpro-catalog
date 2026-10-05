@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SEMINOLE_GC",
+    "code": "QAS_USA_SEMINOLE_GC",
+    "name": "Seminole Golf Club",
+    "city": "Juno Beach",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify hole-by-hole scorecard + Florida State Golf Association current 18-hole Course Rating/Slope; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_01",
+        "code": "QAS_USA_SEMINOLE_GC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_02",
+        "code": "QAS_USA_SEMINOLE_GC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_03",
+        "code": "QAS_USA_SEMINOLE_GC_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_04",
+        "code": "QAS_USA_SEMINOLE_GC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_05",
+        "code": "QAS_USA_SEMINOLE_GC_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_06",
+        "code": "QAS_USA_SEMINOLE_GC_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_07",
+        "code": "QAS_USA_SEMINOLE_GC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_08",
+        "code": "QAS_USA_SEMINOLE_GC_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_09",
+        "code": "QAS_USA_SEMINOLE_GC_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_10",
+        "code": "QAS_USA_SEMINOLE_GC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_11",
+        "code": "QAS_USA_SEMINOLE_GC_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_12",
+        "code": "QAS_USA_SEMINOLE_GC_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_13",
+        "code": "QAS_USA_SEMINOLE_GC_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_14",
+        "code": "QAS_USA_SEMINOLE_GC_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_15",
+        "code": "QAS_USA_SEMINOLE_GC_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_16",
+        "code": "QAS_USA_SEMINOLE_GC_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_17",
+        "code": "QAS_USA_SEMINOLE_GC_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SEMINOLE_GC_18",
+        "code": "QAS_USA_SEMINOLE_GC_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SEMINOLE_GC_GOLD",
+        "code": "QAS_USA_SEMINOLE_GC_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 75.4,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.4,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6836,
+        "totalMeters": 6250,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_03",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_04",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_05",
+            "yards": 207,
+            "meters": 189
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_06",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_07",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_08",
+            "yards": 235,
+            "meters": 215
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_09",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_13",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_14",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_15",
+            "yards": 497,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_16",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SEMINOLE_GC_BLUE",
+        "code": "QAS_USA_SEMINOLE_GC_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.4,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6593,
+        "totalMeters": 6027,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_01",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_02",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_03",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_05",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_06",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_07",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_08",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_09",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_10",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_11",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_12",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_13",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_14",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_15",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_16",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_18",
+            "yards": 398,
+            "meters": 364
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SEMINOLE_GC_WHITE",
+        "code": "QAS_USA_SEMINOLE_GC_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 69.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.7,
+            "slopeRating": 129,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 142,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6009,
+        "totalMeters": 5495,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_01",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_02",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_03",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_05",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_06",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_07",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_08",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_10",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_11",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_12",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_13",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_14",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_15",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_16",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_17",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_18",
+            "yards": 369,
+            "meters": 337
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SEMINOLE_GC_RED",
+        "code": "QAS_USA_SEMINOLE_GC_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 67.2,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.2,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.6,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5583,
+        "totalMeters": 5103,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_01",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_02",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_03",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_04",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_05",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_06",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_07",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_08",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_09",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_10",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_11",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_12",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_13",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_14",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_17",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_SEMINOLE_GC_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

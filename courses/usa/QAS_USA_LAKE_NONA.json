@@ -1,0 +1,479 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_LAKE_NONA",
+    "code": "QAS_USA_LAKE_NONA",
+    "name": "Lake Nona Golf & Country Club",
+    "city": "Orlando",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_01",
+        "code": "QAS_USA_LAKE_NONA_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_02",
+        "code": "QAS_USA_LAKE_NONA_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_03",
+        "code": "QAS_USA_LAKE_NONA_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_04",
+        "code": "QAS_USA_LAKE_NONA_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_05",
+        "code": "QAS_USA_LAKE_NONA_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_06",
+        "code": "QAS_USA_LAKE_NONA_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_07",
+        "code": "QAS_USA_LAKE_NONA_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_08",
+        "code": "QAS_USA_LAKE_NONA_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_09",
+        "code": "QAS_USA_LAKE_NONA_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_10",
+        "code": "QAS_USA_LAKE_NONA_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_11",
+        "code": "QAS_USA_LAKE_NONA_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_12",
+        "code": "QAS_USA_LAKE_NONA_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_13",
+        "code": "QAS_USA_LAKE_NONA_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_14",
+        "code": "QAS_USA_LAKE_NONA_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_15",
+        "code": "QAS_USA_LAKE_NONA_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_16",
+        "code": "QAS_USA_LAKE_NONA_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_17",
+        "code": "QAS_USA_LAKE_NONA_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_LAKE_NONA_18",
+        "code": "QAS_USA_LAKE_NONA_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_LAKE_NONA_PRO",
+        "code": "QAS_USA_LAKE_NONA_PRO",
+        "type": "PRO",
+        "displayName": "Pro",
+        "courseRating": 74.1,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7200,
+        "totalMeters": 6583,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_01",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_02",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_03",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_04",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_05",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_06",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_07",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_09",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_10",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_11",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_12",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_13",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_14",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_15",
+            "yards": 578,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_16",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_17",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_18",
+            "yards": 440,
+            "meters": 402
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_LAKE_NONA_MENS",
+        "code": "QAS_USA_LAKE_NONA_MENS",
+        "type": "MENS",
+        "displayName": "Mens",
+        "courseRating": 71.2,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6366,
+        "totalMeters": 5821,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_01",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_02",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_03",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_04",
+            "yards": 149,
+            "meters": 136
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_05",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_06",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_07",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_08",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_09",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_10",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_11",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_12",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_13",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_14",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_15",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_16",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_18",
+            "yards": 393,
+            "meters": 359
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_LAKE_NONA_LADIES",
+        "code": "QAS_USA_LAKE_NONA_LADIES",
+        "type": "LADIES",
+        "displayName": "Ladies",
+        "courseRating": 72.0,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.0,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5389,
+        "totalMeters": 4926,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_01",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_02",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_03",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_04",
+            "yards": 95,
+            "meters": 87
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_05",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_07",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_08",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_09",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_11",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_12",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_13",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_14",
+            "yards": 253,
+            "meters": 231
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_15",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_16",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_17",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_LAKE_NONA_18",
+            "yards": 311,
+            "meters": 284
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

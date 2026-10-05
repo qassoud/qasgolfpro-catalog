@@ -1,0 +1,491 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_WINGED_FOOT_WEST",
+    "code": "QAS_USA_WINGED_FOOT_WEST",
+    "name": "Winged Foot Country Club - West Course",
+    "city": "Mamaroneck",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; ladies ratings merged onto same physical tee; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_01",
+        "code": "QAS_USA_WINGED_FOOT_WEST_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_02",
+        "code": "QAS_USA_WINGED_FOOT_WEST_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_03",
+        "code": "QAS_USA_WINGED_FOOT_WEST_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_04",
+        "code": "QAS_USA_WINGED_FOOT_WEST_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_05",
+        "code": "QAS_USA_WINGED_FOOT_WEST_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_06",
+        "code": "QAS_USA_WINGED_FOOT_WEST_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_07",
+        "code": "QAS_USA_WINGED_FOOT_WEST_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_08",
+        "code": "QAS_USA_WINGED_FOOT_WEST_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_09",
+        "code": "QAS_USA_WINGED_FOOT_WEST_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_10",
+        "code": "QAS_USA_WINGED_FOOT_WEST_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_11",
+        "code": "QAS_USA_WINGED_FOOT_WEST_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_12",
+        "code": "QAS_USA_WINGED_FOOT_WEST_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_13",
+        "code": "QAS_USA_WINGED_FOOT_WEST_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_14",
+        "code": "QAS_USA_WINGED_FOOT_WEST_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_15",
+        "code": "QAS_USA_WINGED_FOOT_WEST_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_16",
+        "code": "QAS_USA_WINGED_FOOT_WEST_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_17",
+        "code": "QAS_USA_WINGED_FOOT_WEST_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_WINGED_FOOT_WEST_18",
+        "code": "QAS_USA_WINGED_FOOT_WEST_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_WINGED_FOOT_WEST_BLUE",
+        "code": "QAS_USA_WINGED_FOOT_WEST_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 74.9,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7258,
+        "totalMeters": 6635,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_01",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_02",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_03",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_04",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_05",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_06",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_07",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_08",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_09",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_10",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_11",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_12",
+            "yards": 630,
+            "meters": 576
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_13",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_14",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_15",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_16",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_17",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_18",
+            "yards": 452,
+            "meters": 413
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WINGED_FOOT_WEST_BLACK",
+        "code": "QAS_USA_WINGED_FOOT_WEST_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 73.1,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 136,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.9,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6928,
+        "totalMeters": 6335,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_01",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_03",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_04",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_05",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_07",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_08",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_09",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_10",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_11",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_12",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_13",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_14",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_16",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_17",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_18",
+            "yards": 430,
+            "meters": 393
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_WINGED_FOOT_WEST_WHITE",
+        "code": "QAS_USA_WINGED_FOOT_WEST_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.4,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.1,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6592,
+        "totalMeters": 6027,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_03",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_04",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_05",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_06",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_07",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_08",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_09",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_10",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_12",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_13",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_14",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_15",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_16",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_17",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_WINGED_FOOT_WEST_18",
+            "yards": 409,
+            "meters": 374
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

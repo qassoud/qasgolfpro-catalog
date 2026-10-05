@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CHERRY_HILLS_EIGHTEEN",
+    "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN",
+    "name": "Cherry Hills Country Club - Eighteen",
+    "city": "Englewood",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CHERRY_HILLS_EIGHTEEN_CHAMPIONSHIP",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 74.7,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7348,
+        "totalMeters": 6716,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+            "yards": 487,
+            "meters": 445
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHERRY_HILLS_EIGHTEEN_BACK",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_BACK",
+        "type": "BACK",
+        "displayName": "Back",
+        "courseRating": 73.4,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7023,
+        "totalMeters": 6421,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+            "yards": 214,
+            "meters": 196
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+            "yards": 487,
+            "meters": 445
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHERRY_HILLS_EIGHTEEN_MEMBER",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_MEMBER",
+        "type": "MEMBER",
+        "displayName": "Member",
+        "courseRating": 71.8,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6698,
+        "totalMeters": 6124,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+            "yards": 458,
+            "meters": 419
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHERRY_HILLS_EIGHTEEN_REGULAR",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_REGULAR",
+        "type": "REGULAR",
+        "displayName": "Regular",
+        "courseRating": 70.5,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6481,
+        "totalMeters": 5927,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+            "yards": 172,
+            "meters": 157
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+            "yards": 449,
+            "meters": 411
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHERRY_HILLS_EIGHTEEN_FORWARD",
+        "code": "QAS_USA_CHERRY_HILLS_EIGHTEEN_FORWARD",
+        "type": "FORWARD",
+        "displayName": "Forward",
+        "courseRating": 73.2,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.2,
+            "slopeRating": 140,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5793,
+        "totalMeters": 5297,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_01",
+            "yards": 288,
+            "meters": 263
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_02",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_03",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_04",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_05",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_06",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_07",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_08",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_09",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_10",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_11",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_13",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_14",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_15",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_16",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_17",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_CHERRY_HILLS_EIGHTEEN_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

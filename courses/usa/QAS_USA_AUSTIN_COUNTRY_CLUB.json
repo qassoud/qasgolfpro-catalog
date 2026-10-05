@@ -1,0 +1,919 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_AUSTIN_COUNTRY_CLUB",
+    "code": "QAS_USA_AUSTIN_COUNTRY_CLUB",
+    "name": "Austin Country Club",
+    "city": "Austin",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_HARVEY",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_HARVEY",
+        "type": "HARVEY",
+        "displayName": "Harvey",
+        "courseRating": 75.2,
+        "slope": 152,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.2,
+            "slopeRating": 152,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7062,
+        "totalMeters": 6457,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 194,
+            "meters": 177
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 578,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 490,
+            "meters": 448
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_GOLD",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 73.1,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.1,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6582,
+        "totalMeters": 6018,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_BLUE",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 70.5,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.5,
+            "slopeRating": 136,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6047,
+        "totalMeters": 5531,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_GREEN",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 66.7,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.7,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5066,
+        "totalMeters": 4631,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 304,
+            "meters": 278
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 232,
+            "meters": 212
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 99,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 122,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_WHITE",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 74.3,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.3,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6821,
+        "totalMeters": 6236,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 578,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 565,
+            "meters": 517
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 585,
+            "meters": 535
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_RED",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 71.4,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.4,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6291,
+        "totalMeters": 5753,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 477,
+            "meters": 436
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 433,
+            "meters": 396
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_AUSTIN_COUNTRY_CLUB_YELLOW",
+        "code": "QAS_USA_AUSTIN_COUNTRY_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Yellow",
+        "courseRating": 67.7,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.7,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5523,
+        "totalMeters": 5050,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_02",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_03",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_04",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_05",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_06",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_07",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_08",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_09",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_10",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_11",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_12",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_13",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_14",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_15",
+            "yards": 534,
+            "meters": 488
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_17",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_AUSTIN_COUNTRY_CLUB_18",
+            "yards": 351,
+            "meters": 321
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

@@ -1,0 +1,491 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_MERION_EAST",
+    "code": "QAS_USA_MERION_EAST",
+    "name": "Merion Golf Club - East Course",
+    "city": "Ardmore",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; ladies ratings merged onto same physical tee; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_01",
+        "code": "QAS_USA_MERION_EAST_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_02",
+        "code": "QAS_USA_MERION_EAST_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_03",
+        "code": "QAS_USA_MERION_EAST_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_04",
+        "code": "QAS_USA_MERION_EAST_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_05",
+        "code": "QAS_USA_MERION_EAST_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_06",
+        "code": "QAS_USA_MERION_EAST_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_07",
+        "code": "QAS_USA_MERION_EAST_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_08",
+        "code": "QAS_USA_MERION_EAST_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_09",
+        "code": "QAS_USA_MERION_EAST_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_10",
+        "code": "QAS_USA_MERION_EAST_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_11",
+        "code": "QAS_USA_MERION_EAST_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_12",
+        "code": "QAS_USA_MERION_EAST_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_13",
+        "code": "QAS_USA_MERION_EAST_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_14",
+        "code": "QAS_USA_MERION_EAST_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_15",
+        "code": "QAS_USA_MERION_EAST_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_16",
+        "code": "QAS_USA_MERION_EAST_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_17",
+        "code": "QAS_USA_MERION_EAST_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MERION_EAST_18",
+        "code": "QAS_USA_MERION_EAST_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_MERION_EAST_BACK",
+        "code": "QAS_USA_MERION_EAST_BACK",
+        "type": "BACK",
+        "displayName": "Back",
+        "courseRating": 73.5,
+        "slope": 149,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.5,
+            "slopeRating": 149,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6592,
+        "totalMeters": 6026,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MERION_EAST_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_02",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_03",
+            "yards": 219,
+            "meters": 200
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_04",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_05",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_06",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_07",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_08",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_09",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_10",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_11",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_12",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_13",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_14",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_15",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_16",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_17",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_18",
+            "yards": 463,
+            "meters": 423
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MERION_EAST_WHITE",
+        "code": "QAS_USA_MERION_EAST_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.6,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 144,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.6,
+            "slopeRating": 155,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6103,
+        "totalMeters": 5581,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MERION_EAST_01",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_02",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_03",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_04",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_07",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_08",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_09",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_10",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_11",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_12",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_13",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_14",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_15",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_16",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_17",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_18",
+            "yards": 411,
+            "meters": 376
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MERION_EAST_RED",
+        "code": "QAS_USA_MERION_EAST_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 69.9,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 140,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.8,
+            "slopeRating": 152,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5807,
+        "totalMeters": 5311,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MERION_EAST_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_02",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_03",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_04",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_05",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_06",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_07",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_08",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_09",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_10",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_11",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_12",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_13",
+            "yards": 114,
+            "meters": 104
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_14",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_16",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_17",
+            "yards": 197,
+            "meters": 180
+          },
+          {
+            "holeCode": "QAS_USA_MERION_EAST_18",
+            "yards": 395,
+            "meters": 361
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

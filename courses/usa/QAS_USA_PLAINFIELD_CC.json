@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_PLAINFIELD_CC",
+    "code": "QAS_USA_PLAINFIELD_CC",
+    "name": "Plainfield Country Club",
+    "city": "Edison",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; ladies ratings merged onto physical Hillside/Calkins tees; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_01",
+        "code": "QAS_USA_PLAINFIELD_CC_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_02",
+        "code": "QAS_USA_PLAINFIELD_CC_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_03",
+        "code": "QAS_USA_PLAINFIELD_CC_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_04",
+        "code": "QAS_USA_PLAINFIELD_CC_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_05",
+        "code": "QAS_USA_PLAINFIELD_CC_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_06",
+        "code": "QAS_USA_PLAINFIELD_CC_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_07",
+        "code": "QAS_USA_PLAINFIELD_CC_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_08",
+        "code": "QAS_USA_PLAINFIELD_CC_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_09",
+        "code": "QAS_USA_PLAINFIELD_CC_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_10",
+        "code": "QAS_USA_PLAINFIELD_CC_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_11",
+        "code": "QAS_USA_PLAINFIELD_CC_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_12",
+        "code": "QAS_USA_PLAINFIELD_CC_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_13",
+        "code": "QAS_USA_PLAINFIELD_CC_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_14",
+        "code": "QAS_USA_PLAINFIELD_CC_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_15",
+        "code": "QAS_USA_PLAINFIELD_CC_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_16",
+        "code": "QAS_USA_PLAINFIELD_CC_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_17",
+        "code": "QAS_USA_PLAINFIELD_CC_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PLAINFIELD_CC_18",
+        "code": "QAS_USA_PLAINFIELD_CC_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_PLAINFIELD_CC_CHAMPIONSHIP",
+        "code": "QAS_USA_PLAINFIELD_CC_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 75.3,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.3,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7091,
+        "totalMeters": 6483,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_02",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_03",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_04",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_05",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_07",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_08",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_09",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_10",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_11",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_12",
+            "yards": 588,
+            "meters": 538
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_13",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_14",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_16",
+            "yards": 582,
+            "meters": 532
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_17",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_18",
+            "yards": 407,
+            "meters": 372
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PLAINFIELD_CC_PLAINFIELD",
+        "code": "QAS_USA_PLAINFIELD_CC_PLAINFIELD",
+        "type": "PLAINFIELD",
+        "displayName": "Plainfield",
+        "courseRating": 73.0,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6616,
+        "totalMeters": 6050,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_05",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_07",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_08",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_09",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_11",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_12",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_13",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_14",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_16",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_17",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_18",
+            "yards": 380,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PLAINFIELD_CC_ROSS",
+        "code": "QAS_USA_PLAINFIELD_CC_ROSS",
+        "type": "ROSS",
+        "displayName": "Ross",
+        "courseRating": 72.4,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6434,
+        "totalMeters": 5884,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_01",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_03",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_04",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_05",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_06",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_07",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_08",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_09",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_10",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_11",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_12",
+            "yards": 555,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_13",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_16",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_17",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_18",
+            "yards": 356,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PLAINFIELD_CC_HILLSIDE",
+        "code": "QAS_USA_PLAINFIELD_CC_HILLSIDE",
+        "type": "HILLSIDE",
+        "displayName": "Hillside",
+        "courseRating": 71.1,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 134,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 78.4,
+            "slopeRating": 149,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6205,
+        "totalMeters": 5674,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_03",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_04",
+            "yards": 268,
+            "meters": 245
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_05",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_06",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_07",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_08",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_09",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_10",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_11",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_12",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_13",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_14",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_15",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_16",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_17",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_18",
+            "yards": 356,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PLAINFIELD_CC_CALKINS",
+        "code": "QAS_USA_PLAINFIELD_CC_CALKINS",
+        "type": "CALKINS",
+        "displayName": "Calkins",
+        "courseRating": 68.4,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.4,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.5,
+            "slopeRating": 142,
+            "ratingPar": 74
+          }
+        ],
+        "totalYards": 5637,
+        "totalMeters": 5154,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_01",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_03",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_04",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_05",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_06",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_07",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_08",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_09",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_10",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_11",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_12",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_13",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_14",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_15",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_16",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_17",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_PLAINFIELD_CC_18",
+            "yards": 339,
+            "meters": 310
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

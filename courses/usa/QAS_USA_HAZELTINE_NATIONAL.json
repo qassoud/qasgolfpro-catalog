@@ -1,0 +1,809 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_HAZELTINE_NATIONAL",
+    "code": "QAS_USA_HAZELTINE_NATIONAL",
+    "name": "Hazeltine National Golf Club",
+    "city": "Chaska",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_01",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_02",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_03",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_04",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_05",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_06",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_07",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_08",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_09",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_10",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_11",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_12",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_13",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_14",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_15",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_16",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_17",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_HAZELTINE_NATIONAL_18",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_TOURNAMENT",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 78.0,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 78.0,
+            "slopeRating": 155,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7674,
+        "totalMeters": 7017,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 633,
+            "meters": 579
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 448,
+            "meters": 410
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 606,
+            "meters": 554
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 642,
+            "meters": 587
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 475,
+            "meters": 434
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_BLUE",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 75.6,
+        "slope": 152,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.6,
+            "slopeRating": 152,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7124,
+        "totalMeters": 6515,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 543,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 204,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_GOLD",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 73.4,
+        "slope": 148,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6720,
+        "totalMeters": 6145,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 432,
+            "meters": 395
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_WHITE",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.4,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.4,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6236,
+        "totalMeters": 5701,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 368,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 376,
+            "meters": 344
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_RED",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 74.5,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.5,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5683,
+        "totalMeters": 5196,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 348,
+            "meters": 318
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 112,
+            "meters": 102
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 348,
+            "meters": 318
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_HAZELTINE_NATIONAL_BLACK",
+        "code": "QAS_USA_HAZELTINE_NATIONAL_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 71.2,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5129,
+        "totalMeters": 4692,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_01",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_02",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_03",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_04",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_05",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_06",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_07",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_08",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_09",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_10",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_11",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_13",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_14",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_15",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_16",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_17",
+            "yards": 108,
+            "meters": 99
+          },
+          {
+            "holeCode": "QAS_USA_HAZELTINE_NATIONAL_18",
+            "yards": 306,
+            "meters": 280
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

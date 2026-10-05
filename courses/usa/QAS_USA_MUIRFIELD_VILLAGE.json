@@ -1,0 +1,821 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_MUIRFIELD_VILLAGE",
+    "code": "QAS_USA_MUIRFIELD_VILLAGE",
+    "name": "Muirfield Village Golf Club",
+    "city": "Dublin",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard and ratings; ladies ratings merged onto same physical tee; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_01",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_02",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_03",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_04",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_05",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_06",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_07",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_08",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_09",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_10",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_11",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_12",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_13",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_14",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_15",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_16",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_17",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MUIRFIELD_VILLAGE_18",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 5
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_MEMORIAL",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_MEMORIAL",
+        "type": "MEMORIAL",
+        "displayName": "Memorial",
+        "courseRating": 76.8,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.8,
+            "slopeRating": 155,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7392,
+        "totalMeters": 6761,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 563,
+            "meters": 515
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 567,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 484,
+            "meters": 443
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_BLUE",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.8,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6729,
+        "totalMeters": 6152,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 548,
+            "meters": 501
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 522,
+            "meters": 477
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_WHITE",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 71.8,
+        "slope": 147,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 147,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 77.7,
+            "slopeRating": 148,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6296,
+        "totalMeters": 5759,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 143,
+            "meters": 131
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 386,
+            "meters": 353
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_GREEN",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 70.8,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.8,
+            "slopeRating": 146,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.7,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6096,
+        "totalMeters": 5575,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_GREY",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_GREY",
+        "type": "GREY",
+        "displayName": "Grey",
+        "courseRating": 69.8,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5876,
+        "totalMeters": 5374,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 355,
+            "meters": 325
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MUIRFIELD_VILLAGE_RED",
+        "code": "QAS_USA_MUIRFIELD_VILLAGE_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 73.5,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5590,
+        "totalMeters": 5112,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_02",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_03",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_04",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_06",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_07",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_08",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_09",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_10",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_11",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_12",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_14",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_15",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_16",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_17",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_MUIRFIELD_VILLAGE_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}

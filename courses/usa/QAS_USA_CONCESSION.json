@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CONCESSION",
+    "code": "QAS_USA_CONCESSION",
+    "name": "The Concession Golf Club",
+    "city": "Bradenton",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify current full scorecard/ratings, corroborated by All Golf Holes; Alt Red setup excluded as alternate/non-physical; checked 2026-10-05",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_01",
+        "code": "QAS_USA_CONCESSION_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_02",
+        "code": "QAS_USA_CONCESSION_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_03",
+        "code": "QAS_USA_CONCESSION_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_04",
+        "code": "QAS_USA_CONCESSION_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_05",
+        "code": "QAS_USA_CONCESSION_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_06",
+        "code": "QAS_USA_CONCESSION_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_07",
+        "code": "QAS_USA_CONCESSION_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_08",
+        "code": "QAS_USA_CONCESSION_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_09",
+        "code": "QAS_USA_CONCESSION_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_10",
+        "code": "QAS_USA_CONCESSION_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_11",
+        "code": "QAS_USA_CONCESSION_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_12",
+        "code": "QAS_USA_CONCESSION_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_13",
+        "code": "QAS_USA_CONCESSION_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_14",
+        "code": "QAS_USA_CONCESSION_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_15",
+        "code": "QAS_USA_CONCESSION_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_16",
+        "code": "QAS_USA_CONCESSION_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_17",
+        "code": "QAS_USA_CONCESSION_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CONCESSION_18",
+        "code": "QAS_USA_CONCESSION_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CONCESSION_BLACK",
+        "code": "QAS_USA_CONCESSION_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 77.6,
+        "slope": 155,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.6,
+            "slopeRating": 155,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7470,
+        "totalMeters": 6829,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONCESSION_01",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_02",
+            "yards": 476,
+            "meters": 435
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_03",
+            "yards": 577,
+            "meters": 528
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_04",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_05",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_07",
+            "yards": 606,
+            "meters": 554
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_08",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_10",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_11",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_12",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_13",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_14",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_15",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_16",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_17",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_18",
+            "yards": 486,
+            "meters": 444
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONCESSION_GOLD",
+        "code": "QAS_USA_CONCESSION_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.6,
+        "slope": 150,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.6,
+            "slopeRating": 150,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6996,
+        "totalMeters": 6399,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONCESSION_01",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_02",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_03",
+            "yards": 572,
+            "meters": 523
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_04",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_05",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_06",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_07",
+            "yards": 547,
+            "meters": 500
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_08",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_09",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_10",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_11",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_12",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_13",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_14",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_15",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_16",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_17",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONCESSION_BLUE",
+        "code": "QAS_USA_CONCESSION_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.7,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.7,
+            "slopeRating": 146,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6440,
+        "totalMeters": 5889,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONCESSION_01",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_02",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_03",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_04",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_05",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_06",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_07",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_08",
+            "yards": 322,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_10",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_11",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_12",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_13",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_14",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_15",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_16",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_17",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONCESSION_WHITE",
+        "code": "QAS_USA_CONCESSION_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 69.6,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.6,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5909,
+        "totalMeters": 5401,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONCESSION_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_02",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_03",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_05",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_06",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_07",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_08",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_09",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_10",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_11",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_13",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_14",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_15",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_16",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_17",
+            "yards": 492,
+            "meters": 450
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_18",
+            "yards": 356,
+            "meters": 326
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CONCESSION_GREEN",
+        "code": "QAS_USA_CONCESSION_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 69.7,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.7,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5019,
+        "totalMeters": 4591,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CONCESSION_01",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_02",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_03",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_04",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_05",
+            "yards": 270,
+            "meters": 247
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_06",
+            "yards": 123,
+            "meters": 112
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_07",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_08",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_09",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_10",
+            "yards": 262,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_11",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_12",
+            "yards": 251,
+            "meters": 230
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_13",
+            "yards": 426,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_14",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_15",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_16",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_17",
+            "yards": 468,
+            "meters": 428
+          },
+          {
+            "holeCode": "QAS_USA_CONCESSION_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      }
+    ],
+    "dataNote": "Physical tee sets only. Explicit combo/blended/alternate rows are excluded. Where both MEN and WOMEN ratings are published for the same physical tee, both are stored in ratings. The course-level hole par/stroke-index row follows the principal/men scorecard row, while ratingPar preserves published gender-specific par where different."
+  }
+}
