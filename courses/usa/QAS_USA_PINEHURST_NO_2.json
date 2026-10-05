@@ -1,0 +1,717 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_PINEHURST_NO_2",
+    "code": "QAS_USA_PINEHURST_NO_2",
+    "name": "Pinehurst Resort - No. 2",
+    "city": "Pinehurst",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/pinehurst-resort-country-club-2",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_01",
+        "code": "QAS_USA_PINEHURST_NO_2_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_02",
+        "code": "QAS_USA_PINEHURST_NO_2_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_03",
+        "code": "QAS_USA_PINEHURST_NO_2_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_04",
+        "code": "QAS_USA_PINEHURST_NO_2_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_05",
+        "code": "QAS_USA_PINEHURST_NO_2_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_06",
+        "code": "QAS_USA_PINEHURST_NO_2_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_07",
+        "code": "QAS_USA_PINEHURST_NO_2_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_08",
+        "code": "QAS_USA_PINEHURST_NO_2_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_09",
+        "code": "QAS_USA_PINEHURST_NO_2_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_10",
+        "code": "QAS_USA_PINEHURST_NO_2_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_11",
+        "code": "QAS_USA_PINEHURST_NO_2_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_12",
+        "code": "QAS_USA_PINEHURST_NO_2_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_13",
+        "code": "QAS_USA_PINEHURST_NO_2_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_14",
+        "code": "QAS_USA_PINEHURST_NO_2_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_15",
+        "code": "QAS_USA_PINEHURST_NO_2_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_16",
+        "code": "QAS_USA_PINEHURST_NO_2_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_17",
+        "code": "QAS_USA_PINEHURST_NO_2_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_PINEHURST_NO_2_18",
+        "code": "QAS_USA_PINEHURST_NO_2_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_PINEHURST_NO_2_U_S_OPEN",
+        "code": "QAS_USA_PINEHURST_NO_2_U_S_OPEN",
+        "type": "U_S_OPEN",
+        "displayName": "U.S. Open",
+        "courseRating": 76.5,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 76.5,
+            "slopeRating": 138,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 7588,
+        "totalMeters": 6938,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_02",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_03",
+            "yards": 387,
+            "meters": 354
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_04",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_05",
+            "yards": 576,
+            "meters": 527
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_06",
+            "yards": 242,
+            "meters": 221
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_07",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_08",
+            "yards": 502,
+            "meters": 459
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_09",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_10",
+            "yards": 617,
+            "meters": 564
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_11",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_12",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_13",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_14",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_15",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_16",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_17",
+            "yards": 205,
+            "meters": 187
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_18",
+            "yards": 451,
+            "meters": 412
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PINEHURST_NO_2_BLUE",
+        "code": "QAS_USA_PINEHURST_NO_2_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 73.7,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.7,
+            "slopeRating": 133,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6961,
+        "totalMeters": 6365,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_01",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_02",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_05",
+            "yards": 508,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_06",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_08",
+            "yards": 469,
+            "meters": 429
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_09",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_10",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_11",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_13",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_14",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_15",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_16",
+            "yards": 513,
+            "meters": 469
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_17",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_18",
+            "yards": 415,
+            "meters": 379
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PINEHURST_NO_2_WHITE",
+        "code": "QAS_USA_PINEHURST_NO_2_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 72.0,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 139,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.6,
+            "slopeRating": 137,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6307,
+        "totalMeters": 5767,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_01",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_02",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_03",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_04",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_05",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_06",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_07",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_08",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_09",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_10",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_12",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_13",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_14",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_15",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_16",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_17",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PINEHURST_NO_2_GREEN",
+        "code": "QAS_USA_PINEHURST_NO_2_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 68.2,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.2,
+            "slopeRating": 123,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 130,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5801,
+        "totalMeters": 5304,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_01",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_02",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_03",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_04",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_05",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_07",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_08",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_09",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_10",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_11",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_12",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_13",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_14",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_15",
+            "yards": 153,
+            "meters": 140
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_16",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_PINEHURST_NO_2_RED",
+        "code": "QAS_USA_PINEHURST_NO_2_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 65.2,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.2,
+            "slopeRating": 117,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.0,
+            "slopeRating": 126,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5257,
+        "totalMeters": 4807,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_01",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_02",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_03",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_04",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_05",
+            "yards": 274,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_06",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_07",
+            "yards": 306,
+            "meters": 280
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_08",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_09",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_11",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_12",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_13",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_14",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_15",
+            "yards": 124,
+            "meters": 113
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_16",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_17",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_PINEHURST_NO_2_18",
+            "yards": 329,
+            "meters": 301
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

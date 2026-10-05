@@ -1,0 +1,369 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_MEDINAH_NO_3",
+    "code": "QAS_USA_MEDINAH_NO_3",
+    "name": "Medinah Country Club - Course No. 3",
+    "city": "Medinah",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/medinah-golf-club-3",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_01",
+        "code": "QAS_USA_MEDINAH_NO_3_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_02",
+        "code": "QAS_USA_MEDINAH_NO_3_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_03",
+        "code": "QAS_USA_MEDINAH_NO_3_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_04",
+        "code": "QAS_USA_MEDINAH_NO_3_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_05",
+        "code": "QAS_USA_MEDINAH_NO_3_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_06",
+        "code": "QAS_USA_MEDINAH_NO_3_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_07",
+        "code": "QAS_USA_MEDINAH_NO_3_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_08",
+        "code": "QAS_USA_MEDINAH_NO_3_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_09",
+        "code": "QAS_USA_MEDINAH_NO_3_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_10",
+        "code": "QAS_USA_MEDINAH_NO_3_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_11",
+        "code": "QAS_USA_MEDINAH_NO_3_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_12",
+        "code": "QAS_USA_MEDINAH_NO_3_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_13",
+        "code": "QAS_USA_MEDINAH_NO_3_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_14",
+        "code": "QAS_USA_MEDINAH_NO_3_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_15",
+        "code": "QAS_USA_MEDINAH_NO_3_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_16",
+        "code": "QAS_USA_MEDINAH_NO_3_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_17",
+        "code": "QAS_USA_MEDINAH_NO_3_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_MEDINAH_NO_3_18",
+        "code": "QAS_USA_MEDINAH_NO_3_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_MEDINAH_NO_3_SILVER",
+        "code": "QAS_USA_MEDINAH_NO_3_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 75.4,
+        "slope": 143,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.4,
+            "slopeRating": 143,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7056,
+        "totalMeters": 6452,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_01",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_02",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_03",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_04",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_05",
+            "yards": 515,
+            "meters": 471
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_06",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_07",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_09",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_10",
+            "yards": 568,
+            "meters": 519
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_11",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_13",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_14",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_15",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_16",
+            "yards": 436,
+            "meters": 399
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_17",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_MEDINAH_NO_3_WHITE",
+        "code": "QAS_USA_MEDINAH_NO_3_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 74.1,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 138,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6776,
+        "totalMeters": 6196,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_01",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_02",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_03",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_04",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_05",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_06",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_07",
+            "yards": 574,
+            "meters": 525
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_08",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_09",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_10",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_11",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_12",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_14",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_15",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_16",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_17",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_USA_MEDINAH_NO_3_18",
+            "yards": 394,
+            "meters": 360
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

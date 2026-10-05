@@ -1,0 +1,479 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SHADOW_CREEK",
+    "code": "QAS_USA_SHADOW_CREEK",
+    "name": "Shadow Creek Golf Course",
+    "city": "North Las Vegas",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/shadow-creek-golf-course",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_01",
+        "code": "QAS_USA_SHADOW_CREEK_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_02",
+        "code": "QAS_USA_SHADOW_CREEK_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_03",
+        "code": "QAS_USA_SHADOW_CREEK_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_04",
+        "code": "QAS_USA_SHADOW_CREEK_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_05",
+        "code": "QAS_USA_SHADOW_CREEK_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_06",
+        "code": "QAS_USA_SHADOW_CREEK_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_07",
+        "code": "QAS_USA_SHADOW_CREEK_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_08",
+        "code": "QAS_USA_SHADOW_CREEK_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_09",
+        "code": "QAS_USA_SHADOW_CREEK_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_10",
+        "code": "QAS_USA_SHADOW_CREEK_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_11",
+        "code": "QAS_USA_SHADOW_CREEK_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_12",
+        "code": "QAS_USA_SHADOW_CREEK_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_13",
+        "code": "QAS_USA_SHADOW_CREEK_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_14",
+        "code": "QAS_USA_SHADOW_CREEK_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_15",
+        "code": "QAS_USA_SHADOW_CREEK_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_16",
+        "code": "QAS_USA_SHADOW_CREEK_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_17",
+        "code": "QAS_USA_SHADOW_CREEK_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHADOW_CREEK_18",
+        "code": "QAS_USA_SHADOW_CREEK_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SHADOW_CREEK_CHAMPIONSHIP",
+        "code": "QAS_USA_SHADOW_CREEK_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 72.0,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7560,
+        "totalMeters": 6913,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_01",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_02",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_03",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_04",
+            "yards": 581,
+            "meters": 531
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_05",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_06",
+            "yards": 507,
+            "meters": 464
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_07",
+            "yards": 571,
+            "meters": 522
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_08",
+            "yards": 200,
+            "meters": 183
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_09",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_10",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_12",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_13",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_14",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_15",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_16",
+            "yards": 622,
+            "meters": 569
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_17",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_18",
+            "yards": 529,
+            "meters": 484
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHADOW_CREEK_BACK",
+        "code": "QAS_USA_SHADOW_CREEK_BACK",
+        "type": "BACK",
+        "displayName": "Back",
+        "courseRating": 71.0,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 115,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7102,
+        "totalMeters": 6494,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_01",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_02",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_03",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_04",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_05",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_06",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_07",
+            "yards": 528,
+            "meters": 483
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_08",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_10",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_11",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_12",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_13",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_14",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_15",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_16",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_17",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_18",
+            "yards": 516,
+            "meters": 472
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHADOW_CREEK_REGULAR",
+        "code": "QAS_USA_SHADOW_CREEK_REGULAR",
+        "type": "REGULAR",
+        "displayName": "Regular",
+        "courseRating": 68.9,
+        "slope": 113,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.9,
+            "slopeRating": 113,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6626,
+        "totalMeters": 6059,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_01",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_02",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_03",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_04",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_05",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_06",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_07",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_08",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_09",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_10",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_11",
+            "yards": 284,
+            "meters": 260
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_13",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_14",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_15",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_16",
+            "yards": 561,
+            "meters": 513
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_17",
+            "yards": 140,
+            "meters": 128
+          },
+          {
+            "holeCode": "QAS_USA_SHADOW_CREEK_18",
+            "yards": 503,
+            "meters": 460
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

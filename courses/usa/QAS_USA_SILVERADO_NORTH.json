@@ -1,0 +1,595 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SILVERADO_NORTH",
+    "code": "QAS_USA_SILVERADO_NORTH",
+    "name": "Silverado Resort - North Course",
+    "city": "Napa",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/silverado-country-club-resort-north",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_01",
+        "code": "QAS_USA_SILVERADO_NORTH_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_02",
+        "code": "QAS_USA_SILVERADO_NORTH_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_03",
+        "code": "QAS_USA_SILVERADO_NORTH_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_04",
+        "code": "QAS_USA_SILVERADO_NORTH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_05",
+        "code": "QAS_USA_SILVERADO_NORTH_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_06",
+        "code": "QAS_USA_SILVERADO_NORTH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_07",
+        "code": "QAS_USA_SILVERADO_NORTH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_08",
+        "code": "QAS_USA_SILVERADO_NORTH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_09",
+        "code": "QAS_USA_SILVERADO_NORTH_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_10",
+        "code": "QAS_USA_SILVERADO_NORTH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_11",
+        "code": "QAS_USA_SILVERADO_NORTH_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_12",
+        "code": "QAS_USA_SILVERADO_NORTH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_13",
+        "code": "QAS_USA_SILVERADO_NORTH_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_14",
+        "code": "QAS_USA_SILVERADO_NORTH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_15",
+        "code": "QAS_USA_SILVERADO_NORTH_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_16",
+        "code": "QAS_USA_SILVERADO_NORTH_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_17",
+        "code": "QAS_USA_SILVERADO_NORTH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SILVERADO_NORTH_18",
+        "code": "QAS_USA_SILVERADO_NORTH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 8
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SILVERADO_NORTH_BLUE",
+        "code": "QAS_USA_SILVERADO_NORTH_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 72.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6793,
+        "totalMeters": 6212,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_01",
+            "yards": 432,
+            "meters": 395
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_02",
+            "yards": 193,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_03",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_04",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_06",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_07",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_08",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_09",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_10",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_11",
+            "yards": 174,
+            "meters": 159
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_12",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_13",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_14",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_15",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_16",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_17",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_18",
+            "yards": 539,
+            "meters": 493
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SILVERADO_NORTH_WHITE",
+        "code": "QAS_USA_SILVERADO_NORTH_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6302,
+        "totalMeters": 5763,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_01",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_02",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_03",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_04",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_05",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_06",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_07",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_08",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_09",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_11",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_13",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_14",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_15",
+            "yards": 163,
+            "meters": 149
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_16",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_17",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_18",
+            "yards": 518,
+            "meters": 474
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SILVERADO_NORTH_GOLD",
+        "code": "QAS_USA_SILVERADO_NORTH_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 68.3,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.3,
+            "slopeRating": 124,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 73.5,
+            "slopeRating": 129,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5868,
+        "totalMeters": 5366,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_01",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_02",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_03",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_04",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_05",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_08",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_09",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_10",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_11",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_12",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_13",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_14",
+            "yards": 347,
+            "meters": 317
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_15",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_16",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_17",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_18",
+            "yards": 503,
+            "meters": 460
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SILVERADO_NORTH_BURGUNDY_WOMEN",
+        "code": "QAS_USA_SILVERADO_NORTH_BURGUNDY_WOMEN",
+        "type": "BURGUNDY_WOMEN",
+        "displayName": "Burgundy (L)",
+        "courseRating": 69.8,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.8,
+            "slopeRating": 120,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5187,
+        "totalMeters": 4743,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_01",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_02",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_03",
+            "yards": 294,
+            "meters": 269
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_04",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_05",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_06",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_07",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_08",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_09",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_10",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_11",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_12",
+            "yards": 261,
+            "meters": 239
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_13",
+            "yards": 333,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_14",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_15",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_16",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_17",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_SILVERADO_NORTH_18",
+            "yards": 417,
+            "meters": 381
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

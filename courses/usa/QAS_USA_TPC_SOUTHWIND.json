@@ -1,0 +1,705 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_SOUTHWIND",
+    "code": "QAS_USA_TPC_SOUTHWIND",
+    "name": "TPC Southwind",
+    "city": "Memphis",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 70,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/tpc-at-southwind",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_01",
+        "code": "QAS_USA_TPC_SOUTHWIND_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_02",
+        "code": "QAS_USA_TPC_SOUTHWIND_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_03",
+        "code": "QAS_USA_TPC_SOUTHWIND_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_04",
+        "code": "QAS_USA_TPC_SOUTHWIND_04",
+        "number": 4,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_05",
+        "code": "QAS_USA_TPC_SOUTHWIND_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_06",
+        "code": "QAS_USA_TPC_SOUTHWIND_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_07",
+        "code": "QAS_USA_TPC_SOUTHWIND_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_08",
+        "code": "QAS_USA_TPC_SOUTHWIND_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_09",
+        "code": "QAS_USA_TPC_SOUTHWIND_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_10",
+        "code": "QAS_USA_TPC_SOUTHWIND_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_11",
+        "code": "QAS_USA_TPC_SOUTHWIND_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_12",
+        "code": "QAS_USA_TPC_SOUTHWIND_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_13",
+        "code": "QAS_USA_TPC_SOUTHWIND_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_14",
+        "code": "QAS_USA_TPC_SOUTHWIND_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_15",
+        "code": "QAS_USA_TPC_SOUTHWIND_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_16",
+        "code": "QAS_USA_TPC_SOUTHWIND_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_17",
+        "code": "QAS_USA_TPC_SOUTHWIND_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SOUTHWIND_18",
+        "code": "QAS_USA_TPC_SOUTHWIND_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_SOUTHWIND_PGA_TOUR",
+        "code": "QAS_USA_TPC_SOUTHWIND_PGA_TOUR",
+        "type": "PGA_TOUR",
+        "displayName": "PGA Tour",
+        "courseRating": 75.7,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.7,
+            "slopeRating": 144,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 7244,
+        "totalMeters": 6624,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_01",
+            "yards": 434,
+            "meters": 397
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_02",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_03",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_04",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_05",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_06",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_07",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_08",
+            "yards": 178,
+            "meters": 163
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_09",
+            "yards": 457,
+            "meters": 418
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_10",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_11",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_12",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_13",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_14",
+            "yards": 239,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_15",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_16",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_17",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_18",
+            "yards": 453,
+            "meters": 414
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SOUTHWIND_TOURNAMENT",
+        "code": "QAS_USA_TPC_SOUTHWIND_TOURNAMENT",
+        "type": "TOURNAMENT",
+        "displayName": "Tournament",
+        "courseRating": 73.4,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 140,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6753,
+        "totalMeters": 6175,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_01",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_02",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_03",
+            "yards": 520,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_04",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_05",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_06",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_07",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_08",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_09",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_10",
+            "yards": 441,
+            "meters": 403
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_11",
+            "yards": 141,
+            "meters": 129
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_12",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_13",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_14",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_15",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_16",
+            "yards": 496,
+            "meters": 454
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_17",
+            "yards": 450,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_18",
+            "yards": 438,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SOUTHWIND_PLAYERS",
+        "code": "QAS_USA_TPC_SOUTHWIND_PLAYERS",
+        "type": "PLAYERS",
+        "displayName": "Players",
+        "courseRating": 71.2,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.2,
+            "slopeRating": 133,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 6257,
+        "totalMeters": 5721,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_01",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_02",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_03",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_04",
+            "yards": 158,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_05",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_06",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_07",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_08",
+            "yards": 159,
+            "meters": 145
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_09",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_10",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_11",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_12",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_13",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_14",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_15",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_16",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_17",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_18",
+            "yards": 413,
+            "meters": 378
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SOUTHWIND_CLUB",
+        "code": "QAS_USA_TPC_SOUTHWIND_CLUB",
+        "type": "CLUB",
+        "displayName": "Club",
+        "courseRating": 68.7,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.7,
+            "slopeRating": 127,
+            "ratingPar": 70
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.6,
+            "slopeRating": 132,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5700,
+        "totalMeters": 5212,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_01",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_02",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_03",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_04",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_05",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_06",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_07",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_08",
+            "yards": 146,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_10",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_11",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_12",
+            "yards": 290,
+            "meters": 265
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_13",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_14",
+            "yards": 142,
+            "meters": 130
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_15",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_16",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_18",
+            "yards": 378,
+            "meters": 346
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SOUTHWIND_FORWARD_WOMEN",
+        "code": "QAS_USA_TPC_SOUTHWIND_FORWARD_WOMEN",
+        "type": "FORWARD_WOMEN",
+        "displayName": "Forward (L)",
+        "courseRating": 71.3,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.3,
+            "slopeRating": 131,
+            "ratingPar": 70
+          }
+        ],
+        "totalYards": 5109,
+        "totalMeters": 4672,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_01",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_02",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_03",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_04",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_05",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_06",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_08",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_09",
+            "yards": 329,
+            "meters": 301
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_10",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_11",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_12",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_13",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_14",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_15",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_16",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_17",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SOUTHWIND_18",
+            "yards": 300,
+            "meters": 274
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

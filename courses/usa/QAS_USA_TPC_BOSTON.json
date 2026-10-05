@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_BOSTON",
+    "code": "QAS_USA_TPC_BOSTON",
+    "name": "TPC Boston",
+    "city": "Norton",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/tpc-boston",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_01",
+        "code": "QAS_USA_TPC_BOSTON_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_02",
+        "code": "QAS_USA_TPC_BOSTON_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_03",
+        "code": "QAS_USA_TPC_BOSTON_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_04",
+        "code": "QAS_USA_TPC_BOSTON_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_05",
+        "code": "QAS_USA_TPC_BOSTON_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_06",
+        "code": "QAS_USA_TPC_BOSTON_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_07",
+        "code": "QAS_USA_TPC_BOSTON_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_08",
+        "code": "QAS_USA_TPC_BOSTON_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_09",
+        "code": "QAS_USA_TPC_BOSTON_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_10",
+        "code": "QAS_USA_TPC_BOSTON_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_11",
+        "code": "QAS_USA_TPC_BOSTON_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_12",
+        "code": "QAS_USA_TPC_BOSTON_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_13",
+        "code": "QAS_USA_TPC_BOSTON_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_14",
+        "code": "QAS_USA_TPC_BOSTON_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_15",
+        "code": "QAS_USA_TPC_BOSTON_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_16",
+        "code": "QAS_USA_TPC_BOSTON_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_17",
+        "code": "QAS_USA_TPC_BOSTON_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_BOSTON_18",
+        "code": "QAS_USA_TPC_BOSTON_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_BOSTON_CHAMPIONSHIP",
+        "code": "QAS_USA_TPC_BOSTON_CHAMPIONSHIP",
+        "type": "CHAMPIONSHIP",
+        "displayName": "Championship",
+        "courseRating": 77.2,
+        "slope": 154,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 77.2,
+            "slopeRating": 154,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 7261,
+        "totalMeters": 6639,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_02",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_03",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_04",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_05",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_06",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_07",
+            "yards": 600,
+            "meters": 549
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_08",
+            "yards": 213,
+            "meters": 195
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_09",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_10",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_11",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_12",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_13",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_14",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_17",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_18",
+            "yards": 530,
+            "meters": 485
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_BOSTON_GOLD",
+        "code": "QAS_USA_TPC_BOSTON_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 74.7,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.7,
+            "slopeRating": 145,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 7011,
+        "totalMeters": 6411,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_01",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_02",
+            "yards": 542,
+            "meters": 496
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_03",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_04",
+            "yards": 298,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_05",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_06",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_07",
+            "yards": 579,
+            "meters": 529
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_08",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_09",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_10",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_11",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_12",
+            "yards": 486,
+            "meters": 444
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_13",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_14",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_15",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_16",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_17",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_18",
+            "yards": 530,
+            "meters": 485
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_BOSTON_BLACK",
+        "code": "QAS_USA_TPC_BOSTON_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 72.4,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.4,
+            "slopeRating": 139,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6484,
+        "totalMeters": 5929,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_01",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_02",
+            "yards": 493,
+            "meters": 451
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_03",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_04",
+            "yards": 254,
+            "meters": 232
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_05",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_06",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_07",
+            "yards": 505,
+            "meters": 462
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_08",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_09",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_10",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_11",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_12",
+            "yards": 465,
+            "meters": 425
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_13",
+            "yards": 394,
+            "meters": 360
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_14",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_15",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_16",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_17",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_18",
+            "yards": 504,
+            "meters": 461
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_BOSTON_WHITE",
+        "code": "QAS_USA_TPC_BOSTON_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 70.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.6,
+            "slopeRating": 133,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.4,
+            "slopeRating": 137,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 6117,
+        "totalMeters": 5593,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_01",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_02",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_03",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_04",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_05",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_06",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_07",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_08",
+            "yards": 167,
+            "meters": 153
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_09",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_11",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_12",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_13",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_14",
+            "yards": 473,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_16",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_17",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_18",
+            "yards": 489,
+            "meters": 447
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_BOSTON_BLUE",
+        "code": "QAS_USA_TPC_BOSTON_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 66.4,
+        "slope": 123,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 66.4,
+            "slopeRating": 123,
+            "ratingPar": 73
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.1,
+            "slopeRating": 132,
+            "ratingPar": 73
+          }
+        ],
+        "totalYards": 5201,
+        "totalMeters": 4756,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_01",
+            "yards": 277,
+            "meters": 253
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_02",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_03",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_04",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_05",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_06",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_07",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_08",
+            "yards": 107,
+            "meters": 98
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_09",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_10",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_11",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_12",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_13",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_14",
+            "yards": 391,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_15",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_16",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_17",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_TPC_BOSTON_18",
+            "yards": 408,
+            "meters": 373
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}
