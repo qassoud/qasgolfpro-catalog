@@ -1,0 +1,717 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_AVENEL",
+    "code": "QAS_USA_TPC_AVENEL",
+    "name": "TPC Potomac at Avenel Farm",
+    "city": "Potomac",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/tpc-at-avenel",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_01",
+        "code": "QAS_USA_TPC_AVENEL_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_02",
+        "code": "QAS_USA_TPC_AVENEL_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_03",
+        "code": "QAS_USA_TPC_AVENEL_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_04",
+        "code": "QAS_USA_TPC_AVENEL_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_05",
+        "code": "QAS_USA_TPC_AVENEL_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_06",
+        "code": "QAS_USA_TPC_AVENEL_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_07",
+        "code": "QAS_USA_TPC_AVENEL_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_08",
+        "code": "QAS_USA_TPC_AVENEL_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_09",
+        "code": "QAS_USA_TPC_AVENEL_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_10",
+        "code": "QAS_USA_TPC_AVENEL_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_11",
+        "code": "QAS_USA_TPC_AVENEL_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_12",
+        "code": "QAS_USA_TPC_AVENEL_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_13",
+        "code": "QAS_USA_TPC_AVENEL_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_14",
+        "code": "QAS_USA_TPC_AVENEL_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_15",
+        "code": "QAS_USA_TPC_AVENEL_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_16",
+        "code": "QAS_USA_TPC_AVENEL_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_17",
+        "code": "QAS_USA_TPC_AVENEL_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_AVENEL_18",
+        "code": "QAS_USA_TPC_AVENEL_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_AVENEL_BLACK",
+        "code": "QAS_USA_TPC_AVENEL_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 74.0,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 140,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7139,
+        "totalMeters": 6528,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_01",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_02",
+            "yards": 619,
+            "meters": 566
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_03",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_04",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_05",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_06",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_07",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_08",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_09",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_10",
+            "yards": 560,
+            "meters": 512
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_11",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_12",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_13",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_14",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_15",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_16",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_17",
+            "yards": 222,
+            "meters": 203
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_18",
+            "yards": 465,
+            "meters": 425
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_AVENEL_GOLD",
+        "code": "QAS_USA_TPC_AVENEL_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 72.2,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 134,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6550,
+        "totalMeters": 5989,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_01",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_02",
+            "yards": 570,
+            "meters": 521
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_03",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_05",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_06",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_07",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_08",
+            "yards": 435,
+            "meters": 398
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_09",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_10",
+            "yards": 532,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_11",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_12",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_13",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_14",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_15",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_16",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_18",
+            "yards": 426,
+            "meters": 390
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_AVENEL_SILVER",
+        "code": "QAS_USA_TPC_AVENEL_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 69.9,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.9,
+            "slopeRating": 127,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 76.5,
+            "slopeRating": 149,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6047,
+        "totalMeters": 5529,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_01",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_02",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_03",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_04",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_06",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_07",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_08",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_09",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_10",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_11",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_12",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_13",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_14",
+            "yards": 256,
+            "meters": 234
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_15",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_16",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_17",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_18",
+            "yards": 401,
+            "meters": 367
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_AVENEL_COPPER",
+        "code": "QAS_USA_TPC_AVENEL_COPPER",
+        "type": "COPPER",
+        "displayName": "Copper",
+        "courseRating": 68.5,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.5,
+            "slopeRating": 122,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.7,
+            "slopeRating": 145,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5726,
+        "totalMeters": 5236,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_01",
+            "yards": 392,
+            "meters": 358
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_02",
+            "yards": 478,
+            "meters": 437
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_03",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_04",
+            "yards": 352,
+            "meters": 322
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_05",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_06",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_08",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_09",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_10",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_11",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_12",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_13",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_14",
+            "yards": 239,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_15",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_16",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_17",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_18",
+            "yards": 380,
+            "meters": 347
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_AVENEL_IVORY",
+        "code": "QAS_USA_TPC_AVENEL_IVORY",
+        "type": "IVORY",
+        "displayName": "Ivory",
+        "courseRating": 65.4,
+        "slope": 115,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.4,
+            "slopeRating": 115,
+            "ratingPar": 71
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.1,
+            "slopeRating": 132,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5025,
+        "totalMeters": 4595,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_01",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_03",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_04",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_05",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_06",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_07",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_08",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_09",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_10",
+            "yards": 438,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_11",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_12",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_13",
+            "yards": 258,
+            "meters": 236
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_14",
+            "yards": 225,
+            "meters": 206
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_15",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_16",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_17",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_TPC_AVENEL_18",
+            "yards": 340,
+            "meters": 311
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

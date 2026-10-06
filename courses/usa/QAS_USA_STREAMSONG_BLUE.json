@@ -1,0 +1,601 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_STREAMSONG_BLUE",
+    "code": "QAS_USA_STREAMSONG_BLUE",
+    "name": "Streamsong Resort - Blue Course",
+    "city": "Bowling Green",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/streamsong-resort-golf-spa-streamsong-blue",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_01",
+        "code": "QAS_USA_STREAMSONG_BLUE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_02",
+        "code": "QAS_USA_STREAMSONG_BLUE_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_03",
+        "code": "QAS_USA_STREAMSONG_BLUE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_04",
+        "code": "QAS_USA_STREAMSONG_BLUE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_05",
+        "code": "QAS_USA_STREAMSONG_BLUE_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_06",
+        "code": "QAS_USA_STREAMSONG_BLUE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_07",
+        "code": "QAS_USA_STREAMSONG_BLUE_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_08",
+        "code": "QAS_USA_STREAMSONG_BLUE_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_09",
+        "code": "QAS_USA_STREAMSONG_BLUE_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_10",
+        "code": "QAS_USA_STREAMSONG_BLUE_10",
+        "number": 10,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_11",
+        "code": "QAS_USA_STREAMSONG_BLUE_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_12",
+        "code": "QAS_USA_STREAMSONG_BLUE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_13",
+        "code": "QAS_USA_STREAMSONG_BLUE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_14",
+        "code": "QAS_USA_STREAMSONG_BLUE_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_15",
+        "code": "QAS_USA_STREAMSONG_BLUE_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_16",
+        "code": "QAS_USA_STREAMSONG_BLUE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_17",
+        "code": "QAS_USA_STREAMSONG_BLUE_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_STREAMSONG_BLUE_18",
+        "code": "QAS_USA_STREAMSONG_BLUE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_STREAMSONG_BLUE_GREEN",
+        "code": "QAS_USA_STREAMSONG_BLUE_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 74.0,
+        "slope": 134,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.0,
+            "slopeRating": 134,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7176,
+        "totalMeters": 6562,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_02",
+            "yards": 554,
+            "meters": 507
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_03",
+            "yards": 418,
+            "meters": 382
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_04",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_05",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_06",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_07",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_08",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_09",
+            "yards": 575,
+            "meters": 526
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_10",
+            "yards": 187,
+            "meters": 171
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_11",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_12",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_13",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_14",
+            "yards": 545,
+            "meters": 498
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_15",
+            "yards": 446,
+            "meters": 408
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_16",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_17",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_18",
+            "yards": 478,
+            "meters": 437
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_STREAMSONG_BLUE_BLACK",
+        "code": "QAS_USA_STREAMSONG_BLUE_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 71.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.8,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6692,
+        "totalMeters": 6119,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_02",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_03",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_04",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_05",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_06",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_07",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_08",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_09",
+            "yards": 541,
+            "meters": 495
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_10",
+            "yards": 161,
+            "meters": 147
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_11",
+            "yards": 454,
+            "meters": 415
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_13",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_14",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_15",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_16",
+            "yards": 215,
+            "meters": 197
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_17",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_18",
+            "yards": 453,
+            "meters": 414
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_STREAMSONG_BLUE_SILVER",
+        "code": "QAS_USA_STREAMSONG_BLUE_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 69.5,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.5,
+            "slopeRating": 127,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.3,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6192,
+        "totalMeters": 5662,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_01",
+            "yards": 330,
+            "meters": 302
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_02",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_03",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_04",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_05",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_06",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_07",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_08",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_09",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_10",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_11",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_12",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_13",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_14",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_15",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_16",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_17",
+            "yards": 525,
+            "meters": 480
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_18",
+            "yards": 439,
+            "meters": 401
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_STREAMSONG_BLUE_GOLD",
+        "code": "QAS_USA_STREAMSONG_BLUE_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 71.6,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5512,
+        "totalMeters": 5040,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_01",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_02",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_03",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_04",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_05",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_06",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_07",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_08",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_09",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_10",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_11",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_12",
+            "yards": 317,
+            "meters": 290
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_13",
+            "yards": 247,
+            "meters": 226
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_14",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_15",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_16",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_17",
+            "yards": 498,
+            "meters": 455
+          },
+          {
+            "holeCode": "QAS_USA_STREAMSONG_BLUE_18",
+            "yards": 364,
+            "meters": 333
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

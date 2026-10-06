@@ -1,0 +1,1029 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_SHEEP_RANCH",
+    "code": "QAS_USA_SHEEP_RANCH",
+    "name": "Bandon Dunes Golf Resort - Sheep Ranch",
+    "city": "Bandon",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/bandon-dunes-golf-club-sheep-ranch",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_01",
+        "code": "QAS_USA_SHEEP_RANCH_01",
+        "number": 1,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_02",
+        "code": "QAS_USA_SHEEP_RANCH_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_03",
+        "code": "QAS_USA_SHEEP_RANCH_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_04",
+        "code": "QAS_USA_SHEEP_RANCH_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_05",
+        "code": "QAS_USA_SHEEP_RANCH_05",
+        "number": 5,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_06",
+        "code": "QAS_USA_SHEEP_RANCH_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_07",
+        "code": "QAS_USA_SHEEP_RANCH_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_08",
+        "code": "QAS_USA_SHEEP_RANCH_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_09",
+        "code": "QAS_USA_SHEEP_RANCH_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_10",
+        "code": "QAS_USA_SHEEP_RANCH_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_11",
+        "code": "QAS_USA_SHEEP_RANCH_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_12",
+        "code": "QAS_USA_SHEEP_RANCH_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_13",
+        "code": "QAS_USA_SHEEP_RANCH_13",
+        "number": 13,
+        "par": 5,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_14",
+        "code": "QAS_USA_SHEEP_RANCH_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_15",
+        "code": "QAS_USA_SHEEP_RANCH_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_16",
+        "code": "QAS_USA_SHEEP_RANCH_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_17",
+        "code": "QAS_USA_SHEEP_RANCH_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_SHEEP_RANCH_18",
+        "code": "QAS_USA_SHEEP_RANCH_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_BLACK",
+        "code": "QAS_USA_SHEEP_RANCH_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 72.1,
+        "slope": 122,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.1,
+            "slopeRating": 122,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6636,
+        "totalMeters": 6068,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 326,
+            "meters": 298
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 464,
+            "meters": 424
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_GREEN",
+        "code": "QAS_USA_SHEEP_RANCH_GREEN",
+        "type": "GREEN",
+        "displayName": "Green",
+        "courseRating": 70.0,
+        "slope": 116,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.0,
+            "slopeRating": 116,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6245,
+        "totalMeters": 5710,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 138,
+            "meters": 126
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 407,
+            "meters": 372
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 414,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 485,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 131,
+            "meters": 120
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 436,
+            "meters": 399
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_GOLD_MEN",
+        "code": "QAS_USA_SHEEP_RANCH_GOLD_MEN",
+        "type": "GOLD_MEN",
+        "displayName": "Gold (M)",
+        "courseRating": 68.1,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.1,
+            "slopeRating": 111,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5810,
+        "totalMeters": 5313,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_GOLD_F",
+        "code": "QAS_USA_SHEEP_RANCH_GOLD_F",
+        "type": "GOLD_F",
+        "displayName": "Gold (F)",
+        "courseRating": 74.1,
+        "slope": 124,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.1,
+            "slopeRating": 124,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5810,
+        "totalMeters": 5313,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 282,
+            "meters": 258
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 415,
+            "meters": 379
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 463,
+            "meters": 423
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 354,
+            "meters": 324
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 405,
+            "meters": 370
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_ROYAL_BLUE_MEN",
+        "code": "QAS_USA_SHEEP_RANCH_ROYAL_BLUE_MEN",
+        "type": "ROYAL_BLUE_MEN",
+        "displayName": "Royal Blue (M)",
+        "courseRating": 61.0,
+        "slope": 96,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 61.0,
+            "slopeRating": 96,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3943,
+        "totalMeters": 3605,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 91,
+            "meters": 83
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 88,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 239,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_ROYAL_BLUE_F",
+        "code": "QAS_USA_SHEEP_RANCH_ROYAL_BLUE_F",
+        "type": "ROYAL_BLUE_F",
+        "displayName": "Royal Blue (F)",
+        "courseRating": 62.2,
+        "slope": 95,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 62.2,
+            "slopeRating": 95,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 3943,
+        "totalMeters": 3605,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 75,
+            "meters": 69
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 91,
+            "meters": 83
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 88,
+            "meters": 80
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 264,
+            "meters": 241
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 239,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 229,
+            "meters": 209
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 319,
+            "meters": 292
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 237,
+            "meters": 217
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 210,
+            "meters": 192
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 90,
+            "meters": 82
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 228,
+            "meters": 208
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 303,
+            "meters": 277
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_ORANGE_MEN",
+        "code": "QAS_USA_SHEEP_RANCH_ORANGE_MEN",
+        "type": "ORANGE_MEN",
+        "displayName": "Orange (M)",
+        "courseRating": 65.2,
+        "slope": 105,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.2,
+            "slopeRating": 105,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5144,
+        "totalMeters": 4704,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 99,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_SHEEP_RANCH_ORANGE_F",
+        "code": "QAS_USA_SHEEP_RANCH_ORANGE_F",
+        "type": "ORANGE_F",
+        "displayName": "Orange (F)",
+        "courseRating": 70.1,
+        "slope": 112,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.1,
+            "slopeRating": 112,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5144,
+        "totalMeters": 4704,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_01",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_02",
+            "yards": 263,
+            "meters": 240
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_03",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_04",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_05",
+            "yards": 130,
+            "meters": 119
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_06",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_07",
+            "yards": 99,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_08",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_09",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_10",
+            "yards": 316,
+            "meters": 289
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_11",
+            "yards": 411,
+            "meters": 376
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_12",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_14",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_15",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_16",
+            "yards": 102,
+            "meters": 93
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_17",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_USA_SHEEP_RANCH_18",
+            "yards": 388,
+            "meters": 355
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

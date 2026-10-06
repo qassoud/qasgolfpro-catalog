@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_LAS_VEGAS",
+    "code": "QAS_USA_TPC_LAS_VEGAS",
+    "name": "TPC Las Vegas",
+    "city": "Las Vegas",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/tpc-las-vegas",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_01",
+        "code": "QAS_USA_TPC_LAS_VEGAS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_02",
+        "code": "QAS_USA_TPC_LAS_VEGAS_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_03",
+        "code": "QAS_USA_TPC_LAS_VEGAS_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_04",
+        "code": "QAS_USA_TPC_LAS_VEGAS_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_05",
+        "code": "QAS_USA_TPC_LAS_VEGAS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_06",
+        "code": "QAS_USA_TPC_LAS_VEGAS_06",
+        "number": 6,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_07",
+        "code": "QAS_USA_TPC_LAS_VEGAS_07",
+        "number": 7,
+        "par": 3,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_08",
+        "code": "QAS_USA_TPC_LAS_VEGAS_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_09",
+        "code": "QAS_USA_TPC_LAS_VEGAS_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_10",
+        "code": "QAS_USA_TPC_LAS_VEGAS_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_11",
+        "code": "QAS_USA_TPC_LAS_VEGAS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_12",
+        "code": "QAS_USA_TPC_LAS_VEGAS_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_13",
+        "code": "QAS_USA_TPC_LAS_VEGAS_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_14",
+        "code": "QAS_USA_TPC_LAS_VEGAS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_15",
+        "code": "QAS_USA_TPC_LAS_VEGAS_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_16",
+        "code": "QAS_USA_TPC_LAS_VEGAS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_17",
+        "code": "QAS_USA_TPC_LAS_VEGAS_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_LAS_VEGAS_18",
+        "code": "QAS_USA_TPC_LAS_VEGAS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 10
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_LAS_VEGAS_TPC",
+        "code": "QAS_USA_TPC_LAS_VEGAS_TPC",
+        "type": "TPC",
+        "displayName": "TPC",
+        "courseRating": 73.4,
+        "slope": 136,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.4,
+            "slopeRating": 136,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 7104,
+        "totalMeters": 6496,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_01",
+            "yards": 359,
+            "meters": 328
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_02",
+            "yards": 196,
+            "meters": 179
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_03",
+            "yards": 466,
+            "meters": 426
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_04",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_05",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_06",
+            "yards": 604,
+            "meters": 552
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_07",
+            "yards": 209,
+            "meters": 191
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_08",
+            "yards": 458,
+            "meters": 419
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_09",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_10",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_11",
+            "yards": 444,
+            "meters": 406
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_12",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_13",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_14",
+            "yards": 365,
+            "meters": 334
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_15",
+            "yards": 612,
+            "meters": 560
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_16",
+            "yards": 202,
+            "meters": 185
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_17",
+            "yards": 443,
+            "meters": 405
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_18",
+            "yards": 448,
+            "meters": 410
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_LAS_VEGAS_BLUE",
+        "code": "QAS_USA_TPC_LAS_VEGAS_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 71.0,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.0,
+            "slopeRating": 128,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6780,
+        "totalMeters": 6200,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_01",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_02",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_03",
+            "yards": 452,
+            "meters": 413
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_04",
+            "yards": 518,
+            "meters": 474
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_05",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_06",
+            "yards": 590,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_07",
+            "yards": 195,
+            "meters": 178
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_08",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_09",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_10",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_11",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_12",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_13",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_14",
+            "yards": 356,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_15",
+            "yards": 598,
+            "meters": 547
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_16",
+            "yards": 185,
+            "meters": 169
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_17",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_18",
+            "yards": 421,
+            "meters": 385
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_LAS_VEGAS_WHITE",
+        "code": "QAS_USA_TPC_LAS_VEGAS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 68.0,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.0,
+            "slopeRating": 127,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6047,
+        "totalMeters": 5529,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_01",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_02",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_03",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_04",
+            "yards": 471,
+            "meters": 431
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_05",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_06",
+            "yards": 551,
+            "meters": 504
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_07",
+            "yards": 169,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_08",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_09",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_10",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_11",
+            "yards": 362,
+            "meters": 331
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_12",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_13",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_14",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_15",
+            "yards": 531,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_16",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_18",
+            "yards": 358,
+            "meters": 327
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_LAS_VEGAS_RED",
+        "code": "QAS_USA_TPC_LAS_VEGAS_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 67.8,
+        "slope": 117,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.8,
+            "slopeRating": 117,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 4963,
+        "totalMeters": 4538,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_01",
+            "yards": 269,
+            "meters": 246
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_02",
+            "yards": 110,
+            "meters": 101
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_03",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_04",
+            "yards": 429,
+            "meters": 392
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_05",
+            "yards": 255,
+            "meters": 233
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_06",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_07",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_08",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_09",
+            "yards": 248,
+            "meters": 227
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_10",
+            "yards": 279,
+            "meters": 255
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_11",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_12",
+            "yards": 94,
+            "meters": 86
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_13",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_14",
+            "yards": 275,
+            "meters": 251
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_15",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_16",
+            "yards": 103,
+            "meters": 94
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_17",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_TPC_LAS_VEGAS_18",
+            "yards": 282,
+            "meters": 258
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

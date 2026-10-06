@@ -1,0 +1,589 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS",
+    "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS",
+    "name": "TPC Scottsdale - Champions Course",
+    "city": "Scottsdale",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 71,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/tpc-at-scottsdale-champions",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+        "number": 2,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+        "number": 4,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+        "number": 9,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+        "number": 10,
+        "par": 5,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+        "number": 13,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+        "number": 17,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_BLUE",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 71.1,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.1,
+            "slopeRating": 129,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6645,
+        "totalMeters": 6076,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+            "yards": 442,
+            "meters": 404
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+            "yards": 532,
+            "meters": 486
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+            "yards": 189,
+            "meters": 173
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+            "yards": 583,
+            "meters": 533
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+            "yards": 429,
+            "meters": 392
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_WHITE",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 68.8,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.8,
+            "slopeRating": 120,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 6127,
+        "totalMeters": 5603,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+            "yards": 134,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+            "yards": 495,
+            "meters": 453
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+            "yards": 385,
+            "meters": 352
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+            "yards": 145,
+            "meters": 133
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+            "yards": 166,
+            "meters": 152
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+            "yards": 484,
+            "meters": 443
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+            "yards": 433,
+            "meters": 396
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+            "yards": 157,
+            "meters": 144
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+            "yards": 385,
+            "meters": 352
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_RED",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 69.8,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 120,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5342,
+        "totalMeters": 4885,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_FORWARD",
+        "code": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_FORWARD",
+        "type": "FORWARD",
+        "displayName": "Forward",
+        "courseRating": 69.8,
+        "slope": 120,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 120,
+            "ratingPar": 71
+          }
+        ],
+        "totalYards": 5342,
+        "totalMeters": 4885,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_01",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_02",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_03",
+            "yards": 113,
+            "meters": 103
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_05",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_06",
+            "yards": 121,
+            "meters": 111
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_07",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_08",
+            "yards": 137,
+            "meters": 125
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_09",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_10",
+            "yards": 464,
+            "meters": 424
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_11",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_12",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_13",
+            "yards": 106,
+            "meters": 97
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_14",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_15",
+            "yards": 289,
+            "meters": 264
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_16",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_17",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_TPC_SCOTTSDALE_CHAMPIONS_18",
+            "yards": 330,
+            "meters": 302
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

@@ -1,0 +1,711 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_KIAWAH_OSPREY_POINT",
+    "code": "QAS_USA_KIAWAH_OSPREY_POINT",
+    "name": "Kiawah Island Golf Resort - Osprey Point",
+    "city": "Kiawah Island",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/kiawah-island-golf-resort-osprey-point",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_01",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_02",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_03",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_04",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_05",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_06",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_07",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_08",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_09",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_10",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_11",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+        "number": 11,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_12",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_13",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_14",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_15",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+        "number": 15,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_16",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+        "number": 16,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_17",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_KIAWAH_OSPREY_POINT_18",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 6
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OSPREY_POINT_BLACK",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 73.6,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.6,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6902,
+        "totalMeters": 6311,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+            "yards": 425,
+            "meters": 389
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+            "yards": 405,
+            "meters": 370
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+            "yards": 558,
+            "meters": 510
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+            "yards": 461,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+            "yards": 421,
+            "meters": 385
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+            "yards": 223,
+            "meters": 204
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+            "yards": 535,
+            "meters": 489
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+            "yards": 345,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+            "yards": 177,
+            "meters": 162
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+            "yards": 552,
+            "meters": 505
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OSPREY_POINT_GOLD",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 71.5,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.5,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6545,
+        "totalMeters": 5985,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+            "yards": 184,
+            "meters": 168
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+            "yards": 517,
+            "meters": 473
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+            "yards": 402,
+            "meters": 368
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+            "yards": 323,
+            "meters": 295
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+            "yards": 160,
+            "meters": 146
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+            "yards": 543,
+            "meters": 497
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OSPREY_POINT_SILVER",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_SILVER",
+        "type": "SILVER",
+        "displayName": "Silver",
+        "courseRating": 69.8,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 131,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6162,
+        "totalMeters": 5635,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+            "yards": 490,
+            "meters": 448
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+            "yards": 409,
+            "meters": 374
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+            "yards": 179,
+            "meters": 164
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+            "yards": 510,
+            "meters": 466
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OSPREY_POINT_BLUE",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 65.7,
+        "slope": 111,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 65.7,
+            "slopeRating": 111,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.2,
+            "slopeRating": 126,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5376,
+        "totalMeters": 4916,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+            "yards": 312,
+            "meters": 285
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+            "yards": 265,
+            "meters": 242
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+            "yards": 428,
+            "meters": 391
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+            "yards": 293,
+            "meters": 268
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+            "yards": 125,
+            "meters": 114
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+            "yards": 286,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+            "yards": 344,
+            "meters": 315
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+            "yards": 416,
+            "meters": 380
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_KIAWAH_OSPREY_POINT_RED",
+        "code": "QAS_USA_KIAWAH_OSPREY_POINT_RED",
+        "type": "RED",
+        "displayName": "Red",
+        "courseRating": 63.2,
+        "slope": 105,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 63.2,
+            "slopeRating": 105,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 67.9,
+            "slopeRating": 118,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 4746,
+        "totalMeters": 4340,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_02",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_03",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_04",
+            "yards": 297,
+            "meters": 272
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_05",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_07",
+            "yards": 234,
+            "meters": 214
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_08",
+            "yards": 396,
+            "meters": 362
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_09",
+            "yards": 309,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_10",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_11",
+            "yards": 82,
+            "meters": 75
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_12",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_13",
+            "yards": 257,
+            "meters": 235
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_14",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_15",
+            "yards": 97,
+            "meters": 89
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_16",
+            "yards": 245,
+            "meters": 224
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_17",
+            "yards": 310,
+            "meters": 283
+          },
+          {
+            "holeCode": "QAS_USA_KIAWAH_OSPREY_POINT_18",
+            "yards": 359,
+            "meters": 328
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}

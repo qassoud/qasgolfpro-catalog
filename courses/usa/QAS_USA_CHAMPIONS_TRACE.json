@@ -1,0 +1,699 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_USA_CHAMPIONS_TRACE",
+    "code": "QAS_USA_CHAMPIONS_TRACE",
+    "name": "Keene Trace Golf Club - Champions Course",
+    "city": "Nicholasville",
+    "countryCode": "USA",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Golfify full scorecard and published Course Rating/Slope, checked 2026-10-05: https://www.golfify.io/courses/champions-trace-golf-club",
+    "dataVersion": 1,
+    "isVerified": true,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_01",
+        "code": "QAS_USA_CHAMPIONS_TRACE_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_02",
+        "code": "QAS_USA_CHAMPIONS_TRACE_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_03",
+        "code": "QAS_USA_CHAMPIONS_TRACE_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_04",
+        "code": "QAS_USA_CHAMPIONS_TRACE_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_05",
+        "code": "QAS_USA_CHAMPIONS_TRACE_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_06",
+        "code": "QAS_USA_CHAMPIONS_TRACE_06",
+        "number": 6,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_07",
+        "code": "QAS_USA_CHAMPIONS_TRACE_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_08",
+        "code": "QAS_USA_CHAMPIONS_TRACE_08",
+        "number": 8,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_09",
+        "code": "QAS_USA_CHAMPIONS_TRACE_09",
+        "number": 9,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_10",
+        "code": "QAS_USA_CHAMPIONS_TRACE_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_11",
+        "code": "QAS_USA_CHAMPIONS_TRACE_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_12",
+        "code": "QAS_USA_CHAMPIONS_TRACE_12",
+        "number": 12,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_13",
+        "code": "QAS_USA_CHAMPIONS_TRACE_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_14",
+        "code": "QAS_USA_CHAMPIONS_TRACE_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_15",
+        "code": "QAS_USA_CHAMPIONS_TRACE_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_16",
+        "code": "QAS_USA_CHAMPIONS_TRACE_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_17",
+        "code": "QAS_USA_CHAMPIONS_TRACE_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_USA_CHAMPIONS_TRACE_18",
+        "code": "QAS_USA_CHAMPIONS_TRACE_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 4
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_USA_CHAMPIONS_TRACE_GOLD",
+        "code": "QAS_USA_CHAMPIONS_TRACE_GOLD",
+        "type": "GOLD",
+        "displayName": "Gold",
+        "courseRating": 73.8,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.8,
+            "slopeRating": 137,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7117,
+        "totalMeters": 6508,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_03",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_04",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_05",
+            "yards": 552,
+            "meters": 505
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_07",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_08",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_09",
+            "yards": 199,
+            "meters": 182
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_10",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_11",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_12",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_13",
+            "yards": 456,
+            "meters": 417
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_14",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_15",
+            "yards": 527,
+            "meters": 482
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_16",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_17",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_18",
+            "yards": 425,
+            "meters": 389
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHAMPIONS_TRACE_BLACK",
+        "code": "QAS_USA_CHAMPIONS_TRACE_BLACK",
+        "type": "BLACK",
+        "displayName": "Black",
+        "courseRating": 72.8,
+        "slope": 135,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 135,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6855,
+        "totalMeters": 6268,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_01",
+            "yards": 386,
+            "meters": 353
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_02",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_03",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_04",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_05",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_06",
+            "yards": 424,
+            "meters": 388
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_07",
+            "yards": 369,
+            "meters": 337
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_08",
+            "yards": 529,
+            "meters": 484
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_09",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_10",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_11",
+            "yards": 549,
+            "meters": 502
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_12",
+            "yards": 413,
+            "meters": 378
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_13",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_14",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_15",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_16",
+            "yards": 188,
+            "meters": 172
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_17",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHAMPIONS_TRACE_BLUE",
+        "code": "QAS_USA_CHAMPIONS_TRACE_BLUE",
+        "type": "BLUE",
+        "displayName": "Blue",
+        "courseRating": 71.6,
+        "slope": 133,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 133,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6610,
+        "totalMeters": 6044,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_01",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_02",
+            "yards": 164,
+            "meters": 150
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_03",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_04",
+            "yards": 380,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_05",
+            "yards": 511,
+            "meters": 467
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_06",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_07",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_08",
+            "yards": 506,
+            "meters": 463
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_09",
+            "yards": 181,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_10",
+            "yards": 398,
+            "meters": 364
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_11",
+            "yards": 540,
+            "meters": 494
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_12",
+            "yards": 388,
+            "meters": 355
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_13",
+            "yards": 403,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_14",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_15",
+            "yards": 504,
+            "meters": 461
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_16",
+            "yards": 171,
+            "meters": 156
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_17",
+            "yards": 382,
+            "meters": 349
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_18",
+            "yards": 389,
+            "meters": 356
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHAMPIONS_TRACE_WHITE",
+        "code": "QAS_USA_CHAMPIONS_TRACE_WHITE",
+        "type": "WHITE",
+        "displayName": "White",
+        "courseRating": 69.4,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.4,
+            "slopeRating": 128,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6110,
+        "totalMeters": 5587,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_01",
+            "yards": 321,
+            "meters": 294
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_03",
+            "yards": 383,
+            "meters": 350
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_04",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_05",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_06",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_07",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_08",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_09",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_10",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_11",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_12",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_13",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_14",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_15",
+            "yards": 483,
+            "meters": 442
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_16",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_17",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_18",
+            "yards": 336,
+            "meters": 307
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_USA_CHAMPIONS_TRACE_GREEN_WOMEN",
+        "code": "QAS_USA_CHAMPIONS_TRACE_GREEN_WOMEN",
+        "type": "GREEN_WOMEN",
+        "displayName": "Green (L)",
+        "courseRating": 69.7,
+        "slope": 125,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.7,
+            "slopeRating": 125,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5241,
+        "totalMeters": 4792,
+        "distances": [
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_01",
+            "yards": 283,
+            "meters": 259
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_02",
+            "yards": 127,
+            "meters": 116
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_03",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_04",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_05",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_06",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_07",
+            "yards": 278,
+            "meters": 254
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_08",
+            "yards": 419,
+            "meters": 383
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_09",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_10",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_11",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_12",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_13",
+            "yards": 353,
+            "meters": 323
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_14",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_15",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_16",
+            "yards": 119,
+            "meters": 109
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_17",
+            "yards": 260,
+            "meters": 238
+          },
+          {
+            "holeCode": "QAS_USA_CHAMPIONS_TRACE_18",
+            "yards": 285,
+            "meters": 261
+          }
+        ]
+      }
+    ],
+    "dataNote": "Only complete 18-hole tee sets with published Course Rating/Slope are included. Explicit combo/blended/hybrid tee rows are excluded. Sex-specific tee columns are merged only when their 18 hole-by-hole distances are identical; otherwise they remain distinct source tee sets. Meters are converted from published yards using 1 yd = 0.9144 m. QasGolfPro stores one main par/stroke-index row."
+  }
+}
