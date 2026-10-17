@@ -1,0 +1,946 @@
+{
+  "formatVersion": 2,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_MAR_NORIA_GOLF_CLUB",
+    "code": "QAS_MAR_NORIA_GOLF_CLUB",
+    "name": "Noria Golf Club",
+    "city": "Marrakech",
+    "countryCode": "MAR",
+    "numberOfHoles": 18,
+    "totalPar": 73,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "CSV Ratings V13 — QasGolfPro Course Generator v3.0",
+    "dataVersion": 3,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_01",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 13,
+        "teeAnchor": {
+          "lat": 31.554680586149566,
+          "lng": -8.014649166372081
+        },
+        "controlPoints": [
+          {
+            "lat": 31.556750840765655,
+            "lng": -8.015106107733791
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.557419164575812,
+          "lng": -8.015250516076915
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_02",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 17,
+        "teeAnchor": {
+          "lat": 31.55917559894879,
+          "lng": -8.01493300392868
+        },
+        "controlPoints": [
+          {
+            "lat": 31.560919203414276,
+            "lng": -8.016094546006741
+          },
+          {
+            "lat": 31.56232201391805,
+            "lng": -8.016834596398569
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.562737077828483,
+          "lng": -8.016807931038208
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_03",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_03",
+        "number": 3,
+        "par": 4,
+        "strokeIndex": 9,
+        "teeAnchor": {
+          "lat": 31.56305180656523,
+          "lng": -8.016887416831157
+        },
+        "controlPoints": [
+          {
+            "lat": 31.564207941357232,
+            "lng": -8.018987322904763
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.564890462334176,
+          "lng": -8.01996025570285
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_04",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 3,
+        "teeAnchor": {
+          "lat": 31.565123854809233,
+          "lng": -8.019359150226355
+        },
+        "controlPoints": [
+          {
+            "lat": 31.563952139100717,
+            "lng": -8.017480605820724
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.564045745541087,
+          "lng": -8.015952988545667
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_05",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 11,
+        "teeAnchor": {
+          "lat": 31.56394979344373,
+          "lng": -8.015228965871154
+        },
+        "controlPoints": [
+          {
+            "lat": 31.561961279112516,
+            "lng": -8.014266250555687
+          },
+          {
+            "lat": 31.560291937128326,
+            "lng": -8.01322210782401
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55963974521421,
+          "lng": -8.012884947730207
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_06",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 15,
+        "teeAnchor": {
+          "lat": 31.558980967790383,
+          "lng": -8.013874273237663
+        },
+        "greenCenter": {
+          "lat": 31.558084351982675,
+          "lng": -8.014803586526066
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_07",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 7,
+        "teeAnchor": {
+          "lat": 31.558138298394642,
+          "lng": -8.016022554690911
+        },
+        "controlPoints": [
+          {
+            "lat": 31.559830691851644,
+            "lng": -8.017745167606563
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.560874562723395,
+          "lng": -8.018039625144697
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_08",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 5,
+        "teeAnchor": {
+          "lat": 31.56055222409167,
+          "lng": -8.01866000180424
+        },
+        "greenCenter": {
+          "lat": 31.559087894176614,
+          "lng": -8.018321275583368
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_09",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 1,
+        "teeAnchor": {
+          "lat": 31.558151188364445,
+          "lng": -8.017935727917514
+        },
+        "controlPoints": [
+          {
+            "lat": 31.556176930737333,
+            "lng": -8.017231739813983
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55453869051985,
+          "lng": -8.016955832742774
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_10",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 2,
+        "teeAnchor": {
+          "lat": 31.55475120626376,
+          "lng": -8.01862699382405
+        },
+        "controlPoints": [
+          {
+            "lat": 31.55704690416317,
+            "lng": -8.018876137470224
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55841994504567,
+          "lng": -8.019479918236769
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_11",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 16,
+        "teeAnchor": {
+          "lat": 31.55845865172833,
+          "lng": -8.0200831861644
+        },
+        "controlPoints": [
+          {
+            "lat": 31.556441073789397,
+            "lng": -8.019623008387597
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55600395216779,
+          "lng": -8.019988554585687
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_12",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 10,
+        "teeAnchor": {
+          "lat": 31.556489469216935,
+          "lng": -8.020797102071151
+        },
+        "greenCenter": {
+          "lat": 31.556023631914737,
+          "lng": -8.02263026774521
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_13",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 8,
+        "teeAnchor": {
+          "lat": 31.556479561839584,
+          "lng": -8.023215483275687
+        },
+        "controlPoints": [
+          {
+            "lat": 31.557127771191038,
+            "lng": -8.021050505795078
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.557590153183487,
+          "lng": -8.02071975833128
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_14",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_14",
+        "number": 14,
+        "par": 5,
+        "strokeIndex": 14,
+        "teeAnchor": {
+          "lat": 31.557985505877266,
+          "lng": -8.020609753263983
+        },
+        "controlPoints": [
+          {
+            "lat": 31.560013717929227,
+            "lng": -8.021787235065306
+          },
+          {
+            "lat": 31.56127968715987,
+            "lng": -8.022595831348756
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.561656492242673,
+          "lng": -8.023124851881438
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_15",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_15",
+        "number": 15,
+        "par": 5,
+        "strokeIndex": 6,
+        "teeAnchor": {
+          "lat": 31.562347000049073,
+          "lng": -8.022432395757196
+        },
+        "controlPoints": [
+          {
+            "lat": 31.564568839482796,
+            "lng": -8.021571787058251
+          },
+          {
+            "lat": 31.5652255548358,
+            "lng": -8.020967646928469
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.565848780745608,
+          "lng": -8.020431431313638
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_16",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_16",
+        "number": 16,
+        "par": 3,
+        "strokeIndex": 4,
+        "teeAnchor": {
+          "lat": 31.564322704529413,
+          "lng": -8.020001958980941
+        },
+        "greenCenter": {
+          "lat": 31.562471157962015,
+          "lng": -8.019583683904866
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_17",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 12,
+        "teeAnchor": {
+          "lat": 31.561715286594243,
+          "lng": -8.019253112509269
+        },
+        "controlPoints": [
+          {
+            "lat": 31.55968349260089,
+            "lng": -8.019328195406809
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55865560384998,
+          "lng": -8.019055523123416
+        }
+      },
+      {
+        "uuid": "HOLE_QAS_MAR_NORIA_GOLF_CLUB_18",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_18",
+        "number": 18,
+        "par": 5,
+        "strokeIndex": 18,
+        "teeAnchor": {
+          "lat": 31.558049092301545,
+          "lng": -8.018341941634358
+        },
+        "controlPoints": [
+          {
+            "lat": 31.55634930940422,
+            "lng": -8.017810930645798
+          },
+          {
+            "lat": 31.554972059400384,
+            "lng": -8.017582768771025
+          }
+        ],
+        "greenCenter": {
+          "lat": 31.55447530258971,
+          "lng": -8.01738891306106
+        }
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_MAR_NORIA_GOLF_CLUB_BLACK",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 75.0,
+        "slope": 145,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.0,
+            "slopeRating": 145.0,
+            "par": 73
+          }
+        ],
+        "totalYards": 7097,
+        "totalMeters": 6489,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_01",
+            "yards": 367,
+            "meters": 336
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_02",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_03",
+            "yards": 390,
+            "meters": 357
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_04",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_05",
+            "yards": 580,
+            "meters": 530
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_06",
+            "yards": 162,
+            "meters": 148
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_07",
+            "yards": 431,
+            "meters": 394
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_08",
+            "yards": 191,
+            "meters": 175
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_09",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_10",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_11",
+            "yards": 346,
+            "meters": 316
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_12",
+            "yards": 198,
+            "meters": 181
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_13",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_14",
+            "yards": 519,
+            "meters": 475
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_15",
+            "yards": 479,
+            "meters": 438
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_16",
+            "yards": 231,
+            "meters": 211
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_17",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_18",
+            "yards": 533,
+            "meters": 487
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_NORIA_GOLF_CLUB_WHITE",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 73.0,
+        "slope": 137,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 73.0,
+            "slopeRating": 137.0,
+            "par": 72
+          }
+        ],
+        "totalYards": 6651,
+        "totalMeters": 6080,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_01",
+            "yards": 343,
+            "meters": 314
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_02",
+            "yards": 481,
+            "meters": 440
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_03",
+            "yards": 371,
+            "meters": 339
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_04",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_05",
+            "yards": 544,
+            "meters": 497
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_07",
+            "yards": 393,
+            "meters": 359
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_08",
+            "yards": 173,
+            "meters": 158
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_09",
+            "yards": 455,
+            "meters": 416
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_10",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_11",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_12",
+            "yards": 182,
+            "meters": 166
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_13",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_14",
+            "yards": 499,
+            "meters": 456
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_15",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_16",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_17",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_18",
+            "yards": 513,
+            "meters": 469
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_NORIA_GOLF_CLUB_YELLOW",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 70.2,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.2,
+            "slopeRating": 128.0,
+            "par": 73
+          }
+        ],
+        "totalYards": 6028,
+        "totalMeters": 5512,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_01",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_02",
+            "yards": 449,
+            "meters": 411
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_03",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_04",
+            "yards": 358,
+            "meters": 327
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_05",
+            "yards": 509,
+            "meters": 465
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_06",
+            "yards": 139,
+            "meters": 127
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_07",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_08",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_09",
+            "yards": 423,
+            "meters": 387
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_10",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_11",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_12",
+            "yards": 155,
+            "meters": 142
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_13",
+            "yards": 318,
+            "meters": 291
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_14",
+            "yards": 453,
+            "meters": 414
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_15",
+            "yards": 406,
+            "meters": 371
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_16",
+            "yards": 186,
+            "meters": 170
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_17",
+            "yards": 336,
+            "meters": 307
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_18",
+            "yards": 483,
+            "meters": 442
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_NORIA_GOLF_CLUB_BLUE",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 72.8,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 130.0,
+            "par": 73
+          }
+        ],
+        "totalYards": 5456,
+        "totalMeters": 4989,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_01",
+            "yards": 266,
+            "meters": 243
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_02",
+            "yards": 420,
+            "meters": 384
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_03",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_04",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_05",
+            "yards": 472,
+            "meters": 432
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_06",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_07",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_08",
+            "yards": 128,
+            "meters": 117
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_09",
+            "yards": 399,
+            "meters": 365
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_10",
+            "yards": 334,
+            "meters": 305
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_11",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_12",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_13",
+            "yards": 296,
+            "meters": 271
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_14",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_15",
+            "yards": 364,
+            "meters": 333
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_16",
+            "yards": 154,
+            "meters": 141
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_17",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_18",
+            "yards": 444,
+            "meters": 406
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_MAR_NORIA_GOLF_CLUB_RED",
+        "code": "QAS_MAR_NORIA_GOLF_CLUB_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 69.8,
+        "slope": 128,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.8,
+            "slopeRating": 128.0,
+            "par": 73
+          }
+        ],
+        "totalYards": 5038,
+        "totalMeters": 4607,
+        "distances": [
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_01",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_02",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_03",
+            "yards": 273,
+            "meters": 250
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_04",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_05",
+            "yards": 440,
+            "meters": 402
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_06",
+            "yards": 118,
+            "meters": 108
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_07",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_08",
+            "yards": 117,
+            "meters": 107
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_09",
+            "yards": 376,
+            "meters": 344
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_10",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_11",
+            "yards": 246,
+            "meters": 225
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_12",
+            "yards": 115,
+            "meters": 105
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_13",
+            "yards": 291,
+            "meters": 266
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_14",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_15",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_16",
+            "yards": 129,
+            "meters": 118
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_17",
+            "yards": 281,
+            "meters": 257
+          },
+          {
+            "holeCode": "QAS_MAR_NORIA_GOLF_CLUB_18",
+            "yards": 423,
+            "meters": 387
+          }
+        ]
+      }
+    ]
+  }
+}
