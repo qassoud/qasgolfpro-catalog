@@ -1,4 +1,4 @@
-# !/usr/bin/env python3
+#!/usr/bin/env python3
 """Update gps/versions.json after GPS geometry changes on GitHub."""
 
 import argparse
