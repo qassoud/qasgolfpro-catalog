@@ -2,6 +2,8 @@ name: Validate course catalog
 
 on:
   push:
+    paths-ignore:
+      - 'courses/**'
   pull_request:
   workflow_dispatch:
 
