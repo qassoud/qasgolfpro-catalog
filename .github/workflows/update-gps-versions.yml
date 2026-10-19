@@ -1,0 +1,53 @@
+
+name: Update GPS versions
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'gps/**/*_GPS.json'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gps-versions-main
+  cancel-in-progress: false
+
+jobs:
+  update-gps-versions:
+    name: Update GPS version registry
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Update GPS versions
+        env:
+          BEFORE: ${{ github.event.before || github.sha }}
+        run: |
+          python scripts/update_gps_versions.py --before "$BEFORE"
+
+      - name: Commit updated versions
+        run: |
+          if git diff --quiet -- gps/versions.json; then
+            echo "No GPS version changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add gps/versions.json
+          git commit -m "chore(gps): update GPS versions"
+          git push origin HEAD:main
