@@ -1,0 +1,588 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_TUR_CORNELIA_FALDO_KING",
+    "code": "QAS_TUR_CORNELIA_FALDO_KING",
+    "name": "Cornelia Golf Club - Nick Faldo King",
+    "city": "Belek (Antalya)",
+    "countryCode": "TUR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Visit Belek scorecard; Turkish Golf Federation King handicap chart (OWL Tourism)",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_01",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_02",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_02",
+        "number": 2,
+        "par": 5,
+        "strokeIndex": 2
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_03",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_03",
+        "number": 3,
+        "par": 3,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_04",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_05",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_05",
+        "number": 5,
+        "par": 5,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_06",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_07",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_07",
+        "number": 7,
+        "par": 4,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_08",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_08",
+        "number": 8,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_09",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_10",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_11",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_11",
+        "number": 11,
+        "par": 5,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_12",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_12",
+        "number": 12,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_13",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_14",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_14",
+        "number": 14,
+        "par": 3,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_15",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_16",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_17",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_17",
+        "number": 17,
+        "par": 4,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_CORNELIA_FALDO_KING_18",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 3
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_TUR_CORNELIA_FALDO_KING_BLACK",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.8,
+        "slope": 147,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.8,
+            "slopeRating": 147,
+            "par": 72
+          }
+        ],
+        "totalYards": 6972,
+        "totalMeters": 6373,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_01",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_02",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_03",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_04",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_05",
+            "yards": 536,
+            "meters": 490
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_06",
+            "yards": 165,
+            "meters": 151
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_07",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_08",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_10",
+            "yards": 377,
+            "meters": 345
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_11",
+            "yards": 615,
+            "meters": 562
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_12",
+            "yards": 151,
+            "meters": 138
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_13",
+            "yards": 417,
+            "meters": 381
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_14",
+            "yards": 221,
+            "meters": 202
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_15",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_16",
+            "yards": 533,
+            "meters": 487
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_17",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_18",
+            "yards": 459,
+            "meters": 420
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_CORNELIA_FALDO_KING_WHITE",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_WHITE",
+        "type": "WHITE",
+        "displayName": "Blanc",
+        "courseRating": 72.0,
+        "slope": 142,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.0,
+            "slopeRating": 142,
+            "par": 72
+          }
+        ],
+        "totalYards": 6530,
+        "totalMeters": 5969,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_01",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_02",
+            "yards": 556,
+            "meters": 508
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_03",
+            "yards": 136,
+            "meters": 124
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_04",
+            "yards": 384,
+            "meters": 351
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_05",
+            "yards": 514,
+            "meters": 470
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_06",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_07",
+            "yards": 302,
+            "meters": 276
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_08",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_09",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_10",
+            "yards": 350,
+            "meters": 320
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_11",
+            "yards": 594,
+            "meters": 543
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_12",
+            "yards": 135,
+            "meters": 123
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_13",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_14",
+            "yards": 201,
+            "meters": 184
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_15",
+            "yards": 349,
+            "meters": 319
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_16",
+            "yards": 501,
+            "meters": 458
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_17",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_18",
+            "yards": 441,
+            "meters": 403
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_CORNELIA_FALDO_KING_YELLOW",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_YELLOW",
+        "type": "YELLOW",
+        "displayName": "Jaune",
+        "courseRating": 69.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "par": 72
+          }
+        ],
+        "totalYards": 6058,
+        "totalMeters": 5538,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_01",
+            "yards": 314,
+            "meters": 287
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_02",
+            "yards": 521,
+            "meters": 476
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_03",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_04",
+            "yards": 340,
+            "meters": 311
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_05",
+            "yards": 489,
+            "meters": 447
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_06",
+            "yards": 147,
+            "meters": 134
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_07",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_08",
+            "yards": 351,
+            "meters": 321
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_09",
+            "yards": 378,
+            "meters": 346
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_10",
+            "yards": 327,
+            "meters": 299
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_11",
+            "yards": 550,
+            "meters": 503
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_12",
+            "yards": 132,
+            "meters": 121
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_13",
+            "yards": 370,
+            "meters": 338
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_14",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_15",
+            "yards": 325,
+            "meters": 297
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_16",
+            "yards": 475,
+            "meters": 434
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_17",
+            "yards": 339,
+            "meters": 310
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_18",
+            "yards": 418,
+            "meters": 382
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_CORNELIA_FALDO_KING_RED",
+        "code": "QAS_TUR_CORNELIA_FALDO_KING_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.6,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.6,
+            "slopeRating": 131,
+            "par": 72
+          }
+        ],
+        "totalYards": 5391,
+        "totalMeters": 4929,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_01",
+            "yards": 292,
+            "meters": 267
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_02",
+            "yards": 460,
+            "meters": 421
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_03",
+            "yards": 101,
+            "meters": 92
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_04",
+            "yards": 308,
+            "meters": 282
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_05",
+            "yards": 467,
+            "meters": 427
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_06",
+            "yards": 100,
+            "meters": 91
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_07",
+            "yards": 208,
+            "meters": 190
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_08",
+            "yards": 315,
+            "meters": 288
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_09",
+            "yards": 342,
+            "meters": 313
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_10",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_11",
+            "yards": 510,
+            "meters": 466
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_12",
+            "yards": 105,
+            "meters": 96
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_13",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_14",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_15",
+            "yards": 300,
+            "meters": 274
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_16",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_17",
+            "yards": 299,
+            "meters": 273
+          },
+          {
+            "holeCode": "QAS_TUR_CORNELIA_FALDO_KING_18",
+            "yards": 379,
+            "meters": 347
+          }
+        ]
+      }
+    ]
+  }
+}

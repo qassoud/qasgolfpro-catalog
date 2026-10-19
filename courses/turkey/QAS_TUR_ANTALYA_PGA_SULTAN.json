@@ -1,0 +1,594 @@
+{
+  "formatVersion": 1,
+  "provider": "QasGolfPro",
+  "course": {
+    "uuid": "COURSE_QAS_TUR_ANTALYA_PGA_SULTAN",
+    "code": "QAS_TUR_ANTALYA_PGA_SULTAN",
+    "name": "Antalya Golf Club - PGA Sultan",
+    "city": "Belek (Antalya)",
+    "countryCode": "TUR",
+    "numberOfHoles": 18,
+    "totalPar": 72,
+    "latitude": null,
+    "longitude": null,
+    "dataSource": "Antalya Golf Club PGA Sultan scorecard 2023; Turkish Golf Federation WHS rating chart (OWL Tourism)",
+    "dataVersion": 1,
+    "isVerified": false,
+    "holes": [
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_01",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_01",
+        "number": 1,
+        "par": 4,
+        "strokeIndex": 5
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_02",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_02",
+        "number": 2,
+        "par": 3,
+        "strokeIndex": 17
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_03",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_03",
+        "number": 3,
+        "par": 5,
+        "strokeIndex": 15
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_04",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_04",
+        "number": 4,
+        "par": 4,
+        "strokeIndex": 1
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_05",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_05",
+        "number": 5,
+        "par": 4,
+        "strokeIndex": 7
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_06",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_06",
+        "number": 6,
+        "par": 3,
+        "strokeIndex": 11
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_07",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_07",
+        "number": 7,
+        "par": 5,
+        "strokeIndex": 3
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_08",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_08",
+        "number": 8,
+        "par": 3,
+        "strokeIndex": 13
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_09",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_09",
+        "number": 9,
+        "par": 4,
+        "strokeIndex": 9
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_10",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_10",
+        "number": 10,
+        "par": 4,
+        "strokeIndex": 16
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_11",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_11",
+        "number": 11,
+        "par": 4,
+        "strokeIndex": 12
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_12",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_12",
+        "number": 12,
+        "par": 5,
+        "strokeIndex": 8
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_13",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_13",
+        "number": 13,
+        "par": 4,
+        "strokeIndex": 10
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_14",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_14",
+        "number": 14,
+        "par": 4,
+        "strokeIndex": 4
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_15",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_15",
+        "number": 15,
+        "par": 4,
+        "strokeIndex": 14
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_16",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_16",
+        "number": 16,
+        "par": 5,
+        "strokeIndex": 6
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_17",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_17",
+        "number": 17,
+        "par": 3,
+        "strokeIndex": 18
+      },
+      {
+        "uuid": "HOLE_QAS_TUR_ANTALYA_PGA_SULTAN_18",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_18",
+        "number": 18,
+        "par": 4,
+        "strokeIndex": 2
+      }
+    ],
+    "tees": [
+      {
+        "uuid": "TEE_QAS_TUR_ANTALYA_PGA_SULTAN_BLACK",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_BLACK",
+        "type": "BLACK",
+        "displayName": "Noir",
+        "courseRating": 74.3,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.3,
+            "slopeRating": 146,
+            "par": 72
+          }
+        ],
+        "totalYards": 7083,
+        "totalMeters": 6477,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_01",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_02",
+            "yards": 168,
+            "meters": 154
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_03",
+            "yards": 530,
+            "meters": 485
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_04",
+            "yards": 459,
+            "meters": 420
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_05",
+            "yards": 373,
+            "meters": 341
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_06",
+            "yards": 240,
+            "meters": 219
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_07",
+            "yards": 538,
+            "meters": 492
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_08",
+            "yards": 203,
+            "meters": 186
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_09",
+            "yards": 360,
+            "meters": 329
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_10",
+            "yards": 395,
+            "meters": 361
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_11",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_12",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_13",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_14",
+            "yards": 408,
+            "meters": 373
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_15",
+            "yards": 430,
+            "meters": 393
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_16",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_17",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_18",
+            "yards": 442,
+            "meters": 404
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_ANTALYA_PGA_SULTAN_GOLD",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_GOLD",
+        "type": "GOLD",
+        "displayName": "Or",
+        "courseRating": 71.6,
+        "slope": 138,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 71.6,
+            "slopeRating": 138,
+            "par": 72
+          }
+        ],
+        "totalYards": 6516,
+        "totalMeters": 5958,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_01",
+            "yards": 404,
+            "meters": 369
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_02",
+            "yards": 152,
+            "meters": 139
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_03",
+            "yards": 516,
+            "meters": 472
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_04",
+            "yards": 437,
+            "meters": 400
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_06",
+            "yards": 224,
+            "meters": 205
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_07",
+            "yards": 500,
+            "meters": 457
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_08",
+            "yards": 190,
+            "meters": 174
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_09",
+            "yards": 332,
+            "meters": 304
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_10",
+            "yards": 361,
+            "meters": 330
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_11",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_12",
+            "yards": 462,
+            "meters": 422
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_13",
+            "yards": 389,
+            "meters": 356
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_14",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_15",
+            "yards": 401,
+            "meters": 367
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_16",
+            "yards": 487,
+            "meters": 445
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_17",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_18",
+            "yards": 422,
+            "meters": 386
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_ANTALYA_PGA_SULTAN_BLUE",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_BLUE",
+        "type": "BLUE",
+        "displayName": "Bleu",
+        "courseRating": 69.0,
+        "slope": 131,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.0,
+            "slopeRating": 131,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 142,
+            "par": 72
+          }
+        ],
+        "totalYards": 6099,
+        "totalMeters": 5575,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_01",
+            "yards": 381,
+            "meters": 348
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_02",
+            "yards": 133,
+            "meters": 122
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_03",
+            "yards": 491,
+            "meters": 449
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_04",
+            "yards": 416,
+            "meters": 380
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_05",
+            "yards": 335,
+            "meters": 306
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_06",
+            "yards": 206,
+            "meters": 188
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_07",
+            "yards": 480,
+            "meters": 439
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_08",
+            "yards": 176,
+            "meters": 161
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_09",
+            "yards": 305,
+            "meters": 279
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_10",
+            "yards": 337,
+            "meters": 308
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_11",
+            "yards": 338,
+            "meters": 309
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_12",
+            "yards": 427,
+            "meters": 390
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_13",
+            "yards": 363,
+            "meters": 332
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_14",
+            "yards": 324,
+            "meters": 296
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_15",
+            "yards": 372,
+            "meters": 340
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_16",
+            "yards": 474,
+            "meters": 433
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_17",
+            "yards": 144,
+            "meters": 132
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_18",
+            "yards": 397,
+            "meters": 363
+          }
+        ]
+      },
+      {
+        "uuid": "TEE_QAS_TUR_ANTALYA_PGA_SULTAN_RED",
+        "code": "QAS_TUR_ANTALYA_PGA_SULTAN_RED",
+        "type": "RED",
+        "displayName": "Rouge",
+        "courseRating": 71.1,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 71.1,
+            "slopeRating": 132,
+            "par": 72
+          }
+        ],
+        "totalYards": 5470,
+        "totalMeters": 5003,
+        "distances": [
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_01",
+            "yards": 331,
+            "meters": 303
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_02",
+            "yards": 109,
+            "meters": 100
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_03",
+            "yards": 470,
+            "meters": 430
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_04",
+            "yards": 366,
+            "meters": 335
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_05",
+            "yards": 313,
+            "meters": 286
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_06",
+            "yards": 183,
+            "meters": 167
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_07",
+            "yards": 451,
+            "meters": 412
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_08",
+            "yards": 148,
+            "meters": 135
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_09",
+            "yards": 259,
+            "meters": 237
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_11",
+            "yards": 303,
+            "meters": 277
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_12",
+            "yards": 397,
+            "meters": 363
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_13",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_14",
+            "yards": 295,
+            "meters": 270
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_15",
+            "yards": 320,
+            "meters": 293
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_16",
+            "yards": 400,
+            "meters": 366
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_17",
+            "yards": 120,
+            "meters": 110
+          },
+          {
+            "holeCode": "QAS_TUR_ANTALYA_PGA_SULTAN_18",
+            "yards": 366,
+            "meters": 335
+          }
+        ]
+      }
+    ]
+  }
+}
