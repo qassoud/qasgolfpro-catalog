@@ -11,134 +11,134 @@
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "CSV généré par QasGolfPro Course Generator",
-    "dataVersion": 1,
-    "isVerified": false,
+    "dataSource": "FRMG — cartes de score PalmGolf Ourika, captures du 2026-10-24 (PAR, SI, distances, SSS/Slope H/F)",
+    "dataVersion": 2,
+    "isVerified": true,
     "holes": [
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_01",
         "code": "QAS_MAR_PALMGOLF_OURIKA_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_02",
         "code": "QAS_MAR_PALMGOLF_OURIKA_02",
         "number": 2,
-        "par": 5,
-        "strokeIndex": 2
+        "par": 3,
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_03",
         "code": "QAS_MAR_PALMGOLF_OURIKA_03",
         "number": 3,
-        "par": 3,
-        "strokeIndex": 3
+        "par": 4,
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_04",
         "code": "QAS_MAR_PALMGOLF_OURIKA_04",
         "number": 4,
-        "par": 4,
-        "strokeIndex": 4
+        "par": 5,
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_05",
         "code": "QAS_MAR_PALMGOLF_OURIKA_05",
         "number": 5,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_06",
         "code": "QAS_MAR_PALMGOLF_OURIKA_06",
         "number": 6,
-        "par": 3,
-        "strokeIndex": 6
+        "par": 4,
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_07",
         "code": "QAS_MAR_PALMGOLF_OURIKA_07",
         "number": 7,
         "par": 5,
-        "strokeIndex": 7
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_08",
         "code": "QAS_MAR_PALMGOLF_OURIKA_08",
         "number": 8,
-        "par": 4,
-        "strokeIndex": 8
+        "par": 3,
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_09",
         "code": "QAS_MAR_PALMGOLF_OURIKA_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 9
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_10",
         "code": "QAS_MAR_PALMGOLF_OURIKA_10",
         "number": 10,
-        "par": 4,
-        "strokeIndex": 10
+        "par": 5,
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_11",
         "code": "QAS_MAR_PALMGOLF_OURIKA_11",
         "number": 11,
         "par": 4,
-        "strokeIndex": 11
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_12",
         "code": "QAS_MAR_PALMGOLF_OURIKA_12",
         "number": 12,
         "par": 3,
-        "strokeIndex": 12
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_13",
         "code": "QAS_MAR_PALMGOLF_OURIKA_13",
         "number": 13,
-        "par": 5,
-        "strokeIndex": 13
+        "par": 4,
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_14",
         "code": "QAS_MAR_PALMGOLF_OURIKA_14",
         "number": 14,
-        "par": 4,
-        "strokeIndex": 14
+        "par": 3,
+        "strokeIndex": 8
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_15",
         "code": "QAS_MAR_PALMGOLF_OURIKA_15",
         "number": 15,
-        "par": 3,
-        "strokeIndex": 15
+        "par": 5,
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_16",
         "code": "QAS_MAR_PALMGOLF_OURIKA_16",
         "number": 16,
-        "par": 5,
-        "strokeIndex": 16
+        "par": 4,
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_17",
         "code": "QAS_MAR_PALMGOLF_OURIKA_17",
         "number": 17,
-        "par": 4,
-        "strokeIndex": 17
+        "par": 3,
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_MAR_PALMGOLF_OURIKA_18",
         "code": "QAS_MAR_PALMGOLF_OURIKA_18",
         "number": 18,
-        "par": 4,
+        "par": 5,
         "strokeIndex": 18
       }
     ],
@@ -148,100 +148,114 @@
         "code": "QAS_MAR_PALMGOLF_OURIKA_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "totalYards": 7274,
-        "totalMeters": 6650,
+        "courseRating": 75.4,
+        "slope": 144,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.4,
+            "slopeRating": 144,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.4,
+            "slopeRating": 144,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 7239,
+        "totalMeters": 6619,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_01",
-            "yards": 419,
-            "meters": 383
+            "yards": 445,
+            "meters": 407
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
-            "yards": 563,
-            "meters": 515
+            "yards": 180,
+            "meters": 165
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
-            "yards": 188,
-            "meters": 172
+            "yards": 399,
+            "meters": 365
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
-            "yards": 437,
-            "meters": 400
+            "yards": 608,
+            "meters": 556
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
-            "yards": 427,
-            "meters": 390
+            "yards": 471,
+            "meters": 431
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
-            "yards": 182,
-            "meters": 166
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
-            "yards": 571,
-            "meters": 522
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
-            "yards": 432,
-            "meters": 395
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
-            "yards": 425,
-            "meters": 389
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
-            "yards": 416,
-            "meters": 380
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
             "yards": 440,
             "meters": 402
           },
           {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
+            "yards": 588,
+            "meters": 538
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
+            "yards": 211,
+            "meters": 193
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
+            "yards": 439,
+            "meters": 401
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
+            "yards": 608,
+            "meters": 556
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
+            "yards": 357,
+            "meters": 326
+          },
+          {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
-            "yards": 186,
-            "meters": 170
+            "yards": 192,
+            "meters": 176
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_13",
-            "yards": 558,
-            "meters": 510
+            "yards": 470,
+            "meters": 430
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_14",
-            "yards": 428,
-            "meters": 391
+            "yards": 233,
+            "meters": 213
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_15",
-            "yards": 177,
-            "meters": 162
+            "yards": 548,
+            "meters": 501
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_16",
-            "yards": 553,
-            "meters": 506
+            "yards": 365,
+            "meters": 334
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_17",
-            "yards": 442,
-            "meters": 404
+            "yards": 157,
+            "meters": 144
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_18",
-            "yards": 430,
-            "meters": 393
+            "yards": 526,
+            "meters": 481
           }
         ]
       },
@@ -250,100 +264,114 @@
         "code": "QAS_MAR_PALMGOLF_OURIKA_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "totalYards": 6869,
-        "totalMeters": 6280,
+        "courseRating": 72.8,
+        "slope": 139,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 139,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6760,
+        "totalMeters": 6181,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_01",
-            "yards": 395,
-            "meters": 361
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
-            "yards": 533,
-            "meters": 487
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
-            "yards": 177,
-            "meters": 162
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
-            "yards": 413,
-            "meters": 378
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
-            "yards": 402,
-            "meters": 368
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
-            "yards": 172,
-            "meters": 157
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
-            "yards": 538,
-            "meters": 492
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
-            "yards": 408,
-            "meters": 373
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
-            "yards": 401,
-            "meters": 367
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
-            "yards": 393,
-            "meters": 359
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
             "yards": 416,
             "meters": 380
           },
           {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
+            "yards": 156,
+            "meters": 143
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
+            "yards": 375,
+            "meters": 343
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
+            "yards": 566,
+            "meters": 518
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
+            "yards": 447,
+            "meters": 409
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
+            "yards": 410,
+            "meters": 375
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
+            "yards": 564,
+            "meters": 516
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
+            "yards": 412,
+            "meters": 377
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
+            "yards": 589,
+            "meters": 539
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
+            "yards": 329,
+            "meters": 301
+          },
+          {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
-            "yards": 175,
-            "meters": 160
+            "yards": 170,
+            "meters": 155
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_13",
-            "yards": 526,
-            "meters": 481
+            "yards": 447,
+            "meters": 409
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_14",
-            "yards": 405,
-            "meters": 370
+            "yards": 208,
+            "meters": 190
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_15",
-            "yards": 167,
-            "meters": 153
+            "yards": 521,
+            "meters": 476
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_16",
-            "yards": 523,
-            "meters": 478
+            "yards": 332,
+            "meters": 304
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_17",
-            "yards": 418,
-            "meters": 382
+            "yards": 135,
+            "meters": 123
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_18",
-            "yards": 407,
-            "meters": 372
+            "yards": 489,
+            "meters": 447
           }
         ]
       },
@@ -352,100 +380,114 @@
         "code": "QAS_MAR_PALMGOLF_OURIKA_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": null,
-        "slope": null,
-        "totalYards": 6418,
-        "totalMeters": 5870,
+        "courseRating": 70.7,
+        "slope": 132,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 132,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 132,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 6368,
+        "totalMeters": 5823,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_01",
-            "yards": 370,
-            "meters": 338
+            "yards": 407,
+            "meters": 372
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
-            "yards": 498,
-            "meters": 455
+            "yards": 149,
+            "meters": 136
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
-            "yards": 166,
-            "meters": 152
+            "yards": 364,
+            "meters": 333
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
-            "yards": 386,
-            "meters": 353
+            "yards": 521,
+            "meters": 476
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
-            "yards": 376,
-            "meters": 344
+            "yards": 411,
+            "meters": 376
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
-            "yards": 160,
-            "meters": 146
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
-            "yards": 504,
-            "meters": 461
+            "yards": 536,
+            "meters": 490
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
-            "yards": 382,
-            "meters": 349
+            "yards": 186,
+            "meters": 170
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
-            "yards": 375,
-            "meters": 343
+            "yards": 374,
+            "meters": 342
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
-            "yards": 366,
-            "meters": 335
+            "yards": 557,
+            "meters": 509
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
-            "yards": 388,
-            "meters": 355
+            "yards": 297,
+            "meters": 272
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
-            "yards": 164,
-            "meters": 150
+            "yards": 163,
+            "meters": 149
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_13",
-            "yards": 492,
-            "meters": 450
+            "yards": 402,
+            "meters": 368
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_14",
-            "yards": 378,
-            "meters": 346
+            "yards": 179,
+            "meters": 164
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_15",
-            "yards": 156,
-            "meters": 143
+            "yards": 515,
+            "meters": 471
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_16",
-            "yards": 488,
-            "meters": 446
+            "yards": 328,
+            "meters": 300
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_17",
-            "yards": 390,
-            "meters": 357
+            "yards": 117,
+            "meters": 107
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_18",
-            "yards": 379,
-            "meters": 347
+            "yards": 456,
+            "meters": 417
           }
         ]
       },
@@ -454,100 +496,114 @@
         "code": "QAS_MAR_PALMGOLF_OURIKA_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": null,
-        "slope": null,
-        "totalYards": 5929,
-        "totalMeters": 5420,
+        "courseRating": 74.9,
+        "slope": 140,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 74.9,
+            "slopeRating": 140,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 74.9,
+            "slopeRating": 140,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5904,
+        "totalMeters": 5399,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_01",
-            "yards": 341,
-            "meters": 312
+            "yards": 385,
+            "meters": 352
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
-            "yards": 459,
-            "meters": 420
+            "yards": 126,
+            "meters": 115
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
-            "yards": 153,
-            "meters": 140
+            "yards": 331,
+            "meters": 303
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
-            "yards": 357,
-            "meters": 326
+            "yards": 471,
+            "meters": 431
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
-            "yards": 347,
-            "meters": 317
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
-            "yards": 148,
-            "meters": 135
+            "yards": 377,
+            "meters": 345
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
-            "yards": 467,
-            "meters": 427
+            "yards": 489,
+            "meters": 447
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
-            "yards": 352,
-            "meters": 322
+            "yards": 165,
+            "meters": 151
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
-            "yards": 347,
-            "meters": 317
+            "yards": 370,
+            "meters": 338
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
-            "yards": 339,
-            "meters": 310
+            "yards": 515,
+            "meters": 471
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
-            "yards": 359,
-            "meters": 328
+            "yards": 291,
+            "meters": 266
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
-            "yards": 151,
-            "meters": 138
+            "yards": 132,
+            "meters": 121
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_13",
-            "yards": 454,
-            "meters": 415
+            "yards": 326,
+            "meters": 298
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_14",
-            "yards": 349,
-            "meters": 319
+            "yards": 174,
+            "meters": 159
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_15",
-            "yards": 144,
-            "meters": 132
+            "yards": 480,
+            "meters": 439
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_16",
-            "yards": 451,
-            "meters": 412
+            "yards": 302,
+            "meters": 276
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_17",
-            "yards": 360,
-            "meters": 329
+            "yards": 114,
+            "meters": 104
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_18",
-            "yards": 351,
-            "meters": 321
+            "yards": 451,
+            "meters": 412
           }
         ]
       },
@@ -556,100 +612,114 @@
         "code": "QAS_MAR_PALMGOLF_OURIKA_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": null,
-        "slope": null,
-        "totalYards": 5359,
-        "totalMeters": 4900,
+        "courseRating": 70.7,
+        "slope": 130,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 70.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.7,
+            "slopeRating": 130,
+            "ratingPar": 72
+          }
+        ],
+        "totalYards": 5232,
+        "totalMeters": 4784,
         "distances": [
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_01",
-            "yards": 308,
-            "meters": 282
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
-            "yards": 416,
-            "meters": 380
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
-            "yards": 139,
-            "meters": 127
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
-            "yards": 323,
-            "meters": 295
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
-            "yards": 314,
-            "meters": 287
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
-            "yards": 133,
-            "meters": 122
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
-            "yards": 422,
-            "meters": 386
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
-            "yards": 318,
-            "meters": 291
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
-            "yards": 313,
-            "meters": 286
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
-            "yards": 306,
-            "meters": 280
-          },
-          {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
             "yards": 324,
             "meters": 296
           },
           {
-            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_02",
+            "yards": 104,
+            "meters": 95
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_03",
+            "yards": 287,
+            "meters": 262
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_04",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_05",
+            "yards": 357,
+            "meters": 326
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_06",
+            "yards": 328,
+            "meters": 300
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_07",
+            "yards": 482,
+            "meters": 441
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_08",
             "yards": 137,
             "meters": 125
           },
           {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_09",
+            "yards": 301,
+            "meters": 275
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_10",
+            "yards": 445,
+            "meters": 407
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_11",
+            "yards": 267,
+            "meters": 244
+          },
+          {
+            "holeCode": "QAS_MAR_PALMGOLF_OURIKA_12",
+            "yards": 105,
+            "meters": 96
+          },
+          {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_13",
-            "yards": 410,
-            "meters": 375
+            "yards": 319,
+            "meters": 292
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_14",
-            "yards": 315,
-            "meters": 288
+            "yards": 126,
+            "meters": 115
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_15",
-            "yards": 130,
-            "meters": 119
+            "yards": 445,
+            "meters": 407
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_16",
-            "yards": 408,
-            "meters": 373
+            "yards": 272,
+            "meters": 249
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_17",
-            "yards": 326,
-            "meters": 298
+            "yards": 85,
+            "meters": 78
           },
           {
             "holeCode": "QAS_MAR_PALMGOLF_OURIKA_18",
-            "yards": 317,
-            "meters": 290
+            "yards": 404,
+            "meters": 369
           }
         ]
       }
