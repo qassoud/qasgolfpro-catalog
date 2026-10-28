@@ -12,7 +12,7 @@
     "latitude": null,
     "longitude": null,
     "dataSource": "FRMG Scoreboard (captures du 28/10/2026); 18Birdies pour le Slope noir 155.",
-    "dataVersion": 2,
+    "dataVersion": 3,
     "isVerified": false,
     "holes": [
       {
@@ -723,6 +723,7 @@
           }
         ]
       }
-    ]
+    ],
+    "pruneMissingTees": true
   }
 }
