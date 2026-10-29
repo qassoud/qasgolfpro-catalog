@@ -46,8 +46,10 @@ def geometry(data, label):
         raise ValueError(f"{label}: invalid GPS formatVersion")
     center = check_point(data.get("courseCenter"), f"{label} center")
     holes = data.get("holes")
-    if not isinstance(holes, list) or len(holes) != 18:
-        raise ValueError(f"{label}: expected exactly 18 holes")
+    # Mapping progressif : un parcours peut etre publie avec un seul trou,
+    # puis enrichi progressivement jusqu'a 18 trous.
+    if not isinstance(holes, list) or not 1 <= len(holes) <= 18:
+        raise ValueError(f"{label}: expected between 1 and 18 mapped holes")
     coordinates = []
     numbers = []
     for hole in holes:
@@ -69,8 +71,8 @@ def geometry(data, label):
             ],
             "green": check_point(hole.get("green"), f"{label} hole {number} green"),
         })
-    if sorted(numbers) != list(range(1, 19)):
-        raise ValueError(f"{label}: hole numbers are not unique 1-18")
+    if len(numbers) != len(set(numbers)):
+        raise ValueError(f"{label}: duplicate hole numbers (must be unique 1-18)")
     coordinates.sort(key=lambda hole: hole["number"])
     return {"courseCenter": center, "holes": coordinates}
 
