@@ -4,15 +4,15 @@
   "course": {
     "uuid": "COURSE_QAS_MAR_LES_DUNES_AGADIR",
     "code": "QAS_MAR_LES_DUNES_AGADIR",
-    "name": "Golf Les Dunes Agadir - Eucalyptus & Tamaris",
+    "name": "Golf Les Dunes Agadir - Eucalyptus / Tamaris (B/R)",
     "city": "Agadir",
     "countryCode": "MAR",
     "numberOfHoles": 18,
     "totalPar": 72,
     "latitude": null,
     "longitude": null,
-    "dataSource": "Golf Les Dunes / Bilyana + Albrecht — Eucalyptus & Tamaris — contrôlé 2026-09-13",
-    "dataVersion": 2,
+    "dataSource": "Fédération Royale Marocaine de Golf (FRMG) — Dunes Eucalyptus/Tamaris B/R (18 trous), captures du 2026-10-29",
+    "dataVersion": 3,
     "isVerified": true,
     "holes": [
       {
@@ -20,49 +20,49 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_01",
         "number": 1,
         "par": 4,
-        "strokeIndex": 1
+        "strokeIndex": 17
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_02",
         "code": "QAS_MAR_LES_DUNES_AGADIR_02",
         "number": 2,
         "par": 5,
-        "strokeIndex": 2
+        "strokeIndex": 13
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_03",
         "code": "QAS_MAR_LES_DUNES_AGADIR_03",
         "number": 3,
         "par": 4,
-        "strokeIndex": 3
+        "strokeIndex": 10
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_04",
         "code": "QAS_MAR_LES_DUNES_AGADIR_04",
         "number": 4,
         "par": 3,
-        "strokeIndex": 4
+        "strokeIndex": 12
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_05",
         "code": "QAS_MAR_LES_DUNES_AGADIR_05",
         "number": 5,
         "par": 4,
-        "strokeIndex": 5
+        "strokeIndex": 4
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_06",
         "code": "QAS_MAR_LES_DUNES_AGADIR_06",
         "number": 6,
         "par": 3,
-        "strokeIndex": 6
+        "strokeIndex": 15
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_07",
         "code": "QAS_MAR_LES_DUNES_AGADIR_07",
         "number": 7,
         "par": 4,
-        "strokeIndex": 7
+        "strokeIndex": 6
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_08",
@@ -76,63 +76,63 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_09",
         "number": 9,
         "par": 4,
-        "strokeIndex": 9
+        "strokeIndex": 2
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_10",
         "code": "QAS_MAR_LES_DUNES_AGADIR_10",
         "number": 10,
         "par": 4,
-        "strokeIndex": 10
+        "strokeIndex": 16
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_11",
         "code": "QAS_MAR_LES_DUNES_AGADIR_11",
         "number": 11,
         "par": 3,
-        "strokeIndex": 11
+        "strokeIndex": 14
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_12",
         "code": "QAS_MAR_LES_DUNES_AGADIR_12",
         "number": 12,
         "par": 4,
-        "strokeIndex": 12
+        "strokeIndex": 1
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_13",
         "code": "QAS_MAR_LES_DUNES_AGADIR_13",
         "number": 13,
         "par": 5,
-        "strokeIndex": 13
+        "strokeIndex": 5
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_14",
         "code": "QAS_MAR_LES_DUNES_AGADIR_14",
         "number": 14,
         "par": 3,
-        "strokeIndex": 14
+        "strokeIndex": 9
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_15",
         "code": "QAS_MAR_LES_DUNES_AGADIR_15",
         "number": 15,
         "par": 4,
-        "strokeIndex": 15
+        "strokeIndex": 11
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_16",
         "code": "QAS_MAR_LES_DUNES_AGADIR_16",
         "number": 16,
         "par": 4,
-        "strokeIndex": 16
+        "strokeIndex": 3
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_17",
         "code": "QAS_MAR_LES_DUNES_AGADIR_17",
         "number": 17,
         "par": 4,
-        "strokeIndex": 17
+        "strokeIndex": 7
       },
       {
         "uuid": "HOLE_QAS_MAR_LES_DUNES_AGADIR_18",
@@ -148,101 +148,114 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_BLACK",
         "type": "BLACK",
         "displayName": "Noir",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6889,
-        "totalMeters": 6299,
+        "courseRating": 75.0,
+        "slope": 152,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 75.0,
+            "slopeRating": 152,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 75.0,
+            "slopeRating": 152,
+            "par": 72
+          }
+        ],
+        "totalYards": 6807,
+        "totalMeters": 6225,
         "distances": [
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_01",
-            "yards": 376,
-            "meters": 344
+            "yards": 374,
+            "meters": 342
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
-            "yards": 542,
-            "meters": 496
+            "yards": 547,
+            "meters": 500
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
-            "yards": 376,
-            "meters": 344
+            "yards": 374,
+            "meters": 342
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
-            "yards": 187,
-            "meters": 171
+            "yards": 184,
+            "meters": 168
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
-            "yards": 412,
-            "meters": 377
+            "yards": 402,
+            "meters": 368
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
-            "yards": 198,
-            "meters": 181
+            "yards": 200,
+            "meters": 183
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
-            "yards": 397,
-            "meters": 363
+            "yards": 395,
+            "meters": 361
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_08",
-            "yards": 518,
-            "meters": 474
+            "yards": 517,
+            "meters": 473
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_09",
-            "yards": 409,
-            "meters": 374
+            "yards": 406,
+            "meters": 371
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
-            "yards": 357,
-            "meters": 326
+            "yards": 355,
+            "meters": 325
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
-            "yards": 178,
-            "meters": 163
+            "yards": 165,
+            "meters": 151
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
-            "yards": 463,
-            "meters": 423
+            "yards": 447,
+            "meters": 409
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
-            "yards": 575,
-            "meters": 526
+            "yards": 577,
+            "meters": 528
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
-            "yards": 182,
-            "meters": 166
+            "yards": 170,
+            "meters": 155
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
-            "yards": 371,
-            "meters": 339
+            "yards": 363,
+            "meters": 332
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
-            "yards": 429,
-            "meters": 392
+            "yards": 433,
+            "meters": 396
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_17",
-            "yards": 404,
-            "meters": 369
+            "yards": 399,
+            "meters": 365
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_18",
-            "yards": 515,
-            "meters": 471
+            "yards": 499,
+            "meters": 456
           }
         ]
       },
@@ -251,101 +264,114 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_WHITE",
         "type": "WHITE",
         "displayName": "Blanc",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 6408,
-        "totalMeters": 5860,
+        "courseRating": 72.2,
+        "slope": 146,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 72.2,
+            "slopeRating": 146,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.2,
+            "slopeRating": 146,
+            "par": 72
+          }
+        ],
+        "totalYards": 6313,
+        "totalMeters": 5773,
         "distances": [
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_01",
-            "yards": 362,
-            "meters": 331
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
-            "yards": 519,
-            "meters": 475
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
-            "yards": 343,
-            "meters": 314
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
-            "yards": 180,
-            "meters": 165
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
-            "yards": 379,
-            "meters": 347
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
-            "yards": 191,
-            "meters": 175
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
             "yards": 364,
             "meters": 333
           },
           {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
+            "yards": 512,
+            "meters": 468
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
+            "yards": 341,
+            "meters": 312
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
+            "yards": 175,
+            "meters": 160
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
+            "yards": 374,
+            "meters": 342
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
+            "yards": 192,
+            "meters": 176
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
+            "yards": 362,
+            "meters": 331
+          },
+          {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_08",
-            "yards": 487,
-            "meters": 445
+            "yards": 484,
+            "meters": 443
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_09",
+            "yards": 379,
+            "meters": 347
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
+            "yards": 311,
+            "meters": 284
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
+            "yards": 150,
+            "meters": 137
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
+            "yards": 526,
+            "meters": 481
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
+            "yards": 170,
+            "meters": 155
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
+            "yards": 307,
+            "meters": 281
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
             "yards": 392,
             "meters": 358
           },
           {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
-            "yards": 317,
-            "meters": 290
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
-            "yards": 155,
-            "meters": 142
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
-            "yards": 439,
-            "meters": 401
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
-            "yards": 524,
-            "meters": 479
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
-            "yards": 173,
-            "meters": 158
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
-            "yards": 315,
-            "meters": 288
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
-            "yards": 396,
-            "meters": 362
-          },
-          {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_17",
-            "yards": 357,
-            "meters": 326
+            "yards": 353,
+            "meters": 323
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_18",
-            "yards": 515,
-            "meters": 471
+            "yards": 499,
+            "meters": 456
           }
         ]
       },
@@ -354,16 +380,29 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_YELLOW",
         "type": "YELLOW",
         "displayName": "Jaune",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 5804,
-        "totalMeters": 5307,
+        "courseRating": 69.8,
+        "slope": 129,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 69.8,
+            "slopeRating": 129,
+            "par": 72
+          }
+        ],
+        "totalYards": 5569,
+        "totalMeters": 5093,
         "distances": [
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_01",
-            "yards": 313,
-            "meters": 286
+            "yards": 318,
+            "meters": 291
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
@@ -372,83 +411,83 @@
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
-            "yards": 292,
-            "meters": 267
+            "yards": 289,
+            "meters": 264
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
-            "yards": 159,
-            "meters": 145
+            "yards": 157,
+            "meters": 144
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
-            "yards": 336,
-            "meters": 307
+            "yards": 329,
+            "meters": 301
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
-            "yards": 135,
-            "meters": 123
+            "yards": 136,
+            "meters": 124
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
-            "yards": 344,
-            "meters": 315
+            "yards": 342,
+            "meters": 313
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_08",
-            "yards": 439,
-            "meters": 401
+            "yards": 431,
+            "meters": 394
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_09",
-            "yards": 377,
-            "meters": 345
+            "yards": 351,
+            "meters": 321
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
-            "yards": 291,
-            "meters": 266
+            "yards": 288,
+            "meters": 263
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
-            "yards": 122,
-            "meters": 112
+            "yards": 108,
+            "meters": 99
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
-            "yards": 402,
-            "meters": 368
+            "yards": 282,
+            "meters": 258
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
-            "yards": 470,
-            "meters": 430
+            "yards": 468,
+            "meters": 428
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
-            "yards": 139,
-            "meters": 127
+            "yards": 138,
+            "meters": 126
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
-            "yards": 306,
-            "meters": 280
+            "yards": 307,
+            "meters": 281
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
-            "yards": 386,
-            "meters": 353
+            "yards": 354,
+            "meters": 324
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_17",
-            "yards": 332,
-            "meters": 304
+            "yards": 327,
+            "meters": 299
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_18",
-            "yards": 486,
-            "meters": 444
+            "yards": 469,
+            "meters": 429
           }
         ]
       },
@@ -457,41 +496,54 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_BLUE",
         "type": "BLUE",
         "displayName": "Bleu",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 5239,
-        "totalMeters": 4792,
+        "courseRating": 68.0,
+        "slope": 127,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 68.0,
+            "slopeRating": 127,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 72.8,
+            "slopeRating": 136,
+            "par": 72
+          }
+        ],
+        "totalYards": 5158,
+        "totalMeters": 4719,
         "distances": [
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_01",
-            "yards": 289,
-            "meters": 264
+            "yards": 290,
+            "meters": 265
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
-            "yards": 405,
-            "meters": 370
+            "yards": 420,
+            "meters": 384
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
-            "yards": 274,
-            "meters": 251
+            "yards": 273,
+            "meters": 250
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
-            "yards": 108,
-            "meters": 99
+            "yards": 110,
+            "meters": 101
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
-            "yards": 309,
-            "meters": 283
+            "yards": 307,
+            "meters": 281
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
-            "yards": 129,
-            "meters": 118
+            "yards": 133,
+            "meters": 122
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
@@ -500,58 +552,58 @@
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_08",
-            "yards": 427,
-            "meters": 390
+            "yards": 416,
+            "meters": 380
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_09",
-            "yards": 359,
-            "meters": 328
+            "yards": 332,
+            "meters": 304
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
-            "yards": 281,
-            "meters": 257
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
-            "yards": 106,
-            "meters": 97
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
-            "yards": 367,
-            "meters": 336
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
-            "yards": 423,
-            "meters": 387
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
-            "yards": 121,
-            "meters": 111
-          },
-          {
-            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
             "yards": 274,
             "meters": 251
           },
           {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
+            "yards": 93,
+            "meters": 85
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
+            "yards": 355,
+            "meters": 325
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
+            "yards": 422,
+            "meters": 386
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
+            "yards": 116,
+            "meters": 106
+          },
+          {
+            "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
+            "yards": 272,
+            "meters": 249
+          },
+          {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
-            "yards": 351,
-            "meters": 321
+            "yards": 317,
+            "meters": 290
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_17",
-            "yards": 295,
-            "meters": 270
+            "yards": 292,
+            "meters": 267
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_18",
-            "yards": 417,
-            "meters": 381
+            "yards": 432,
+            "meters": 395
           }
         ]
       },
@@ -560,46 +612,59 @@
         "code": "QAS_MAR_LES_DUNES_AGADIR_RED",
         "type": "RED",
         "displayName": "Rouge",
-        "courseRating": null,
-        "slope": null,
-        "ratings": [],
-        "totalYards": 4704,
-        "totalMeters": 4300,
+        "courseRating": 67.3,
+        "slope": 126,
+        "ratings": [
+          {
+            "playerCategory": "MEN",
+            "courseRating": 67.3,
+            "slopeRating": 126,
+            "par": 72
+          },
+          {
+            "playerCategory": "WOMEN",
+            "courseRating": 70.3,
+            "slopeRating": 126,
+            "par": 72
+          }
+        ],
+        "totalYards": 4746,
+        "totalMeters": 4340,
         "distances": [
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_01",
-            "yards": 258,
-            "meters": 236
+            "yards": 279,
+            "meters": 255
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_02",
-            "yards": 405,
-            "meters": 370
+            "yards": 350,
+            "meters": 320
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_03",
-            "yards": 252,
-            "meters": 230
+            "yards": 247,
+            "meters": 226
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_04",
-            "yards": 89,
-            "meters": 81
+            "yards": 86,
+            "meters": 79
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_05",
-            "yards": 296,
-            "meters": 271
+            "yards": 293,
+            "meters": 268
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_06",
-            "yards": 121,
-            "meters": 111
+            "yards": 125,
+            "meters": 114
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_07",
-            "yards": 256,
-            "meters": 234
+            "yards": 260,
+            "meters": 238
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_08",
@@ -608,43 +673,43 @@
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_09",
-            "yards": 336,
-            "meters": 307
+            "yards": 327,
+            "meters": 299
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_10",
-            "yards": 139,
-            "meters": 127
+            "yards": 285,
+            "meters": 261
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_11",
-            "yards": 106,
-            "meters": 97
+            "yards": 58,
+            "meters": 53
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_12",
-            "yards": 325,
-            "meters": 297
+            "yards": 318,
+            "meters": 291
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_13",
-            "yards": 399,
-            "meters": 365
+            "yards": 401,
+            "meters": 367
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_14",
-            "yards": 79,
-            "meters": 72
+            "yards": 82,
+            "meters": 75
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_15",
-            "yards": 245,
-            "meters": 224
+            "yards": 240,
+            "meters": 219
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_16",
-            "yards": 316,
-            "meters": 289
+            "yards": 317,
+            "meters": 290
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_17",
@@ -653,8 +718,8 @@
           },
           {
             "holeCode": "QAS_MAR_LES_DUNES_AGADIR_18",
-            "yards": 402,
-            "meters": 368
+            "yards": 398,
+            "meters": 364
           }
         ]
       }
